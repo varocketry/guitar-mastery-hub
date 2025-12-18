@@ -43,7 +43,7 @@ const lessonFiles = [
   'chord_construction_harmonic_function'       // 32 ✅
 ];
 
-export default function LessonPage({ params }: { params: { id: string } }) {
+export default async function LessonPage({ params }: { params: Promise<{ id: string }> }) {
   const router = useRouter();
   const [user, setUser] = useState<any>(null);
   const [content, setContent] = useState('');
