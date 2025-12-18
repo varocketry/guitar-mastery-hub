@@ -3,8 +3,8 @@
 import { useState, useEffect } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { createClient } from '@supabase/supabase-js';
-import PageLayout from '@/components/PageLayout';
-import ContentCard from '@/components/ContentCard';
+import PageLayout from '@/app/components/PageLayout';
+import ContentCard from '@/app/components/ContentCard';
 import { styles } from '@/lib/designSystem';
 import { getHintForLesson, getPlaceholderText } from '@/lib/lessonHints';
 
