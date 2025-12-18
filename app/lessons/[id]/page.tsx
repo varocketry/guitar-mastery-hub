@@ -43,7 +43,7 @@ const lessonFiles = [
   'chord_construction_harmonic_function'       // 32 ✅
 ];
 
-export default function LessonPage({ params }: { params: { id: string } }) {
+export default function LessonPage({ params }: { params: Promise<{ id: string }> }) {
   const router = useRouter();
   const [user, setUser] = useState<any>(null);
   const [content, setContent] = useState('');
@@ -51,7 +51,8 @@ export default function LessonPage({ params }: { params: { id: string } }) {
   const [error, setError] = useState('');
   const [completedLessons, setCompletedLessons] = useState<number[]>([]);
   
-  const lessonNumber = parseInt(params.id);
+  const resolvedParams = use(params);
+  const lessonNumber = parseInt(resolvedParams.id);
 
   useEffect(() => {
     async function loadUser() {
