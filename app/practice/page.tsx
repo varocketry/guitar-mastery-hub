@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { createClient } from '@supabase/supabase-js';
 import PageLayout from '@/app/components/PageLayout';
