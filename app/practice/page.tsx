@@ -27,7 +27,7 @@ interface PracticeSession {
   created_at: string;
 }
 
-export default function PracticePage() {
+function PracticePageContent() {
   // Initialize Supabase client (standard method)
   const supabase = createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL || '',
@@ -544,4 +544,12 @@ function StarRating({ value, onChange, name }: { value: number; onChange: (val: 
       </ContentCard>
     </PageLayout>
   );
+
+export default function PracticePage() {
+  return (
+    <Suspense fallback={<div className="p-8 text-center">Loading...</div>}>
+      <PracticePageContent />
+    </Suspense>
+  );
+}
 }
