@@ -60,7 +60,7 @@ export default function PracticePage() {
 
   // Get lesson-specific hints
   const lessonNumber = formData.lesson_number ? parseInt(formData.lesson_number) : null;
-  const lessonHint = lessonNumber ? getHintForLesson(parseInt(lessonNumber || '1')) : null;
+  const lessonHint = lessonNumber ? getHintForLesson(lessonNumber || 1) : null;
 
   useEffect(() => {
     loadSessions();
@@ -330,7 +330,7 @@ function StarRating({ value, onChange, name }: { value: number; onChange: (val: 
                 onChange={(e) => setFormData({ ...formData, techniques_practiced: e.target.value })}
                 className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
                 rows={2}
-                placeholder={getPlaceholderText('techniques', parseInt(lessonNumber || '1'))}
+                placeholder={getPlaceholderText('techniques', lessonNumber || 1)}
               />
             </div>
 
@@ -343,7 +343,7 @@ function StarRating({ value, onChange, name }: { value: number; onChange: (val: 
                 onChange={(e) => setFormData({ ...formData, songs_practiced: e.target.value })}
                 className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
                 rows={2}
-                placeholder={getPlaceholderText('songs', parseInt(lessonNumber || '1'))}
+                placeholder={getPlaceholderText('songs', lessonNumber || 1)}
               />
             </div>
 
