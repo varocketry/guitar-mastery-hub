@@ -51,8 +51,7 @@ export default function LessonPage({ params }: { params: { id: string } }) {
   const [error, setError] = useState('');
   const [completedLessons, setCompletedLessons] = useState<number[]>([]);
   
-  const resolvedParams = use(params);
-  const lessonNumber = parseInt(resolvedParams.id);
+  const lessonNumber = parseInt(params.id);
 
   useEffect(() => {
     async function loadUser() {
