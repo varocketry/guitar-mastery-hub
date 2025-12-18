@@ -51,7 +51,7 @@ export default async function LessonPage({ params }: { params: Promise<{ id: str
   const [error, setError] = useState('');
   const [completedLessons, setCompletedLessons] = useState<number[]>([]);
   
-  const resolvedParams = params;
+  const resolvedParams = await params;
   const lessonNumber = parseInt(resolvedParams.id);
 
   useEffect(() => {
