@@ -50,7 +50,7 @@ Here's how to read the diagrams you'll see:
 
 ### E Minor Chord Diagram
 
-![E Minor](/chord_diagrams/E_Minor.svg)_
+![E Minor](/chord_diagrams/chord_em_L001_01.svg)
 
 **Finger Placement:**
 - Middle finger (2): A string, 2nd fret
