@@ -545,6 +545,7 @@ function StarRating({ value, onChange, name }: { value: number; onChange: (val: 
     </PageLayout>
   );
 
+}
 export default function PracticePage() {
   return (
     <Suspense fallback={<div className="p-8 text-center">Loading...</div>}>
