@@ -51,7 +51,7 @@ export default function LessonPage({ params }: { params: { id: string } }) {
   const [error, setError] = useState('');
   const [completedLessons, setCompletedLessons] = useState<number[]>([]);
   
-  const resolvedParams = use(params as Promise<{ id: string }>);
+  const resolvedParams = params;
   const lessonNumber = parseInt(resolvedParams.id);
 
   useEffect(() => {
