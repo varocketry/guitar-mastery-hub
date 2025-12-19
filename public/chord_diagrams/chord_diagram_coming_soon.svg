@@ -1,0 +1,28 @@
+<svg width="400" height="350" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="350" fill="#f8f9fa"/>
+  
+  <!-- Border -->
+  <rect x="10" y="10" width="380" height="330" fill="none" stroke="#1E3A8A" stroke-width="3" stroke-dasharray="10,5"/>
+  
+  <!-- Guitar icon circle -->
+  <circle cx="200" cy="120" r="50" fill="#D4AF37" opacity="0.2"/>
+  
+  <!-- Guitar icon -->
+  <g transform="translate(200, 120)">
+    <path d="M -20,-30 L -20,30 M 20,-30 L 20,30 M -20,-20 L 20,-20 M -20,0 L 20,0 M -20,20 L 20,20" 
+          stroke="#1E3A8A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Coming Soon text -->
+  <text x="200" y="220" font-family="Inter, sans-serif" font-size="36" font-weight="bold" 
+        fill="#1E3A8A" text-anchor="middle">COMING SOON</text>
+  
+  <!-- Subtitle -->
+  <text x="200" y="260" font-family="Inter, sans-serif" font-size="18" 
+        fill="#1E3A8A" opacity="0.6" text-anchor="middle">Chord diagram in development</text>
+  
+  <!-- Guitar Mastery Hub branding -->
+  <text x="200" y="310" font-family="Inter, sans-serif" font-size="14" 
+        fill="#D4AF37" text-anchor="middle">Guitar Mastery Hub</text>
+</svg>
