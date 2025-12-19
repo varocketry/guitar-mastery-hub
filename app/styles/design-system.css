@@ -1,0 +1,453 @@
+/**
+ * GUITAR MASTERY HUB - DESIGN SYSTEM
+ * ===========================================
+ * Complete design system based on professional branding
+ * Created: December 18, 2025
+ * 
+ * This file contains all design tokens (colors, typography, spacing)
+ * that define the Guitar Mastery Hub brand identity.
+ */
+
+/* ===========================================
+   ROOT VARIABLES - Color Palette
+   =========================================== */
+
+:root {
+  /* PRIMARY COLORS */
+  --color-dark-navy: #1E3A8A;          /* Primary brand color - trust & depth */
+  --color-dark-navy-rgb: 30, 58, 138;  /* RGB version for opacity */
+  
+  --color-white: #FFFFFF;              /* Backgrounds, clarity & space */
+  --color-white-rgb: 255, 255, 255;
+  
+  --color-gold-bronze: #D4AF37;        /* Accents, premium & warmth */
+  --color-gold-bronze-rgb: 212, 175, 55;
+  
+  /* SECONDARY COLORS */
+  --color-accent-blue: #4A90E2;        /* Highlights, focus & energy */
+  --color-accent-blue-rgb: 74, 144, 226;
+  
+  --color-deep-teal: #0D47A1;          /* Secondary, stability & contrast */
+  --color-deep-teal-rgb: 13, 71, 161;
+  
+  --color-light-gray: #F0F0F0;         /* Text, readability & subtlety */
+  --color-light-gray-rgb: 240, 240, 240;
+  
+  /* ADDITIONAL GRAYS (for UI elements) */
+  --color-gray-100: #F7F7F7;
+  --color-gray-200: #E8E8E8;
+  --color-gray-300: #D0D0D0;
+  --color-gray-400: #A8A8A8;
+  --color-gray-500: #888888;
+  --color-gray-600: #666666;
+  --color-gray-700: #444444;
+  --color-gray-800: #2A2A2A;
+  --color-gray-900: #1A1A1A;
+  
+  /* SEMANTIC COLORS */
+  --color-success: #10B981;            /* Success states */
+  --color-warning: #F59E0B;            /* Warning states */
+  --color-error: #EF4444;              /* Error states */
+  --color-info: var(--color-accent-blue);
+  
+  /* ===========================================
+     TYPOGRAPHY
+     =========================================== */
+  
+  /* FONT FAMILIES */
+  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  --font-accent: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  
+  /* FONT SIZES */
+  --font-size-xs: 0.75rem;      /* 12px */
+  --font-size-sm: 0.875rem;     /* 14px */
+  --font-size-base: 1rem;       /* 16px */
+  --font-size-lg: 1.125rem;     /* 18px */
+  --font-size-xl: 1.25rem;      /* 20px */
+  --font-size-2xl: 1.5rem;      /* 24px */
+  --font-size-3xl: 1.875rem;    /* 30px */
+  --font-size-4xl: 2.25rem;     /* 36px */
+  --font-size-5xl: 3rem;        /* 48px */
+  --font-size-6xl: 4rem;        /* 64px */
+  
+  /* LINE HEIGHTS */
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-relaxed: 1.75;
+  --line-height-loose: 2;
+  
+  /* FONT WEIGHTS */
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --font-weight-extrabold: 800;
+  
+  /* ===========================================
+     SPACING SYSTEM
+     =========================================== */
+  
+  --space-1: 0.25rem;   /* 4px */
+  --space-2: 0.5rem;    /* 8px */
+  --space-3: 0.75rem;   /* 12px */
+  --space-4: 1rem;      /* 16px */
+  --space-5: 1.25rem;   /* 20px */
+  --space-6: 1.5rem;    /* 24px */
+  --space-8: 2rem;      /* 32px */
+  --space-10: 2.5rem;   /* 40px */
+  --space-12: 3rem;     /* 48px */
+  --space-16: 4rem;     /* 64px */
+  --space-20: 5rem;     /* 80px */
+  --space-24: 6rem;     /* 96px */
+  
+  /* ===========================================
+     BORDER RADIUS
+     =========================================== */
+  
+  --radius-sm: 0.25rem;    /* 4px */
+  --radius-md: 0.5rem;     /* 8px */
+  --radius-lg: 1rem;       /* 16px */
+  --radius-xl: 1.5rem;     /* 24px */
+  --radius-full: 9999px;   /* Full circle */
+  
+  /* ===========================================
+     SHADOWS
+     =========================================== */
+  
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow-2xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+  
+  /* ===========================================
+     TRANSITIONS
+     =========================================== */
+  
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-base: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 350ms cubic-bezier(0.4, 0, 0.2, 1);
+  
+  /* ===========================================
+     Z-INDEX SCALE
+     =========================================== */
+  
+  --z-index-dropdown: 1000;
+  --z-index-sticky: 1020;
+  --z-index-fixed: 1030;
+  --z-index-modal-backdrop: 1040;
+  --z-index-modal: 1050;
+  --z-index-popover: 1060;
+  --z-index-tooltip: 1070;
+}
+
+/* ===========================================
+   BASE STYLES
+   =========================================== */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-primary);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-normal);
+  color: var(--color-gray-800);
+  background-color: var(--color-white);
+}
+
+/* ===========================================
+   TYPOGRAPHY STYLES
+   =========================================== */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-primary);
+  font-weight: var(--font-weight-bold);
+  line-height: var(--line-height-tight);
+  color: var(--color-dark-navy);
+  margin-bottom: var(--space-4);
+}
+
+h1 {
+  font-size: var(--font-size-5xl);  /* 48px */
+  font-weight: var(--font-weight-extrabold);
+}
+
+h2 {
+  font-size: var(--font-size-4xl);  /* 36px */
+}
+
+h3 {
+  font-size: var(--font-size-3xl);  /* 30px */
+}
+
+h4 {
+  font-size: var(--font-size-2xl);  /* 24px */
+}
+
+h5 {
+  font-size: var(--font-size-xl);   /* 20px */
+}
+
+h6 {
+  font-size: var(--font-size-lg);   /* 18px */
+}
+
+p {
+  margin-bottom: var(--space-4);
+  line-height: var(--line-height-relaxed);
+}
+
+/* Accent text (CTAs, special emphasis) */
+.accent-text {
+  font-family: var(--font-accent);
+  font-weight: var(--font-weight-bold);
+  color: var(--color-gold-bronze);
+}
+
+/* ===========================================
+   BUTTON STYLES
+   =========================================== */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-3) var(--space-6);
+  font-family: var(--font-accent);
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-bold);
+  text-decoration: none;
+  border-radius: var(--radius-md);
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  white-space: nowrap;
+}
+
+.btn-primary {
+  background-color: var(--color-gold-bronze);
+  color: var(--color-dark-navy);
+  border-color: var(--color-gold-bronze);
+}
+
+.btn-primary:hover {
+  background-color: #C49F2D;
+  border-color: #C49F2D;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-secondary {
+  background-color: var(--color-dark-navy);
+  color: var(--color-white);
+  border-color: var(--color-dark-navy);
+}
+
+.btn-secondary:hover {
+  background-color: var(--color-deep-teal);
+  border-color: var(--color-deep-teal);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.btn-outline {
+  background-color: transparent;
+  color: var(--color-dark-navy);
+  border-color: var(--color-dark-navy);
+}
+
+.btn-outline:hover {
+  background-color: var(--color-dark-navy);
+  color: var(--color-white);
+}
+
+.btn-large {
+  padding: var(--space-4) var(--space-8);
+  font-size: var(--font-size-lg);
+}
+
+/* ===========================================
+   CARD STYLES
+   =========================================== */
+
+.card {
+  background-color: var(--color-white);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  padding: var(--space-6);
+  transition: all var(--transition-base);
+}
+
+.card:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+
+.card-header {
+  border-bottom: 2px solid var(--color-light-gray);
+  padding-bottom: var(--space-4);
+  margin-bottom: var(--space-4);
+}
+
+/* ===========================================
+   NAVIGATION STYLES
+   =========================================== */
+
+.nav-link {
+  color: var(--color-gray-700);
+  text-decoration: none;
+  font-weight: var(--font-weight-medium);
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-sm);
+  transition: all var(--transition-fast);
+}
+
+.nav-link:hover {
+  color: var(--color-dark-navy);
+  background-color: var(--color-gray-100);
+}
+
+.nav-link-active {
+  color: var(--color-dark-navy);
+  background-color: var(--color-light-gray);
+  font-weight: var(--font-weight-bold);
+}
+
+/* ===========================================
+   UTILITY CLASSES
+   =========================================== */
+
+/* Text Colors */
+.text-navy { color: var(--color-dark-navy); }
+.text-gold { color: var(--color-gold-bronze); }
+.text-blue { color: var(--color-accent-blue); }
+.text-gray { color: var(--color-gray-600); }
+.text-white { color: var(--color-white); }
+
+/* Background Colors */
+.bg-navy { background-color: var(--color-dark-navy); }
+.bg-gold { background-color: var(--color-gold-bronze); }
+.bg-blue { background-color: var(--color-accent-blue); }
+.bg-white { background-color: var(--color-white); }
+.bg-light { background-color: var(--color-light-gray); }
+
+/* Text Alignment */
+.text-left { text-align: left; }
+.text-center { text-align: center; }
+.text-right { text-align: right; }
+
+/* Display */
+.flex { display: flex; }
+.inline-flex { display: inline-flex; }
+.grid { display: grid; }
+.block { display: block; }
+.inline-block { display: inline-block; }
+.hidden { display: none; }
+
+/* Flex Utilities */
+.flex-col { flex-direction: column; }
+.flex-row { flex-direction: row; }
+.items-center { align-items: center; }
+.items-start { align-items: flex-start; }
+.items-end { align-items: flex-end; }
+.justify-center { justify-content: center; }
+.justify-between { justify-content: space-between; }
+.justify-around { justify-content: space-around; }
+.gap-2 { gap: var(--space-2); }
+.gap-4 { gap: var(--space-4); }
+.gap-6 { gap: var(--space-6); }
+.gap-8 { gap: var(--space-8); }
+
+/* Spacing */
+.m-0 { margin: 0; }
+.m-2 { margin: var(--space-2); }
+.m-4 { margin: var(--space-4); }
+.m-6 { margin: var(--space-6); }
+.m-8 { margin: var(--space-8); }
+
+.mt-2 { margin-top: var(--space-2); }
+.mt-4 { margin-top: var(--space-4); }
+.mt-6 { margin-top: var(--space-6); }
+.mt-8 { margin-top: var(--space-8); }
+
+.mb-2 { margin-bottom: var(--space-2); }
+.mb-4 { margin-bottom: var(--space-4); }
+.mb-6 { margin-bottom: var(--space-6); }
+.mb-8 { margin-bottom: var(--space-8); }
+
+.p-0 { padding: 0; }
+.p-2 { padding: var(--space-2); }
+.p-4 { padding: var(--space-4); }
+.p-6 { padding: var(--space-6); }
+.p-8 { padding: var(--space-8); }
+
+/* Borders */
+.border { border: 1px solid var(--color-gray-300); }
+.border-gold { border-color: var(--color-gold-bronze); }
+.border-navy { border-color: var(--color-dark-navy); }
+.rounded { border-radius: var(--radius-md); }
+.rounded-lg { border-radius: var(--radius-lg); }
+.rounded-full { border-radius: var(--radius-full); }
+
+/* Shadows */
+.shadow-sm { box-shadow: var(--shadow-sm); }
+.shadow-md { box-shadow: var(--shadow-md); }
+.shadow-lg { box-shadow: var(--shadow-lg); }
+
+/* Width */
+.w-full { width: 100% !important; }
+.max-w-screen-sm { max-width: 640px; }
+.max-w-screen-md { max-width: 768px; }
+.max-w-screen-lg { max-width: 1024px; }
+.max-w-screen-xl { max-width: 1280px; }
+
+/* Container */
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--space-4);
+  padding-right: var(--space-4);
+}
+
+@media (min-width: 640px) {
+  .container { max-width: 640px; }
+}
+
+@media (min-width: 768px) {
+  .container { max-width: 768px; }
+}
+
+@media (min-width: 1024px) {
+  .container { max-width: 1024px; }
+}
+
+@media (min-width: 1280px) {
+  .container { max-width: 1280px; }
+}
+
+/* ===========================================
+   RESPONSIVE UTILITIES
+   =========================================== */
+
+@media (max-width: 768px) {
+  h1 { font-size: var(--font-size-4xl); }
+  h2 { font-size: var(--font-size-3xl); }
+  h3 { font-size: var(--font-size-2xl); }
+  
+  .hide-mobile { display: none; }
+}
+
+@media (min-width: 769px) {
+  .hide-desktop { display: none; }
+}

@@ -2,94 +2,102 @@
 
 import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
-import { createClient } from '@supabase/supabase-js';
-import PageLayout from '@/app/components/PageLayout';
-import ContentCard from '@/app/components/ContentCard';
-import { styles } from '@/lib/designSystem';
-import { getHintForLesson, getPlaceholderText } from '@/lib/lessonHints';
+import Navigation from '@/app/components/Navigation';
+import { supabase, getCurrentUser } from '@/lib/supabase';
 
 interface PracticeSession {
   id: string;
   user_id: string;
   lesson_number: number | null;
-  practice_date: string;
-  duration_minutes: number;
-  techniques_practiced: string;
-  songs_practiced: string;
-  wins: string;
-  challenges: string;
-  notes_for_next: string;
-  progress_rating: number;
-  focus_rating: number;
+  session_date: string;
+  duration: number;
+  techniques_practiced: string[];
+  songs_practiced: string[];
+  focus_areas: string[];
+  notes: string;
+  rating: number;
   video_url: string | null;
-  video_thumbnail: string | null;
-  is_public: boolean;
   created_at: string;
+  updated_at: string;
 }
 
 function PracticePageContent() {
-  // Initialize Supabase client (standard method)
-  const supabase = createClient(
-    process.env.NEXT_PUBLIC_SUPABASE_URL || '',
-    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || ''
-  );
-
   const searchParams = useSearchParams();
   const lessonFromUrl = searchParams.get('lesson');
   
+  const [user, setUser] = useState<any>(null);
   const [loading, setLoading] = useState(false);
   const [sessions, setSessions] = useState<PracticeSession[]>([]);
   const [showForm, setShowForm] = useState(false);
   const [videoFile, setVideoFile] = useState<File | null>(null);
   const [videoPreview, setVideoPreview] = useState<string | null>(null);
+  const [uploadProgress, setUploadProgress] = useState(0);
+  const [error, setError] = useState<string | null>(null);
   
-  // Form state with lesson number from URL if available
+  // Form state
   const [formData, setFormData] = useState({
     lesson_number: lessonFromUrl || '',
-    practice_date: new Date().toISOString().split('T')[0],
-    duration_minutes: 30,
+    session_date: new Date().toISOString().split('T')[0],
+    duration: 30,
     techniques_practiced: '',
     songs_practiced: '',
-    wins: '',
-    challenges: '',
-    notes_for_next: '',
-    progress_rating: 3,
-    focus_rating: 3,
-    is_public: false,
+    focus_areas: '',
+    notes: '',
+    rating: 3,
   });
 
-  // Get lesson-specific hints
-  const lessonNumber = formData.lesson_number ? parseInt(formData.lesson_number) : null;
-  const lessonHint = lessonNumber ? getHintForLesson(lessonNumber || 1) : null;
-
   useEffect(() => {
-    loadSessions();
+    loadUser();
   }, []);
 
-  // Update lesson number if URL changes
+  useEffect(() => {
+    if (user) {
+      loadSessions();
+    }
+  }, [user]);
+
   useEffect(() => {
     if (lessonFromUrl) {
       setFormData(prev => ({ ...prev, lesson_number: lessonFromUrl }));
     }
   }, [lessonFromUrl]);
 
+  async function loadUser() {
+    try {
+      const { user: currentUser } = await getCurrentUser();
+      console.log('Current user:', currentUser?.id);
+      setUser(currentUser);
+    } catch (err: any) {
+      console.error('Error loading user:', err);
+      setError(`Failed to load user: ${err.message || JSON.stringify(err)}`);
+    }
+  }
+
   async function loadSessions() {
     try {
-      const { data: { user } } = await supabase.auth.getUser();
-      
-      if (!user) return;
+      setError(null);
+      console.log('Loading sessions for user:', user?.id);
 
-      const { data, error } = await supabase
+      const { data, error: fetchError } = await supabase
         .from('practice_sessions')
         .select('*')
         .eq('user_id', user.id)
-        .order('practice_date', { ascending: false })
-        .limit(10);
+        .order('session_date', { ascending: false })
+        .limit(20);
 
-      if (error) throw error;
+      console.log('Supabase response:', { data, error: fetchError });
+
+      if (fetchError) {
+        console.error('Supabase fetch error:', JSON.stringify(fetchError, null, 2));
+        setError(`Database error: ${fetchError.message || JSON.stringify(fetchError)}`);
+        return;
+      }
+      
+      console.log(`Loaded ${data?.length || 0} sessions`);
       if (data) setSessions(data);
-    } catch (error) {
+    } catch (error: any) {
       console.error('Error loading sessions:', error);
+      setError(error?.message || JSON.stringify(error));
     }
   }
 
@@ -99,456 +107,452 @@ function PracticePageContent() {
     
     // Check file size (max 100MB)
     if (file.size > 100 * 1024 * 1024) {
-      alert('Video file is too large. Maximum size is 100MB.');
+      alert('Video file must be under 100MB');
       return;
     }
-    
+
+    // Check file type
+    if (!file.type.startsWith('video/')) {
+      alert('Please select a video file');
+      return;
+    }
+
     setVideoFile(file);
-    
-    // Create preview URL
-    const url = URL.createObjectURL(file);
-    setVideoPreview(url);
+    const preview = URL.createObjectURL(file);
+    setVideoPreview(preview);
   }
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setLoading(true);
+    setError(null);
+    setUploadProgress(0);
 
     try {
-      const { data: { user } } = await supabase.auth.getUser();
-      
+      console.log('Starting submit...', { user: user?.id });
+
       if (!user) {
-        alert('Please sign in to save practice sessions');
+        setError('Not authenticated - please refresh and try again');
+        setLoading(false);
         return;
       }
 
       let videoUrl = null;
-      let videoThumbnail = null;
 
-      // Upload video if present
+      // Upload video if provided
       if (videoFile) {
+        console.log('Uploading video...');
         const fileExt = videoFile.name.split('.').pop();
         const fileName = `${user.id}/${Date.now()}.${fileExt}`;
-        
+
         const { data: uploadData, error: uploadError } = await supabase.storage
           .from('practice-videos')
-          .upload(fileName, videoFile);
+          .upload(fileName, videoFile, {
+            cacheControl: '3600',
+            upsert: false
+          });
 
-        if (uploadError) throw uploadError;
+        console.log('Video upload result:', { uploadData, uploadError });
 
-        // Get public URL
-        const { data: { publicUrl } } = supabase.storage
+        if (uploadError) {
+          console.error('Video upload error:', JSON.stringify(uploadError, null, 2));
+          setError(`Failed to upload video: ${uploadError.message || JSON.stringify(uploadError)}`);
+          setLoading(false);
+          return;
+        }
+
+        const { data: urlData } = supabase.storage
           .from('practice-videos')
           .getPublicUrl(fileName);
-        
-        videoUrl = publicUrl;
+
+        videoUrl = urlData.publicUrl;
+        console.log('Video URL:', videoUrl);
       }
 
-      // Save practice session
-      const { error } = await supabase
-        .from('practice_sessions')
-        .insert([
-          {
-            user_id: user.id,
-            lesson_number: formData.lesson_number ? parseInt(formData.lesson_number) : null,
-            practice_date: formData.practice_date,
-            duration_minutes: formData.duration_minutes,
-            techniques_practiced: formData.techniques_practiced,
-            songs_practiced: formData.songs_practiced,
-            wins: formData.wins,
-            challenges: formData.challenges,
-            notes_for_next: formData.notes_for_next,
-            progress_rating: formData.progress_rating,
-            focus_rating: formData.focus_rating,
-            video_url: videoUrl,
-            video_thumbnail: videoThumbnail,
-            is_public: formData.is_public,
-          },
-        ]);
+      // Convert comma-separated strings to arrays
+      const techniquesArray = formData.techniques_practiced
+        .split(',')
+        .map(t => t.trim())
+        .filter(t => t.length > 0);
+      
+      const songsArray = formData.songs_practiced
+        .split(',')
+        .map(s => s.trim())
+        .filter(s => s.length > 0);
+      
+      const focusArray = formData.focus_areas
+        .split(',')
+        .map(f => f.trim())
+        .filter(f => f.length > 0);
 
-      if (error) throw error;
+      const insertData = {
+        user_id: user.id,
+        lesson_number: formData.lesson_number ? parseInt(formData.lesson_number) : null,
+        session_date: formData.session_date,
+        duration: formData.duration,
+        techniques_practiced: techniquesArray.length > 0 ? techniquesArray : [],
+        songs_practiced: songsArray.length > 0 ? songsArray : [],
+        focus_areas: focusArray.length > 0 ? focusArray : [],
+        notes: formData.notes || '',
+        rating: formData.rating,
+        video_url: videoUrl,
+      };
+
+      console.log('Inserting data:', insertData);
+
+      const { data: insertedData, error: insertError } = await supabase
+        .from('practice_sessions')
+        .insert([insertData])
+        .select();
+
+      console.log('Insert result:', { insertedData, insertError });
+
+      if (insertError) {
+        console.error('Insert error details:', JSON.stringify(insertError, null, 2));
+        setError(`Failed to save: ${insertError.message || insertError.hint || JSON.stringify(insertError)}`);
+        setLoading(false);
+        return;
+      }
+
+      console.log('Successfully saved session');
 
       // Reset form
       setFormData({
         lesson_number: lessonFromUrl || '',
-        practice_date: new Date().toISOString().split('T')[0],
-        duration_minutes: 30,
+        session_date: new Date().toISOString().split('T')[0],
+        duration: 30,
         techniques_practiced: '',
         songs_practiced: '',
-        wins: '',
-        challenges: '',
-        notes_for_next: '',
-        progress_rating: 3,
-        focus_rating: 3,
-        is_public: false,
+        focus_areas: '',
+        notes: '',
+        rating: 3,
       });
       setVideoFile(null);
       setVideoPreview(null);
-
       setShowForm(false);
-      loadSessions();
-      alert('Practice session saved! 🎸');
-    } catch (error) {
-      console.error('Error saving session:', error);
-      alert('Error saving practice session');
+      await loadSessions();
+    } catch (error: any) {
+      console.error('Catch block error:', error);
+      setError(`Unexpected error: ${error?.message || JSON.stringify(error)}`);
     } finally {
       setLoading(false);
+      setUploadProgress(0);
     }
   }
 
-function StarRating({ value, onChange, name }: { value: number; onChange: (val: number) => void; name: string }) {
-  const [hoveredStar, setHoveredStar] = useState<number | null>(null);
-  
+  if (!user) {
+    return (
+      <div className="min-h-screen bg-slate-900">
+        <Navigation />
+        <div className="pt-20 flex items-center justify-center">
+          <div className="text-white text-lg">Loading user...</div>
+        </div>
+      </div>
+    );
+  }
+
   return (
-    <div className="flex gap-2 items-center">
-      {[1, 2, 3, 4, 5].map((star) => {
-        const isActive = star <= (hoveredStar ?? value);
-        return (
-          <button
-            key={star}
-            type="button"
-            onClick={() => onChange(star)}
-            onMouseEnter={() => setHoveredStar(star)}
-            onMouseLeave={() => setHoveredStar(null)}
-            className={`text-3xl transition-all transform hover:scale-125 cursor-pointer ${
-              isActive ? 'text-yellow-400' : 'text-gray-300'
-            }`}
-            style={{ 
-              filter: isActive ? 'drop-shadow(0 0 3px #fbbf24)' : 'none'
-            }}
-          >
-            ★
-          </button>
-        );
-      })}
-      <span className="ml-2 text-sm font-medium text-gray-600">{value}/5</span>
+    <div className="min-h-screen bg-slate-900">
+      <Navigation />
+      <div className="pt-20">
+        <div className="max-w-5xl mx-auto px-4 py-8">
+          <div className="bg-white rounded-xl p-8 shadow-2xl">
+            <div className="mb-6 flex justify-between items-center">
+              <h1 className="text-3xl font-bold text-navy">Practice Log</h1>
+              <button
+                onClick={() => setShowForm(!showForm)}
+                className="px-6 py-3 bg-gold text-navy rounded-lg font-semibold hover:bg-gold/90 transition"
+              >
+                {showForm ? 'Cancel' : '+ New Session'}
+              </button>
+            </div>
+
+            {error && (
+              <div className="bg-red-100 border-2 border-red-400 text-red-700 px-4 py-3 rounded mb-4">
+                <strong>Error:</strong> {error}
+              </div>
+            )}
+
+            {showForm && (
+              <div className="bg-gray-50 p-6 rounded-lg mb-6 border-2 border-gray-200">
+                <h2 className="text-xl font-bold text-navy mb-4">Log Practice Session</h2>
+                <form onSubmit={handleSubmit} className="space-y-4">
+                  <div className="grid grid-cols-2 gap-4">
+                    <div>
+                      <label className="block text-sm font-semibold text-gray-700 mb-1">
+                        Lesson Number (Optional)
+                      </label>
+                      <input
+                        type="number"
+                        min="1"
+                        max="32"
+                        value={formData.lesson_number}
+                        onChange={(e) => setFormData({...formData, lesson_number: e.target.value})}
+                        className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-gold"
+                        placeholder="e.g., 5"
+                      />
+                    </div>
+                    
+                    <div>
+                      <label className="block text-sm font-semibold text-gray-700 mb-1">
+                        Practice Date *
+                      </label>
+                      <input
+                        type="date"
+                        value={formData.session_date}
+                        onChange={(e) => setFormData({...formData, session_date: e.target.value})}
+                        className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-gold"
+                        required
+                      />
+                    </div>
+                  </div>
+
+                  <div>
+                    <label className="block text-sm font-semibold text-gray-700 mb-1">
+                      Duration (minutes) *
+                    </label>
+                    <input
+                      type="number"
+                      min="5"
+                      value={formData.duration}
+                      onChange={(e) => setFormData({...formData, duration: parseInt(e.target.value)})}
+                      className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-gold"
+                      required
+                    />
+                  </div>
+
+                  <div>
+                    <label className="block text-sm font-semibold text-gray-700 mb-1">
+                      Techniques Practiced (comma-separated)
+                    </label>
+                    <input
+                      type="text"
+                      value={formData.techniques_practiced}
+                      onChange={(e) => setFormData({...formData, techniques_practiced: e.target.value})}
+                      className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-gold"
+                      placeholder="e.g., Chord transitions, Fingerpicking, Strumming"
+                    />
+                  </div>
+
+                  <div>
+                    <label className="block text-sm font-semibold text-gray-700 mb-1">
+                      Songs Practiced (comma-separated)
+                    </label>
+                    <input
+                      type="text"
+                      value={formData.songs_practiced}
+                      onChange={(e) => setFormData({...formData, songs_practiced: e.target.value})}
+                      className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-gold"
+                      placeholder="e.g., Stand By Me, Knockin' on Heaven's Door"
+                    />
+                  </div>
+
+                  <div>
+                    <label className="block text-sm font-semibold text-gray-700 mb-1">
+                      Focus Areas (comma-separated)
+                    </label>
+                    <input
+                      type="text"
+                      value={formData.focus_areas}
+                      onChange={(e) => setFormData({...formData, focus_areas: e.target.value})}
+                      className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-gold"
+                      placeholder="e.g., Timing, Clean chord changes, Rhythm"
+                    />
+                  </div>
+
+                  <div>
+                    <label className="block text-sm font-semibold text-gray-700 mb-1">
+                      Session Notes
+                    </label>
+                    <textarea
+                      value={formData.notes}
+                      onChange={(e) => setFormData({...formData, notes: e.target.value})}
+                      className="w-full px-3 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-gold"
+                      rows={4}
+                      placeholder="How did the session go? What worked well? What needs improvement?"
+                    />
+                  </div>
+
+                  <div>
+                    <label className="block text-sm font-semibold text-gray-700 mb-2">
+                      Session Rating: {formData.rating}/5
+                    </label>
+                    <input
+                      type="range"
+                      min="1"
+                      max="5"
+                      value={formData.rating}
+                      onChange={(e) => setFormData({...formData, rating: parseInt(e.target.value)})}
+                      className="w-full"
+                    />
+                    <div className="flex justify-between text-xs text-gray-500 mt-1">
+                      <span>Poor</span>
+                      <span>Fair</span>
+                      <span>Good</span>
+                      <span>Great</span>
+                      <span>Excellent</span>
+                    </div>
+                  </div>
+
+                  <div className="border-2 border-dashed border-gray-300 rounded-lg p-4">
+                    <label className="block text-sm font-semibold text-gray-700 mb-2">
+                      📹 Upload Practice Video (Optional)
+                    </label>
+                    <input
+                      type="file"
+                      accept="video/*"
+                      onChange={handleVideoSelect}
+                      className="w-full text-sm text-gray-600 file:mr-4 file:py-2 file:px-4 file:rounded file:border-0 file:text-sm file:font-semibold file:bg-gold file:text-navy hover:file:bg-gold/90"
+                    />
+                    {videoFile && (
+                      <div className="mt-3 text-sm text-gray-600">
+                        Selected: {videoFile.name} ({(videoFile.size / 1024 / 1024).toFixed(2)} MB)
+                      </div>
+                    )}
+                    {videoPreview && (
+                      <video src={videoPreview} controls className="mt-3 w-full max-h-64 rounded" />
+                    )}
+                    {uploadProgress > 0 && uploadProgress < 100 && (
+                      <div className="mt-3">
+                        <div className="bg-gray-200 rounded-full h-2">
+                          <div 
+                            className="bg-gold h-2 rounded-full transition-all"
+                            style={{ width: `${uploadProgress}%` }}
+                          />
+                        </div>
+                        <p className="text-sm text-gray-600 mt-1">Uploading: {uploadProgress}%</p>
+                      </div>
+                    )}
+                  </div>
+
+                  <div className="flex gap-4 pt-4">
+                    <button
+                      type="submit"
+                      disabled={loading}
+                      className="px-6 py-3 bg-gold text-navy rounded-lg font-semibold hover:bg-gold/90 transition disabled:opacity-50 disabled:cursor-not-allowed"
+                    >
+                      {loading ? 'Saving...' : 'Save Session'}
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setShowForm(false);
+                        setVideoFile(null);
+                        setVideoPreview(null);
+                        setError(null);
+                      }}
+                      className="px-6 py-3 bg-gray-200 text-gray-700 rounded-lg font-semibold hover:bg-gray-300 transition"
+                    >
+                      Cancel
+                    </button>
+                  </div>
+                </form>
+              </div>
+            )}
+
+            <div className="space-y-4 mt-8">
+              <h2 className="text-2xl font-bold text-navy border-b-2 border-gold pb-2">
+                Recent Sessions ({sessions.length})
+              </h2>
+              
+              {sessions.length === 0 ? (
+                <div className="text-center py-12">
+                  <p className="text-gray-600 text-lg">No practice sessions yet.</p>
+                  <p className="text-gray-500 mt-2">Click "+ New Session" to log your first one!</p>
+                </div>
+              ) : (
+                sessions.map((session) => (
+                  <div key={session.id} className="border-2 border-gray-200 rounded-lg p-6 hover:border-gold transition">
+                    <div className="flex justify-between items-start mb-4">
+                      <div>
+                        <h3 className="font-bold text-lg text-navy">
+                          {session.lesson_number ? `Lesson ${session.lesson_number}` : 'General Practice'}
+                        </h3>
+                        <p className="text-sm text-gray-600">
+                          {new Date(session.session_date).toLocaleDateString('en-US', {
+                            weekday: 'long',
+                            year: 'numeric',
+                            month: 'long',
+                            day: 'numeric'
+                          })}
+                        </p>
+                      </div>
+                      <div className="text-right">
+                        <div className="text-2xl font-bold text-gold">{session.duration} min</div>
+                        <div className="text-sm text-gray-600">
+                          {'⭐'.repeat(session.rating)}
+                        </div>
+                      </div>
+                    </div>
+
+                    {session.techniques_practiced && session.techniques_practiced.length > 0 && (
+                      <div className="mb-3">
+                        <span className="font-semibold text-navy text-sm">Techniques:</span>
+                        <div className="flex flex-wrap gap-2 mt-1">
+                          {session.techniques_practiced.map((tech, idx) => (
+                            <span key={idx} className="bg-blue-100 text-blue-800 px-2 py-1 rounded text-sm">
+                              {tech}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {session.songs_practiced && session.songs_practiced.length > 0 && (
+                      <div className="mb-3">
+                        <span className="font-semibold text-navy text-sm">Songs:</span>
+                        <div className="flex flex-wrap gap-2 mt-1">
+                          {session.songs_practiced.map((song, idx) => (
+                            <span key={idx} className="bg-green-100 text-green-800 px-2 py-1 rounded text-sm">
+                              {song}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {session.focus_areas && session.focus_areas.length > 0 && (
+                      <div className="mb-3">
+                        <span className="font-semibold text-navy text-sm">Focus:</span>
+                        <div className="flex flex-wrap gap-2 mt-1">
+                          {session.focus_areas.map((focus, idx) => (
+                            <span key={idx} className="bg-yellow-100 text-yellow-800 px-2 py-1 rounded text-sm">
+                              {focus}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {session.notes && (
+                      <div className="mt-4 pt-4 border-t border-gray-200">
+                        <p className="text-gray-700">{session.notes}</p>
+                      </div>
+                    )}
+
+                    {session.video_url && (
+                      <div className="mt-4 pt-4 border-t border-gray-200">
+                        <video src={session.video_url} controls className="w-full rounded" />
+                      </div>
+                    )}
+                  </div>
+                ))
+              )}
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }
 
-  return (
-    <PageLayout maxWidth="wide">
-      <ContentCard>
-        <div className="flex items-center justify-between mb-8">
-          <div>
-            <h1 className={styles.heading1}>
-              🎸 Practice Tracker
-            </h1>
-            <p className="text-gray-600 mt-2">
-              Track your guitar practice sessions and monitor your progress
-            </p>
-            {lessonHint && (
-              <p className="text-orange-600 font-semibold mt-2">
-                Lesson {lessonHint.lessonNumber}: {lessonHint.title}
-              </p>
-            )}
-          </div>
-          
-          <button
-            onClick={() => setShowForm(!showForm)}
-            className={styles.buttonPrimary}
-          >
-            {showForm ? '✕ Cancel' : '+ New Session'}
-          </button>
-        </div>
-
-        {/* Quick Stats */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
-          <div className="bg-orange-50 rounded-lg p-4 border border-orange-100">
-            <div className="text-orange-600 text-sm font-semibold mb-1">Total Sessions</div>
-            <div className="text-2xl font-bold text-slate-900">{sessions.length}</div>
-          </div>
-          <div className="bg-orange-50 rounded-lg p-4 border border-orange-100">
-            <div className="text-orange-600 text-sm font-semibold mb-1">Total Practice Time</div>
-            <div className="text-2xl font-bold text-slate-900">
-              {sessions.reduce((sum, s) => sum + s.duration_minutes, 0)} min
-            </div>
-          </div>
-          <div className="bg-orange-50 rounded-lg p-4 border border-orange-100">
-            <div className="text-orange-600 text-sm font-semibold mb-1">Avg Session Length</div>
-            <div className="text-2xl font-bold text-slate-900">
-              {sessions.length > 0 
-                ? Math.round(sessions.reduce((sum, s) => sum + s.duration_minutes, 0) / sessions.length)
-                : 0} min
-            </div>
-          </div>
-        </div>
-
-        {/* New Session Form */}
-        {showForm && (
-          <form onSubmit={handleSubmit} className="mb-8 bg-slate-50 rounded-lg p-6 space-y-6 border border-slate-200">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-              <div>
-                <label className="block text-sm font-semibold text-slate-900 mb-2">
-                  Lesson Number
-                </label>
-                <input
-                  type="number"
-                  value={formData.lesson_number}
-                  onChange={(e) => setFormData({ ...formData, lesson_number: e.target.value })}
-                  className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
-                  placeholder="e.g., 5"
-                  min="1"
-                  max="46"
-                />
-              </div>
-              
-              <div>
-                <label className="block text-sm font-semibold text-slate-900 mb-2">
-                  Date
-                </label>
-                <input
-                  type="date"
-                  value={formData.practice_date}
-                  onChange={(e) => setFormData({ ...formData, practice_date: e.target.value })}
-                  className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
-                  required
-                />
-              </div>
-              
-              <div>
-                <label className="block text-sm font-semibold text-slate-900 mb-2">
-                  Duration (minutes)
-                </label>
-                <input
-                  type="number"
-                  value={formData.duration_minutes}
-                  onChange={(e) => setFormData({ ...formData, duration_minutes: parseInt(e.target.value) })}
-                  className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
-                  min="1"
-                  required
-                />
-              </div>
-            </div>
-
-            <div>
-              <label className="block text-sm font-semibold text-slate-900 mb-2">
-                Techniques Practiced
-              </label>
-              <textarea
-                value={formData.techniques_practiced}
-                onChange={(e) => setFormData({ ...formData, techniques_practiced: e.target.value })}
-                className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
-                rows={2}
-                placeholder={getPlaceholderText(lessonNumber ?? 1, 'techniques')}
-              />
-            </div>
-
-            <div>
-              <label className="block text-sm font-semibold text-slate-900 mb-2">
-                Songs Practiced
-              </label>
-              <textarea
-                value={formData.songs_practiced}
-                onChange={(e) => setFormData({ ...formData, songs_practiced: e.target.value })}
-                className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
-                rows={2}
-                placeholder={getPlaceholderText(lessonNumber ?? 1, 'songs')}
-              />
-            </div>
-
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-              <div>
-                <label className="block text-sm font-semibold text-slate-900 mb-2">
-                  🎉 Wins & Progress
-                </label>
-                <textarea
-                  value={formData.wins}
-                  onChange={(e) => setFormData({ ...formData, wins: e.target.value })}
-                  className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500 bg-green-50"
-                  rows={3}
-                  placeholder="What went well? Any breakthroughs?"
-                />
-              </div>
-              
-              <div>
-                <label className="block text-sm font-semibold text-slate-900 mb-2">
-                  🎯 Challenges & Focus Areas
-                </label>
-                <textarea
-                  value={formData.challenges}
-                  onChange={(e) => setFormData({ ...formData, challenges: e.target.value })}
-                  className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500 bg-red-50"
-                  rows={3}
-                  placeholder="What needs work? What to focus on next?"
-                />
-              </div>
-            </div>
-
-            <div>
-              <label className="block text-sm font-semibold text-slate-900 mb-2">
-                📝 Notes for Next Session
-              </label>
-              <textarea
-                value={formData.notes_for_next}
-                onChange={(e) => setFormData({ ...formData, notes_for_next: e.target.value })}
-                className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500 bg-yellow-50"
-                rows={2}
-                placeholder="Reminders, ideas, or things to try next time..."
-              />
-            </div>
-
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-              <div>
-                <label className="block text-sm font-semibold text-slate-900 mb-2">
-                  Progress Rating
-                </label>
-                <StarRating 
-                  value={formData.progress_rating} 
-                  onChange={(val) => setFormData({ ...formData, progress_rating: val })}
-                  name="progress_rating"
-                />
-                <p className="text-xs text-gray-500 mt-1">How much progress did you make?</p>
-              </div>
-              
-              <div>
-                <label className="block text-sm font-semibold text-slate-900 mb-2">
-                  Focus Rating
-                </label>
-                <StarRating 
-                  value={formData.focus_rating} 
-                  onChange={(val) => setFormData({ ...formData, focus_rating: val })}
-                  name="focus_rating"
-                />
-                <p className="text-xs text-gray-500 mt-1">How focused were you?</p>
-              </div>
-            </div>
-
-            {/* Video Upload */}
-            <div>
-              <label className="block text-sm font-semibold text-slate-900 mb-2">
-                📹 Optional: Upload Practice Video
-              </label>
-              <input
-                type="file"
-                accept="video/*"
-                onChange={handleVideoSelect}
-                className="w-full px-3 py-2 border border-slate-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
-              />
-              <p className="text-xs text-gray-500 mt-1">Max 100MB - Review your technique later!</p>
-              
-              {videoPreview && (
-                <div className="mt-3">
-                  <video 
-                    src={videoPreview} 
-                    controls 
-                    className="w-full max-w-md rounded-lg border border-slate-200"
-                  />
-                </div>
-              )}
-            </div>
-
-            {/* Public/Private Toggle */}
-            <div className="flex items-center gap-3">
-              <input
-                type="checkbox"
-                id="is_public"
-                checked={formData.is_public}
-                onChange={(e) => setFormData({ ...formData, is_public: e.target.checked })}
-                className="w-4 h-4 text-orange-600 border-slate-300 rounded focus:ring-orange-500"
-              />
-              <label htmlFor="is_public" className="text-sm text-slate-700">
-                Make this session public (share with community)
-              </label>
-            </div>
-
-            <div className="flex gap-3 pt-4">
-              <button
-                type="submit"
-                disabled={loading}
-                className={styles.buttonPrimary}
-              >
-                {loading ? 'Saving...' : '💾 Save Practice Session'}
-              </button>
-              <button
-                type="button"
-                onClick={() => setShowForm(false)}
-                className={styles.buttonSecondary}
-              >
-                Cancel
-              </button>
-            </div>
-          </form>
-        )}
-
-        {/* Practice History */}
-        <div>
-          <h2 className={styles.heading2}>
-            Recent Practice Sessions
-          </h2>
-          
-          {sessions.length === 0 ? (
-            <div className={styles.warningBox}>
-              <p className="text-orange-800 font-semibold mb-2">No practice sessions yet!</p>
-              <p className="text-orange-700">
-                Click "+ New Session" above to log your first practice session and start tracking your progress.
-              </p>
-            </div>
-          ) : (
-            <div className="space-y-4">
-              {sessions.map((session) => (
-                <div key={session.id} className="border border-slate-200 rounded-lg p-4 hover:shadow-md transition-shadow">
-                  <div className="flex items-center justify-between mb-2">
-                    <div className="flex items-center gap-4">
-                      <div className="text-lg font-semibold text-slate-900">
-                        {new Date(session.practice_date).toLocaleDateString()}
-                      </div>
-                      {session.lesson_number && (
-                        <span className="px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-sm font-semibold">
-                          Lesson {session.lesson_number}
-                        </span>
-                      )}
-                      <span className="text-gray-600 text-sm">
-                        {session.duration_minutes} minutes
-                      </span>
-                    </div>
-                    <div className="flex gap-2">
-                      <span className="text-sm text-gray-600">Progress:</span>
-                      <span className="text-yellow-400">{'⭐'.repeat(session.progress_rating)}</span>
-                    </div>
-                  </div>
-                  
-                  {session.video_url && (
-                    <div className="mb-3">
-                      <video 
-                        src={session.video_url} 
-                        controls 
-                        className="w-full max-w-md rounded-lg border border-slate-200"
-                      />
-                    </div>
-                  )}
-                  
-                  {session.techniques_practiced && (
-                    <div className="mb-2">
-                      <span className="font-semibold text-sm text-slate-700">Practiced:</span>
-                      <span className="text-gray-600 text-sm ml-2">{session.techniques_practiced}</span>
-                    </div>
-                  )}
-                  
-                  {session.wins && (
-                    <div className="bg-green-50 rounded p-2 text-sm text-green-900 mb-2">
-                      <strong>🎉 Wins:</strong> {session.wins}
-                    </div>
-                  )}
-                  
-                  {session.challenges && (
-                    <div className="bg-red-50 rounded p-2 text-sm text-red-900">
-                      <strong>🎯 Focus:</strong> {session.challenges}
-                    </div>
-                  )}
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
-      </ContentCard>
-    </PageLayout>
-  );
-
-}
 export default function PracticePage() {
   return (
-    <Suspense fallback={<div className="p-8 text-center">Loading...</div>}>
+    <Suspense fallback={
+      <div className="min-h-screen bg-slate-900 flex items-center justify-center">
+        <div className="text-white text-lg">Loading...</div>
+      </div>
+    }>
       <PracticePageContent />
     </Suspense>
   );

@@ -1,3 +1,5 @@
+@import './styles/design-system.css';
+@import './styles/lesson-content-styles.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -24,4 +26,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+/* ASCII Diagram Styling - Light background with readable text */
+.lesson-content pre {
+  background-color: #f8f9fa !important;   /* Light gray (matches your design) */
+  color: #1E3A8A !important;              /* Navy text (your brand color) */
+  padding: 1.5rem !important;
+  border-radius: 0.5rem !important;
+  font-size: 1.05rem !important;          /* Larger */
+  line-height: 1.8 !important;            /* More spacing */
+  border: 2px solid #e2e8f0 !important;   /* Subtle border */
+  overflow-x: auto !important;
+  font-weight: 700 !important;            /* Much bolder */
+  font-family: 'Courier New', Courier, monospace !important;
+}
+
+.lesson-content pre code {
+  font-family: 'Courier New', Courier, monospace !important;
+  font-weight: 700 !important;            /* Bold */
+  color: #1E3A8A !important;              /* Navy */
+  background: transparent !important;
+  padding: 0 !important;
 }

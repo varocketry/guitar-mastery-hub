@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { createClient } from '@supabase/supabase-js';
+import Link from 'next/link';
 
 interface EmailSubscriber {
   id: string;
@@ -159,70 +160,78 @@ export default function AdminSubscribersPage() {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+      <div className="min-h-screen bg-slate-900 flex items-center justify-center">
         <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto"></div>
-          <p className="mt-4 text-gray-600">Loading subscribers...</p>
+          <div className="animate-spin rounded-full h-12 w-12 border-b-4 border-gold mx-auto"></div>
+          <p className="mt-4 text-white">Loading subscribers...</p>
         </div>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-slate-900">
       <div className="max-w-7xl mx-auto px-4 py-8">
         {/* Header */}
-        <div className="mb-8">
-          <h1 className="text-3xl font-bold text-gray-900">Email Subscribers</h1>
-          <p className="mt-2 text-gray-600">Manage your email list and export contacts</p>
+        <div className="mb-8 flex items-center justify-between">
+          <div>
+            <h1 className="text-4xl font-bold text-white font-accent">Email Subscribers</h1>
+            <p className="mt-2 text-white/70">Manage your email list and export contacts</p>
+          </div>
+          <Link 
+            href="/dashboard"
+            className="px-6 py-3 bg-gold hover:bg-gold/90 text-navy font-bold rounded-lg transition-all shadow-lg"
+          >
+            ← Dashboard
+          </Link>
         </div>
 
         {/* Stats Dashboard */}
         <div className="grid grid-cols-1 md:grid-cols-5 gap-4 mb-8">
-          <div className="bg-white rounded-lg shadow p-6">
-            <div className="text-sm text-gray-500">Total</div>
-            <div className="text-3xl font-bold text-gray-900 mt-1">{stats.total}</div>
+          <div className="bg-white rounded-lg shadow-lg p-6 border-2 border-navy/20">
+            <div className="text-sm text-navy/70 font-semibold">Total</div>
+            <div className="text-3xl font-bold text-navy mt-1">{stats.total}</div>
           </div>
-          <div className="bg-white rounded-lg shadow p-6">
-            <div className="text-sm text-gray-500">Active</div>
-            <div className="text-3xl font-bold text-green-600 mt-1">{stats.active}</div>
+          <div className="bg-white rounded-lg shadow-lg p-6 border-2 border-green-400">
+            <div className="text-sm text-green-700 font-semibold">Active</div>
+            <div className="text-3xl font-bold text-green-700 mt-1">{stats.active}</div>
           </div>
-          <div className="bg-white rounded-lg shadow p-6">
-            <div className="text-sm text-gray-500">Unsubscribed</div>
-            <div className="text-3xl font-bold text-red-600 mt-1">{stats.unsubscribed}</div>
+          <div className="bg-white rounded-lg shadow-lg p-6 border-2 border-red-400">
+            <div className="text-sm text-red-700 font-semibold">Unsubscribed</div>
+            <div className="text-3xl font-bold text-red-700 mt-1">{stats.unsubscribed}</div>
           </div>
-          <div className="bg-white rounded-lg shadow p-6">
-            <div className="text-sm text-gray-500">Feedback OK</div>
-            <div className="text-3xl font-bold text-blue-600 mt-1">{stats.feedback_requests}</div>
+          <div className="bg-white rounded-lg shadow-lg p-6 border-2 border-gold/50">
+            <div className="text-sm text-navy/70 font-semibold">Feedback OK</div>
+            <div className="text-3xl font-bold text-gold mt-1">{stats.feedback_requests}</div>
           </div>
-          <div className="bg-white rounded-lg shadow p-6">
-            <div className="text-sm text-gray-500">Marketing OK</div>
-            <div className="text-3xl font-bold text-purple-600 mt-1">{stats.marketing}</div>
+          <div className="bg-white rounded-lg shadow-lg p-6 border-2 border-navy/20">
+            <div className="text-sm text-navy/70 font-semibold">Marketing OK</div>
+            <div className="text-3xl font-bold text-navy mt-1">{stats.marketing}</div>
           </div>
         </div>
 
         {/* Filters and Export */}
-        <div className="bg-white rounded-lg shadow p-6 mb-6">
+        <div className="bg-white rounded-lg shadow-lg p-6 mb-6">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-4">
             {/* Search */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">Search</label>
+              <label className="block text-sm font-bold text-navy mb-2">Search</label>
               <input
                 type="text"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
                 placeholder="Email or source..."
-                className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500"
+                className="w-full px-4 py-2 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-gold focus:border-gold"
               />
             </div>
 
             {/* Status Filter */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">Status</label>
+              <label className="block text-sm font-bold text-navy mb-2">Status</label>
               <select
                 value={filterStatus}
                 onChange={(e) => setFilterStatus(e.target.value as any)}
-                className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500"
+                className="w-full px-4 py-2 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-gold focus:border-gold"
               >
                 <option value="all">All Subscribers</option>
                 <option value="active">Active Only</option>
@@ -232,11 +241,11 @@ export default function AdminSubscribersPage() {
 
             {/* Preference Filter */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">Preference</label>
+              <label className="block text-sm font-bold text-navy mb-2">Preference</label>
               <select
                 value={filterPreference}
                 onChange={(e) => setFilterPreference(e.target.value)}
-                className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500"
+                className="w-full px-4 py-2 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-gold focus:border-gold"
               >
                 <option value="all">All Preferences</option>
                 <option value="product_updates">Product Updates</option>
@@ -249,17 +258,17 @@ export default function AdminSubscribersPage() {
 
             {/* Export Buttons */}
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">Export</label>
+              <label className="block text-sm font-bold text-navy mb-2">Export</label>
               <div className="flex gap-2">
                 <button
                   onClick={exportToCSV}
-                  className="flex-1 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 text-sm font-medium"
+                  className="flex-1 bg-gold text-navy px-4 py-2 rounded-lg hover:bg-gold/90 text-sm font-bold transition"
                 >
                   CSV
                 </button>
                 <button
                   onClick={exportEmailsOnly}
-                  className="flex-1 bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 text-sm font-medium"
+                  className="flex-1 bg-navy text-white px-4 py-2 rounded-lg hover:bg-navy-light text-sm font-bold transition"
                 >
                   Emails
                 </button>
@@ -267,30 +276,30 @@ export default function AdminSubscribersPage() {
             </div>
           </div>
 
-          <div className="text-sm text-gray-600">
+          <div className="text-sm text-navy/70 font-semibold">
             Showing {filteredSubscribers.length} of {subscribers.length} subscribers
           </div>
         </div>
 
         {/* Subscribers Table */}
-        <div className="bg-white rounded-lg shadow overflow-hidden">
+        <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           <div className="overflow-x-auto">
             <table className="min-w-full divide-y divide-gray-200">
-              <thead className="bg-gray-50">
+              <thead className="bg-navy">
                 <tr>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-xs font-bold text-white uppercase tracking-wider">
                     Email
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-xs font-bold text-white uppercase tracking-wider">
                     Status
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-xs font-bold text-white uppercase tracking-wider">
                     Source
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-xs font-bold text-white uppercase tracking-wider">
                     Subscribed
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-xs font-bold text-white uppercase tracking-wider">
                     Preferences
                   </th>
                 </tr>
@@ -299,7 +308,7 @@ export default function AdminSubscribersPage() {
                 {filteredSubscribers.map((subscriber) => (
                   <tr key={subscriber.id} className="hover:bg-gray-50">
                     <td className="px-6 py-4 whitespace-nowrap">
-                      <div className="text-sm font-medium text-gray-900">{subscriber.email}</div>
+                      <div className="text-sm font-medium text-navy">{subscriber.email}</div>
                     </td>
                     <td className="px-6 py-4 whitespace-nowrap">
                       <span className={`inline-flex px-2 py-1 text-xs font-semibold rounded-full ${
@@ -310,10 +319,10 @@ export default function AdminSubscribersPage() {
                         {subscriber.is_subscribed ? 'Active' : 'Unsubscribed'}
                       </span>
                     </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-navy/70">
                       {subscriber.subscription_source || '-'}
                     </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-navy/70">
                       {new Date(subscriber.subscribed_at).toLocaleDateString()}
                     </td>
                     <td className="px-6 py-4 whitespace-nowrap">
@@ -321,27 +330,27 @@ export default function AdminSubscribersPage() {
                         {subscriber.is_subscribed && subscriber.email_preferences && (
                           <>
                             {subscriber.email_preferences.product_updates && (
-                              <span className="inline-flex px-2 py-1 text-xs bg-blue-100 text-blue-800 rounded">
+                              <span className="inline-flex px-2 py-1 text-xs bg-blue-100 text-blue-800 rounded font-semibold">
                                 Updates
                               </span>
                             )}
                             {subscriber.email_preferences.practice_tips && (
-                              <span className="inline-flex px-2 py-1 text-xs bg-green-100 text-green-800 rounded">
+                              <span className="inline-flex px-2 py-1 text-xs bg-green-100 text-green-800 rounded font-semibold">
                                 Tips
                               </span>
                             )}
                             {subscriber.email_preferences.new_lessons && (
-                              <span className="inline-flex px-2 py-1 text-xs bg-purple-100 text-purple-800 rounded">
+                              <span className="inline-flex px-2 py-1 text-xs bg-purple-100 text-purple-800 rounded font-semibold">
                                 Lessons
                               </span>
                             )}
                             {subscriber.email_preferences.feedback_requests && (
-                              <span className="inline-flex px-2 py-1 text-xs bg-yellow-100 text-yellow-800 rounded">
+                              <span className="inline-flex px-2 py-1 text-xs bg-yellow-100 text-yellow-800 rounded font-semibold">
                                 Feedback
                               </span>
                             )}
                             {subscriber.email_preferences.marketing && (
-                              <span className="inline-flex px-2 py-1 text-xs bg-pink-100 text-pink-800 rounded">
+                              <span className="inline-flex px-2 py-1 text-xs bg-pink-100 text-pink-800 rounded font-semibold">
                                 Marketing
                               </span>
                             )}
@@ -357,34 +366,34 @@ export default function AdminSubscribersPage() {
 
           {filteredSubscribers.length === 0 && (
             <div className="text-center py-12">
-              <p className="text-gray-500">No subscribers found matching your filters.</p>
+              <p className="text-navy/60">No subscribers found matching your filters.</p>
             </div>
           )}
         </div>
 
         {/* Quick Actions */}
-        <div className="mt-8 bg-blue-50 border border-blue-200 rounded-lg p-6">
-          <h3 className="text-lg font-semibold text-blue-900 mb-4">Quick Export Guides</h3>
+        <div className="mt-8 bg-gold/10 border-2 border-gold/30 rounded-lg p-6">
+          <h3 className="text-lg font-bold text-navy mb-4">Quick Export Guides</h3>
           
           <div className="space-y-3 text-sm">
             <div className="flex items-start gap-3">
-              <span className="font-medium text-blue-900 min-w-[200px]">Feedback Request:</span>
-              <span className="text-blue-800">Filter by "Feedback Requests" → Export Emails → Send survey</span>
+              <span className="font-bold text-navy min-w-[200px]">Feedback Request:</span>
+              <span className="text-navy/80">Filter by "Feedback Requests" → Export Emails → Send survey</span>
             </div>
             
             <div className="flex items-start gap-3">
-              <span className="font-medium text-blue-900 min-w-[200px]">Practice Tips Newsletter:</span>
-              <span className="text-blue-800">Filter by "Practice Tips" → Export CSV → Import to email tool</span>
+              <span className="font-bold text-navy min-w-[200px]">Practice Tips Newsletter:</span>
+              <span className="text-navy/80">Filter by "Practice Tips" → Export CSV → Import to email tool</span>
             </div>
             
             <div className="flex items-start gap-3">
-              <span className="font-medium text-blue-900 min-w-[200px]">New Lesson Announcement:</span>
-              <span className="text-blue-800">Filter by "New Lessons" → Export Emails → Send announcement</span>
+              <span className="font-bold text-navy min-w-[200px]">New Lesson Announcement:</span>
+              <span className="text-navy/80">Filter by "New Lessons" → Export Emails → Send announcement</span>
             </div>
             
             <div className="flex items-start gap-3">
-              <span className="font-medium text-blue-900 min-w-[200px]">Promotional Campaign:</span>
-              <span className="text-blue-800">Filter by "Marketing" → Export CSV → Import to Mailchimp/SendGrid</span>
+              <span className="font-bold text-navy min-w-[200px]">Promotional Campaign:</span>
+              <span className="text-navy/80">Filter by "Marketing" → Export CSV → Import to Mailchimp/SendGrid</span>
             </div>
           </div>
         </div>

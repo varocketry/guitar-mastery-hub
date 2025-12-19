@@ -167,39 +167,10 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
             <div>
               {/* WHITE CONTENT CARD */}
               <div className="bg-white rounded-xl p-8 shadow-2xl mb-6">
-                <article className="prose prose-lg max-w-none">
-                  <ReactMarkdown 
-                    remarkPlugins={[remarkGfm]}
-                    components={{
-                      h1: ({node, ...props}) => <h1 className="text-3xl font-bold text-gray-900 mb-4 mt-8 first:mt-0" {...props} />,
-                      h2: ({node, ...props}) => <h2 className="text-2xl font-bold text-gray-900 mb-3 mt-6" {...props} />,
-                      h3: ({node, ...props}) => <h3 className="text-xl font-bold text-gray-900 mb-2 mt-4" {...props} />,
-                      p: ({node, ...props}) => <p className="text-gray-800 mb-4 leading-relaxed" {...props} />,
-                      ul: ({node, ...props}) => <ul className="list-disc list-inside text-gray-800 mb-4 space-y-2" {...props} />,
-                      ol: ({node, ...props}) => <ol className="list-decimal list-inside text-gray-800 mb-4 space-y-2" {...props} />,
-                      li: ({node, ...props}) => <li className="text-gray-800" {...props} />,
-                      strong: ({node, ...props}) => <strong className="font-bold text-gray-900" {...props} />,
-                      em: ({node, ...props}) => <em className="italic text-gray-800" {...props} />,
-                      a: ({node, ...props}) => <a className="text-orange-600 hover:text-orange-700 underline" {...props} />,
-                      code: ({node, inline, ...props}: any) => 
-                        inline ? (
-                          <code className="bg-gray-100 text-gray-900 px-1.5 py-0.5 rounded text-sm font-mono" {...props} />
-                        ) : (
-                          <code className="block bg-gray-100 text-gray-900 p-4 rounded text-sm font-mono overflow-x-auto" {...props} />
-                        ),
-                      pre: ({node, ...props}) => <pre className="bg-gray-100 p-4 rounded mb-4 overflow-x-auto" {...props} />,
-                      blockquote: ({node, ...props}) => <blockquote className="border-l-4 border-orange-500 pl-4 italic text-gray-700 mb-4" {...props} />,
-                      hr: ({node, ...props}) => <hr className="my-8 border-gray-300" {...props} />,
-                      img: ({node, ...props}) => (
-                        <img 
-                          className="max-w-full h-auto rounded-lg shadow-md my-4" 
-                          {...props} 
-                        />
-                      ),
-                    }}
-                  >
-                    {content}
-                  </ReactMarkdown>
+               <article className="lesson-content">
+       <ReactMarkdown remarkPlugins={[remarkGfm]}>
+		  {content}
+		</ReactMarkdown>
                 </article>
               </div>
               

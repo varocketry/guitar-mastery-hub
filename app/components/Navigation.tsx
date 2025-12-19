@@ -48,7 +48,7 @@ export default function Navigation() {
   ]
 
   return (
-    <nav className="bg-navy-900 border-b border-slate-700/50 fixed w-full top-0 z-50">
+   <nav className="bg-navy border-b border-gold/20 fixed w-full top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
@@ -64,7 +64,7 @@ export default function Navigation() {
               <button
                 onClick={() => setIsLessonsOpen(!isLessonsOpen)}
                 className={`text-slate-300 hover:text-white transition px-3 py-2 rounded-lg ${
-                  isActive('/lessons') ? 'text-orange-500 border-b-2 border-orange-500' : ''
+                  isActive('/lessons') ? 'text-gold border-b-2 border-gold' : ''
                 }`}
               >
                 Lessons
@@ -107,7 +107,7 @@ export default function Navigation() {
             <Link
               href="/dashboard"
               className={`text-slate-300 hover:text-white transition px-3 py-2 ${
-                isActive('/dashboard') ? 'text-orange-500 border-b-2 border-orange-500' : ''
+                isActive('/dashboard') ? 'text-gold border-b-2 border-gold' : ''
               }`}
             >
               Dashboard
@@ -116,7 +116,7 @@ export default function Navigation() {
             <Link
               href="/progress"
               className={`text-slate-300 hover:text-white transition px-3 py-2 ${
-                isActive('/progress') ? 'text-orange-500 border-b-2 border-orange-500' : ''
+                isActive('/progress') ? 'text-gold border-b-2 border-gold' : ''
               }`}
             >
               Progress
@@ -125,7 +125,7 @@ export default function Navigation() {
             <Link
               href="/resources"
               className={`text-slate-300 hover:text-white transition px-3 py-2 ${
-                isActive('/resources') ? 'text-orange-500 border-b-2 border-orange-500' : ''
+                isActive('/resources') ? 'text-gold border-b-2 border-gold' : ''
               }`}
             >
               Resources
@@ -134,7 +134,7 @@ export default function Navigation() {
             <Link
               href="/practice"
               className={`text-slate-300 hover:text-white transition px-3 py-2 ${
-                isActive('/practice') ? 'text-orange-500 border-b-2 border-orange-500' : ''
+                isActive('/practice') ? 'text-gold border-b-2 border-gold' : ''
               }`}
             >
               Practice Log
@@ -146,7 +146,7 @@ export default function Navigation() {
                 onClick={() => setIsProfileOpen(!isProfileOpen)}
                 className="flex items-center space-x-2 text-slate-300 hover:text-white transition"
               >
-                <div className="w-8 h-8 bg-orange-500 rounded-full flex items-center justify-center text-white font-semibold">
+      			 <div className="w-8 h-8 bg-gold rounded-full flex items-center justify-center text-navy font-semibold">
                   U
                 </div>
               </button>
