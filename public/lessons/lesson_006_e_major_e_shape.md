@@ -1,13 +1,13 @@
 # Lesson 6: The E-Shape - Major Version (Your Sixth Chord Shape!)
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
-**📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**📍 **PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-5 complete (Em, Am, D, G, C **chord shapes** + strumming patterns mastered)
+**â±ï¸ TYPICAL COMPLETION TIME**: 5-7 days  
+**ðŸ“… PRACTICE SESSION LENGTH**: 30-45 minutes per session  
+**ðŸ“ **PHASE**: Foundation (Lessons 1-30)  
+**ðŸŽ¯ PREREQUISITES**: Lessons 1-5 complete (Em, Am, D, G, C **chord shapes** + strumming patterns mastered)
 
 ---
 
-## 🎯 COMPLETING THE MOST IMPORTANT SHAPE FAMILY
+## ðŸŽ¯ COMPLETING THE MOST IMPORTANT SHAPE FAMILY
 
 **Remember Lesson 1?**
 
@@ -52,9 +52,9 @@ Because the E-shape is:
 e|---
 B|---
 G|---
-D|--2 ← Middle finger
-A|--2 ← Ring finger
-E|--0 ← Open
+D|--2 â† Middle finger
+A|--2 â† Ring finger
+E|--0 â† Open
 ```
 - Two fingers
 - Minor (sad) sound
@@ -64,10 +64,10 @@ E|--0 ← Open
 ```
 e|---
 B|---
-G|--1 ← NEW! Index finger makes it MAJOR
-D|--2 ← Middle finger (same position!)
-A|--2 ← Ring finger (same position!)
-E|--0 ← Open
+G|--1 â† NEW! Index finger makes it MAJOR
+D|--2 â† Middle finger (same position!)
+A|--2 â† Ring finger (same position!)
+E|--0 â† Open
 ```
 - Three fingers (one more!)
 - Major (bright) sound
@@ -83,7 +83,7 @@ E|--0 ← Open
 
 **This is the magic of shape families:**
 
-**Em shape** (2 fingers) → **E major shape** (3 fingers)  
+**Em shape** (2 fingers) â†’ **E major shape** (3 fingers)  
 **Same base pattern + one finger = emotional transformation**
 
 **Minor**: Sad, introspective, melancholy  
@@ -130,17 +130,17 @@ E|--0 ← Open
 **Since you're learning shape families, we're including A major shape today:**
 
 **Why bundle these two?**
-- Both are MAJOR versions of shapes you know (Em → E major, Am → A major)
+- Both are MAJOR versions of shapes you know (Em â†’ E major, Am â†’ A major)
 - Both complete essential shape families
 - Both are required for common songs
 - Learning them together reinforces the MAJOR vs MINOR concept
 
 **By end of today:**
-- ✅ Seven total shapes (Em, Am, D, G, C, **E major, A major**)
-- ✅ Two complete shape families (E-shape: Em + E major, A-shape: Am + A major)
-- ✅ Ready for any beginner/intermediate song
+- âœ… Seven total shapes (Em, Am, D, G, C, **E major, A major**)
+- âœ… Two complete shape families (E-shape: Em + E major, A-shape: Am + A major)
+- âœ… Ready for any beginner/intermediate song
 
-**This is critical mass × 2.**
+**This is critical mass Ã— 2.**
 
 ---
 
@@ -210,19 +210,19 @@ E|--0 ← Open
 
 **By the end of this lesson:**
 
-✅ You'll complete two essential shape families  
-✅ You'll understand MAJOR/MINOR transformations  
-✅ You'll play songs using all seven shapes  
-✅ You'll see how shapes become barre chords  
-✅ You'll have the foundation 90% of guitarists have
+âœ… You'll complete two essential shape families  
+âœ… You'll understand MAJOR/MINOR transformations  
+âœ… You'll play songs using all seven shapes  
+âœ… You'll see how shapes become barre chords  
+âœ… You'll have the foundation 90% of guitarists have
 
 **You'll cross from "good beginner" to "solid foundation."**
 
-**Let's complete these shape families.** 🎸
+**Let's complete these shape families.** ðŸŽ¸
 
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## ðŸŽ“ LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Form the E major **chord shape** cleanly with all three fingers
@@ -235,7 +235,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎯 REMEMBERING THE SHAPE PHILOSOPHY
+## ðŸŽ¯ REMEMBERING THE SHAPE PHILOSOPHY
 
 **As Den Lopez teaches:** "Learn shapes, not chords."
 
@@ -268,7 +268,7 @@ The E-shape is THE most important movable shape in guitar. Master it open (today
 
 ---
 
-## 🎯 FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
+## ðŸŽ¯ FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
 
 ### Learning New Chord Shapes = SLOWER Than You Think!
 
@@ -389,7 +389,7 @@ This comprehensive document explains:
 
 ---
 
-## 📖 THEORY: The E-Shape Family & Why It's Special
+## ðŸ“– THEORY: The E-Shape Family & Why It's Special
 
 ### Understanding the Shape Philosophy (Den Lopez Core Teaching)
 
@@ -463,7 +463,7 @@ Used in: Major key songs, rock anthems, pop hits
 **This is the power of shape thinking:**
 - You don't learn "two different chords"
 - You learn "one SHAPE with two versions"
-- Major ↔ Minor = ONE finger difference
+- Major â†” Minor = ONE finger difference
 - This pattern repeats across ALL shape families!
 
 ---
@@ -476,7 +476,7 @@ The E-shape can **move up the neck** to create different chords!
 
 ```
 Position         Result          Type
-═══════════════════════════════════════
+â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 Open (fret 0)    E major         Open chord (today!)
 Fret 1           F major         Barre chord
 Fret 3           G major         Barre chord  
@@ -545,7 +545,7 @@ All other strings play
 
 ---
 
-## 🎸 YOUR SIXTH CHORD SHAPE: E Major
+## ðŸŽ¸ YOUR SIXTH CHORD SHAPE: E Major
 
 ### E Major Chord Shape Diagram
 
@@ -586,21 +586,21 @@ Two fingers only:
     0 2 2 1 0 0
     
 Three fingers now:
-- Index finger: G string, 1st fret  ← NEW ADDITION!
-- Middle finger: A string, 2nd fret ← Same as Em
-- Ring finger: D string, 2nd fret  ← Same as Em
+- Index finger: G string, 1st fret  â† NEW ADDITION!
+- Middle finger: A string, 2nd fret â† Same as Em
+- Ring finger: D string, 2nd fret  â† Same as Em
 ```
 
 **The Addition:**
 - ONE finger added (index on G string, 1st fret)
-- Changes note: G (open) → G# (1st fret)
-- Changes sound: Minor → Major
-- Changes feel: Sad → Happy
+- Changes note: G (open) â†’ G# (1st fret)
+- Changes sound: Minor â†’ Major
+- Changes feel: Sad â†’ Happy
 
 **This is shape thinking:**
 - Not two different "chords"
 - One SHAPE with one finger modification
-- Minor ↔ Major conversion is simple!
+- Minor â†” Major conversion is simple!
 
 ---
 
@@ -611,11 +611,11 @@ Three fingers now:
 ```
 Visual Pattern:
 
-    ┌─────────────┐
-    │   [1]       │  ← Index finger (1st fret)
-    │ [2]         │  ← Middle & Ring together (2nd fret)
-    │   [3]       │
-    └─────────────┘
+    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+    â”‚   [1]       â”‚  â† Index finger (1st fret)
+    â”‚ [2]         â”‚  â† Middle & Ring together (2nd fret)
+    â”‚   [3]       â”‚
+    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 
 Look at your hand forming E major:
 - Index finger reaches "forward" (toward nut)
@@ -631,7 +631,7 @@ When you move this shape up the neck (barre chords), your hand recognizes this S
 
 ---
 
-## 🎸 STEP-BY-STEP: FORMING E MAJOR SHAPE
+## ðŸŽ¸ STEP-BY-STEP: FORMING E MAJOR SHAPE
 
 ### Stage 1: Understanding Finger Positions (No Tempo - 5 minutes)
 
@@ -661,8 +661,8 @@ When you move this shape up the neck (barre chords), your hand recognizes this S
 
 **Checkpoint Question:**
 Can you see how this is just **Em shape + one finger**?
-- Yes → Great! You're thinking in shapes!
-- Not yet → Review the comparison diagrams above
+- Yes â†’ Great! You're thinking in shapes!
+- Not yet â†’ Review the comparison diagrams above
 
 ---
 
@@ -732,8 +732,8 @@ Beat 2: Strum and listen
 **Do this 30 times** (about 7 minutes)
 
 **Checkpoint:** Can you form E major shape on beat 1 and have it sound clean on beat 2?
-- Yes → Move to Stage 4!
-- No → Stay at 40 BPM for 2 more days (this is normal!)
+- Yes â†’ Move to Stage 4!
+- No â†’ Stay at 40 BPM for 2 more days (this is normal!)
 
 ---
 
@@ -791,15 +791,15 @@ Beat 2: Strum
 4. If successful, increase to 60 BPM for final 10 reps
 
 **Checkpoint:**
-- Can you form E major shape without looking? ✓
-- Does it sound clean every time? ✓
-- Are you ready for shape transitions? ✓
+- Can you form E major shape without looking? âœ“
+- Does it sound clean every time? âœ“
+- Are you ready for shape transitions? âœ“
 
-**If yes to all three → You've mastered E major shape formation!**
+**If yes to all three â†’ You've mastered E major shape formation!**
 
 ---
 
-## 🔄 PRACTICE ROUTINE: E Major Shape Exercises
+## ðŸ”„ PRACTICE ROUTINE: E Major Shape Exercises
 
 ### Exercise 1: "The Shape Builder" (5 minutes, 40 BPM)
 
@@ -819,7 +819,7 @@ Repeat 10 times
 
 **What you're learning:**
 - The relationship between Em and E major shapes
-- How ONE finger changes minor → major
+- How ONE finger changes minor â†’ major
 - Shape family thinking (not isolated fingerings)
 
 ---
@@ -932,7 +932,7 @@ Practice 15 times
 
 ---
 
-## 🎸 YOUR SEVENTH CHORD SHAPE: A Major (Bonus!)
+## ðŸŽ¸ YOUR SEVENTH CHORD SHAPE: A Major (Bonus!)
 
 ### Why Learn A Major Today?
 
@@ -1025,7 +1025,7 @@ Compare the shapes:
 
 Am shape (Lesson 1):    A major shape (today):
 X 0 2 2 1 0             X 0 2 2 2 0
-                              ↑
+                              â†‘
                         Only difference!
 
 Process:
@@ -1033,14 +1033,14 @@ Process:
 2. Move ring finger from 1st fret to 2nd fret (now A major)
 3. Strum, listen (major sound)
 4. Switch back and forth 15 times
-5. ONE FINGER changes minor → major!
+5. ONE FINGER changes minor â†’ major!
 
 This is shape thinking!
 ```
 
 ---
 
-## 🔄 SHAPE TRANSITIONS: Combining E and A with Your Other Shapes
+## ðŸ”„ SHAPE TRANSITIONS: Combining E and A with Your Other Shapes
 
 ### Transition Practice Overview
 
@@ -1057,7 +1057,7 @@ This is shape thinking!
 
 ---
 
-### Transition Exercise 1: Em ↔ E Major (5 minutes, 50 BPM)
+### Transition Exercise 1: Em â†” E Major (5 minutes, 50 BPM)
 
 **Set metronome to 50 BPM**
 
@@ -1086,7 +1086,7 @@ Goal: Smooth transition, no pauses between shapes
 
 ---
 
-### Transition Exercise 2: E Major ↔ A Major (8 minutes, 45 BPM)
+### Transition Exercise 2: E Major â†” A Major (8 minutes, 45 BPM)
 
 **Set metronome to 45 BPM**
 
@@ -1171,7 +1171,7 @@ Day 6-7: 55-60 BPM (approaching song tempo)
 - The SHAPE moves as a unit
 
 **Tip 4: Use "Anchor Fingers" When Possible**
-- Em → E major: Middle and ring fingers stay (only index moves!)
+- Em â†’ E major: Middle and ring fingers stay (only index moves!)
 - This is much easier than moving all three fingers
 - Look for these opportunities
 
@@ -1183,7 +1183,7 @@ Day 6-7: 55-60 BPM (approaching song tempo)
 
 ---
 
-## 🎵 MUSICAL APPLICATION: Songs Using E Major and A Major Shapes
+## ðŸŽµ MUSICAL APPLICATION: Songs Using E Major and A Major Shapes
 
 ### Song 1: "Wild Thing" by The Troggs
 
@@ -1296,7 +1296,7 @@ Add accent (louder strum) on beats 1 and 3:
 
 C shape:       | D    d    D    d    |
                1    2    3    4
-               ↑ loud     ↑ loud
+               â†‘ loud     â†‘ loud
 
 Same pattern for G and E major shapes
 ```
@@ -1380,7 +1380,7 @@ When smooth, add Folk/Country pattern
 
 ---
 
-## 🎥 VIDEO RESOURCES
+## ðŸŽ¥ VIDEO RESOURCES
 
 ### Den Lopez Shape Philosophy Videos
 
@@ -1411,7 +1411,7 @@ When smooth, add Folk/Country pattern
 **4. "Major vs Minor Chord Shapes"**
 - Search: "Den Lopez major minor shapes"
 - Shows ONE finger difference principle
-- Em ↔ E major, Am ↔ A major examples
+- Em â†” E major, Am â†” A major examples
 - Reinforces shape philosophy
 
 ---
@@ -1466,7 +1466,7 @@ When smooth, add Folk/Country pattern
 **JustinGuitar - Chord Changes (One-Minute Changes)**
 - Search: "JustinGuitar one minute changes"
 - The famous exercise for building transition speed
-- Specifically shows E ↔ A transitions
+- Specifically shows E â†” A transitions
 - Track your progress
 
 **GuitarLessons365 - Fast Chord Changes**
@@ -1527,7 +1527,7 @@ When smooth, add Folk/Country pattern
 
 ---
 
-## ✅ SUCCESS CRITERIA
+## âœ… SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
@@ -1547,8 +1547,8 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 - [ ] **I see the relationship to Am shape** - One finger difference, major vs minor
 
 #### Shape Transitions
-- [ ] **Em ↔ E major is smooth** - Can switch quickly (1-2 seconds)
-- [ ] **E major ↔ A major at 60 BPM** - Clean transitions at tempo
+- [ ] **Em â†” E major is smooth** - Can switch quickly (1-2 seconds)
+- [ ] **E major â†” A major at 60 BPM** - Clean transitions at tempo
 - [ ] **Can play "Shape Circle"** - All seven shapes in sequence
 - [ ] **Transitions feel automatic** - Not thinking about each finger
 
@@ -1565,7 +1565,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 
 ---
 
-### ⏰ NOT READY YET?
+### â° NOT READY YET?
 
 **That's completely fine!** Most learners spend 5-7 days on this lesson. Here's what to focus on:
 
@@ -1616,7 +1616,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 
 ---
 
-### 💡 REMEMBER
+### ðŸ’¡ REMEMBER
 
 **Most learners spend 5-7 days on this lesson.**
 
@@ -1638,7 +1638,7 @@ Your fingers need time to:
 
 ---
 
-## 🔧 TROUBLESHOOTING
+## ðŸ”§ TROUBLESHOOTING
 
 ### Problem: Buzzing Strings on E Major Shape
 
@@ -1655,12 +1655,12 @@ Your fingers need time to:
 - This mutes the open B string (very common!)
 
 **Solutions:**
-✅ **Arch index finger more**
+âœ… **Arch index finger more**
 - Come down on string at steeper angle
 - Fingertip only touching, not side of finger
 - Practice: Form shape, look at index finger, adjust angle
 
-✅ **Check finger position**
+âœ… **Check finger position**
 - Index finger should be perpendicular to fretboard
 - Not angled or laying flat
 
@@ -1681,15 +1681,15 @@ Exercise: Isolated index finger check (3 minutes)
 - Especially D, A, or G strings
 
 **Solutions:**
-✅ **Press firmer with fingertips**
+âœ… **Press firmer with fingertips**
 - E major uses 3 fingers = more pressure needed
 - Your fingers are building strength (takes time!)
 
-✅ **Check finger placement relative to fret**
+âœ… **Check finger placement relative to fret**
 - Fingers should be right next to fret wire (not middle of fret)
 - Closer to fret = less pressure needed
 
-✅ **Build finger strength**
+âœ… **Build finger strength**
 ```
 Exercise: Shape holds (3 minutes daily)
 1. Form E major shape
@@ -1709,18 +1709,18 @@ Builds endurance for maintaining pressure
 - OR thumb is too far down neck
 
 **Solutions:**
-✅ **Proper thumb position:**
+âœ… **Proper thumb position:**
 - Thumb should be on BACK of neck
 - Roughly behind middle finger
 - Not visible from front when you look at guitar
 - Acts as anchor point for finger pressure
 
-✅ **Check in mirror:**
+âœ… **Check in mirror:**
 ```
 1. Form E major shape
 2. Look at neck from side
-3. Is thumb visible over top? → Move it to back
-4. Is thumb too low on neck? → Move it up behind middle finger
+3. Is thumb visible over top? â†’ Move it to back
+4. Is thumb too low on neck? â†’ Move it up behind middle finger
 ```
 
 ---
@@ -1738,13 +1738,13 @@ Builds endurance for maintaining pressure
 **Instead of:**
 ```
 Index, middle, ring separately placed
-───1─2─3────  ← Fingers spread across three strings
+â”€â”€â”€1â”€2â”€3â”€â”€â”€â”€  â† Fingers spread across three strings
 ```
 
 **Try:**
 ```
 All three fingers stacked together
-───[1+3+4]──  ← Fingers bunched together as one unit
+â”€â”€â”€[1+3+4]â”€â”€  â† Fingers bunched together as one unit
 ```
 
 **How to do it:**
@@ -1798,7 +1798,7 @@ This builds the shape progressively
 **Solutions:**
 
 #### Solution 1: Thumb Muting Technique
-✅ **Rest thumb on low E string**
+âœ… **Rest thumb on low E string**
 - Lightly touch low E string with side of thumb
 - Mutes it even if pick hits it
 - Professional technique!
@@ -1814,7 +1814,7 @@ This builds the shape progressively
 ---
 
 #### Solution 2: Visual Targeting Practice
-✅ **Look where you're strumming**
+âœ… **Look where you're strumming**
 ```
 Exercise: Targeted strumming (5 minutes)
 
@@ -1837,7 +1837,7 @@ Goal: Your hand learns where to start strum
 - Need smaller, controlled motion
 
 **Solution:**
-✅ Use wrist motion, not arm motion
+âœ… Use wrist motion, not arm motion
 - Smaller movement = more accurate
 - Aim for 4-5 strings only (A, D, G, B, e)
 - Power comes from wrist snap, not arm swing
@@ -1854,7 +1854,7 @@ Goal: Your hand learns where to start strum
 **Solutions:**
 
 #### Solution 1: Slow Down Practice Tempo
-✅ **This is NORMAL on Day 1-3!**
+âœ… **This is NORMAL on Day 1-3!**
 - Everyone is slow at first
 - Speed comes from repetition
 - Be patient with yourself
@@ -1900,10 +1900,10 @@ Your hand learns to move the SHAPE, not individual fingers
 #### Solution 3: Anticipate Next Shape
 **Mental preparation speeds physical movement**
 
-✅ **While playing current shape, think about next shape**
+âœ… **While playing current shape, think about next shape**
 ```
-Playing E major → Brain already sees A major position
-Playing A major → Brain already sees D shape position
+Playing E major â†’ Brain already sees A major position
+Playing A major â†’ Brain already sees D shape position
 
 Mental preparation = fingers move faster
 ```
@@ -1926,7 +1926,7 @@ Mental practice speeds up physical transitions!
 #### Solution 4: Use the "One-Minute Changes" Exercise
 **This exercise builds transition speed FAST**
 
-✅ **JustinGuitar's famous exercise:**
+âœ… **JustinGuitar's famous exercise:**
 ```
 Set timer: 1 minute
 Set metronome: 60 BPM
@@ -1959,7 +1959,7 @@ Day 14: 35-40 transitions
 **Solutions:**
 
 #### Solution 1: Understanding Calluses
-✅ **Fingertip pain is NORMAL for beginners**
+âœ… **Fingertip pain is NORMAL for beginners**
 - You're building calluses (toughened skin)
 - Takes 7-14 days to develop
 - Once you have them, playing is painless!
@@ -1972,7 +1972,7 @@ Days 8-14: Calluses forming, much less pain
 Days 15+: Minimal to no pain (calluses established)
 ```
 
-✅ **This temporary pain = permanent calluses**
+âœ… **This temporary pain = permanent calluses**
 
 ---
 
@@ -1980,7 +1980,7 @@ Days 15+: Minimal to no pain (calluses established)
 **Instead of:** 45 minutes once per day
 **Try:** 15 minutes, three times per day
 
-✅ **Why this works:**
+âœ… **Why this works:**
 - Builds calluses FASTER (more sessions)
 - Hurts LESS (shorter duration each time)
 - More learning (spaced repetition)
@@ -1998,7 +1998,7 @@ Effect: Less pain, faster callus building, better learning!
 ---
 
 #### Solution 3: Ice Fingers After Practice
-✅ **Reduce inflammation:**
+âœ… **Reduce inflammation:**
 ```
 After practice session:
 1. Hold cold drink or ice pack
@@ -2015,7 +2015,7 @@ After practice session:
 - Creates unnecessary pain
 
 **Solution:**
-✅ **Press just hard enough for clear sound**
+âœ… **Press just hard enough for clear sound**
 ```
 Test:
 1. Form E major shape
@@ -2030,7 +2030,7 @@ Extra pressure = Extra pain, NO benefit
 ---
 
 #### Solution 5: Take a Rest Day (If Needed)
-✅ **When to take a day off:**
+âœ… **When to take a day off:**
 - Fingertips are raw or bleeding
 - Sharp pain (not just soreness)
 - Fingers extremely swollen
@@ -2052,7 +2052,7 @@ Extra pressure = Extra pain, NO benefit
 **Solutions:**
 
 #### Solution 1: The Individual String Test
-✅ **Don't strum - pluck each string separately**
+âœ… **Don't strum - pluck each string separately**
 ```
 Process:
 1. Form E major shape
@@ -2079,7 +2079,7 @@ Any buzzing = That finger needs adjustment
 ---
 
 #### Solution 2: Watch Video Examples
-✅ **Compare your sound to professionals**
+âœ… **Compare your sound to professionals**
 ```
 Process:
 1. Watch Den Lopez E major shape video
@@ -2097,7 +2097,7 @@ Process:
 ---
 
 #### Solution 3: Record Yourself
-✅ **Your ears hear differently when listening to recording**
+âœ… **Your ears hear differently when listening to recording**
 ```
 Process:
 1. Use phone voice recorder
@@ -2116,7 +2116,7 @@ Process:
 ---
 
 #### Solution 4: Ask for Help
-✅ **Get feedback from others**
+âœ… **Get feedback from others**
 - Friend who plays guitar
 - Post video in r/guitar or beginner forums
 - Ask local music store staff
@@ -2134,7 +2134,7 @@ Process:
 **Solutions:**
 
 #### Solution 1: Watch Den Lopez Videos
-✅ **He explains this BETTER than written text can**
+âœ… **He explains this BETTER than written text can**
 
 **Must-watch:**
 - "Shapes vs Chords - What's the Difference?"
@@ -2146,7 +2146,7 @@ Process:
 ---
 
 #### Solution 2: The "Aha!" Moment Exercise
-✅ **Experience WHY shapes matter:**
+âœ… **Experience WHY shapes matter:**
 ```
 Exercise: Moving the E-Shape (3 minutes)
 
@@ -2172,7 +2172,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 ---
 
 #### Solution 3: Read Lesson 4 Again
-✅ **The shape concept is introduced there**
+âœ… **The shape concept is introduced there**
 - Lesson 4 explains shape philosophy in depth
 - Maybe it makes more sense now that you've practiced
 - Understanding grows with experience
@@ -2180,7 +2180,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 ---
 
 #### Solution 4: Just Trust the Process
-✅ **It's okay if concept is fuzzy now**
+âœ… **It's okay if concept is fuzzy now**
 - You're using shapes correctly (forming chord shapes)
 - Deep understanding comes later
 - By Lesson 21 (barre chords), you'll see why this matters
@@ -2190,7 +2190,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 
 ---
 
-## 📅 PRACTICE SCHEDULE FOR THIS LESSON
+## ðŸ“… PRACTICE SCHEDULE FOR THIS LESSON
 
 ### Daily Practice Plan (30-45 minutes per day)
 
@@ -2220,7 +2220,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 - Add index finger (now E major), listen
 - Remove index (back to Em), listen
 - Repeat 15 times
-- Goal: Understand ONE finger changes minor → major
+- Goal: Understand ONE finger changes minor â†’ major
 
 **35-40 min: Cool Down & Assessment**
 - Form E major shape 5 times slowly
@@ -2308,15 +2308,15 @@ THIS IS WHY IT'S CALLED A SHAPE!
 - Em shape: 5 times
 - Am shape: 5 times
 
-**5-15 min: Em ↔ E Major Transition**
+**5-15 min: Em â†” E Major Transition**
 - Set metronome: 50 BPM
-- Em (4 beats) → E major (4 beats)
+- Em (4 beats) â†’ E major (4 beats)
 - 20 complete cycles (Em-E-Em-E...)
 - Goal: Smooth transition, index finger addition feels natural
 
-**15-30 min: E Major ↔ A Major Transition**
+**15-30 min: E Major â†” A Major Transition**
 - Set metronome: 45 BPM
-- E major (4 beats) → A major (4 beats)
+- E major (4 beats) â†’ A major (4 beats)
 - 25 complete cycles
 - This is harder (all fingers move)
 - Focus: Accuracy, not speed
@@ -2338,7 +2338,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 ### **Day 5** - Speed Building & Song Introduction (45 minutes)
 
 **0-5 min: Warm-up**
-- Shape circle: Em → Am → D → G → C → E → A
+- Shape circle: Em â†’ Am â†’ D â†’ G â†’ C â†’ E â†’ A
 - One complete cycle, slow
 - Get all seven shapes in sequence
 
@@ -2349,9 +2349,9 @@ THIS IS WHY IT'S CALLED A SHAPE!
   - Form, pluck each string individually
 - Goal: E major is becoming automatic
 
-**15-25 min: E ↔ A Transition Practice**
+**15-25 min: E â†” A Transition Practice**
 - Set metronome: 50 BPM
-- E major (4 beats) → A major (4 beats)
+- E major (4 beats) â†’ A major (4 beats)
 - 30 complete cycles
 - Goal: Transition under 2 seconds
 
@@ -2363,9 +2363,9 @@ THIS IS WHY IT'S CALLED A SHAPE!
 - Don't worry about song speed yet!
 
 **40-45 min: Progress Assessment**
-- Can you form E major in under 3 seconds? ✓
-- Can you form A major in under 3 seconds? ✓
-- Can you transition E ↔ A at 50 BPM? ✓
+- Can you form E major in under 3 seconds? âœ“
+- Can you form A major in under 3 seconds? âœ“
+- Can you transition E â†” A at 50 BPM? âœ“
 - If yes to all: Great progress! Continue to Day 6
 - If no: Spend another day at this level
 
@@ -2386,20 +2386,20 @@ THIS IS WHY IT'S CALLED A SHAPE!
 
 **10-20 min: Shape Circle Challenge**
 - Set metronome: 50 BPM
-- Em → Am → D → G → C → E → A → Em
+- Em â†’ Am â†’ D â†’ G â†’ C â†’ E â†’ A â†’ Em
 - That's 28 beats for one cycle
 - Complete 3 cycles with no mistakes
 - If mistakes, slow down to 45 BPM
 
 **20-35 min: "Wild Thing" Practice**
 - Set metronome: 60 BPM
-- A → D → E → D progression
+- A â†’ D â†’ E â†’ D progression
 - Add Basic Down-Up strumming (from Lesson 5)
 - Play through 15 times
 - Goal: Smooth shape changes with rhythm
 
 **35-45 min: "La Bamba" Introduction**
-- Learn progression: C → G → E
+- Learn progression: C â†’ G â†’ E
 - Set metronome: 60 BPM
 - All down strums
 - Play through 10 times
@@ -2416,8 +2416,8 @@ THIS IS WHY IT'S CALLED A SHAPE!
 **5-15 min: Speed Test**
 - E major formation: How fast? (goal: under 2 seconds)
 - A major formation: How fast? (goal: under 2 seconds)
-- Em ↔ E transition: How fast? (goal: under 2 seconds)
-- E ↔ A transition at 60 BPM: Clean? (goal: yes)
+- Em â†” E transition: How fast? (goal: under 2 seconds)
+- E â†” A transition at 60 BPM: Clean? (goal: yes)
 
 **15-25 min: Shape Circle at Target Tempo**
 - Set metronome: 55-60 BPM
@@ -2467,7 +2467,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 
 ---
 
-## 🎯 NEXT LESSON PREVIEW
+## ðŸŽ¯ NEXT LESSON PREVIEW
 
 ### Lesson 7: Foundation Complete - Review & First Performance
 
@@ -2477,7 +2477,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 - Complete song performances (3-4 full songs)
 - First "performance day" (play through complete setlist)
 - Skills assessment checkpoint (are you ready for Lesson 8?)
-- Celebration of your foundation phase completion! 🎉
+- Celebration of your foundation phase completion! ðŸŽ‰
 
 **How Today Prepares You:**
 - E major and A major shapes complete your foundation
@@ -2499,7 +2499,7 @@ After Lesson 7, you move into **Expansion Phase** (Lessons 8-14):
 ---
 
 
-## 💭 MOTIVATIONAL NOTE
+## ðŸ’­ MOTIVATIONAL NOTE
 
 ### You're Building Something Amazing!
 
@@ -2564,13 +2564,13 @@ They think:
 **With E major and A major, you now have:**
 
 **Your Complete Foundation Shape Vocabulary:**
-1. Em shape ✓
-2. Am shape ✓
-3. D shape ✓
-4. G shape ✓
-5. C shape ✓
-6. E major shape ✓ (NEW!)
-7. A major shape ✓ (NEW!)
+1. Em shape âœ“
+2. Am shape âœ“
+3. D shape âœ“
+4. G shape âœ“
+5. C shape âœ“
+6. E major shape âœ“ (NEW!)
+7. A major shape âœ“ (NEW!)
 
 **That's SEVEN chord shapes!**
 
@@ -2669,11 +2669,11 @@ You're starting from "I already know the shape!"
 Six weeks ago, you couldn't play ANYTHING.
 
 Today:
-- Seven chord shapes ✓
-- Multiple strumming patterns ✓
-- Complete songs ✓
-- Shape philosophy understanding ✓
-- Ready for Lesson 7 ✓
+- Seven chord shapes âœ“
+- Multiple strumming patterns âœ“
+- Complete songs âœ“
+- Shape philosophy understanding âœ“
+- Ready for Lesson 7 âœ“
 
 **You're a GUITARIST now!**
 
@@ -2738,15 +2738,15 @@ You're learning:
 
 **Now pick up that guitar and form that E major shape!**
 
-**You've got this!** 🎸💪
+**You've got this!** ðŸŽ¸ðŸ’ª
 
 ---
 
 **END OF LESSON 6**
 
-**See you in Lesson 7 for Foundation Phase Review & Celebration!** 🎉🎸
+**See you in Lesson 7 for Foundation Phase Review & Celebration!** ðŸŽ‰ðŸŽ¸
 
-**YOU'RE ALMOST THERE!** 🚀
+**YOU'RE ALMOST THERE!** ðŸš€
 
 ---
 
@@ -2758,15 +2758,15 @@ You're learning:
 **Completion Time:** 5-7 days
 **Foundation Phase Status:** NEARLY COMPLETE! (One lesson to go!)
 
-**NEXT UP:** Lesson 7 - Foundation Review & Assessment 🎯
+**NEXT UP:** Lesson 7 - Foundation Review & Assessment ðŸŽ¯
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
-[**→ Open Practice Tracker**](/practice?lesson=6)
+[**â†’ Open Practice Tracker**](/practice?lesson=6)
 
 The practice tracker helps you:
 - Record what you practiced
@@ -2774,7 +2774,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

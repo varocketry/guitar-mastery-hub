@@ -42,6 +42,11 @@ Here's how to read the diagrams you'll see:
 
 ![Hand Diagram](/chord_diagrams/hand_diagram.png)
 
+I made this diagram to illustrate several things. First of all, the finger numbering for your fret hand. Index finger is 1, middle finger is 2, ring finger 3, and pinky is numbered 4. On the middle fretboard diagram, that shows us how the strings are numbered and what the standard tuning is. In other words, the thickest string is the E string number 6. The thinnest string on the right side of the fretboard is an E, also 1 octave higher, but it's string number 1. So the strings go from thinnest to thickest, 1, 2, 3, 4, 5, 6. The diagram on the right hand side just illustrates that fretboard numbering. Beginning just below the white nut on the head of the guitar, there's numbered sequentially 1, 2, 3, 4, comma, etc. period
+
+It's probably also useful to mention any number of simple mnemonics that can help you remember the names of the strings. I like to use ERddy Ate Dynamite Goodbye Eddy. But there are others, suuch as:  Elephants And Donkeys Grow Big Ears. Another would be Every Ape Deserves Good Bananas Everyday. 
+And for my military veteran buddies, a little saltier version would be Every Asshole Deserves Good Booze Eventually.  Your choice, one of them will stick with you.
+
 **Fun Fact**: The guitar has been teaching people these exact two chords first for over 100 years. You're part of a long tradition!
 
 ---

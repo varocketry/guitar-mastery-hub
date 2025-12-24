@@ -2,14 +2,14 @@
 
 ## Lesson Overview
 
-⏱️ **TYPICAL COMPLETION TIME**: 2-3 days  
-📅 **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-📂 **PHASE**: Foundation (Lessons 1-60)  
-🎯 **PREREQUISITES**: Lesson 1 complete (can play Em and Am chords cleanly)
+â±ï¸ **TYPICAL COMPLETION TIME**: 2-3 days  
+ðŸ“… **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
+ðŸ“‚ **PHASE**: Foundation (Lessons 1-60)  
+ðŸŽ¯ **PREREQUISITES**: Lesson 1 complete (can play Em and Am chords cleanly)
 
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## ðŸŽ“ LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Form the D major chord using three fingers
@@ -20,7 +20,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: Major vs. Minor Chords
+## ðŸ“– THEORY: Major vs. Minor Chords
 
 ### Understanding "Happy" and "Sad" Sounds
 
@@ -47,7 +47,7 @@ This single note change completely transforms the emotional quality.
 
 ---
 
-## 🎸 YOUR THIRD CHORD: D Major
+## ðŸŽ¸ YOUR THIRD CHORD: D Major
 
 ### D Major Chord Diagram
 
@@ -78,7 +78,7 @@ This single note change completely transforms the emotional quality.
 
 ---
 
-## 🎸 STEP-BY-STEP: FORMING D MAJOR
+## ðŸŽ¸ STEP-BY-STEP: FORMING D MAJOR
 
 ### Method 1: The "Triangle" Approach (Recommended)
 
@@ -130,7 +130,7 @@ Some people find it easier to build the chord differently:
 
 ---
 
-## 🎵 PRACTICE ROUTINE FOR D MAJOR
+## ðŸŽµ PRACTICE ROUTINE FOR D MAJOR
 
 ### Exercise 1: The "Triangle Builder" (5 minutes)
 
@@ -200,7 +200,7 @@ Some people find it easier to build the chord differently:
 
 ---
 
-## 🔄 THREE-CHORD COMBINATIONS
+## ðŸ”„ THREE-CHORD COMBINATIONS
 
 ### Now You Have Three Chords!
 
@@ -212,7 +212,7 @@ With Em, Am, and D, you can now play **thousands of songs**. Let's practice the 
 1. Form Em chord
 2. Look at your fingers - notice the 2nd fret positions
 3. When you switch to D, your middle finger barely moves! (stays on 2nd fret area)
-4. Practice: Em → D → Em → D (repeat 10 times)
+4. Practice: Em â†’ D â†’ Em â†’ D (repeat 10 times)
 5. One-minute change test: How many clean switches?
    - Your number: _____ switches
 
@@ -221,19 +221,19 @@ With Em, Am, and D, you can now play **thousands of songs**. Let's practice the 
 2. Switch to D chord
 3. Notice: Completely different finger positions
 4. This is harder than Em to D
-5. Practice: Am → D → Am → D (repeat 10 times)
+5. Practice: Am â†’ D â†’ Am â†’ D (repeat 10 times)
 6. One-minute change test: How many clean switches?
    - Your number: _____ switches
 
 **Switch 3: D to Em** (2 minutes)
 1. Start with D
 2. Switch to Em
-3. Practice: D → Em → D → Em (repeat 10 times)
+3. Practice: D â†’ Em â†’ D â†’ Em (repeat 10 times)
 
 **Switch 4: D to Am** (2 minutes)
 1. Start with D
 2. Switch to Am
-3. Practice: D → Am → D → Am (repeat 10 times)
+3. Practice: D â†’ Am â†’ D â†’ Am (repeat 10 times)
 
 **Don't worry if these are slow!** You're learning 6 different transitions (each chord to each other chord in both directions). This takes time.
 
@@ -243,7 +243,7 @@ With Em, Am, and D, you can now play **thousands of songs**. Let's practice the 
 
 **The Pattern**:
 ```
-Em → Am → D → Em → Am → D → (repeat)
+Em â†’ Am â†’ D â†’ Em â†’ Am â†’ D â†’ (repeat)
 ```
 
 **How to Practice**:
@@ -270,7 +270,7 @@ Em → Am → D → Em → Am → D → (repeat)
 
 ---
 
-## 🎵 SONG APPLICATIONS
+## ðŸŽµ SONG APPLICATIONS
 
 ### Song 1: "Knockin' on Heaven's Door" by Bob Dylan
 
@@ -361,7 +361,7 @@ Em | Em | D | D |
 
 ---
 
-## 🎥 VIDEO RESOURCES
+## ðŸŽ¥ VIDEO RESOURCES
 
 ### Primary Instruction Videos
 
@@ -393,7 +393,7 @@ https://www.youtube.com/watch?v=p4kVWCSzfK8
 
 ---
 
-## ✅ SUCCESS CRITERIA
+## âœ… SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
@@ -402,14 +402,14 @@ Check these off honestly:
 - [ ] **I can form D major cleanly** - All 4 strings ring clearly
 - [ ] **I can avoid hitting the E and A strings** - Consistently strum only 4 strings
 - [ ] **I can form D major in under 4 seconds** - From fingers off guitar
-- [ ] **I can switch Em → D smoothly** - Takes less than 3 seconds
-- [ ] **I can switch Am → D smoothly** - Takes less than 4 seconds  
-- [ ] **I can switch D → Em and D → Am** - In both directions
-- [ ] **I completed the "Circle of Three"** - Em → Am → D loop, at least 5 cycles in 1 minute
+- [ ] **I can switch Em â†’ D smoothly** - Takes less than 3 seconds
+- [ ] **I can switch Am â†’ D smoothly** - Takes less than 4 seconds  
+- [ ] **I can switch D â†’ Em and D â†’ Am** - In both directions
+- [ ] **I completed the "Circle of Three"** - Em â†’ Am â†’ D loop, at least 5 cycles in 1 minute
 - [ ] **I played one three-chord song pattern** - At least the basic progression
 - [ ] **I hear the difference** - Can tell D major sounds "happier" than Em and Am
 
-### ⏰ NOT READY YET?
+### â° NOT READY YET?
 
 **That's fine!** Most learners spend 2-3 days on this lesson. Here's what to focus on:
 
@@ -437,7 +437,7 @@ Check these off honestly:
 - Then put it all together
 - Small steps lead to big results!
 
-### 💡 REMEMBER
+### ðŸ’¡ REMEMBER
 
 **Most learners spend 2-3 days on this lesson.**
 
@@ -445,7 +445,7 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 ---
 
-## 🔧 TROUBLESHOOTING
+## ðŸ”§ TROUBLESHOOTING
 
 ### Problem: Can't Get All Strings to Ring on D Major
 
@@ -456,26 +456,26 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 **Solutions by String**:
 
 **D String (open) sounds muted**:
-- ✅ Your index finger (on G string) is probably touching it
-- ✅ Solution: Arch your index finger more - come down steeper on the string
-- ✅ Make sure you're playing on fingertip, not pad
-- ✅ This is the #1 problem with D major!
+- âœ… Your index finger (on G string) is probably touching it
+- âœ… Solution: Arch your index finger more - come down steeper on the string
+- âœ… Make sure you're playing on fingertip, not pad
+- âœ… This is the #1 problem with D major!
 
 **G String (index finger) sounds buzzy**:
-- ✅ Not pressing hard enough - press firmer
-- ✅ Not close enough to fret - move finger right next to the 2nd fret wire
-- ✅ Finger too flat - arch your finger more
+- âœ… Not pressing hard enough - press firmer
+- âœ… Not close enough to fret - move finger right next to the 2nd fret wire
+- âœ… Finger too flat - arch your finger more
 
 **B String (ring finger) sounds buzzy**:
-- ✅ Ring finger is the weakest finger for most people
-- ✅ Press MUCH harder than you think you need to
-- ✅ Make sure you're on the fingertip
-- ✅ Be patient - ring finger strength takes time to develop
+- âœ… Ring finger is the weakest finger for most people
+- âœ… Press MUCH harder than you think you need to
+- âœ… Make sure you're on the fingertip
+- âœ… Be patient - ring finger strength takes time to develop
 
 **e String (middle finger) sounds buzzy**:
-- ✅ Not pressing hard enough
-- ✅ Not close to fret wire
-- ✅ Middle finger might be touching B string - spread fingers apart more
+- âœ… Not pressing hard enough
+- âœ… Not close to fret wire
+- âœ… Middle finger might be touching B string - spread fingers apart more
 
 **Diagnosis Method**:
 1. Form D chord
@@ -496,25 +496,25 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 **Solutions**:
 
 **Solution 1: Visual targeting**
-- ✅ Look at the D string before you strum
-- ✅ Aim to start your strum exactly on the D string
-- ✅ After 20-30 repetitions, your hand will remember
+- âœ… Look at the D string before you strum
+- âœ… Aim to start your strum exactly on the D string
+- âœ… After 20-30 repetitions, your hand will remember
 
 **Solution 2: Lighter strumming**
-- ✅ You might be strumming too hard and wide
-- ✅ Use smaller, more controlled strum motions
-- ✅ Gentle is fine - the guitar will resonate
+- âœ… You might be strumming too hard and wide
+- âœ… Use smaller, more controlled strum motions
+- âœ… Gentle is fine - the guitar will resonate
 
 **Solution 3: Thumb muting**
-- ✅ Rest your thumb lightly on the low E string
-- ✅ This mutes it even if you accidentally hit it
-- ✅ Many guitarists do this automatically
+- âœ… Rest your thumb lightly on the low E string
+- âœ… This mutes it even if you accidentally hit it
+- âœ… Many guitarists do this automatically
 
 **Solution 4: Practice accuracy**
-- ✅ Strum very slowly and deliberately 10 times
-- ✅ Focus entirely on hitting only 4 strings
-- ✅ Count the strings out loud: "D, G, B, e" as you strum
-- ✅ Gradually speed up while maintaining accuracy
+- âœ… Strum very slowly and deliberately 10 times
+- âœ… Focus entirely on hitting only 4 strings
+- âœ… Count the strings out loud: "D, G, B, e" as you strum
+- âœ… Gradually speed up while maintaining accuracy
 
 ---
 
@@ -528,25 +528,25 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 **Solutions**:
 
 **Solution 1: Check finger angles**
-- ✅ All three fingers should come down at steep angles (on tips)
-- ✅ If fingers are too flat, they'll take up too much space
-- ✅ Arch your fingers more - imagine you're holding a small ball
+- âœ… All three fingers should come down at steep angles (on tips)
+- âœ… If fingers are too flat, they'll take up too much space
+- âœ… Arch your fingers more - imagine you're holding a small ball
 
 **Solution 2: Spread fingers apart**
-- ✅ Don't bunch fingers together
-- ✅ Leave a tiny space between each finger
-- ✅ Think of fingers as three separate units, not one chunk
+- âœ… Don't bunch fingers together
+- âœ… Leave a tiny space between each finger
+- âœ… Think of fingers as three separate units, not one chunk
 
 **Solution 3: Finger fitness**
-- ✅ Practice finger independence exercises:
+- âœ… Practice finger independence exercises:
   - Hold hand up, spread fingers wide, hold for 10 seconds
   - Repeat 5 times daily
-- ✅ Your hand will quickly adapt and become more flexible
+- âœ… Your hand will quickly adapt and become more flexible
 
 **Solution 4: Alternative finger placement**
-- ✅ Some people use: index-middle-pinky (instead of index-middle-ring)
-- ✅ Try it if the standard fingering is very uncomfortable
-- ✅ But try to stick with index-middle-ring if possible (it's standard for a reason)
+- âœ… Some people use: index-middle-pinky (instead of index-middle-ring)
+- âœ… Try it if the standard fingering is very uncomfortable
+- âœ… But try to stick with index-middle-ring if possible (it's standard for a reason)
 
 ---
 
@@ -560,33 +560,33 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 **Solutions**:
 
 **Solution 1: Identify the "anchor"**
-- ✅ When switching Em to D: Your middle finger barely moves! (stays on 2nd fret area)
-- ✅ Use this as an anchor - keep that finger down while other fingers move
-- ✅ This makes the switch much faster
+- âœ… When switching Em to D: Your middle finger barely moves! (stays on 2nd fret area)
+- âœ… Use this as an anchor - keep that finger down while other fingers move
+- âœ… This makes the switch much faster
 
 **Solution 2: Visualize before moving**
-- ✅ While playing Em, look at your fingers
-- ✅ Picture where they need to go for D
-- ✅ Then move them all at once (not one at a time)
-- ✅ Mental preparation speeds up physical movement
+- âœ… While playing Em, look at your fingers
+- âœ… Picture where they need to go for D
+- âœ… Then move them all at once (not one at a time)
+- âœ… Mental preparation speeds up physical movement
 
 **Solution 3: Chunk the movement**
-- ✅ Think of the switch as ONE movement, not three separate finger movements
-- ✅ Your brain learns to move all fingers together as a unit
-- ✅ This comes with repetition
+- âœ… Think of the switch as ONE movement, not three separate finger movements
+- âœ… Your brain learns to move all fingers together as a unit
+- âœ… This comes with repetition
 
 **Solution 4: Slow motion practice**
-- ✅ Do the switch in extreme slow motion 10 times
-- ✅ Watch each finger's path
-- ✅ Notice any inefficient movements
-- ✅ Optimize the motion
-- ✅ Then gradually speed up
+- âœ… Do the switch in extreme slow motion 10 times
+- âœ… Watch each finger's path
+- âœ… Notice any inefficient movements
+- âœ… Optimize the motion
+- âœ… Then gradually speed up
 
 **Solution 5: The one-minute changes**
-- ✅ Set timer for 1 minute
-- ✅ Switch back and forth between the two chords
-- ✅ Count your clean switches
-- ✅ Do this daily - your speed will double quickly
+- âœ… Set timer for 1 minute
+- âœ… Switch back and forth between the two chords
+- âœ… Count your clean switches
+- âœ… Do this daily - your speed will double quickly
 
 ---
 
@@ -600,33 +600,33 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 **Solutions**:
 
 **Solution 1: Check your tuning**
-- ✅ If your guitar is out of tune, even perfect technique sounds wrong
-- ✅ Use a tuner app (GuitarTuna is free)
-- ✅ Make sure all 6 strings are in tune
-- ✅ This is often the culprit!
+- âœ… If your guitar is out of tune, even perfect technique sounds wrong
+- âœ… Use a tuner app (GuitarTuna is free)
+- âœ… Make sure all 6 strings are in tune
+- âœ… This is often the culprit!
 
 **Solution 2: Listen to each string**
-- ✅ The 4 strings of D major should sound like: D - A - D - F#
-- ✅ Play along with a video tutorial
-- ✅ Match your sound to theirs, string by string
+- âœ… The 4 strings of D major should sound like: D - A - D - F#
+- âœ… Play along with a video tutorial
+- âœ… Match your sound to theirs, string by string
 
 **Solution 3: Check fret positions**
-- ✅ Double-check you're on the right frets:
+- âœ… Double-check you're on the right frets:
   - Index: G string, 2nd fret
   - Middle: e string, 2nd fret
   - Ring: B string, 3rd fret (not 2nd!)
-- ✅ Easy mistake: Putting ring finger on 2nd fret instead of 3rd
+- âœ… Easy mistake: Putting ring finger on 2nd fret instead of 3rd
 
 **Solution 4: Record and compare**
-- ✅ Record yourself playing D major
-- ✅ Play a YouTube video of D major
-- ✅ Listen to both back-to-back
-- ✅ Identify the difference
-- ✅ Adjust accordingly
+- âœ… Record yourself playing D major
+- âœ… Play a YouTube video of D major
+- âœ… Listen to both back-to-back
+- âœ… Identify the difference
+- âœ… Adjust accordingly
 
 ---
 
-## 📅 PRACTICE SCHEDULE FOR THIS LESSON
+## ðŸ“… PRACTICE SCHEDULE FOR THIS LESSON
 
 ### Daily Practice Plan (30-40 minutes)
 
@@ -656,7 +656,7 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 ---
 
-## 🎯 NEXT LESSON PREVIEW
+## ðŸŽ¯ NEXT LESSON PREVIEW
 
 ### Lesson 3: Fourth & Fifth Chords - G Major & C Major
 
@@ -678,7 +678,7 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 
 
-## 💭 MOTIVATIONAL NOTE
+## ðŸ’­ MOTIVATIONAL NOTE
 
 ### You're Making Real Progress!
 
@@ -712,13 +712,13 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 **Fun Fact**: Scientists have studied guitarists' brains with MRI scans. After just 2-3 weeks of practice, they can see physical changes in brain structure. Your brain is literally being rewired to be a musician. That's happening RIGHT NOW!
 
-**You're not just learning chords - you're becoming a guitarist.** 🎸
+**You're not just learning chords - you're becoming a guitarist.** ðŸŽ¸
 
 **Keep showing up. Keep practicing. The consistency is transforming you.**
 
 ---
 
-## 🔗 ADDITIONAL RESOURCES
+## ðŸ”— ADDITIONAL RESOURCES
 
 ### Songs That Use Em, Am, and D
 
@@ -747,11 +747,11 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 ---
 
-## 🎉 EXCELLENT WORK ON LESSON 2! 🎉
+## ðŸŽ‰ EXCELLENT WORK ON LESSON 2! ðŸŽ‰
 
 You now know THREE chords. That's enough to play hundreds of songs! When you can check off all the success criteria, mark this lesson complete and move on to Lesson 3, where we'll add TWO more chords in one lesson!
 
-**See you in Lesson 3!** 🎸
+**See you in Lesson 3!** ðŸŽ¸
 
 ---
 

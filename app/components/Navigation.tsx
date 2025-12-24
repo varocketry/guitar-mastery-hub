@@ -2,16 +2,38 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import { usePathname } from 'next/navigation'
+import { usePathname, useRouter } from 'next/navigation'
+import { createClient } from '@supabase/supabase-js'
+
+const supabase = createClient(
+  process.env.NEXT_PUBLIC_SUPABASE_URL!,
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+)
 
 export default function Navigation() {
   const [isOpen, setIsOpen] = useState(false)
   const [isLessonsOpen, setIsLessonsOpen] = useState(false)
   const [isProfileOpen, setIsProfileOpen] = useState(false)
+  const [isSigningOut, setIsSigningOut] = useState(false)
   const pathname = usePathname()
+  const router = useRouter()
 
   const isActive = (path: string) => {
     return pathname === path || pathname.startsWith(path + '/')
+  }
+
+  const handleSignOut = async () => {
+    setIsSigningOut(true)
+    setIsProfileOpen(false)
+    
+    try {
+      await supabase.auth.signOut()
+      router.push('/')
+      router.refresh()
+    } catch (error) {
+      console.error('Error signing out:', error)
+      setIsSigningOut(false)
+    }
   }
 
   const lessons = [
@@ -73,7 +95,7 @@ export default function Navigation() {
               {isLessonsOpen && (
                 <div className="absolute top-full left-0 mt-2 w-96 bg-slate-800 rounded-lg shadow-xl border border-slate-700 max-h-96 overflow-y-auto z-50">
                   <div className="p-4">
-                    <div className="text-xs font-semibold text-slate-400 mb-2">FOUNDATION PHASE (1-14)</div>
+                    <div className="text-xs font-semibold text-slate-400 mb-2">FREE TRIAL (1-10)</div>
                     {lessons.slice(0, 14).map(lesson => (
                       <Link
                         key={lesson.number}
@@ -147,7 +169,11 @@ export default function Navigation() {
                 className="flex items-center space-x-2 text-slate-300 hover:text-white transition"
               >
       			 <div className="w-8 h-8 bg-gold rounded-full flex items-center justify-center text-navy font-semibold">
-                  U
+                  {isSigningOut ? (
+                    <span className="text-xs">...</span>
+                  ) : (
+                    'U'
+                  )}
                 </div>
               </button>
               
@@ -168,13 +194,11 @@ export default function Navigation() {
                     Settings
                   </Link>
                   <button
-                    onClick={() => {
-                      setIsProfileOpen(false)
-                      // Add sign out logic here
-                    }}
-                    className="block w-full text-left px-4 py-3 text-slate-300 hover:bg-slate-700 transition border-t border-slate-700"
+                    onClick={handleSignOut}
+                    disabled={isSigningOut}
+                    className="block w-full text-left px-4 py-3 text-slate-300 hover:bg-slate-700 transition border-t border-slate-700 disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    Sign Out
+                    {isSigningOut ? 'Signing Out...' : 'Sign Out'}
                   </button>
                 </div>
               )}
@@ -222,8 +246,12 @@ export default function Navigation() {
             <Link href="/settings" className="block text-slate-300 hover:text-white py-2">
               Settings
             </Link>
-            <button className="block text-slate-300 hover:text-white py-2 w-full text-left">
-              Sign Out
+            <button 
+              onClick={handleSignOut}
+              disabled={isSigningOut}
+              className="block text-slate-300 hover:text-white py-2 w-full text-left disabled:opacity-50"
+            >
+              {isSigningOut ? 'Signing Out...' : 'Sign Out'}
             </button>
           </div>
         </div>

@@ -1,13 +1,13 @@
 # Lesson 9: Introduction to Music Reading for Guitarists
 
-**⏱️ TYPICAL COMPLETION TIME**: 4-6 days  
-**📅 PRACTICE SESSION LENGTH**: 35-50 minutes per session  
-**📍 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-8 complete (7 open chord shapes + 4 strumming patterns mastered)
+**â±ï¸ TYPICAL COMPLETION TIME**: 4-6 days  
+**ðŸ“… PRACTICE SESSION LENGTH**: 35-50 minutes per session  
+**ðŸ“ PHASE**: Foundation (Lessons 1-30)  
+**ðŸŽ¯ PREREQUISITES**: Lessons 1-8 complete (7 open chord shapes + 4 strumming patterns mastered)
 
 ---
 
-## 🎯 BREAKING FREE FROM LIMITATIONS
+## ðŸŽ¯ BREAKING FREE FROM LIMITATIONS
 
 **Right now, you can play dozens of songs.**
 
@@ -40,12 +40,12 @@
 
 **After today, you'll be able to:**
 
-✅ **Go to Ultimate-Guitar.com** and read any song  
-✅ **Look at tablature** and know exactly what to play  
-✅ **See a chord chart** and understand the structure  
-✅ **Read rhythm notation** and play timing correctly  
-✅ **Write down your own ideas** so you don't forget them  
-✅ **Communicate with other musicians** through notation
+âœ… **Go to Ultimate-Guitar.com** and read any song  
+âœ… **Look at tablature** and know exactly what to play  
+âœ… **See a chord chart** and understand the structure  
+âœ… **Read rhythm notation** and play timing correctly  
+âœ… **Write down your own ideas** so you don't forget them  
+âœ… **Communicate with other musicians** through notation
 
 **This isn't about becoming a music theory expert.**
 
@@ -238,21 +238,21 @@ Verse:
 
 **By the end of this lesson:**
 
-✅ You'll understand TAB, chord charts, and lead sheets  
-✅ You'll read simple songs slowly but accurately  
-✅ You'll know WHERE to find guitar music online  
-✅ You'll document your own ideas in writing  
-✅ You'll be independent in your learning
+âœ… You'll understand TAB, chord charts, and lead sheets  
+âœ… You'll read simple songs slowly but accurately  
+âœ… You'll know WHERE to find guitar music online  
+âœ… You'll document your own ideas in writing  
+âœ… You'll be independent in your learning
 
 **You'll cross from "can play what I'm shown" to "can learn anything independently."**
 
 **That's true musical freedom.**
 
-**Let's learn to read.** 🎸
+**Let's learn to read.** ðŸŽ¸
 
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## ðŸŽ“ LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Read guitar tablature (TAB) fluently for single notes and chord shapes
@@ -266,7 +266,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎯 FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
+## ðŸŽ¯ FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
 
 **The most important rule in guitar learning:**
 
@@ -381,7 +381,7 @@ Reading music is NOT a separate skill from playing - it's integrated. You need t
 
 ---
 
-## 📖 THEORY: Why Learn to Read Music as a Guitarist?
+## ðŸ“– THEORY: Why Learn to Read Music as a Guitarist?
 
 ### The Great News: Guitarists Have It Easy!
 
@@ -389,7 +389,7 @@ Reading music is NOT a separate skill from playing - it's integrated. You need t
 
 **Traditional Staff Notation** (what piano and orchestra musicians use):
 ```
-𝄞 Lines, spaces, note heads, stems, clefs, key signatures
+ð„ž Lines, spaces, note heads, stems, clefs, key signatures
 ```
 - Complex system (takes years to master)
 - Requires understanding music theory
@@ -428,7 +428,7 @@ Reading music is NOT a separate skill from playing - it's integrated. You need t
 
 ---
 
-## 🎸 READING METHOD #1: TABLATURE (TAB)
+## ðŸŽ¸ READING METHOD #1: TABLATURE (TAB)
 
 ### What is Tablature?
 
@@ -687,7 +687,7 @@ D|---------------|-------------------|---------------|-----------|
 
 ---
 
-## 🎸 READING METHOD #2: CHORD DIAGRAMS
+## ðŸŽ¸ READING METHOD #2: CHORD DIAGRAMS
 
 ### What Are Chord Diagrams?
 
@@ -705,15 +705,15 @@ D|---------------|-------------------|---------------|-----------|
 **Here's what you see:**
 
 ```
-   E A D G B e  ← String names
-   ╔═══════════
-   ║ ║ ║ ║ ║ ║  ← Nut (top of fretboard)
-   ╠═══════════  Fret 1
-   ║ ║ ║ ║ ║ ║
-   ╠═══════════  Fret 2
-   ║ ║ ║ ║ ║ ║
-   ╠═══════════  Fret 3
-   ║ ║ ║ ║ ║ ║
+   E A D G B e  â† String names
+   â•”â•â•â•â•â•â•â•â•â•â•â•
+   â•‘ â•‘ â•‘ â•‘ â•‘ â•‘  â† Nut (top of fretboard)
+   â• â•â•â•â•â•â•â•â•â•â•â•  Fret 1
+   â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+   â• â•â•â•â•â•â•â•â•â•â•â•  Fret 2
+   â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+   â• â•â•â•â•â•â•â•â•â•â•â•  Fret 3
+   â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
 ```
 
 **Components:**
@@ -733,13 +733,13 @@ D|---------------|-------------------|---------------|-----------|
 ```
 Em-shape
     E A D G B e
-    O O • • O O  ← O = open, • = play
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ 2 3 ║ ║ ║  ← Numbers = which finger
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
+    O O â€¢ â€¢ O O  â† O = open, â€¢ = play
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ 2 3 â•‘ â•‘ â•‘  â† Numbers = which finger
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
 ```
 
 **How to read this:**
@@ -760,48 +760,48 @@ Em-shape
 ```
 Am-shape
     E A D G B e
-    X O • • • O
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ ║ 2 3 1 ║
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
+    X O â€¢ â€¢ â€¢ O
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ 2 3 1 â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
 ```
 
 **D-Shape:**
 ```
 D-shape
     E A D G B e
-    X X O • • •
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ ║ ║ 1 3 2
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
+    X X O â€¢ â€¢ â€¢
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ 1 3 2
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
 ```
 
 **G-Shape:**
 ```
 G-shape
     E A D G B e
-    • O O O • •
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    3 ║ ║ ║ 4 4
+    â€¢ O O O â€¢ â€¢
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    3 â•‘ â•‘ â•‘ 4 4
 ```
 
 **C-Shape:**
 ```
 C-shape
     E A D G B e
-    X • • O • O
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ 3 2 ║ 1 ║
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
+    X â€¢ â€¢ O â€¢ O
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ 3 2 â•‘ 1 â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
 ```
 
 **Instructions:**
@@ -832,12 +832,12 @@ C-shape
 ```
 E-shape
     E A D G B e
-    O • • • O O
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ 2 3 1 ║ ║
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
+    O â€¢ â€¢ â€¢ O O
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ 2 3 1 â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
 ```
 
 **How to read this:**
@@ -872,7 +872,7 @@ E-shape
 
 ---
 
-## 🎸 READING METHOD #3: RHYTHM NOTATION
+## ðŸŽ¸ READING METHOD #3: RHYTHM NOTATION
 
 ### Why Rhythm Notation Matters
 
@@ -1041,7 +1041,7 @@ Em-shape                Am-shape                D-shape
 
 ---
 
-## 🎸 READING METHOD #4: LEAD SHEETS
+## ðŸŽ¸ READING METHOD #4: LEAD SHEETS
 
 ### What Are Lead Sheets?
 
@@ -1163,7 +1163,7 @@ Oh stand, stand by me, stand by me
 
 ---
 
-## 🎸 NAVIGATING ONLINE RESOURCES
+## ðŸŽ¸ NAVIGATING ONLINE RESOURCES
 
 ### Ultimate Guitar (ultimate-guitar.com)
 
@@ -1280,7 +1280,7 @@ Oh stand, stand by me, stand by me
 
 ---
 
-## 🎸 WRITING YOUR OWN TAB AND CHARTS
+## ðŸŽ¸ WRITING YOUR OWN TAB AND CHARTS
 
 ### Why Write Your Own?
 
@@ -1378,12 +1378,12 @@ E|------------------------
 ```
 Chord Name
     E A D G B e
-    _ _ _ _ _ _  ← Mark O, X, or dot
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║  ← Add finger numbers
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
+    _ _ _ _ _ _  â† Mark O, X, or dot
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘  â† Add finger numbers
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
 ```
 
 ---
@@ -1400,23 +1400,23 @@ Chord Name
 Em-shape
     E A D G B e
     _ _ _ _ _ _
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
 ```
 
 **Solution:**
 ```
 Em-shape
     E A D G B e
-    O O • • O O
-    ║ ║ ║ ║ ║ ║
-    ╠═══════════
-    ║ 2 3 ║ ║ ║
-    ╠═══════════
-    ║ ║ ║ ║ ║ ║
+    O O â€¢ â€¢ O O
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ 2 3 â•‘ â•‘ â•‘
+    â• â•â•â•â•â•â•â•â•â•â•â•
+    â•‘ â•‘ â•‘ â•‘ â•‘ â•‘
 ```
 
 **Goal:** Be able to document shapes you discover or want to remember.
@@ -1443,7 +1443,7 @@ Em-shape
 
 ---
 
-## 🔧 TROUBLESHOOTING
+## ðŸ”§ TROUBLESHOOTING
 
 ### Problem: TAB Looks Upside-Down
 
@@ -1630,7 +1630,7 @@ Em-shape
 
 ---
 
-## ✅ SUCCESS CRITERIA
+## âœ… SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
@@ -1661,7 +1661,7 @@ Em-shape
 - [ ] **I can learn songs without video tutorials** (using only written notation)
 - [ ] **I feel confident finding resources online** (know where to look)
 
-### ⏰ NOT READY YET?
+### â° NOT READY YET?
 
 **Spend more time on:**
 
@@ -1696,7 +1696,7 @@ Em-shape
 - Practice reading 5-10 minutes daily
 - Speed will come naturally with exposure
 
-### 💡 REMEMBER
+### ðŸ’¡ REMEMBER
 
 **This lesson introduces a SKILL, not just knowledge.**
 
@@ -1709,17 +1709,17 @@ Em-shape
 **You're at Week 1 - be patient with yourself!**
 
 Meeting the success criteria means you:
-- ✅ Understand the notation systems
-- ✅ Can read simple examples slowly
-- ✅ Know where to find resources
-- ✅ Can learn songs independently (at slow tempo)
-- ✅ Practiced with proper tempo discipline
+- âœ… Understand the notation systems
+- âœ… Can read simple examples slowly
+- âœ… Know where to find resources
+- âœ… Can learn songs independently (at slow tempo)
+- âœ… Practiced with proper tempo discipline
 
 **Mastery takes months of daily reading practice, not 6 days!**
 
 ---
 
-## 🎯 NEXT LESSON PREVIEW
+## ðŸŽ¯ NEXT LESSON PREVIEW
 
 ### Lesson 10: Fingerstyle Basics
 
@@ -1749,7 +1749,7 @@ Try plucking individual strings with fingers instead of strumming:
 
 ---
 
-## 📝 PRACTICE LOG
+## ðŸ“ PRACTICE LOG
 
 ### Day 1:
 - **TAB practiced:** _______________
@@ -1819,7 +1819,7 @@ Try plucking individual strings with fingers instead of strumming:
 
 ---
 
-## 🎯 FINAL THOUGHTS
+## ðŸŽ¯ FINAL THOUGHTS
 
 **You just learned a superpower: Musical literacy!**
 
@@ -1853,22 +1853,22 @@ Try plucking individual strings with fingers instead of strumming:
 
 **The reading skills you developed today are foundational - they'll serve you for your entire guitar journey.**
 
-**See you in Lesson 10 - Fingerstyle Basics!** 🎸
+**See you in Lesson 10 - Fingerstyle Basics!** ðŸŽ¸
 
 ---
 
-**Lesson 9 Complete!** ✅  
+**Lesson 9 Complete!** âœ…  
 **Next:** Lesson 10 - Fingerstyle Basics (Playing with fingers instead of pick!)
 
 **Word Count:** ~13,500 words
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
-[**→ Open Practice Tracker**](/practice?lesson=9)
+[**â†’ Open Practice Tracker**](/practice?lesson=9)
 
 The practice tracker helps you:
 - Record what you practiced
@@ -1876,7 +1876,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 
