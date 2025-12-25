@@ -1,66 +1,83 @@
 'use client';
 
-import { useEffect } from 'react';
-import { useSearchParams, useRouter } from 'next/navigation';
-import Navigation from '@/app/components/Navigation';
+import { Suspense } from 'react';
+import { useSearchParams } from 'next/navigation';
+import Link from 'next/link';
 
-export default function SuccessPage() {
+function SuccessContent() {
   const searchParams = useSearchParams();
-  const router = useRouter();
   const sessionId = searchParams.get('session_id');
 
-  useEffect(() => {
-    // TODO: You could verify the session here
-    // and update the user's subscription status in Supabase
-  }, [sessionId]);
-
   return (
-    <div className="min-h-screen bg-slate-900">
-      <Navigation />
-      
-      <div className="pt-20">
-        <div className="max-w-2xl mx-auto px-4 py-16 text-center">
-          <div className="bg-white rounded-2xl p-12 shadow-2xl">
-            
-            {/* Success Icon */}
-            <div className="w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
-              <svg className="w-12 h-12 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-              </svg>
-            </div>
-
-            <h1 className="text-4xl font-bold text-navy mb-4">
-              Payment Successful! 🎉
-            </h1>
-            
-            <p className="text-xl text-navy/70 mb-8">
-              Welcome to Guitar Mastery Hub! You now have full access to all Foundation Phase lessons.
-            </p>
-
-            <div className="space-y-4">
-              <a 
-                href="/lessons"
-                className="block w-full bg-gold hover:bg-gold/90 text-navy font-bold py-4 px-8 rounded-lg text-lg transition-all shadow-lg"
-              >
-                Start Learning →
-              </a>
-              
-              <a 
-                href="/dashboard"
-                className="block w-full bg-navy hover:bg-navy-light text-white font-bold py-4 px-8 rounded-lg text-lg transition-all shadow-lg"
-              >
-                Go to Dashboard
-              </a>
-            </div>
-
-            {sessionId && (
-              <p className="text-sm text-navy/40 mt-8">
-                Session ID: {sessionId}
-              </p>
-            )}
+    <div className="min-h-screen bg-gradient-to-b from-slate-900 to-slate-800 flex items-center justify-center px-4">
+      <div className="max-w-md w-full bg-white rounded-lg shadow-xl p-8 text-center">
+        <div className="mb-6">
+          <div className="mx-auto w-16 h-16 bg-green-100 rounded-full flex items-center justify-center">
+            <svg
+              className="w-8 h-8 text-green-600"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M5 13l4 4L19 7"
+              />
+            </svg>
           </div>
         </div>
+
+        <h1 className="text-3xl font-bold text-slate-900 mb-4">
+          Payment Successful! 🎉
+        </h1>
+
+        <p className="text-lg text-slate-600 mb-6">
+          Welcome to Guitar Mastery Hub! Your payment has been processed successfully.
+        </p>
+
+        <div className="bg-slate-50 rounded-lg p-4 mb-6">
+          <p className="text-sm text-slate-700 mb-2">
+            <strong>What's Next?</strong>
+          </p>
+          <ul className="text-sm text-slate-600 space-y-2 text-left">
+            <li>✅ You now have access to all 46 lessons</li>
+            <li>✅ Start with Lesson 1: First Two Chords</li>
+            <li>✅ Learn at your own pace</li>
+            <li>✅ Track your progress as you go</li>
+          </ul>
+        </div>
+
+        {sessionId && (
+          <p className="text-xs text-slate-400 mb-6">
+            Session ID: {sessionId}
+          </p>
+        )}
+
+        <Link
+          href="/lessons"
+          className="inline-block w-full bg-orange-500 hover:bg-orange-600 text-white font-semibold py-3 px-6 rounded-lg transition-colors"
+        >
+          Start Learning Now →
+        </Link>
+
+        <p className="text-sm text-slate-500 mt-6">
+          Check your email for a receipt and welcome message.
+        </p>
       </div>
     </div>
+  );
+}
+
+export default function SuccessPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-gradient-to-b from-slate-900 to-slate-800 flex items-center justify-center">
+        <div className="text-white text-xl">Loading...</div>
+      </div>
+    }>
+      <SuccessContent />
+    </Suspense>
   );
 }
