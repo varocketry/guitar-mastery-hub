@@ -26,6 +26,7 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Guitar Mastery Hub",
   description: "Adult guitar learning platform",
+  charset: "utf-8",
 };
 
 export default function RootLayout({
@@ -35,6 +36,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta charSet="utf-8" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${inter.variable} ${montserrat.variable} antialiased`}
       >
