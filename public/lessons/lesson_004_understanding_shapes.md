@@ -53,7 +53,7 @@ You're not learning new finger patterns today. Instead, you're learning a **new 
 
 > **"Learn shapes, not chords. A chord is just a physical fingering pattern you can move around the fretboard."**
 > 
-> â€” Den Lopez
+> — Den Lopez
 
 **Den Lopez discovered** that most guitar students struggle because they try to memorize hundreds of individual "chords" instead of understanding that there are only **6 core shapes** that create ALL chords on the guitar.
 
@@ -291,11 +291,11 @@ Total: 5 CORE SHAPES mastered!
 ```
 
 **Each shape is a family**:
-- **Em shape** â†’ E major shape (Lesson 6) â†’ E-shape barre chords (Lesson 21)
-- **Am shape** â†’ A major shape (Lesson 8) â†’ A-shape barre chords (Lesson 22)
-- **D shape** â†’ D major variations
-- **G shape** â†’ G major variations
-- **C shape** â†’ C major variations
+- **Em shape** → E major shape (Lesson 6) → E-shape barre chords (Lesson 21)
+- **Am shape** → A major shape (Lesson 8) → A-shape barre chords (Lesson 22)
+- **D shape** → D major variations
+- **G shape** → G major variations
+- **C shape** → C major variations
 
 **You've learned the building blocks!** Now you just need to move them around the fretboard (coming in Lessons 21-24).
 
@@ -557,7 +557,7 @@ Different shapes for different sounds and purposes!
 
 **Pattern 1: E-Family and A-Family** (3 minutes)
 ```
-Em (4 beats) â†’ Am (4 beats) â†’ Em (4 beats) â†’ Am (4 beats)
+Em (4 beats) → Am (4 beats) → Em (4 beats) → Am (4 beats)
 | / / / | / / / | / / / | / / / |
 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
 
@@ -566,7 +566,7 @@ Repeat 5 times at 60 BPM
 
 **Pattern 2: All 5 Shapes in Order** (4 minutes)
 ```
-Em â†’ Am â†’ D â†’ G â†’ C â†’ (repeat)
+Em → Am → D → G → C → (repeat)
 (4 beats each at 60 BPM)
 
 Complete cycle 3 times
@@ -576,11 +576,11 @@ Complete cycle 3 times
 
 Call out shapes randomly and switch:
 ```
-"C-shape!" â†’ play C
-"E-shape!" â†’ play Em
-"D-shape!" â†’ play D
-"A-shape!" â†’ play Am
-"G-shape!" â†’ play G
+"C-shape!" → play C
+"E-shape!" → play Em
+"D-shape!" → play D
+"A-shape!" → play Am
+"G-shape!" → play G
 ```
 
 Do this for 3 minutes - trains quick shape recognition
@@ -642,11 +642,11 @@ The progression uses:
 **Verse Pattern:**
 ```
 Line 1:
-C-shape  â†’  G-shape  â†’  A-shape  â†’  E-shape
+C-shape  →  G-shape  →  A-shape  →  E-shape
 (C major)    (G major)    (Am minor)   (Em minor)
 
 Line 2:
-C-shape  â†’  G-shape  â†’  E-shape  â†’  D-shape
+C-shape  →  G-shape  →  E-shape  →  D-shape
 (C major)    (G major)    (Em minor)   (D major)
 
 (Repeat for entire verse)
@@ -722,7 +722,7 @@ C           G          Em         D
 
 **Speed Ladder**:
 ```
-Day 3: 50 BPM â†’ 55 BPM
+Day 3: 50 BPM → 55 BPM
 - Practice full verse (both lines)
 - Repeat 10 times at 55 BPM
 - Must be PERFECT before moving up
@@ -734,7 +734,7 @@ Day 3: 50 BPM â†’ 55 BPM
 
 **Target Tempo**:
 ```
-Day 4-5: 55 BPM â†’ 60 BPM
+Day 4-5: 55 BPM → 60 BPM
 - Practice full verse at 60 BPM
 - This is your completion tempo!
 - Play 10 clean repetitions
@@ -867,8 +867,8 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 **Physical Skills at 60 BPM:**
 - [ ] **Can play all 5 shapes cleanly** - Every string rings, no buzzing
 - [ ] **Can switch between any two shapes smoothly** - Takes under 2 seconds at 60 BPM
-- [ ] **Can play "Let It Be" Line 1** - C â†’ G â†’ Am â†’ Em (4 beats each at 60 BPM)
-- [ ] **Can play "Let It Be" Line 2** - C â†’ G â†’ Em â†’ D (4 beats each at 60 BPM)
+- [ ] **Can play "Let It Be" Line 1** - C → G → Am → Em (4 beats each at 60 BPM)
+- [ ] **Can play "Let It Be" Line 2** - C → G → Em → D (4 beats each at 60 BPM)
 - [ ] **Can play full verse consecutively** - Both lines, 3+ times, no mistakes at 60 BPM
 - [ ] **Maintained metronome discipline** - Used metronome for all song practice, stayed at proper tempo
 
@@ -1020,9 +1020,9 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 - Ã¢Å“â€¦ Problem isn't tempo - it's reps
 
 **Solution 2: Practice transitions WITHOUT the song**
-- Ã¢Å“â€¦ Just practice C â†’ G 20 times slowly
-- Ã¢Å“â€¦ Then G â†’ Am 20 times
-- Ã¢Å“â€¦ Then Am â†’ Em 20 times
+- Ã¢Å“â€¦ Just practice C → G 20 times slowly
+- Ã¢Å“â€¦ Then G → Am 20 times
+- Ã¢Å“â€¦ Then Am → Em 20 times
 - Ã¢Å“â€¦ Then put song together
 - Ã¢Å“â€¦ Transitions need isolated practice first
 
@@ -1040,7 +1040,7 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 
 **Solution 5: Practice WITHOUT metronome first**
 - Ã¢Å“â€¦ Learn the chord sequence at your own pace
-- Ã¢Å“â€¦ C â†’ G â†’ Am â†’ Em â†’ (pause) â†’ C â†’ G â†’ Em â†’ D
+- Ã¢Å“â€¦ C → G → Am → Em → (pause) → C → G → Em → D
 - Ã¢Å“â€¦ Repeat 10 times with no tempo pressure
 - Ã¢Å“â€¦ THEN add metronome at 50 BPM
 - Ã¢Å“â€¦ Sequence needs to be memorized before adding tempo
@@ -1617,7 +1617,7 @@ That's 17 lessons to:
 
 **Ready to log your practice session?**
 
-[**â†’ Open Practice Tracker**](/practice?lesson=4)
+[**→ Open Practice Tracker**](/practice?lesson=4)
 
 The practice tracker helps you:
 - Record what you practiced

@@ -52,9 +52,9 @@ Because the E-shape is:
 e|---
 B|---
 G|---
-D|--2 â† Middle finger
-A|--2 â† Ring finger
-E|--0 â† Open
+D|--2 ← Middle finger
+A|--2 ← Ring finger
+E|--0 ← Open
 ```
 - Two fingers
 - Minor (sad) sound
@@ -64,10 +64,10 @@ E|--0 â† Open
 ```
 e|---
 B|---
-G|--1 â† NEW! Index finger makes it MAJOR
-D|--2 â† Middle finger (same position!)
-A|--2 â† Ring finger (same position!)
-E|--0 â† Open
+G|--1 ← NEW! Index finger makes it MAJOR
+D|--2 ← Middle finger (same position!)
+A|--2 ← Ring finger (same position!)
+E|--0 ← Open
 ```
 - Three fingers (one more!)
 - Major (bright) sound
@@ -83,7 +83,7 @@ E|--0 â† Open
 
 **This is the magic of shape families:**
 
-**Em shape** (2 fingers) â†’ **E major shape** (3 fingers)  
+**Em shape** (2 fingers) → **E major shape** (3 fingers)  
 **Same base pattern + one finger = emotional transformation**
 
 **Minor**: Sad, introspective, melancholy  
@@ -130,7 +130,7 @@ E|--0 â† Open
 **Since you're learning shape families, we're including A major shape today:**
 
 **Why bundle these two?**
-- Both are MAJOR versions of shapes you know (Em â†’ E major, Am â†’ A major)
+- Both are MAJOR versions of shapes you know (Em → E major, Am → A major)
 - Both complete essential shape families
 - Both are required for common songs
 - Learning them together reinforces the MAJOR vs MINOR concept
@@ -476,7 +476,7 @@ The E-shape can **move up the neck** to create different chords!
 
 ```
 Position         Result          Type
-â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+───────────────────────────────────────
 Open (fret 0)    E major         Open chord (today!)
 Fret 1           F major         Barre chord
 Fret 3           G major         Barre chord  
@@ -586,16 +586,16 @@ Two fingers only:
     0 2 2 1 0 0
     
 Three fingers now:
-- Index finger: G string, 1st fret  â† NEW ADDITION!
-- Middle finger: A string, 2nd fret â† Same as Em
-- Ring finger: D string, 2nd fret  â† Same as Em
+- Index finger: G string, 1st fret  ← NEW ADDITION!
+- Middle finger: A string, 2nd fret ← Same as Em
+- Ring finger: D string, 2nd fret  ← Same as Em
 ```
 
 **The Addition:**
 - ONE finger added (index on G string, 1st fret)
-- Changes note: G (open) â†’ G# (1st fret)
-- Changes sound: Minor â†’ Major
-- Changes feel: Sad â†’ Happy
+- Changes note: G (open) → G# (1st fret)
+- Changes sound: Minor → Major
+- Changes feel: Sad → Happy
 
 **This is shape thinking:**
 - Not two different "chords"
@@ -612,8 +612,8 @@ Three fingers now:
 Visual Pattern:
 
     â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-    â”‚   [1]       â”‚  â† Index finger (1st fret)
-    â”‚ [2]         â”‚  â† Middle & Ring together (2nd fret)
+    â”‚   [1]       â”‚  ← Index finger (1st fret)
+    â”‚ [2]         â”‚  ← Middle & Ring together (2nd fret)
     â”‚   [3]       â”‚
     â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 
@@ -661,8 +661,8 @@ When you move this shape up the neck (barre chords), your hand recognizes this S
 
 **Checkpoint Question:**
 Can you see how this is just **Em shape + one finger**?
-- Yes â†’ Great! You're thinking in shapes!
-- Not yet â†’ Review the comparison diagrams above
+- Yes → Great! You're thinking in shapes!
+- Not yet → Review the comparison diagrams above
 
 ---
 
@@ -732,8 +732,8 @@ Beat 2: Strum and listen
 **Do this 30 times** (about 7 minutes)
 
 **Checkpoint:** Can you form E major shape on beat 1 and have it sound clean on beat 2?
-- Yes â†’ Move to Stage 4!
-- No â†’ Stay at 40 BPM for 2 more days (this is normal!)
+- Yes → Move to Stage 4!
+- No → Stay at 40 BPM for 2 more days (this is normal!)
 
 ---
 
@@ -795,7 +795,7 @@ Beat 2: Strum
 - Does it sound clean every time? âœ“
 - Are you ready for shape transitions? âœ“
 
-**If yes to all three â†’ You've mastered E major shape formation!**
+**If yes to all three → You've mastered E major shape formation!**
 
 ---
 
@@ -819,7 +819,7 @@ Repeat 10 times
 
 **What you're learning:**
 - The relationship between Em and E major shapes
-- How ONE finger changes minor â†’ major
+- How ONE finger changes minor → major
 - Shape family thinking (not isolated fingerings)
 
 ---
@@ -1033,7 +1033,7 @@ Process:
 2. Move ring finger from 1st fret to 2nd fret (now A major)
 3. Strum, listen (major sound)
 4. Switch back and forth 15 times
-5. ONE FINGER changes minor â†’ major!
+5. ONE FINGER changes minor → major!
 
 This is shape thinking!
 ```
@@ -1171,7 +1171,7 @@ Day 6-7: 55-60 BPM (approaching song tempo)
 - The SHAPE moves as a unit
 
 **Tip 4: Use "Anchor Fingers" When Possible**
-- Em â†’ E major: Middle and ring fingers stay (only index moves!)
+- Em → E major: Middle and ring fingers stay (only index moves!)
 - This is much easier than moving all three fingers
 - Look for these opportunities
 
@@ -1719,8 +1719,8 @@ Builds endurance for maintaining pressure
 ```
 1. Form E major shape
 2. Look at neck from side
-3. Is thumb visible over top? â†’ Move it to back
-4. Is thumb too low on neck? â†’ Move it up behind middle finger
+3. Is thumb visible over top? → Move it to back
+4. Is thumb too low on neck? → Move it up behind middle finger
 ```
 
 ---
@@ -1738,13 +1738,13 @@ Builds endurance for maintaining pressure
 **Instead of:**
 ```
 Index, middle, ring separately placed
-â”€â”€â”€1â”€2â”€3â”€â”€â”€â”€  â† Fingers spread across three strings
+â”€â”€â”€1â”€2â”€3â”€â”€â”€â”€  ← Fingers spread across three strings
 ```
 
 **Try:**
 ```
 All three fingers stacked together
-â”€â”€â”€[1+3+4]â”€â”€  â† Fingers bunched together as one unit
+â”€â”€â”€[1+3+4]â”€â”€  ← Fingers bunched together as one unit
 ```
 
 **How to do it:**
@@ -1902,8 +1902,8 @@ Your hand learns to move the SHAPE, not individual fingers
 
 âœ… **While playing current shape, think about next shape**
 ```
-Playing E major â†’ Brain already sees A major position
-Playing A major â†’ Brain already sees D shape position
+Playing E major → Brain already sees A major position
+Playing A major → Brain already sees D shape position
 
 Mental preparation = fingers move faster
 ```
@@ -2220,7 +2220,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 - Add index finger (now E major), listen
 - Remove index (back to Em), listen
 - Repeat 15 times
-- Goal: Understand ONE finger changes minor â†’ major
+- Goal: Understand ONE finger changes minor → major
 
 **35-40 min: Cool Down & Assessment**
 - Form E major shape 5 times slowly
@@ -2310,13 +2310,13 @@ THIS IS WHY IT'S CALLED A SHAPE!
 
 **5-15 min: Em â†” E Major Transition**
 - Set metronome: 50 BPM
-- Em (4 beats) â†’ E major (4 beats)
+- Em (4 beats) → E major (4 beats)
 - 20 complete cycles (Em-E-Em-E...)
 - Goal: Smooth transition, index finger addition feels natural
 
 **15-30 min: E Major â†” A Major Transition**
 - Set metronome: 45 BPM
-- E major (4 beats) â†’ A major (4 beats)
+- E major (4 beats) → A major (4 beats)
 - 25 complete cycles
 - This is harder (all fingers move)
 - Focus: Accuracy, not speed
@@ -2338,7 +2338,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 ### **Day 5** - Speed Building & Song Introduction (45 minutes)
 
 **0-5 min: Warm-up**
-- Shape circle: Em â†’ Am â†’ D â†’ G â†’ C â†’ E â†’ A
+- Shape circle: Em → Am → D → G → C → E → A
 - One complete cycle, slow
 - Get all seven shapes in sequence
 
@@ -2351,7 +2351,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 
 **15-25 min: E â†” A Transition Practice**
 - Set metronome: 50 BPM
-- E major (4 beats) â†’ A major (4 beats)
+- E major (4 beats) → A major (4 beats)
 - 30 complete cycles
 - Goal: Transition under 2 seconds
 
@@ -2386,20 +2386,20 @@ THIS IS WHY IT'S CALLED A SHAPE!
 
 **10-20 min: Shape Circle Challenge**
 - Set metronome: 50 BPM
-- Em â†’ Am â†’ D â†’ G â†’ C â†’ E â†’ A â†’ Em
+- Em → Am → D → G → C → E → A → Em
 - That's 28 beats for one cycle
 - Complete 3 cycles with no mistakes
 - If mistakes, slow down to 45 BPM
 
 **20-35 min: "Wild Thing" Practice**
 - Set metronome: 60 BPM
-- A â†’ D â†’ E â†’ D progression
+- A → D → E → D progression
 - Add Basic Down-Up strumming (from Lesson 5)
 - Play through 15 times
 - Goal: Smooth shape changes with rhythm
 
 **35-45 min: "La Bamba" Introduction**
-- Learn progression: C â†’ G â†’ E
+- Learn progression: C → G → E
 - Set metronome: 60 BPM
 - All down strums
 - Play through 10 times
@@ -2766,7 +2766,7 @@ You're learning:
 
 **Ready to log your practice session?**
 
-[**â†’ Open Practice Tracker**](/practice?lesson=6)
+[**→ Open Practice Tracker**](/practice?lesson=6)
 
 The practice tracker helps you:
 - Record what you practiced

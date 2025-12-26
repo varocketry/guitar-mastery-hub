@@ -222,7 +222,7 @@ By the end of this lesson, you will be able to:
 ```
 e|---0---|  5th (B)
 B|---0---|  Root (E)
-G|---1---|  3rd (G#) â† This is what makes it MAJOR
+G|---1---|  3rd (G#) ← This is what makes it MAJOR
 D|---2---|  5th (B)
 A|---2---|  Root (E)
 E|---0---|  Root (E)
@@ -509,7 +509,7 @@ Fingers:
 
 **Phase 2: Slow Motion Switching (5 minutes)**
 ```
-E5 â†’ A5 â†’ E5 â†’ A5
+E5 → A5 → E5 → A5
 ```
 1. Form E5
 2. Strum once
@@ -560,7 +560,7 @@ Remember this from Lesson 1? Let's apply it to power chords!
 **Most punk and rock songs use this exact pattern:**
 
 ```
-E5 (4 beats) â†’ A5 (4 beats) â†’ E5 (4 beats) â†’ A5 (4 beats)
+E5 (4 beats) → A5 (4 beats) → E5 (4 beats) → A5 (4 beats)
 ```
 
 **Songs using this or similar:**
@@ -917,7 +917,7 @@ Check these off honestly:
 
 **If you need more time** (which is fine!):
 - Continue practicing E5-A5 transitions
-- Build tempo gradually (40 â†’ 50 â†’ 60 â†’ 80 BPM)
+- Build tempo gradually (40 → 50 → 60 → 80 BPM)
 - Focus on clean muting (this is the key!)
 - Work toward 40+ switches in one-minute challenge
 
@@ -1133,7 +1133,7 @@ Keep the power flowing! âš¡
 
 ---
 
-## Ã°Å¸"â€” ADDITIONAL RESOURCES
+## Ã°Å¸"— ADDITIONAL RESOURCES
 
 ### Power Chord Video Tutorials
 
@@ -1197,7 +1197,7 @@ When you can check off all the success criteria, mark this lesson complete and m
 
 **Ready to log your practice session?**
 
-[**â†’ Open Practice Tracker**](/practice?lesson=15)
+[**→ Open Practice Tracker**](/practice?lesson=15)
 
 The practice tracker helps you:
 - Record what you practiced

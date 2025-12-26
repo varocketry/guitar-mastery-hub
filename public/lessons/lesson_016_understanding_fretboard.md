@@ -150,9 +150,9 @@ In Lesson 15, you learned ONE finger shape for power chords:
 
 **Today answers that question forever.**
 
-Want to play F5? â†’ Put the shape at the 1st fret, low E string root  
-Want to play G5? â†’ Put the shape at the 3rd fret, low E string root  
-Want to play C5? â†’ Put the shape at the 3rd fret, A string root OR 8th fret, low E string root
+Want to play F5? → Put the shape at the 1st fret, low E string root  
+Want to play G5? → Put the shape at the 3rd fret, low E string root  
+Want to play C5? → Put the shape at the 3rd fret, A string root OR 8th fret, low E string root
 
 **See? Once you know the PATTERN, you can find ANYTHING.**
 
@@ -302,7 +302,7 @@ By the end of this lesson, you will be able to:
 **There are only 12 different notes** that repeat over and over:
 
 ```
-A â†’ A# â†’ B â†’ C â†’ C# â†’ D â†’ D# â†’ E â†’ F â†’ F# â†’ G â†’ G# â†’ (back to A)
+A → A# → B → C → C# → D → D# → E → F → F# → G → G# → (back to A)
 
 Notes:
 - # = sharp (one fret higher)
@@ -318,17 +318,17 @@ Notes:
 **Critical rule to memorize:**
 
 **MOST notes have sharps between them:**
-- A â†’ A# â†’ B (2 frets)
-- C â†’ C# â†’ D (2 frets)
-- D â†’ D# â†’ E (2 frets)
-- F â†’ F# â†’ G (2 frets)
-- G â†’ G# â†’ A (2 frets)
+- A → A# → B (2 frets)
+- C → C# → D (2 frets)
+- D → D# → E (2 frets)
+- F → F# → G (2 frets)
+- G → G# → A (2 frets)
 
 **BUT two pairs do NOT:**
-- **B â†’ C** (just 1 fret, NO sharp between)
-- **E â†’ F** (just 1 fret, NO sharp between)
+- **B → C** (just 1 fret, NO sharp between)
+- **E → F** (just 1 fret, NO sharp between)
 
-**Why this matters:** When you're finding notes on the fretboard, Bâ†’C and Eâ†’F are only 1 fret apart. Everything else is 2 frets apart.
+**Why this matters:** When you're finding notes on the fretboard, B→C and E→F are only 1 fret apart. Everything else is 2 frets apart.
 
 **This pattern never changes. It's physics.**
 
@@ -347,12 +347,12 @@ Power:  E5   F5  F#5   G5  G#5  A5  A#5   B5   C5  C#5  D5  D#5   E5
 
 **Key observations:**
 - Open (0) = E
-- 1st fret = F (notice: Eâ†’F is just 1 fret)
+- 1st fret = F (notice: E→F is just 1 fret)
 - 2nd fret = F#
 - 3rd fret = G
 - 5th fret = A
 - 7th fret = B
-- 8th fret = C (notice: Bâ†’C is just 1 fret)
+- 8th fret = C (notice: B→C is just 1 fret)
 - 12th fret = E (octave higher, pattern repeats forever)
 
 ---
@@ -369,9 +369,9 @@ Power:  E5   F5  F#5   G5  G#5  A5  A#5   B5   C5  C#5  D5  D#5   E5
 **That's it! Just 5 positions to memorize.**
 
 Everything else you can figure out:
-- Want F? It's 1 fret after E (open) â†’ 1st fret
-- Want C? It's 1 fret after B (7th fret) â†’ 8th fret  
-- Want D? It's 2 frets after C (8th fret) â†’ 10th fret
+- Want F? It's 1 fret after E (open) → 1st fret
+- Want C? It's 1 fret after B (7th fret) → 8th fret  
+- Want D? It's 2 frets after C (8th fret) → 10th fret
 
 **Mental navigation using landmarks:**
 
@@ -397,10 +397,10 @@ Power:  A5  A#5   B5   C5  C#5  D5  D#5   E5   F5  F#5  G5  G#5   A5
 **Key observations:**
 - Open (0) = A
 - 2nd fret = B
-- 3rd fret = C (notice: Bâ†’C is just 1 fret)
+- 3rd fret = C (notice: B→C is just 1 fret)
 - 5th fret = D
 - 7th fret = E
-- 8th fret = F (notice: Eâ†’F is just 1 fret)
+- 8th fret = F (notice: E→F is just 1 fret)
 - 10th fret = G
 - 12th fret = A (octave, pattern repeats)
 
@@ -565,10 +565,10 @@ G5:
 4. Hold for 4 beats
 5. Repeat 10 times
 
-**Phase 2: Transition F5 â†’ G5 (6 minutes)**
+**Phase 2: Transition F5 → G5 (6 minutes)**
 
 ```
-F5 (1st fret) â†’ G5 (3rd fret) â†’ F5 â†’ G5
+F5 (1st fret) → G5 (3rd fret) → F5 → G5
 ```
 
 Practice sliding your whole hand shape:
@@ -598,7 +598,7 @@ D5:
 
 Play this progression:
 ```
-E5 (open) â†’ G5 (3rd) â†’ A5 (5th) â†’ C5 (A string, 3rd)
+E5 (open) → G5 (3rd) → A5 (5th) → C5 (A string, 3rd)
 ```
 
 Each chord: 4 beats
@@ -618,7 +618,7 @@ Deep Purple, 1972. Every guitarist knows this riff.
 
 **The riff uses these power chords:**
 ```
-G5 â†’ BÃ¢â„¢Â­5 â†’ C5 â†’ G5 â†’ BÃ¢â„¢Â­5 â†’ DÃ¢â„¢Â­5 â†’ C5 â†’ G5 â†’ BÃ¢â„¢Â­5 â†’ C5 â†’ BÃ¢â„¢Â­5 â†’ G5
+G5 → BÃ¢â„¢Â­5 → C5 → G5 → BÃ¢â„¢Â­5 → DÃ¢â„¢Â­5 → C5 → G5 → BÃ¢â„¢Â­5 → C5 → BÃ¢â„¢Â­5 → G5
 ```
 
 **Fret positions (ALL on A string root):**
@@ -782,7 +782,7 @@ Check these off honestly:
 
 **Theoretical Understanding:**
 - [ ] I can recite the 12-note musical alphabet (A, A#, B, C, C#, D, D#, E, F, F#, G, G#)
-- [ ] I know which note pairs have NO sharps between them (Bâ†’C and Eâ†’F)
+- [ ] I know which note pairs have NO sharps between them (B→C and E→F)
 - [ ] I understand why the fretboard repeats at the 12th fret (octave)
 - [ ] I know the pattern is the SAME on every string, just starting from different notes
 
@@ -1020,7 +1020,7 @@ Check these off honestly:
 ### Day 3: "Smoke on the Water" Build
 
 **45-Minute Session:**
-- 0-5 min: Warm-up with F5â†’G5 transitions
+- 0-5 min: Warm-up with F5→G5 transitions
 - 5-20 min: "Smoke on the Water" phrases (Exercise 3, Phase 2-3)
 - 20-35 min: Complete "Smoke on the Water" opening (Exercise 3, Phase 4)
 - 35-40 min: Attempt at slightly faster tempo (50 BPM)
@@ -1294,7 +1294,7 @@ Lead guitar in Lessons 25-28? You already know where notes are - just playing th
 
 ---
 
-## Ã°Å¸"â€” ADDITIONAL RESOURCES
+## Ã°Å¸"— ADDITIONAL RESOURCES
 
 ### Fretboard Learning Tools
 
@@ -1347,7 +1347,7 @@ When you can check off all the success criteria, mark this lesson complete and m
 
 **Ready to log your practice session?**
 
-[**â†’ Open Practice Tracker**](/practice?lesson=16)
+[**→ Open Practice Tracker**](/practice?lesson=16)
 
 The practice tracker helps you:
 - Record what you practiced
