@@ -26,7 +26,6 @@ const montserrat = Montserrat({
 export const metadata: Metadata = {
   title: "Guitar Mastery Hub",
   description: "Adult guitar learning platform",
-  charset: "utf-8",
 };
 
 export default function RootLayout({
