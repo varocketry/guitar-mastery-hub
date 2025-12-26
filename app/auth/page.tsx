@@ -25,7 +25,7 @@ export default function AuthPage() {
   }
 
   return (
-    <div className="min-h-screen bg-navy flex items-center justify-center p-4">
+    <div style={{backgroundColor: "#0f172a"}} className="min-h-screen bg-[#0f172a] flex items-center justify-center p-4">
       <div className="max-w-md w-full bg-white/95 backdrop-blur-lg rounded-2xl p-8 shadow-2xl border-2 border-gold/20">
         
         <div className="text-center mb-8">
@@ -85,7 +85,7 @@ export default function AuthPage() {
           <ul className="text-left space-y-2 text-navy/80">
             <li className="flex items-start gap-2">
               <span className="text-gold">✓</span>
-              <span>32 comprehensive lessons</span>
+              <span>46 comprehensive lessons</span>
             </li>
             <li className="flex items-start gap-2">
               <span className="text-gold">✓</span>
