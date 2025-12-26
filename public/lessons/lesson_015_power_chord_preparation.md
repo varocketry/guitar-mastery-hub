@@ -151,7 +151,7 @@ The guitarist who realizes that **less is more** is the guitarist who truly unde
 
 ---
 
-## 🎸 LESSON OVERVIEW
+## ðŸŽ¸ LESSON OVERVIEW
 
 ⏱️ **TYPICAL COMPLETION TIME**: 3-4 days  
 📅 **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
@@ -201,7 +201,7 @@ At slow tempos, you can:
 
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## ðŸŽ“ LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Play E5 and A5 power chords cleanly in open position
@@ -214,7 +214,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: What Are Power Chords?
+## ðŸ“– THEORY: What Are Power Chords?
 
 ### The Simplification
 
@@ -222,7 +222,7 @@ By the end of this lesson, you will be able to:
 ```
 e|---0---|  5th (B)
 B|---0---|  Root (E)
-G|---1---|  3rd (G#) ← This is what makes it MAJOR
+G|---1---|  3rd (G#) â† This is what makes it MAJOR
 D|---2---|  5th (B)
 A|---2---|  Root (E)
 E|---0---|  Root (E)
@@ -279,11 +279,11 @@ Power chords weren't "invented" - they were **discovered by accident**.
 
 Link Wray's "Rumble" (1958) is often credited as the first power chord song. His amplifier was damaged, creating distortion. Full chords sounded muddy through the distortion, so he simplified to just root and fifth. The sound was so powerful that the song was actually **banned from radio** for being "too suggestive" (of gang violence).
 
-**That's how powerful power chords are - they got banned from the radio.** ðŸ˜„
+**That's how powerful power chords are - they got banned from the radio.** Ã°Å¸Ëœâ€ž
 
 ---
 
-## 🎸 TECHNIQUE: Your First Two Power Chords
+## ðŸŽ¸ TECHNIQUE: Your First Two Power Chords
 
 ### Part 1: E5 Power Chord (Open Position)
 
@@ -344,9 +344,9 @@ Fingers:
 4. Listen: You should hear **E-E-B** (low to high)
 
 **Does it sound good?**
-- âœ… Clean, solid, focused = Perfect!
-- âš ï¸ Buzzing = Press harder or check finger position
-- âš ï¸ High strings ringing = Muting isn't working, adjust thumb/palm
+- Ã¢Å“â€¦ Clean, solid, focused = Perfect!
+- Ã¢Å¡ Ã¯Â¸ Buzzing = Press harder or check finger position
+- Ã¢Å¡ Ã¯Â¸ High strings ringing = Muting isn't working, adjust thumb/palm
 
 ---
 
@@ -373,7 +373,7 @@ Fingers:
 **Pattern:**
 ```
 E5   E5   E5   E5  | E5   E5   E5   E5  |
- ↓    ↓    ↓    ↓  |  ↓    ↓    ↓    ↓  |
+ â†“    â†“    â†“    â†“  |  â†“    â†“    â†“    â†“  |
  1    2    3    4  |  1    2    3    4  |
 ```
 
@@ -447,9 +447,9 @@ Fingers:
 4. Listen: Should hear **A-A-E** (low to high)
 
 **Check your sound:**
-- âœ… Clean, focused = Great!
-- âš ï¸ Low E ringing = Muting not working, adjust finger
-- âš ï¸ Buzzing on D or G = Press harder or check angle
+- Ã¢Å“â€¦ Clean, focused = Great!
+- Ã¢Å¡ Ã¯Â¸ Low E ringing = Muting not working, adjust finger
+- Ã¢Å¡ Ã¯Â¸ Buzzing on D or G = Press harder or check angle
 
 ---
 
@@ -482,7 +482,7 @@ Fingers:
 
 ---
 
-## 🎸 SECTION 3: TRANSITIONING BETWEEN E5 AND A5
+## ðŸŽ¸ SECTION 3: TRANSITIONING BETWEEN E5 AND A5
 
 ### The Simple Switch
 
@@ -509,7 +509,7 @@ Fingers:
 
 **Phase 2: Slow Motion Switching (5 minutes)**
 ```
-E5 → A5 → E5 → A5
+E5 â†’ A5 â†’ E5 â†’ A5
 ```
 1. Form E5
 2. Strum once
@@ -526,7 +526,7 @@ E5 → A5 → E5 → A5
 Now add rhythm:
 ```
 E5   E5   E5   E5  | A5   A5   A5   A5  |
- ↓    ↓    ↓    ↓  |  ↓    ↓    ↓    ↓  |
+ â†“    â†“    â†“    â†“  |  â†“    â†“    â†“    â†“  |
  1    2    3    4  |  1    2    3    4  |
 ```
 
@@ -553,14 +553,14 @@ Remember this from Lesson 1? Let's apply it to power chords!
 
 ---
 
-## 🎸 SECTION 4: APPLYING POWER CHORDS TO MUSIC
+## ðŸŽ¸ SECTION 4: APPLYING POWER CHORDS TO MUSIC
 
 ### Simple Two-Chord Rock Pattern
 
 **Most punk and rock songs use this exact pattern:**
 
 ```
-E5 (4 beats) → A5 (4 beats) → E5 (4 beats) → A5 (4 beats)
+E5 (4 beats) â†’ A5 (4 beats) â†’ E5 (4 beats) â†’ A5 (4 beats)
 ```
 
 **Songs using this or similar:**
@@ -577,7 +577,7 @@ E5 (4 beats) → A5 (4 beats) → E5 (4 beats) → A5 (4 beats)
 **Pattern:**
 ```
 E5        A5        E5        A5
-↓ ↓ ↓ ↓  ↓ ↓ ↓ ↓  ↓ ↓ ↓ ↓  ↓ ↓ ↓ ↓
+â†“ â†“ â†“ â†“  â†“ â†“ â†“ â†“  â†“ â†“ â†“ â†“  â†“ â†“ â†“ â†“
 1 2 3 4  1 2 3 4  1 2 3 4  1 2 3 4
 ```
 
@@ -608,7 +608,7 @@ E5 | E5 | A5 | A5 | E5 | E5 | A5 | A5 |
 
 ```
 E5!       E5        E5!       E5
-↓         ↓         ↓         ↓
+â†“         â†“         â†“         â†“
 1         2         3         4
 (accent)  (normal)  (accent)  (normal)
 ```
@@ -618,7 +618,7 @@ E5!       E5        E5!       E5
 **Apply to your E5-A5 pattern:**
 ```
 E5!  E5  E5!  E5  | A5!  A5  A5!  A5  |
- ↓   ↓   ↓    ↓   |  ↓   ↓   ↓    ↓   |
+ â†“   â†“   â†“    â†“   |  â†“   â†“   â†“    â†“   |
  1   2   3    4   |  1   2   3    4   |
 (!)     (!)       | (!)      (!)      |
 ```
@@ -646,7 +646,7 @@ E5 (4 beats) | A5 (4 beats) | E5 (4 beats) | A5 (4 beats)
 
 ```
 E5        A5        E5        A5
-↓   ↓ ↓   ↓   ↓ ↓   ↓   ↓ ↓   ↓   ↓ ↓
+â†“   â†“ â†“   â†“   â†“ â†“   â†“   â†“ â†“   â†“   â†“ â†“
 1   2 3   1   2 3   1   2 3   1   2 3
 ```
 
@@ -658,7 +658,7 @@ E5        A5        E5        A5
 
 ---
 
-## âœ… SUCCESS CRITERIA
+## Ã¢Å“â€¦ SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
@@ -690,7 +690,7 @@ Check these off honestly:
 
 ---
 
-### â° NOT READY YET?
+### Ã¢Â° NOT READY YET?
 
 **That's fine!** Most learners spend 3-4 days on this lesson.
 
@@ -720,7 +720,7 @@ Check these off honestly:
 
 ---
 
-## ðŸ"§ TROUBLESHOOTING
+## Ã°Å¸"Â§ TROUBLESHOOTING
 
 ### Problem: High Strings Keep Ringing Despite Muting Attempt
 
@@ -859,7 +859,7 @@ Check these off honestly:
 
 ---
 
-## ðŸ"… PRACTICE SCHEDULE FOR THIS LESSON
+## Ã°Å¸"â€¦ PRACTICE SCHEDULE FOR THIS LESSON
 
 ### Day 1: Introduction & E5 Focus
 
@@ -917,7 +917,7 @@ Check these off honestly:
 
 **If you need more time** (which is fine!):
 - Continue practicing E5-A5 transitions
-- Build tempo gradually (40 → 50 → 60 → 80 BPM)
+- Build tempo gradually (40 â†’ 50 â†’ 60 â†’ 80 BPM)
 - Focus on clean muting (this is the key!)
 - Work toward 40+ switches in one-minute challenge
 
@@ -925,7 +925,7 @@ Check these off honestly:
 
 ---
 
-## ðŸŽ¯ NEXT LESSON PREVIEW
+## Ã°Å¸Å½Â¯ NEXT LESSON PREVIEW
 
 ### Lesson 16: Understanding the Fretboard
 
@@ -946,7 +946,7 @@ Check these off honestly:
 
 ---
 
-## ðŸ" PERSONAL PRACTICE LOG
+## Ã°Å¸" PERSONAL PRACTICE LOG
 
 **Date**: _______________  
 **Practice Session #**: _____  
@@ -1038,7 +1038,7 @@ Based on success criteria, am I ready to mark this lesson complete?
 
 ---
 
-## ðŸ'­ MOTIVATIONAL NOTE
+## Ã°Å¸'Â­ MOTIVATIONAL NOTE
 
 ### Welcome to Rock Guitar
 
@@ -1089,7 +1089,7 @@ Advanced players know: "Right notes = more powerful"
 - So simple a stadium full of people can sing it
 
 **"Smells Like Teen Spirit" (Nirvana):**
-- Four power chords: F5, B♭5, A♭5, D♭5
+- Four power chords: F5, Bâ™­5, Aâ™­5, Dâ™­5
 - Repeated almost the entire song
 - Defined an entire generation's sound
 
@@ -1127,13 +1127,13 @@ In Lesson 16, you'll learn to move these power chord shapes anywhere on the fret
 
 Those two chords are the foundation of thousands of rock songs.
 
-**You're now part of rock guitar history.** ðŸ˜Ž🎸
+**You're now part of rock guitar history.** Ã°Å¸ËœÅ½ðŸŽ¸
 
-Keep the power flowing! ⚡
+Keep the power flowing! âš¡
 
 ---
 
-## ðŸ"— ADDITIONAL RESOURCES
+## Ã°Å¸"â€” ADDITIONAL RESOURCES
 
 ### Power Chord Video Tutorials
 
@@ -1183,21 +1183,21 @@ https://www.youtube.com/watch?v=[example]
 
 ---
 
-**ðŸŽ‰ CONGRATULATIONS ON LEARNING POWER CHORDS!** ðŸŽ‰
+**Ã°Å¸Å½â€° CONGRATULATIONS ON LEARNING POWER CHORDS!** Ã°Å¸Å½â€°
 
 When you can check off all the success criteria, mark this lesson complete and move on to Lesson 16.
 
 **Remember:** Simplicity is power. Two notes played with conviction beat six notes played timidly.
 
-**Welcome to rock guitar!** ⚡ðŸŽ¸
+**Welcome to rock guitar!** âš¡Ã°Å¸Å½Â¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
-[**→ Open Practice Tracker**](/practice?lesson=15)
+[**â†’ Open Practice Tracker**](/practice?lesson=15)
 
 The practice tracker helps you:
 - Record what you practiced
@@ -1205,7 +1205,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

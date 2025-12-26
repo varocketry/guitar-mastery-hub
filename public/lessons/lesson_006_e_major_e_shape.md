@@ -1,13 +1,13 @@
 # Lesson 6: The E-Shape - Major Version (Your Sixth Chord Shape!)
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 5-7 days  
-**ðŸ“… PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**ðŸ“ **PHASE**: Foundation (Lessons 1-30)  
-**ðŸŽ¯ PREREQUISITES**: Lessons 1-5 complete (Em, Am, D, G, C **chord shapes** + strumming patterns mastered)
+**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
+**📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
+**📍 **PHASE**: Foundation (Lessons 1-30)  
+**🎯 PREREQUISITES**: Lessons 1-5 complete (Em, Am, D, G, C **chord shapes** + strumming patterns mastered)
 
 ---
 
-## ðŸŽ¯ COMPLETING THE MOST IMPORTANT SHAPE FAMILY
+## 🎯 COMPLETING THE MOST IMPORTANT SHAPE FAMILY
 
 **Remember Lesson 1?**
 
@@ -235,7 +235,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽ¯ REMEMBERING THE SHAPE PHILOSOPHY
+## 🎯 REMEMBERING THE SHAPE PHILOSOPHY
 
 **As Den Lopez teaches:** "Learn shapes, not chords."
 
@@ -268,7 +268,7 @@ The E-shape is THE most important movable shape in guitar. Master it open (today
 
 ---
 
-## ðŸŽ¯ FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
+## 🎯 FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
 
 ### Learning New Chord Shapes = SLOWER Than You Think!
 
@@ -2190,7 +2190,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 
 ---
 
-## ðŸ“… PRACTICE SCHEDULE FOR THIS LESSON
+## 📅 PRACTICE SCHEDULE FOR THIS LESSON
 
 ### Daily Practice Plan (30-45 minutes per day)
 
@@ -2467,7 +2467,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 
 ---
 
-## ðŸŽ¯ NEXT LESSON PREVIEW
+## 🎯 NEXT LESSON PREVIEW
 
 ### Lesson 7: Foundation Complete - Review & First Performance
 
@@ -2758,7 +2758,7 @@ You're learning:
 **Completion Time:** 5-7 days
 **Foundation Phase Status:** NEARLY COMPLETE! (One lesson to go!)
 
-**NEXT UP:** Lesson 7 - Foundation Review & Assessment ðŸŽ¯
+**NEXT UP:** Lesson 7 - Foundation Review & Assessment 🎯
 
 ---
 

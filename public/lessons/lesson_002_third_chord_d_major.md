@@ -2,10 +2,10 @@
 
 ## Lesson Overview
 
-â±ï¸ **TYPICAL COMPLETION TIME**: 2-3 days  
-ðŸ“… **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
+⏱️ **TYPICAL COMPLETION TIME**: 2-3 days  
+📅 **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
 ðŸ“‚ **PHASE**: Foundation (Lessons 1-60)  
-ðŸŽ¯ **PREREQUISITES**: Lesson 1 complete (can play Em and Am chords cleanly)
+🎯 **PREREQUISITES**: Lesson 1 complete (can play Em and Am chords cleanly)
 
 ---
 
@@ -626,7 +626,7 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 ---
 
-## ðŸ“… PRACTICE SCHEDULE FOR THIS LESSON
+## 📅 PRACTICE SCHEDULE FOR THIS LESSON
 
 ### Daily Practice Plan (30-40 minutes)
 
@@ -656,7 +656,7 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 ---
 
-## ðŸŽ¯ NEXT LESSON PREVIEW
+## 🎯 NEXT LESSON PREVIEW
 
 ### Lesson 3: Fourth & Fifth Chords - G Major & C Major
 

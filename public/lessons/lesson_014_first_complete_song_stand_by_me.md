@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 THE PERFORMANCE MOMENT: From Practice to Stage
+## ðŸŽ¯ THE PERFORMANCE MOMENT: From Practice to Stage
 
 **You're about to cross the line that separates "learner" from "performer."**
 
@@ -17,10 +17,10 @@ Today you learn a **complete song** - not a chord progression practice exercise,
 **Why this is your watershed moment:**
 
 When you can play a complete song all the way through, something fundamental shifts in how you see yourself. You're no longer "practicing guitar" - you're *playing guitar*. The difference is profound:
-- Friends ask "Can you play something?" → You can
-- Family gatherings → You can contribute
-- Campfires → You're no longer just watching
-- Solo practice → You're making actual music, not just patterns
+- Friends ask "Can you play something?" â†’ You can
+- Family gatherings â†’ You can contribute
+- Campfires â†’ You're no longer just watching
+- Solo practice â†’ You're making actual music, not just patterns
 
 **This is the moment guitarists remember forever** - their first complete song. Not their first chord, not their first strumming pattern, but the first time they played something *real* from start to finish.
 
@@ -31,14 +31,14 @@ When you can play a complete song all the way through, something fundamental shi
 - **Eric Clapton** recalls completing "House of the Rising Sun" as his turning point
 
 **What makes a song "complete"?**
-- ✅ Intro section (sets the mood)
-- ✅ Verse structure (tells the story)
-- ✅ Chorus (the memorable hook)
-- ✅ Bridge or instrumental section (provides contrast)
-- ✅ Outro (professional ending, not just stopping)
-- ✅ Smooth transitions between all sections
-- ✅ Consistent tempo and rhythm throughout
-- ✅ Dynamic variation (louder/softer sections)
+- âœ… Intro section (sets the mood)
+- âœ… Verse structure (tells the story)
+- âœ… Chorus (the memorable hook)
+- âœ… Bridge or instrumental section (provides contrast)
+- âœ… Outro (professional ending, not just stopping)
+- âœ… Smooth transitions between all sections
+- âœ… Consistent tempo and rhythm throughout
+- âœ… Dynamic variation (louder/softer sections)
 
 **Why "Stand By Me" is perfect:**
 
@@ -68,29 +68,29 @@ The song that answers "Can you play guitar?" with a definitive **yes**.
 
 ---
 
-## 🎸 CONGRATULATIONS ON REACHING LESSON 14!
+## ðŸŽ¸ CONGRATULATIONS ON REACHING LESSON 14!
 
 **You've completed the free trial content!** This is a major milestone in your guitar journey.
 
 **What you've accomplished so far:**
-- ✅ Mastered basic open chord shapes (Lessons 1-3)
-- ✅ Built chord transition fluency (Lessons 4-7)
-- ✅ Developed multiple strumming patterns (Lessons 8-9)
-- ✅ Learned fingerstyle fundamentals (Lessons 10-12)
-- ✅ Mastered walking bass line techniques (Lesson 13)
+- âœ… Mastered basic open chord shapes (Lessons 1-3)
+- âœ… Built chord transition fluency (Lessons 4-7)
+- âœ… Developed multiple strumming patterns (Lessons 8-9)
+- âœ… Learned fingerstyle fundamentals (Lessons 10-12)
+- âœ… Mastered walking bass line techniques (Lesson 13)
 
 **Today, everything comes together.**
 
-You're going to learn a **complete song arrangement** from intro to outro. Not just shape progressions or technique exercises—a real, full song that you can perform for friends, family, or just for yourself.
+You're going to learn a **complete song arrangement** from intro to outro. Not just shape progressions or technique exercisesâ€”a real, full song that you can perform for friends, family, or just for yourself.
 
 **By the end of today's lesson, you will:**
-- ✅ Know the complete shape progression for "Stand By Me"
-- ✅ Play multiple walking bass transitions between chords
-- ✅ Perform the song with three different techniques (strumming, fingerstyle, walking bass)
-- ✅ Build from 40 BPM practice tempo to 118 BPM performance tempo
-- ✅ Understand song arrangement and structure
-- ✅ Polish your performance with dynamics and feel
-- ✅ Record yourself playing a complete song
+- âœ… Know the complete shape progression for "Stand By Me"
+- âœ… Play multiple walking bass transitions between chords
+- âœ… Perform the song with three different techniques (strumming, fingerstyle, walking bass)
+- âœ… Build from 40 BPM practice tempo to 118 BPM performance tempo
+- âœ… Understand song arrangement and structure
+- âœ… Polish your performance with dynamics and feel
+- âœ… Record yourself playing a complete song
 
 **This is your moment to shine!**
 
@@ -102,10 +102,10 @@ You're going to learn a **complete song arrangement** from intro to outro. Not j
 
 ---
 
-## 📋 WHAT YOU'LL LEARN TODAY
+## ðŸ“‹ WHAT YOU'LL LEARN TODAY
 
 ### Core Song Elements
-1. **Complete Chord Progression** (A → F#m → D → E)
+1. **Complete Chord Progression** (A â†’ F#m â†’ D â†’ E)
 2. **Song Structure** (Intro, Verse, Chorus, Bridge, Outro)
 3. **Walking Bass Integration** (Lesson 13 techniques in real context)
 4. **Three Performance Styles:**
@@ -114,7 +114,7 @@ You're going to learn a **complete song arrangement** from intro to outro. Not j
    - Walking Bass Version (advanced, professional sound)
 
 ### Technical Skills
-1. **Tempo Progression System** (40 → 60 → 80 → 100 → 118 BPM)
+1. **Tempo Progression System** (40 â†’ 60 â†’ 80 â†’ 100 â†’ 118 BPM)
 2. **Dynamic Control** (soft verses, building choruses)
 3. **Performance Polish** (smooth transitions, no hesitation)
 4. **Recording Techniques** (documenting your achievement)
@@ -127,7 +127,7 @@ You're going to learn a **complete song arrangement** from intro to outro. Not j
 
 ---
 
-## 🎯 FOUNDATIONAL PRINCIPLES
+## ðŸŽ¯ FOUNDATIONAL PRINCIPLES
 
 ### The "Slow is Smooth, Smooth is Fast" Principle Applied to Complete Songs
 
@@ -150,10 +150,10 @@ You're going to learn a **complete song arrangement** from intro to outro. Not j
 
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## ðŸŽ“ LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
-- Play the complete chord progression for "Stand By Me" (A → F#m → D → E)
+- Play the complete chord progression for "Stand By Me" (A â†’ F#m â†’ D â†’ E)
 - Perform the song with three different techniques (strumming, fingerstyle, walking bass)
 - Navigate all sections smoothly (intro, verse, chorus, bridge, outro)
 - Build tempo systematically from 40 BPM to 118 BPM
@@ -164,7 +164,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: Understanding "Stand By Me" as a Learning Vehicle
+## ðŸ“– THEORY: Understanding "Stand By Me" as a Learning Vehicle
 
 ### Historical Context
 
@@ -194,7 +194,7 @@ The song uses a I-vi-IV-V progression in the key of A major. This is one of the 
 
 **Why this progression is so popular:**
 
-The movement from I → vi adds a touch of melancholy (happy to sad), then IV → V builds tension, then back to I provides satisfying resolution. This emotional arc is perfect for storytelling in music.
+The movement from I â†’ vi adds a touch of melancholy (happy to sad), then IV â†’ V builds tension, then back to I provides satisfying resolution. This emotional arc is perfect for storytelling in music.
 
 **Other songs using this exact progression:**
 - "Every Breath You Take" (The Police)
@@ -207,7 +207,7 @@ The movement from I → vi adds a touch of melancholy (happy to sad), then IV �
 
 ---
 
-## 🎸 SECTION 1: THE CHORD PROGRESSION
+## ðŸŽ¸ SECTION 1: THE CHORD PROGRESSION
 
 ### The Four Shapes
 
@@ -317,7 +317,7 @@ Finger placement:
 3. Strum ONCE on beat 1, let it ring for 4 beats
 4. On the next "1," switch to F#m
 5. Strum ONCE, let it ring for 4 beats
-6. Continue: D (4 beats) → E (4 beats) → back to A
+6. Continue: D (4 beats) â†’ E (4 beats) â†’ back to A
 
 **Goal:** Smooth transitions. Don't worry about strumming patterns yet. Just get the chord changes clean.
 
@@ -333,7 +333,7 @@ Now strum on every beat (4 strums per chord):
 
 ```
 A chord:        F#m chord:      D chord:        E chord:
- ↓  ↓  ↓  ↓     ↓  ↓  ↓  ↓      ↓  ↓  ↓  ↓      ↓  ↓  ↓  ↓
+ â†“  â†“  â†“  â†“     â†“  â†“  â†“  â†“      â†“  â†“  â†“  â†“      â†“  â†“  â†“  â†“
  1  2  3  4     1  2  3  4      1  2  3  4      1  2  3  4
 ```
 
@@ -355,7 +355,7 @@ Once 40 BPM feels comfortable:
 
 ---
 
-## 🎸 SECTION 2: SONG STRUCTURE
+## ðŸŽ¸ SECTION 2: SONG STRUCTURE
 
 ### Understanding Song Form
 
@@ -374,7 +374,7 @@ Outro (8 measures, fade)
 Total: ~3 minutes at 118 BPM
 ```
 
-**Each section uses the SAME 4-chord progression** (A → F#m → D → E), but with different:
+**Each section uses the SAME 4-chord progression** (A â†’ F#m â†’ D â†’ E), but with different:
 - Lyrics (vocals)
 - Dynamics (loud/soft)
 - Intensity (energy level)
@@ -486,7 +486,7 @@ Play through the entire form WITHOUT stopping:
 
 ---
 
-## 🎸 SECTION 3: THREE PERFORMANCE STYLES
+## ðŸŽ¸ SECTION 3: THREE PERFORMANCE STYLES
 
 ### Style 1: Basic Strumming Arrangement
 
@@ -499,7 +499,7 @@ Down Down Up Up Down Up
  1    2   &  3  &  4  &
 
 Example with A chord:
- ↓    ↓   ↑  ↑  ↓  ↑
+ â†“    â†“   â†‘  â†‘  â†“  â†‘
  A    A   A  A  A  A
 ```
 
@@ -507,7 +507,7 @@ Example with A chord:
 
 ```
 A chord:           F#m chord:         D chord:           E chord:
-↓ ↓ ↑ ↑ ↓ ↑        ↓ ↓ ↑ ↑ ↓ ↑         ↓ ↓ ↑ ↑ ↓ ↑         ↓ ↓ ↑ ↑ ↓ ↑
+â†“ â†“ â†‘ â†‘ â†“ â†‘        â†“ â†“ â†‘ â†‘ â†“ â†‘         â†“ â†“ â†‘ â†‘ â†“ â†‘         â†“ â†“ â†‘ â†‘ â†“ â†‘
 1 2 & 3 & 4 &      1 2 & 3 & 4 &       1 2 & 3 & 4 &       1 2 & 3 & 4 &
 ```
 
@@ -663,7 +663,7 @@ E|-------------------------|------------------------|
 **A major walking pattern (10 minutes):**
 
 ```
-A string: 0 → 0 → 2 → 4
+A string: 0 â†’ 0 â†’ 2 â†’ 4
 Beats:    1   2   3   4
 
 (Open) (Open) (2nd fret) (4th fret)
@@ -677,7 +677,7 @@ Beats:    1   2   3   4
 **F#m walking pattern (10 minutes):**
 
 ```
-A string: 4 → 4 → 2 → 0
+A string: 4 â†’ 4 â†’ 2 â†’ 0
 Beats:    1   2   3   4
 
 (4th fret) (4th fret) (2nd fret) (Open)
@@ -688,19 +688,19 @@ Beats:    1   2   3   4
 **D major walking pattern (5 minutes):**
 
 ```
-D string: 0 → 0 → 2 → 4
+D string: 0 â†’ 0 â†’ 2 â†’ 4
 Beats:    1   2   3   4
 ```
 
 **E major walking pattern (5 minutes):**
 
 ```
-A string: 2 → 2 → 4 → 5
+A string: 2 â†’ 2 â†’ 4 â†’ 5
 Beats:    1   2   3   4
 
 OR (alternative):
 
-E string: 0 → 0 → 2 → 3
+E string: 0 â†’ 0 â†’ 2 â†’ 3
 Beats:    1   2   3   4
 ```
 
@@ -741,7 +741,7 @@ This creates "chunk-walk-walk-walk" feel
 
 ---
 
-## 🎸 SECTION 4: TEMPO PROGRESSION SYSTEM
+## ðŸŽ¸ SECTION 4: TEMPO PROGRESSION SYSTEM
 
 ### The 5-Stage Build
 
@@ -776,7 +776,7 @@ This creates "chunk-walk-walk-walk" feel
 
 **Between each stage, increase tempo in 5 BPM increments:**
 
-40 → 45 → 50 → 55 → 60 → 65 → 70 → 75 → 80 → 85 → 90 → 95 → 100 → 105 → 110 → 115 → 118
+40 â†’ 45 â†’ 50 â†’ 55 â†’ 60 â†’ 65 â†’ 70 â†’ 75 â†’ 80 â†’ 85 â†’ 90 â†’ 95 â†’ 100 â†’ 105 â†’ 110 â†’ 115 â†’ 118
 
 **At each increment:**
 - Play 3 perfect loops
@@ -791,7 +791,7 @@ This creates "chunk-walk-walk-walk" feel
 
 ---
 
-## 🎸 SECTION 5: DYNAMICS & MUSICALITY
+## ðŸŽ¸ SECTION 5: DYNAMICS & MUSICALITY
 
 ### Understanding Dynamics in Song Sections
 
@@ -923,7 +923,7 @@ Play the 4-chord progression with dynamic variation:
 
 ---
 
-## 🎸 SECTION 6: COMPLETE SONG PRACTICE ROUTINE
+## ðŸŽ¸ SECTION 6: COMPLETE SONG PRACTICE ROUTINE
 
 ### 30-Minute Daily Practice (Week 1)
 
@@ -976,7 +976,7 @@ Play the 4-chord progression with dynamic variation:
 
 ---
 
-## 🎸 SECTION 7: RECORDING & PERFORMANCE
+## ðŸŽ¸ SECTION 7: RECORDING & PERFORMANCE
 
 ### Recording Yourself
 
@@ -1054,14 +1054,14 @@ Play the 4-chord progression with dynamic variation:
 
 ---
 
-## âœ… SUCCESS CRITERIA
+## Ã¢Å“â€¦ SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
 Check these off honestly:
 
 **Basic Competency:**
-- [ ] I can play the A → F#m → D → E progression smoothly
+- [ ] I can play the A â†’ F#m â†’ D â†’ E progression smoothly
 - [ ] I can navigate through all song sections without getting lost
 - [ ] I can play at least ONE complete arrangement (strumming OR fingerstyle OR walking bass)
 - [ ] I can play through the entire song at 60+ BPM without stopping
@@ -1083,7 +1083,7 @@ Check these off honestly:
 - [ ] I can play smoothly at 80+ BPM (if target is 118 BPM)
 - [ ] OR I have a practice plan to reach 118 BPM within 2 weeks
 
-### â° NOT READY YET?
+### Ã¢Â° NOT READY YET?
 
 **That's completely fine!** Most learners spend 1-2 weeks on this lesson.
 
@@ -1116,7 +1116,7 @@ Check these off honestly:
 
 ---
 
-## ðŸ"§ TROUBLESHOOTING
+## Ã°Å¸"Â§ TROUBLESHOOTING
 
 ### Problem: F#m Barre Chord Is Too Hard
 
@@ -1150,7 +1150,7 @@ G|---2---|
 
 **Solution 4: Substitute with Am**
 - Temporarily use Am instead of F#m
-- Progressions becomes: A → Am → D → E
+- Progressions becomes: A â†’ Am â†’ D â†’ E
 - Not identical but close enough to practice
 - Come back to F#m when ready
 
@@ -1173,7 +1173,7 @@ G|---2---|
 
 **Solution 2: Anchor fingers**
 - Find fingers that don't need to move
-- Example: A to F#m → No fingers stay, but both use 2nd/4th frets
+- Example: A to F#m â†’ No fingers stay, but both use 2nd/4th frets
 - Use positional awareness
 
 **Solution 3: Slow down more**
@@ -1288,7 +1288,7 @@ G|---2---|
 
 ---
 
-## ðŸ"… PRACTICE SCHEDULE FOR THIS LESSON
+## Ã°Å¸"â€¦ PRACTICE SCHEDULE FOR THIS LESSON
 
 ### Week 1: Learning & Building
 
@@ -1371,7 +1371,7 @@ G|---2---|
 
 ---
 
-## ðŸŽ¯ NEXT LESSON PREVIEW
+## Ã°Å¸Å½Â¯ NEXT LESSON PREVIEW
 
 ### Lesson 15: Power Chord Preparation
 
@@ -1392,7 +1392,7 @@ G|---2---|
 
 ---
 
-## ðŸ" PERSONAL PRACTICE LOG
+## Ã°Å¸" PERSONAL PRACTICE LOG
 
 **Date**: _______________  
 **Practice Session #**: _____  
@@ -1495,7 +1495,7 @@ Based on success criteria, am I ready to mark this lesson complete?
 
 ---
 
-## ðŸ'­ MOTIVATIONAL NOTE
+## Ã°Å¸'Â­ MOTIVATIONAL NOTE
 
 ### You've Reached a Major Milestone
 
@@ -1608,11 +1608,11 @@ A chapter you'll remember forever.
 **You're not learning guitar.**  
 **You're PLAYING guitar.**
 
-**The distinction is everything.** ðŸŽ¸
+**The distinction is everything.** Ã°Å¸Å½Â¸
 
 ---
 
-## ðŸ"— ADDITIONAL RESOURCES
+## Ã°Å¸"â€” ADDITIONAL RESOURCES
 
 ### "Stand By Me" Video Tutorials
 
@@ -1664,21 +1664,21 @@ https://www.youtube.com/watch?v=xyz789example
 
 ---
 
-**ðŸŽ‰ CONGRATULATIONS ON LEARNING YOUR FIRST COMPLETE SONG!** ðŸŽ‰
+**Ã°Å¸Å½â€° CONGRATULATIONS ON LEARNING YOUR FIRST COMPLETE SONG!** Ã°Å¸Å½â€°
 
 When you can check off all the success criteria, mark this lesson complete and move on to Lesson 15. 
 
 **Remember**: You're not just learning guitar - you're becoming a musician. "Stand By Me" proves it.
 
-**See you in Lesson 15!** ðŸŽ¸
+**See you in Lesson 15!** Ã°Å¸Å½Â¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
-[**→ Open Practice Tracker**](/practice?lesson=14)
+[**â†’ Open Practice Tracker**](/practice?lesson=14)
 
 The practice tracker helps you:
 - Record what you practiced
@@ -1686,7 +1686,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

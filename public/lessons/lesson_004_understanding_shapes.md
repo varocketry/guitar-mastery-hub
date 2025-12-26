@@ -1,13 +1,13 @@
 # Lesson 4: Understanding Guitar Shapes - The Game-Changing Concept
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 4-5 days  
-**ðŸ“… PRACTICE SESSION LENGTH**: 35-45 minutes per session  
-**ðŸ“ PHASE**: Foundation (Lessons 1-30)  
-**ðŸŽ¯ PREREQUISITES**: Lessons 1-3 complete (can play Em, Am, D, G, C shapes cleanly at 60 BPM)
+**⏱️ TYPICAL COMPLETION TIME**: 4-5 days  
+**📅 PRACTICE SESSION LENGTH**: 35-45 minutes per session  
+**📍 PHASE**: Foundation (Lessons 1-30)  
+**🎯 PREREQUISITES**: Lessons 1-3 complete (can play Em, Am, D, G, C shapes cleanly at 60 BPM)
 
 ---
 
-## ðŸŽ¯ WHY THIS LESSON CHANGES EVERYTHING
+## 🎯 WHY THIS LESSON CHANGES EVERYTHING
 
 **This lesson is different.**
 
@@ -301,7 +301,7 @@ Total: 5 CORE SHAPES mastered!
 
 ---
 
-## ðŸŽ¯ FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
+## 🎯 FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
 
 **The most important rule in guitar learning:**
 
@@ -811,7 +811,7 @@ Search YouTube for these - they'll show you the exact strumming and timing.
 
 ---
 
-## ðŸ“… PRACTICE SCHEDULE FOR THIS LESSON
+## 📅 PRACTICE SCHEDULE FOR THIS LESSON
 
 ### Daily Practice Plan (35-45 minutes)
 
@@ -1570,7 +1570,7 @@ That's 17 lessons to:
 
 ---
 
-## ðŸŽ¯ NEXT LESSON PREVIEW
+## 🎯 NEXT LESSON PREVIEW
 
 ### Lesson 5: Strumming Patterns & Rhythm
 

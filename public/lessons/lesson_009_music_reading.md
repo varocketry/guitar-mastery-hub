@@ -1,13 +1,13 @@
 # Lesson 9: Introduction to Music Reading for Guitarists
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 4-6 days  
-**ðŸ“… PRACTICE SESSION LENGTH**: 35-50 minutes per session  
-**ðŸ“ PHASE**: Foundation (Lessons 1-30)  
-**ðŸŽ¯ PREREQUISITES**: Lessons 1-8 complete (7 open chord shapes + 4 strumming patterns mastered)
+**⏱️ TYPICAL COMPLETION TIME**: 4-6 days  
+**📅 PRACTICE SESSION LENGTH**: 35-50 minutes per session  
+**📍 PHASE**: Foundation (Lessons 1-30)  
+**🎯 PREREQUISITES**: Lessons 1-8 complete (7 open chord shapes + 4 strumming patterns mastered)
 
 ---
 
-## ðŸŽ¯ BREAKING FREE FROM LIMITATIONS
+## 🎯 BREAKING FREE FROM LIMITATIONS
 
 **Right now, you can play dozens of songs.**
 
@@ -266,7 +266,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽ¯ FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
+## 🎯 FOUNDATIONAL PRINCIPLE: Slow is Smooth, Smooth is Fast
 
 **The most important rule in guitar learning:**
 
@@ -1719,7 +1719,7 @@ Meeting the success criteria means you:
 
 ---
 
-## ðŸŽ¯ NEXT LESSON PREVIEW
+## 🎯 NEXT LESSON PREVIEW
 
 ### Lesson 10: Fingerstyle Basics
 
@@ -1819,7 +1819,7 @@ Try plucking individual strings with fingers instead of strumming:
 
 ---
 
-## ðŸŽ¯ FINAL THOUGHTS
+## 🎯 FINAL THOUGHTS
 
 **You just learned a superpower: Musical literacy!**
 
