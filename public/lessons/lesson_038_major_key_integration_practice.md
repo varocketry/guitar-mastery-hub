@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 5-7 days  
+**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
 **📅 PRACTICE SESSION LENGTH**: 40-60 minutes per session  
-**ðŸ“‚ PHASE**: Theory Module 1 (Lessons 31-38) - CAPSTONE LESSON  
+**📂 PHASE**: Theory Module 1 (Lessons 31-38) - CAPSTONE LESSON  
 **🎯 PREREQUISITES**: Lessons 31-37 complete (all major key theory)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽµ WHY THIS MATTERS: THEORY INTO PRACTICE
+## 🎵 WHY THIS MATTERS: THEORY INTO PRACTICE
 
 ### The Complete Picture
 
@@ -54,7 +54,7 @@ This is your Theory Module 1 graduation.
 
 ---
 
-## ðŸ“– SECTION 1: THE COMPLETE MAJOR KEY SYSTEM
+## 📖 SECTION 1: THE COMPLETE MAJOR KEY SYSTEM
 
 ### How Everything Connects
 
@@ -62,21 +62,21 @@ This is your Theory Module 1 graduation.
 
 ```
 MUSICAL ALPHABET (12 notes)
-        â†“
+        ↓
 MAJOR SCALE FORMULA (W-W-H-W-W-W-H)
-        â†“
+        ↓
 MAJOR SCALES (one starting from each note)
-        â†“
+        ↓
 KEY SIGNATURES (which sharps/flats each key has)
-        â†“
+        ↓
 CIRCLE OF FIFTHS (organizing keys by relationship)
-        â†“
+        ↓
 DIATONIC CHORDS (seven chords built from scale notes)
-        â†“
+        ↓
 CHORD PROGRESSIONS (moving between diatonic chords)
-        â†“
+        ↓
 VOICE LEADING & INVERSIONS (smoothing progressions)
-        â†“
+        ↓
 COMPLETE MUSICIANSHIP
 ```
 
@@ -113,7 +113,7 @@ COMPLETE MUSICIANSHIP
 
 ---
 
-## ðŸ“– SECTION 2: COMPREHENSIVE INTEGRATION EXERCISES
+## 📖 SECTION 2: COMPREHENSIVE INTEGRATION EXERCISES
 
 ### Integration Exercise 1: Key of G Major (Complete Analysis)
 
@@ -137,7 +137,7 @@ F# → G = 1 fret (H)
 G Major Scale: G - A - B - C - D - E - F# - G
 ```
 
-âœ“ Scale degree names: Tonic (G), Supertonic (A), Mediant (B), Subdominant (C), Dominant (D), Submediant (E), Leading Tone (F#)
+✜ Scale degree names: Tonic (G), Supertonic (A), Mediant (B), Subdominant (C), Dominant (D), Submediant (E), Leading Tone (F#)
 
 ---
 
@@ -202,7 +202,7 @@ Bass: G → C → F# → G (smoother return to G)
 
 ---
 
-**âœ“ Complete G Major Integration Demonstrated**
+**✜ Complete G Major Integration Demonstrated**
 
 ---
 
@@ -265,7 +265,7 @@ Bass: F → D → E → F (smooth, ascending)
 
 ---
 
-**âœ“ Complete F Major Integration Demonstrated**
+**✜ Complete F Major Integration Demonstrated**
 
 ---
 
@@ -305,7 +305,7 @@ Bass: F → D → E → F (smooth, ascending)
 
 ---
 
-## ðŸ“– SECTION 3: SONG ANALYSIS PRACTICE
+## 📖 SECTION 3: SONG ANALYSIS PRACTICE
 
 ### Analyzing "Stand By Me" (Ben E. King) - Key of A Major
 
@@ -379,7 +379,7 @@ Bass: A - F# - F# - E (holds F#, then smooth to E)
 
 ---
 
-**âœ“ Complete song analysis using all Theory Module 1 concepts**
+**✜ Complete song analysis using all Theory Module 1 concepts**
 
 ---
 
@@ -408,7 +408,7 @@ Bass: C - B - A - F (descending then jump)
 
 ---
 
-## ðŸ“– SECTION 4: ORIGINAL COMPOSITION EXERCISES
+## 📖 SECTION 4: ORIGINAL COMPOSITION EXERCISES
 
 ### Composition Exercise 1: Write a 4-Chord Progression
 
@@ -505,7 +505,7 @@ Which creates the best voice leading for your musical intent?
 
 ---
 
-## ðŸ“– SECTION 5: FRETBOARD INTEGRATION
+## 📖 SECTION 5: FRETBOARD INTEGRATION
 
 ### Exercise: One Key, Multiple Positions
 
@@ -598,7 +598,7 @@ E|-------|
 
 ---
 
-## ðŸ“– SECTION 6: PREPARING FOR MINOR KEYS
+## 📖 SECTION 6: PREPARING FOR MINOR KEYS
 
 ### What's Next: Theory Module 2 (Lessons 39-46)
 
@@ -653,7 +653,7 @@ A is the 6th → A minor is relative minor
 
 ---
 
-## ðŸ“– SECTION 7: MASTERY ASSESSMENT
+## 📖 SECTION 7: MASTERY ASSESSMENT
 
 ### Self-Assessment Checklist
 
@@ -693,7 +693,7 @@ A is the 6th → A minor is relative minor
 
 ---
 
-**If you marked 15+ statements true: You've mastered Theory Module 1! âœ“**
+**If you marked 15+ statements true: You've mastered Theory Module 1! ✜**
 
 **If 10-14 true: Review weak areas, you're close!**
 
@@ -733,7 +733,7 @@ Mark Theory Module 1 complete when you can:
 
 ---
 
-## ðŸŽ¸ FINAL THOUGHTS: THEORY MODULE 1 COMPLETE
+## 🎸 FINAL THOUGHTS: THEORY MODULE 1 COMPLETE
 
 ### You Are Now a Music Theorist
 
@@ -799,7 +799,7 @@ Mark Theory Module 1 complete when you can:
 
 **This is a massive achievement.**
 
-**Celebrate it.** ðŸŽ‰
+**Celebrate it.** 🎉
 
 ---
 
@@ -811,11 +811,11 @@ Mark Theory Module 1 complete when you can:
 
 **Theory Module 2 begins with Lesson 39: The Minor Scale**
 
-**See you there for the "other half" of music!** ðŸŽ¸
+**See you there for the "other half" of music!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -827,7 +827,7 @@ The practice tracker helps you:
 - Note theory application breakthroughs
 - Celebrate Theory Module 1 completion!
 
-**You've completed Theory Module 1!** ðŸŽ‰ðŸŽ¸
+**You've completed Theory Module 1!** 🎉🎸
 
 ---
 

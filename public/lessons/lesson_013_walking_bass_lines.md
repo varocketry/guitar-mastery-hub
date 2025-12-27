@@ -1,6 +1,6 @@
 # Lesson 13: Walking Bass Lines - Walk-Ups & Walk-Downs
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 5-7 days  
+**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
 **📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
 **📍 PHASE**: Foundation (Lessons 1-30)  
 **🎯 PREREQUISITES**: Lessons 1-12 complete (Chords, strumming, fingerstyle, TAB reading)
@@ -147,7 +147,7 @@ Each bass note must land EXACTLY on a beat:
 ```
 Beat: 1   2   3   4   1
 Note: C   D   E   F#  G
-      â†“   â†“   â†“   â†“   â†“
+      ↓   ↓   ↓   ↓   ↓
       
 If note lands late or early:
 - Rhythm falls apart
@@ -362,11 +362,11 @@ Beat 1: G chord!
 
 **That's the country/folk guitarist threshold.**
 
-**Let's make chords walk.** ðŸŽ¸
+**Let's make chords walk.** 🎸
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Execute classic country-style walk-ups and walk-downs
@@ -488,7 +488,7 @@ Days 11-14: 70-80 BPM (real song tempos)
 
 ---
 
-## ðŸ“– THEORY: What Are Walking Bass Lines?
+## 📖 THEORY: What Are Walking Bass Lines?
 
 ### Understanding Walking Bass Lines
 
@@ -569,7 +569,7 @@ Walking bass lines are what separate beginner strummers from professional-soundi
 
 ---
 
-## ðŸŽ¸ CHORD REVIEW: What We're Using
+## 🎸 CHORD REVIEW: What We're Using
 
 ### Quick Chord Shapes Review
 
@@ -577,7 +577,7 @@ Walking bass lines are what separate beginner strummers from professional-soundi
 ```
 E A D G B e
 - 3 2 0 1 0
-    â†‘
+    ↑
   Root (bass note starts here)
 ```
 
@@ -585,7 +585,7 @@ E A D G B e
 ```
 E A D G B e
 X X 3 2 1 1
-      â†‘
+      ↑
     Root (bass note starts here)
 ```
 
@@ -593,7 +593,7 @@ X X 3 2 1 1
 ```
 E A D G B e
 3 2 0 0 0 3
-â†‘
+↑
 Root (bass note starts here)
 ```
 
@@ -601,7 +601,7 @@ Root (bass note starts here)
 
 ---
 
-## ðŸŽ¸ STRUMMING PATTERN FOR THIS LESSON
+## 🎸 STRUMMING PATTERN FOR THIS LESSON
 
 ### Basic Root-Down-Up Pattern
 
@@ -622,7 +622,7 @@ Beats:   |_____|_____|    |_____|_____|
 **On C-shape:**
 ```
 Count:   1     2   &     3     4   &
-Action:  A     â†“   â†‘     A     â†“   â†‘
+Action:  A     ↓   ↑     A     ↓   ↑
          (5th  strum     5th   strum
          string)         string)
 ```
@@ -631,7 +631,7 @@ Action:  A     â†“   â†‘     A     â†“   â†‘
 
 ---
 
-## ðŸŽ¸ COUNTRY-STYLE WALKING BASS LINES
+## 🎸 COUNTRY-STYLE WALKING BASS LINES
 
 ### Walk #1: C to F (Walk-Up)
 
@@ -822,7 +822,7 @@ Measures 5-6: C chord (strum measure 5, walk to G measure 6)
 Measures 7-8: G chord (strum measure 7, walk to C measure 8)
 ```
 
-**At 40 BPM, this takes 32 beats (8 measures Ã— 4 beats) = about 48 seconds**
+**At 40 BPM, this takes 32 beats (8 measures × 4 beats) = about 48 seconds**
 
 **Practice routine:**
 - Days 5-6: Play complete progression at 40 BPM
@@ -831,7 +831,7 @@ Measures 7-8: G chord (strum measure 7, walk to C measure 8)
 
 ---
 
-## ðŸŽ¸ BLUES-STYLE WALKING BASS LINES
+## 🎸 BLUES-STYLE WALKING BASS LINES
 
 ### What Makes Blues Walks Different?
 
@@ -902,7 +902,7 @@ A|-----------4s3----  ← Land on C chord (with slide!)
 E|------------------
 
 Count:  1   2   3   4  (1 = arrive at C)
-              â†‘
+              ↑
             Slide down from 4th to 3rd fret!
 ```
 
@@ -967,7 +967,7 @@ Count:  1   2   3  4  (1 = arrive at C)
 
 ---
 
-## ðŸŽ¸ ADVANCED PATTERN: Walking on One Chord
+## 🎸 ADVANCED PATTERN: Walking on One Chord
 
 ### The "Static" Walk (Movement Without Changing Chords)
 
@@ -1001,7 +1001,7 @@ Count:  1      2     3      4      (back to 1 = C chord again)
 
 ---
 
-## ðŸŽµ PRACTICE ROUTINES
+## 🎵 PRACTICE ROUTINES
 
 ### Daily Practice Structure (30-45 minutes)
 
@@ -1040,7 +1040,7 @@ Count:  1      2     3      4      (back to 1 = C chord again)
 
 ---
 
-## ðŸŽ¸ SONG APPLICATIONS
+## 🎸 SONG APPLICATIONS
 
 ### Song #1: "Ring of Fire" Style (Johnny Cash)
 
@@ -1088,7 +1088,7 @@ Verse: Same progression, repeat
 
 ---
 
-## ðŸ“Š PROGRESS CHECKPOINTS
+## 🎸 PROGRESS CHECKPOINTS
 
 ### Day 3 Checkpoint
 - [ ] All four country walks smooth (bass notes only) at 20 BPM
@@ -1109,7 +1109,7 @@ Verse: Same progression, repeat
 
 ---
 
-## ðŸŽ¸ COMMON PROBLEMS & SOLUTIONS
+## 🎸 COMMON PROBLEMS & SOLUTIONS
 
 ### Problem #1: Bass Notes Landing Off-Beat
 
@@ -1225,7 +1225,7 @@ Verse: Same progression, repeat
 
 ---
 
-## ðŸ’¡ MOTIVATION & REAL TALK
+## 🧠 MOTIVATION & REAL TALK
 
 ### Why Walking Bass Lines Matter
 
@@ -1310,7 +1310,7 @@ Verse: Same progression, repeat
 
 ---
 
-## ðŸŽ¸ RECOMMENDED RESOURCES
+## 🎸 RECOMMENDED RESOURCES
 
 ### YouTube Tutorials
 
@@ -1388,7 +1388,7 @@ You've just learned a technique that 80% of guitarists never master. Walking bas
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1400,7 +1400,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

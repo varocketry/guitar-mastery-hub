@@ -251,13 +251,13 @@ From either/or → both/and
 From specialist → complete musician  
 From guitar player → guitarist
 
-**Your complete musical voice awaits.** ðŸŽ¸
+**Your complete musical voice awaits.** 🎸
 
 ---
 
-## ðŸ“‹ LESSON OVERVIEW
+## 📋 LESSON OVERVIEW
 
-â±ï¸ **TYPICAL COMPLETION TIME**: 8-12 weeks (comprehensive integration)  
+⏱️ **TYPICAL COMPLETION TIME**: 8-12 weeks (comprehensive integration)  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Foundation (Lessons 28-30) - Complete Integration  
 🎯 **PREREQUISITES**: Lessons 1-27 (complete rhythm and lead mastery)
@@ -278,7 +278,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽµ SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
+## 🎵 SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
 
 ### Starting Tempo: 60 BPM (slower than you think!)
 
@@ -307,7 +307,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸ“– THEORY: Understanding Musical Roles
+## 📖 THEORY: Understanding Musical Roles
 
 ### Rhythm Guitar Functions
 
@@ -354,7 +354,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽ¸ SECTION 1: BASIC SWITCHING
+## 🎸 SECTION 1: BASIC SWITCHING
 
 ### Exercise 1: The 8-Bar Switch
 
@@ -417,7 +417,7 @@ Takes 1 beat, fills space perfectly
 
 ---
 
-## ðŸŽ¸ SECTION 2: COMPLETE SONG ARRANGEMENTS
+## 🎸 SECTION 2: COMPLETE SONG ARRANGEMENTS
 
 ### Song Template 1: "Landslide" Style Arrangement
 
@@ -505,7 +505,7 @@ End with final power chord
 
 ---
 
-## ðŸŽ¸ SECTION 3: CHORD-MELODY FUNDAMENTALS
+## 🎸 SECTION 3: CHORD-MELODY FUNDAMENTALS
 
 ### What Is Chord-Melody?
 
@@ -571,7 +571,7 @@ Each voicing plays:
 
 ---
 
-## ðŸŽ¸ SECTION 4: MUSICAL DECISION-MAKING
+## 🎸 SECTION 4: MUSICAL DECISION-MAKING
 
 ### When to Play Rhythm
 
@@ -639,7 +639,7 @@ Why: Climax, bring energy home
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: Transitions Feel Awkward
 
@@ -703,7 +703,7 @@ Mark complete when you can:
 
 ---
 
-## ðŸŽ¸ FINAL THOUGHTS
+## 🎸 FINAL THOUGHTS
 
 **You're Now a Complete Guitarist**
 
@@ -731,11 +731,11 @@ Mark complete when you can:
 **Serve the song.**  
 **Be complete.**
 
-**See you in Lesson 29 - where we prepare for performance and sharing your music!** ðŸŽ¸
+**See you in Lesson 29 - where we prepare for performance and sharing your music!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -747,7 +747,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

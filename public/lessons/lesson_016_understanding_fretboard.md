@@ -28,7 +28,7 @@ By the end of this lesson, you'll understand something that eludes many guitaris
 - Limited to specific sounds and keys
 
 **After today:**
-- You'll know how to find F5, G5, C5, D5, Bâ™­5, F#5, or ANY power chord
+- You'll know how to find F5, G5, C5, D5, B♭5, F#5, or ANY power chord
 - On demand, anywhere on the neck
 - That's 12+ power chords per string set = ~25 total power chord positions
 - **Complete freedom**
@@ -126,7 +126,7 @@ Here's the revelation that will blow your mind:
 
 **Western music only uses 12 notes.** That's it. Just 12.
 
-Every song you've ever heard - from Bach to Beatles to BeyoncÃ© - uses some combination of these same 12 notes.
+Every song you've ever heard - from Bach to Beatles to Beyoncé - uses some combination of these same 12 notes.
 
 **On guitar, these 12 notes repeat in patterns** across the fretboard.
 
@@ -168,7 +168,7 @@ You just need to learn TWO strings:
 
 Because power chords use the LOW STRINGS as root notes. If you know where the notes are on the low E and A strings, you can find any power chord.
 
-**12 notes Ã— 2 strings = 24 possible power chord positions**
+**12 notes × 2 strings = 24 possible power chord positions**
 
 **And they're all the SAME SHAPE, just moved around.**
 
@@ -226,7 +226,7 @@ And it will show in everything you play.
 
 ---
 
-## ðŸŽ¸ LESSON OVERVIEW
+## 🎸 LESSON OVERVIEW
 
 ⏱️ **TYPICAL COMPLETION TIME**: 3-5 days  
 📅 **PRACTICE SESSION LENGTH**: 35-45 minutes per session  
@@ -281,7 +281,7 @@ And it will show in everything you play.
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Understand the 12-note musical alphabet
@@ -295,7 +295,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸ“– THEORY: The Musical Alphabet & Fretboard Layout
+## 📖 THEORY: The Musical Alphabet & Fretboard Layout
 
 ### The 12 Notes in Western Music
 
@@ -306,10 +306,10 @@ A → A# → B → C → C# → D → D# → E → F → F# → G → G# → (ba
 
 Notes:
 - # = sharp (one fret higher)
-- â™­ = flat (one fret lower)  
-- A# = Bâ™­ (same note, different names)
-- C# = Dâ™­ (same note, different names)
-- D# = Eâ™­ (same note, different names)
+- ♭ = flat (one fret lower)  
+- A# = B♭ (same note, different names)
+- C# = D♭ (same note, different names)
+- D# = E♭ (same note, different names)
 - etc.
 ```
 
@@ -341,7 +341,7 @@ Notes:
 ```
 Fret:   0    1    2    3    4    5    6    7    8    9   10   11   12
 Note:   E    F   F#    G   G#    A   A#    B    C   C#    D   D#    E
-        â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“
+        ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓
 Power:  E5   F5  F#5   G5  G#5  A5  A#5   B5   C5  C#5  D5  D#5   E5
 ```
 
@@ -390,7 +390,7 @@ Everything else you can figure out:
 ```
 Fret:   0    1    2    3    4    5    6    7    8    9   10   11   12
 Note:   A   A#    B    C   C#    D   D#    E    F   F#    G   G#    A
-        â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“    â†“
+        ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓    ↓
 Power:  A5  A#5   B5   C5  C#5  D5  D#5   E5   F5  F#5  G5  G#5   A5
 ```
 
@@ -443,7 +443,7 @@ It's the same pattern, just starting from A instead of E.
 
 ---
 
-## ðŸŽ¸ SECTION 3: FINDING ANY POWER CHORD
+## 🎸 SECTION 3: FINDING ANY POWER CHORD
 
 ### The Simple Formula
 
@@ -608,7 +608,7 @@ Repeat 5 times
 
 ---
 
-## ðŸŽ¸ SECTION 4: FAMOUS RIFF APPLICATIONS
+## 🎸 SECTION 4: FAMOUS RIFF APPLICATIONS
 
 ### Application 1: "Smoke on the Water" Intro (ICONIC!)
 
@@ -618,14 +618,14 @@ Deep Purple, 1972. Every guitarist knows this riff.
 
 **The riff uses these power chords:**
 ```
-G5 → BÃ¢â„¢Â­5 → C5 → G5 → BÃ¢â„¢Â­5 → DÃ¢â„¢Â­5 → C5 → G5 → BÃ¢â„¢Â­5 → C5 → BÃ¢â„¢Â­5 → G5
+G5 → B♭5 → C5 → G5 → B♭5 → D♭5 → C5 → G5 → B♭5 → C5 → B♭5 → G5
 ```
 
 **Fret positions (ALL on A string root):**
 - G5 = 10th fret (A string root)
-- BÃ¢â„¢Â­5 = 1st fret (A string root)
+- B♭5 = 1st fret (A string root)
 - C5 = 3rd fret (A string root)
-- DÃ¢â„¢Â­5 = 4th fret (A string root)
+- D♭5 = 4th fret (A string root)
 
 **The actual riff pattern:**
 
@@ -633,17 +633,17 @@ G5 → BÃ¢â„¢Â­5 → C5 → G5 → BÃ¢â„¢Â­5 → DÃ¢â„¢Â�
 Play power chord version (more authentic):
 
 A string: 10  10   --   1   3   --   10  10   --   1   4   3
-          G5  G5       BÃ¢â„¢Â­5 C5       G5  G5       BÃ¢â„¢Â­5 DÃ¢â„¢Â­5 C5
+          G5  G5       B♭5 C5       G5  G5       B♭5 D♭5 C5
 
 Then:     10  10   --   1   3   --   1   --  10
-          G5  G5       BÃ¢â„¢Â­5 C5       BÃ¢â„¢Â­5     G5
+          G5  G5       B♭5 C5       B♭5     G5
 ```
 
 **Simplified version to start:**
 
 Just play the first phrase:
 ```
-G5  G5  BÃ¢â„¢Â­5  C5
+G5  G5  B♭5  C5
 ```
 
 ---
@@ -656,7 +656,7 @@ G5  G5  BÃ¢â„¢Â­5  C5
 
 1. Find G5 on A string (10th fret)
 2. Play it 10 times
-3. Find BÃ¢â„¢Â­5 on A string (1st fret)
+3. Find B♭5 on A string (1st fret)
 4. Play it 10 times
 5. Find C5 on A string (3rd fret)
 6. Play it 10 times
@@ -666,13 +666,13 @@ G5  G5  BÃ¢â„¢Â­5  C5
 **Tempo: 40 BPM**
 
 ```
-G5   G5   BÃ¢â„¢Â­5  C5
+G5   G5   B♭5  C5
 10   10   1    3   (fret numbers on A string)
 ```
 
 **Rhythm:**
 ```
-  â†“    â†“    â†“    â†“
+  ↓    ↓    ↓    ↓
   1    2    3    4
 ```
 
@@ -680,12 +680,12 @@ Each power chord gets one beat.
 
 **Practice until smooth** (20 times through)
 
-**Phase 3: Add DÃ¢â„¢Â­5 (5 minutes)**
+**Phase 3: Add D♭5 (5 minutes)**
 
 **Tempo: 40 BPM**
 
 ```
-G5   G5   BÃ¢â„¢Â­5  DÃ¢â„¢Â­5  C5
+G5   G5   B♭5  D♭5  C5
 10   10   1    4    3   (fret numbers)
 ```
 
@@ -696,7 +696,7 @@ G5   G5   BÃ¢â„¢Â­5  DÃ¢â„¢Â­5  C5
 **Tempo: 40 BPM**
 
 ```
-G5  G5  BÃ¢â„¢Â­5  C5  |  G5  G5  BÃ¢â„¢Â­5  DÃ¢â„¢Â­5  C5  |  G5  G5  BÃ¢â„¢Â­5  C5  |  BÃ¢â„¢Â­5  G5  ||
+G5  G5  B♭5  C5  |  G5  G5  B♭5  D♭5  C5  |  G5  G5  B♭5  C5  |  B♭5  G5  ||
 ```
 
 **THIS IS THE COMPLETE ICONIC RIFF!**
@@ -761,7 +761,7 @@ E  E  G  E  D  C  B
 
 **Rhythm feels like:**
 ```
-  â†“   â†“   â†“   â†“    â†“  â†“  â†“
+  ↓   ↓   ↓   ↓    ↓  ↓  ↓
   1   2   3   4    1  2  3
 (hold E longer)
 ```
@@ -774,7 +774,7 @@ You'll recognize it immediately - this is THE sports chant!
 
 ---
 
-## Ã¢Å“â€¦ SUCCESS CRITERIA
+## ✦ SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
@@ -810,7 +810,7 @@ Check these off honestly:
 
 ---
 
-### Ã¢Â° NOT READY YET?
+### ⚠ NOT READY YET?
 
 **That's completely fine!** This is one of the most IMPORTANT lessons - take your time!
 
@@ -828,7 +828,7 @@ Check these off honestly:
 
 **If "Smoke on the Water" feels impossible:**
 - Break it into smaller pieces
-- Just practice the first 4 notes (G5, G5, BÃ¢â„¢Â­5, C5)
+- Just practice the first 4 notes (G5, G5, B♭5, C5)
 - Stay at 40 BPM for several days
 - This is a challenging riff - give yourself time!
 
@@ -842,7 +842,7 @@ Check these off honestly:
 
 ---
 
-## Ã°Å¸"Â§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: Can't Remember Which Notes Are Which
 
@@ -894,13 +894,13 @@ Check these off honestly:
 **Solution 1: Shift, Don't Stretch**
 - You don't need to reach from 1st to 10th fret simultaneously
 - MOVE your hand between positions
-- First position: hand at 1st fret (for BÃ¢â„¢Â­5 and C5)
+- First position: hand at 1st fret (for B♭5 and C5)
 - Second position: hand at 10th fret (for G5)
 - Slide quickly between them
 
 **Solution 2: Break It Into Chunks**
-- Practice just the opening: G5-G5-BÃ¢â„¢Â­5-C5
-- Then practice just the middle: G5-G5-BÃ¢â„¢Â­5-DÃ¢â„¢Â­5-C5
+- Practice just the opening: G5-G5-B♭5-C5
+- Then practice just the middle: G5-G5-B♭5-D♭5-C5
 - Finally connect the pieces
 - Don't try to play the whole thing at once
 
@@ -989,7 +989,7 @@ Check these off honestly:
 
 ---
 
-## Ã°Å¸"â€¦ PRACTICE SCHEDULE FOR THIS LESSON
+## 📋 PRACTICE SCHEDULE FOR THIS LESSON
 
 ### Day 1: Theory & Landmark Memorization
 
@@ -1056,7 +1056,7 @@ Check these off honestly:
 
 ---
 
-## Ã°Å¸Å½Â¯ NEXT LESSON PREVIEW
+## 🎯 NEXT LESSON PREVIEW
 
 ### Lesson 17: Power Chord Fundamentals & Root Movement
 
@@ -1077,7 +1077,7 @@ Check these off honestly:
 
 ---
 
-## Ã°Å¸" PERSONAL PRACTICE LOG
+## 📝 PERSONAL PRACTICE LOG
 
 **Date**: _______________  
 **Practice Session #**: _____  
@@ -1153,7 +1153,7 @@ Based on success criteria, am I ready to mark this lesson complete?
 
 ---
 
-## Ã°Å¸'Â­ MOTIVATIONAL NOTE
+## 💭 MOTIVATIONAL NOTE
 
 ### You Just Unlocked the Guitar
 
@@ -1290,11 +1290,11 @@ Lead guitar in Lessons 25-28? You already know where notes are - just playing th
 
 "This is the day I unlocked the fretboard. Everything changed after this."
 
-**You earned this moment.** Ã°Å¸Å½Â¸Ã°Å¸"Â¥
+**You earned this moment.** 🎸📝Â¥
 
 ---
 
-## Ã°Å¸"— ADDITIONAL RESOURCES
+## 📝— ADDITIONAL RESOURCES
 
 ### Fretboard Learning Tools
 
@@ -1333,17 +1333,17 @@ Lead guitar in Lessons 25-28? You already know where notes are - just playing th
 
 ---
 
-**Ã°Å¸Å½â€° CONGRATULATIONS ON UNLOCKING THE FRETBOARD!** Ã°Å¸Å½â€°
+**🎉 CONGRATULATIONS ON UNLOCKING THE FRETBOARD!** 🎉
 
 When you can check off all the success criteria, mark this lesson complete and move on to Lesson 17.
 
 **Remember:** The fretboard is a pattern, not a mystery. You've decoded it. Now you own it.
 
-**See you in Lesson 17!** Ã°Å¸Å½Â¸Ã°Å¸Å¡â‚¬
+**See you in Lesson 17!** 🎸🚀
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1355,7 +1355,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

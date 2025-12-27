@@ -2,14 +2,14 @@
 
 ## Lesson Overview
 
-â±ï¸ **TYPICAL COMPLETION TIME**: 2-4 days  
+⏱️ **TYPICAL COMPLETION TIME**: 2-4 days  
 📅 **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-ðŸ“‚ **PHASE**: Foundation (Lessons 1-60)  
+📂 **PHASE**: Foundation (Lessons 1-60)  
 🎯 **PREREQUISITES**: None - this is your starting point!
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Form the E minor (Em) chord cleanly
@@ -20,7 +20,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸ“– THEORY: What is a Chord?
+## 📖 THEORY: What is a Chord?
 
 ### Understanding Your First Chords
 
@@ -46,7 +46,7 @@ Here's how to read the diagrams you'll see:
 
 ---
 
-## ðŸŽ¸ YOUR FIRST CHORD: E Minor (Em)
+## 🎸 YOUR FIRST CHORD: E Minor (Em)
 
 ### E Minor Chord Diagram
 
@@ -119,7 +119,7 @@ Here's how to read the diagrams you'll see:
 
 ---
 
-## ðŸŽ¸ YOUR SECOND CHORD: A Minor (Am)
+## 🎸 YOUR SECOND CHORD: A Minor (Am)
 
 ### A Minor Chord Diagram
 
@@ -192,7 +192,7 @@ Here's how to read the diagrams you'll see:
 
 ---
 
-## ðŸ”„ SWITCHING BETWEEN CHORDS
+## 🎸 SWITCHING BETWEEN CHORDS
 
 ### The Key Skill: Transitions
 
@@ -246,15 +246,15 @@ This time, super slow motion:
 ### Transition Tips
 
 **Common Mistake #1**: Moving fingers one at a time
-- âŒ Don't: Lift index, then lift middle, then lift ring...
+- ❌ Don't: Lift index, then lift middle, then lift ring...
 - ✅ Do: Lift all fingers at once, move together, land together
 
 **Common Mistake #2**: Looking away and then back
-- âŒ Don't: Form chord, look away to strum, look back, form next chord
+- ❌ Don't: Form chord, look away to strum, look back, form next chord
 - ✅ Do: Keep eyes on your fretting hand, feel the strings with your strumming hand
 
 **Common Mistake #3**: Pressing too hard
-- âŒ Don't: Death grip the neck
+- ❌ Don't: Death grip the neck
 - ✅ Do: Press just hard enough for clear sound (saves energy!)
 
 **Pro Tip**: Some fingers can stay down while switching:
@@ -263,7 +263,7 @@ This time, super slow motion:
 
 ---
 
-## ðŸŽµ SONG APPLICATION: "Horse with No Name" by America
+## 🎵 SONG APPLICATION: "Horse with No Name" by America
 
 ### Why This Song?
 
@@ -325,7 +325,7 @@ https://www.youtube.com/watch?v=9-xcKxHYUcA
 
 ---
 
-## ðŸŽ¥ VIDEO RESOURCES
+## 🎥 VIDEO RESOURCES
 
 ### Primary Instruction Videos
 
@@ -373,7 +373,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 - [ ] **I played "Horse with No Name" pattern** - Even if slowly, I got through it
 - [ ] **My fingertips are slightly sore** - Normal! This means you're building calluses
 
-### â° NOT READY YET?
+### ⏰ NOT READY YET?
 
 **That's completely fine!** Most learners spend 2-4 days on this lesson. Here's what to focus on:
 
@@ -407,7 +407,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 - Take a break, come back fresh
 - Progress happens in tiny increments - celebrate small wins!
 
-### ðŸ’¡ REMEMBER
+### 🧠 REMEMBER
 
 **Most learners spend 2-4 days on this lesson.**
 
@@ -420,7 +420,7 @@ Taking your time here will make Lesson 2 much easier! Your fingers need time to:
 **There's no prize for rushing. Quality beats speed every time.**
 
 ---
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: Buzzing Strings on E Minor
 
@@ -596,8 +596,8 @@ Taking your time here will make Lesson 2 much easier! Your fingers need time to:
 - ✅ But minor pain = keep going (you're building calluses)
 
 **When to worry**:
-- âš ï¸ Sharp pain in joints or wrist = Stop, check your positioning
-- âš ï¸ Numbness or tingling = Stop, relax your grip
+- ⚠️ Sharp pain in joints or wrist = Stop, check your positioning
+- ⚠️ Numbness or tingling = Stop, relax your grip
 - ✅ Fingertip soreness = Normal, keep going
 
 ---
@@ -693,7 +693,7 @@ Taking your time here will make Lesson 2 much easier! Your fingers need time to:
 
 
 
-## ðŸ’­ MOTIVATIONAL NOTE
+## 💭 MOTIVATIONAL NOTE
 
 ### You're Starting Something Amazing
 
@@ -728,11 +728,11 @@ Right now, these two chords might feel awkward. Your fingers might hurt. The swi
 
 Every expert was once a beginner. The difference? They didn't quit on Day 3 when it felt hard.
 
-**You've got this.** ðŸŽ¸
+**You've got this.** 🎸
 
 ---
 
-## ðŸ”— ADDITIONAL RESOURCES
+## 🔗 ADDITIONAL RESOURCES
 
 ### Recommended Practice Tools
 
@@ -766,11 +766,11 @@ Every expert was once a beginner. The difference? They didn't quit on Day 3 when
 
 ---
 
-## ðŸŽ‰ CONGRATULATIONS ON COMPLETING LESSON 1! ðŸŽ‰
+## 🎉 CONGRATULATIONS ON COMPLETING LESSON 1! 🎉
 
 When you can check off all the success criteria, mark this lesson complete and move on to Lesson 2. Remember - you're building a foundation for everything that comes next. Take your time, practice daily, and enjoy the journey!
 
-**See you in Lesson 2!** ðŸŽ¸
+**See you in Lesson 2!** 🎸
 
 ---
 

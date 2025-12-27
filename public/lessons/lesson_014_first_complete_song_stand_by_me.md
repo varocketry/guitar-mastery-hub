@@ -68,7 +68,7 @@ The song that answers "Can you play guitar?" with a definitive **yes**.
 
 ---
 
-## ðŸŽ¸ CONGRATULATIONS ON REACHING LESSON 14!
+## 🎸 CONGRATULATIONS ON REACHING LESSON 14!
 
 **You've completed the free trial content!** This is a major milestone in your guitar journey.
 
@@ -102,7 +102,7 @@ You're going to learn a **complete song arrangement** from intro to outro. Not j
 
 ---
 
-## ðŸ“‹ WHAT YOU'LL LEARN TODAY
+## 👂 WHAT YOU'LL LEARN TODAY
 
 ### Core Song Elements
 1. **Complete Chord Progression** (A → F#m → D → E)
@@ -150,7 +150,7 @@ You're going to learn a **complete song arrangement** from intro to outro. Not j
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Play the complete chord progression for "Stand By Me" (A → F#m → D → E)
@@ -164,7 +164,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸ“– THEORY: Understanding "Stand By Me" as a Learning Vehicle
+## 📖 THEORY: Understanding "Stand By Me" as a Learning Vehicle
 
 ### Historical Context
 
@@ -207,7 +207,7 @@ The movement from I → vi adds a touch of melancholy (happy to sad), then IV �
 
 ---
 
-## ðŸŽ¸ SECTION 1: THE CHORD PROGRESSION
+## 🎸 SECTION 1: THE CHORD PROGRESSION
 
 ### The Four Shapes
 
@@ -333,7 +333,7 @@ Now strum on every beat (4 strums per chord):
 
 ```
 A chord:        F#m chord:      D chord:        E chord:
- â†“  â†“  â†“  â†“     â†“  â†“  â†“  â†“      â†“  â†“  â†“  â†“      â†“  â†“  â†“  â†“
+ ↓  ↓  ↓  ↓     ↓  ↓  ↓  ↓      ↓  ↓  ↓  ↓      ↓  ↓  ↓  ↓
  1  2  3  4     1  2  3  4      1  2  3  4      1  2  3  4
 ```
 
@@ -355,7 +355,7 @@ Once 40 BPM feels comfortable:
 
 ---
 
-## ðŸŽ¸ SECTION 2: SONG STRUCTURE
+## 🎸 SECTION 2: SONG STRUCTURE
 
 ### Understanding Song Form
 
@@ -486,7 +486,7 @@ Play through the entire form WITHOUT stopping:
 
 ---
 
-## ðŸŽ¸ SECTION 3: THREE PERFORMANCE STYLES
+## 🎸 SECTION 3: THREE PERFORMANCE STYLES
 
 ### Style 1: Basic Strumming Arrangement
 
@@ -499,7 +499,7 @@ Down Down Up Up Down Up
  1    2   &  3  &  4  &
 
 Example with A chord:
- â†“    â†“   â†‘  â†‘  â†“  â†‘
+ ↓    ↓   ↑  ↑  ↓  ↑
  A    A   A  A  A  A
 ```
 
@@ -507,7 +507,7 @@ Example with A chord:
 
 ```
 A chord:           F#m chord:         D chord:           E chord:
-â†“ â†“ â†‘ â†‘ â†“ â†‘        â†“ â†“ â†‘ â†‘ â†“ â†‘         â†“ â†“ â†‘ â†‘ â†“ â†‘         â†“ â†“ â†‘ â†‘ â†“ â†‘
+↓ ↓ ↑ ↑ ↓ ↑        ↓ ↓ ↑ ↑ ↓ ↑         ↓ ↓ ↑ ↑ ↓ ↑         ↓ ↓ ↑ ↑ ↓ ↑
 1 2 & 3 & 4 &      1 2 & 3 & 4 &       1 2 & 3 & 4 &       1 2 & 3 & 4 &
 ```
 
@@ -741,7 +741,7 @@ This creates "chunk-walk-walk-walk" feel
 
 ---
 
-## ðŸŽ¸ SECTION 4: TEMPO PROGRESSION SYSTEM
+## 🎸 SECTION 4: TEMPO PROGRESSION SYSTEM
 
 ### The 5-Stage Build
 
@@ -791,7 +791,7 @@ This creates "chunk-walk-walk-walk" feel
 
 ---
 
-## ðŸŽ¸ SECTION 5: DYNAMICS & MUSICALITY
+## 🎸 SECTION 5: DYNAMICS & MUSICALITY
 
 ### Understanding Dynamics in Song Sections
 
@@ -923,7 +923,7 @@ Play the 4-chord progression with dynamic variation:
 
 ---
 
-## ðŸŽ¸ SECTION 6: COMPLETE SONG PRACTICE ROUTINE
+## 🎸 SECTION 6: COMPLETE SONG PRACTICE ROUTINE
 
 ### 30-Minute Daily Practice (Week 1)
 
@@ -976,7 +976,7 @@ Play the 4-chord progression with dynamic variation:
 
 ---
 
-## ðŸŽ¸ SECTION 7: RECORDING & PERFORMANCE
+## 🎸 SECTION 7: RECORDING & PERFORMANCE
 
 ### Recording Yourself
 
@@ -1054,7 +1054,7 @@ Play the 4-chord progression with dynamic variation:
 
 ---
 
-## Ã¢Å“â€¦ SUCCESS CRITERIA
+## ✦ SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
@@ -1083,7 +1083,7 @@ Check these off honestly:
 - [ ] I can play smoothly at 80+ BPM (if target is 118 BPM)
 - [ ] OR I have a practice plan to reach 118 BPM within 2 weeks
 
-### Ã¢Â° NOT READY YET?
+### ⚠ NOT READY YET?
 
 **That's completely fine!** Most learners spend 1-2 weeks on this lesson.
 
@@ -1116,7 +1116,7 @@ Check these off honestly:
 
 ---
 
-## Ã°Å¸"Â§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: F#m Barre Chord Is Too Hard
 
@@ -1288,7 +1288,7 @@ G|---2---|
 
 ---
 
-## Ã°Å¸"â€¦ PRACTICE SCHEDULE FOR THIS LESSON
+## 📋 PRACTICE SCHEDULE FOR THIS LESSON
 
 ### Week 1: Learning & Building
 
@@ -1371,7 +1371,7 @@ G|---2---|
 
 ---
 
-## Ã°Å¸Å½Â¯ NEXT LESSON PREVIEW
+## 🎯 NEXT LESSON PREVIEW
 
 ### Lesson 15: Power Chord Preparation
 
@@ -1392,7 +1392,7 @@ G|---2---|
 
 ---
 
-## Ã°Å¸" PERSONAL PRACTICE LOG
+## 📝 PERSONAL PRACTICE LOG
 
 **Date**: _______________  
 **Practice Session #**: _____  
@@ -1495,7 +1495,7 @@ Based on success criteria, am I ready to mark this lesson complete?
 
 ---
 
-## Ã°Å¸'Â­ MOTIVATIONAL NOTE
+## 💭 MOTIVATIONAL NOTE
 
 ### You've Reached a Major Milestone
 
@@ -1608,11 +1608,11 @@ A chapter you'll remember forever.
 **You're not learning guitar.**  
 **You're PLAYING guitar.**
 
-**The distinction is everything.** Ã°Å¸Å½Â¸
+**The distinction is everything.** 🎸
 
 ---
 
-## Ã°Å¸"— ADDITIONAL RESOURCES
+## 📝— ADDITIONAL RESOURCES
 
 ### "Stand By Me" Video Tutorials
 
@@ -1664,17 +1664,17 @@ https://www.youtube.com/watch?v=xyz789example
 
 ---
 
-**Ã°Å¸Å½â€° CONGRATULATIONS ON LEARNING YOUR FIRST COMPLETE SONG!** Ã°Å¸Å½â€°
+**🎉 CONGRATULATIONS ON LEARNING YOUR FIRST COMPLETE SONG!** 🎉
 
 When you can check off all the success criteria, mark this lesson complete and move on to Lesson 15. 
 
 **Remember**: You're not just learning guitar - you're becoming a musician. "Stand By Me" proves it.
 
-**See you in Lesson 15!** Ã°Å¸Å½Â¸
+**See you in Lesson 15!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1686,7 +1686,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

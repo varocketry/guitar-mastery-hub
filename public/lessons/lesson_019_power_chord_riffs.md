@@ -1,6 +1,6 @@
 # Lesson 19: Power Chord Riffs & Three-Note Voicings
 
-## ðŸŽ¸ THE SIGNATURE: BUILDING YOUR ICONIC SOUND
+## 🎸 THE SIGNATURE: BUILDING YOUR ICONIC SOUND
 
 **Every guitarist you've ever loved is remembered for their RIFFS.**
 
@@ -26,7 +26,7 @@ When you hear those opening notes, you don't think "that's a power chord progres
 
 **Here's what separates guitarists who are forgotten from guitarists who are remembered:**
 
-âŒ **The Forgotten Guitarist:**
+❌ **The Forgotten Guitarist:**
 - Learns scales perfectly
 - Plays fast and clean
 - Masters every technique in books
@@ -253,14 +253,14 @@ Write 100 riffs. 99 might be forgettable. One might be YOUR "Seven Nation Army."
 
 ## Lesson Overview
 
-â±ï¸ **TYPICAL COMPLETION TIME**: 5-7 days  
+⏱️ **TYPICAL COMPLETION TIME**: 5-7 days  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Intermediate (Lessons 15-60)  
 🎯 **PREREQUISITES**: Lessons 17-18 complete (Power chord mastery on both strings)
 
 ---
 
-## ðŸ”¥ FOUNDATIONAL PRINCIPLE: "Slow is Smooth, Smooth is Fast"
+## 🔥 FOUNDATIONAL PRINCIPLE: "Slow is Smooth, Smooth is Fast"
 
 ### The Malcolm Young Practice Method
 
@@ -306,7 +306,7 @@ Write 100 riffs. 99 might be forgettable. One might be YOUR "Seven Nation Army."
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Play three-note power chord voicings (root-fifth-octave)
@@ -319,7 +319,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸ“– THEORY: Three-Note Power Chords
+## 📖 THEORY: Three-Note Power Chords
 
 ### Beyond the Two-Note Shape
 
@@ -344,7 +344,7 @@ G|---
 D|--2← Fifth (B note)
 A|--2← Root (E note)
 E|--0← Root octave (E note - lower)
-     â†‘
+     ↑
   All three notes are part of E5!
 ```
 
@@ -391,7 +391,7 @@ Best for: Rhythm parts, classic rock, fuller arrangements
 
 ---
 
-## ðŸŽ¸ TECHNIQUE #1: Three-Note Power Chords
+## 🎸 TECHNIQUE #1: Three-Note Power Chords
 
 ### The Finger Pattern
 
@@ -527,7 +527,7 @@ Which sounds better for what you're playing?
 
 ---
 
-## ðŸŽ¸ TECHNIQUE #2: Riff Construction Principles
+## 🎸 TECHNIQUE #2: Riff Construction Principles
 
 ### What Makes a Great Riff?
 
@@ -666,7 +666,7 @@ This is YOUR signature riff!
 
 ---
 
-## ðŸŽ¸ TECHNIQUE #3: String Dampening & Control
+## 🎸 TECHNIQUE #3: String Dampening & Control
 
 ### Selective String Ringing
 
@@ -680,9 +680,9 @@ A|--2--  ✅
 E|--0--  ✅
 
 You DON'T want these:
-G|--x--  âŒ (mute this!)
-B|--x--  âŒ (mute this!)
-e|--x--  âŒ (mute this!)
+G|--x--  ❌ (mute this!)
+B|--x--  ❌ (mute this!)
+e|--x--  ❌ (mute this!)
 ```
 
 ### The "Choke" Technique
@@ -734,7 +734,7 @@ Tempo: 60 BPM
 
 ---
 
-## ðŸŽµ SONG APPLICATION #1: "Iron Man" by Black Sabbath
+## 🎵 SONG APPLICATION #1: "Iron Man" by Black Sabbath
 
 ### Why This Riff is Legendary
 
@@ -803,7 +803,7 @@ Play it like:
 
 ---
 
-## ðŸŽµ SONG APPLICATION #2: "Seven Nation Army" by The White Stripes
+## 🎵 SONG APPLICATION #2: "Seven Nation Army" by The White Stripes
 
 ### The Simplicity Masterclass
 
@@ -862,7 +862,7 @@ Using 6th string root three-note power chords:
 
 ---
 
-## ðŸŽµ SONG APPLICATION #3: "Smoke on the Water" by Deep Purple
+## 🎵 SONG APPLICATION #3: "Smoke on the Water" by Deep Purple
 
 ### The Most Famous Riff in Rock
 
@@ -912,7 +912,7 @@ Db5: 16-18-18
 
 ---
 
-## ðŸŽµ SONG APPLICATION #4: Classic Rock Riff (Original Creation)
+## 🎵 SONG APPLICATION #4: Classic Rock Riff (Original Creation)
 
 ### Building Your Own "Classic Rock" Riff
 
@@ -969,7 +969,7 @@ Measure 4: E5   E5   G5   (pause)
 - [ ] **I practiced 5-7 days** - Multiple sessions refining skills
 - [ ] **Playing feels musical** - Not just technical exercises
 
-### â° NOT READY YET?
+### ⏰ NOT READY YET?
 
 **Expected!** Riff playing and three-note chords take time to refine.
 
@@ -999,7 +999,7 @@ Measure 4: E5   E5   G5   (pause)
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: Three-Note Power Chords Buzz on D String
 
@@ -1057,7 +1057,7 @@ Measure 4: E5   E5   G5   (pause)
 
 ---
 
-## ðŸ’ª 50-MINUTE DAILY PRACTICE ROUTINE
+## 💪 50-MINUTE DAILY PRACTICE ROUTINE
 
 ### Warm-Up (10 minutes)
 
@@ -1100,7 +1100,7 @@ Measure 4: E5   E5   G5   (pause)
 
 ---
 
-## ðŸ† MILESTONE ACHIEVEMENT
+## 🏆 MILESTONE ACHIEVEMENT
 
 ### You're Now a Riff Creator!
 
@@ -1126,7 +1126,7 @@ With Lesson 19 complete, you have:
 
 ---
 
-## ðŸ“š RECOMMENDED RESOURCES
+## 📚 RECOMMENDED RESOURCES
 
 ### Riff Study Resources
 
@@ -1174,7 +1174,7 @@ In Lesson 20, you'll learn:
 
 ---
 
-## ðŸ’¬ FINAL ENCOURAGEMENT
+## 💬 FINAL ENCOURAGEMENT
 
 ### You're Creating Music Now
 
@@ -1200,21 +1200,21 @@ In Lesson 20, you'll learn:
 
 **The difference: They never stopped creating.**
 
-**Keep creating. You're a composer now.** ðŸŽ¸
+**Keep creating. You're a composer now.** 🎸
 
 ---
 
-**ðŸŽ‰ CONGRATULATIONS ON COMPLETING LESSON 19!** ðŸŽ‰
+**🎉 CONGRATULATIONS ON COMPLETING LESSON 19!** 🎉
 
 You've mastered three-note power chords and learned to create riffs!
 
 **Your signature sound starts here.**
 
-**See you in Lesson 20!** ðŸŽ¸
+**See you in Lesson 20!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1226,7 +1226,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

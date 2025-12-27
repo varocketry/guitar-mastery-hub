@@ -1,6 +1,6 @@
 # Lesson 7: Foundation Review & Skills Assessment
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 3-5 days  
+**⏱️ TYPICAL COMPLETION TIME**: 3-5 days  
 **📅 PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 **📍 PHASE**: Foundation (Lessons 1-30)  
 **🎯 PREREQUISITES**: Lessons 1-6 complete (all seven foundation **chord shapes** mastered)
@@ -153,8 +153,8 @@
 
 **Seven Assessment Categories:**
 
-1. **Individual Shape Formation** (7 shapes Ã— 50 BPM standard)
-2. **Shape Transitions** (12 most common transitions Ã— 60 BPM standard)
+1. **Individual Shape Formation** (7 shapes × 50 BPM standard)
+2. **Shape Transitions** (12 most common transitions × 60 BPM standard)
 3. **Strumming Pattern #1** (70 BPM for 2+ minutes)
 4. **Strumming Pattern #2** (65 BPM for 2+ minutes)
 5. **Complete Song Performance** (70 BPM, start to finish)
@@ -228,11 +228,11 @@ You'll know you're ready. Not "hope" you're ready. Not "think" you're ready.
 
 **This is your GRADUATION from Foundation Phase.**
 
-**Let's assess what you've become.** ðŸŽ¸
+**Let's assess what you've become.** 🎸
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Confidently play all seven **chord shapes** learned so far at 50+ BPM
@@ -242,7 +242,7 @@ By the end of this lesson, you will be able to:
 - Identify specific areas for continued improvement
 - Play complete songs from start to finish at 70-80 BPM
 - Understand the **shape families** you've learned (Den Lopez approach)
-- Celebrate your Foundation Phase completion! ðŸŽ‰
+- Celebrate your Foundation Phase completion! 🎉
 
 ---
 
@@ -330,7 +330,7 @@ This comprehensive document explains:
 
 ---
 
-## ðŸ“– WHAT YOU'VE ACCOMPLISHED
+## 📖 WHAT YOU'VE ACCOMPLISHED
 
 ### Your Complete Foundation Shape Vocabulary (7 Shapes!)
 
@@ -461,7 +461,7 @@ ONE FINGER changes the entire emotional quality!
 **Pattern #1: Down-Up (All Eighth Notes)**
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
+Strum:  ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
 
 Used in: Fast songs, rock, punk, many pop songs
 Learned: Lesson 5
@@ -471,7 +471,7 @@ Tempo Target: 70+ BPM
 **Pattern #2: Folk/Pop (With Rests)**
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  â†“   -   â†“   â†‘   â†‘   -   â†‘   -
+Strum:  ↓   -   ↓   ↑   ↑   -   ↑   -
 
 Used in: Singer-songwriter style, folk, country, pop ballads
 Note: "-" means continue hand motion but don't hit strings
@@ -506,7 +506,7 @@ Members learned:
 
 Future expansion:
 - A7 shape (Lesson 8)
-- Bâ™­ major barre chord = A-shape at 1st fret (Lesson 22)
+- B♭ major barre chord = A-shape at 1st fret (Lesson 22)
 - C major barre chord = A-shape at 3rd fret (Lesson 22)
 - All major/minor barre chords up the neck!
 ```
@@ -598,7 +598,7 @@ With these seven shapes, you can play:
 
 ---
 
-## ðŸ” SELF-ASSESSMENT: WHERE ARE YOUR SKILLS?
+## 🔍 SELF-ASSESSMENT: WHERE ARE YOUR SKILLS?
 
 ### Assessment Overview
 
@@ -613,7 +613,7 @@ With these seven shapes, you can play:
 
 ---
 
-## ðŸ“Š ASSESSMENT #1: Individual Chord Shape Formation
+## 🎸 ASSESSMENT #1: Individual Chord Shape Formation
 
 ### Test Each Shape at 50 BPM
 
@@ -644,8 +644,8 @@ Count how many are PERFECT (all strings ring clearly)
 **Score:**
 - 10/10 perfect = ✅ **MASTERED** (ready for Lesson 8)
 - 8-9/10 perfect = ✅ **PROFICIENT** (good to advance)
-- 6-7/10 perfect = âš ï¸ **DEVELOPING** (practice 2-3 more days)
-- 0-5/10 perfect = âŒ **NEEDS WORK** (practice 5-7 more days)
+- 6-7/10 perfect = ⚠️ **DEVELOPING** (practice 2-3 more days)
+- 0-5/10 perfect = ❌ **NEEDS WORK** (practice 5-7 more days)
 
 **My Score:** ___/10
 
@@ -666,8 +666,8 @@ Count how many are PERFECT (all strings ring clearly)
 **Score:**
 - 10/10 perfect = ✅ **MASTERED**
 - 8-9/10 perfect = ✅ **PROFICIENT**
-- 6-7/10 perfect = âš ï¸ **DEVELOPING**
-- 0-5/10 perfect = âŒ **NEEDS WORK**
+- 6-7/10 perfect = ⚠️ **DEVELOPING**
+- 0-5/10 perfect = ❌ **NEEDS WORK**
 
 **My Score:** ___/10
 
@@ -688,8 +688,8 @@ Count how many are PERFECT (all strings ring clearly)
 **Score:**
 - 10/10 perfect = ✅ **MASTERED**
 - 8-9/10 perfect = ✅ **PROFICIENT**
-- 6-7/10 perfect = âš ï¸ **DEVELOPING**
-- 0-5/10 perfect = âŒ **NEEDS WORK**
+- 6-7/10 perfect = ⚠️ **DEVELOPING**
+- 0-5/10 perfect = ❌ **NEEDS WORK**
 
 **My Score:** ___/10
 
@@ -710,8 +710,8 @@ Count how many are PERFECT (all strings ring clearly)
 **Score:**
 - 10/10 perfect = ✅ **MASTERED**
 - 8-9/10 perfect = ✅ **PROFICIENT**
-- 6-7/10 perfect = âš ï¸ **DEVELOPING**
-- 0-5/10 perfect = âŒ **NEEDS WORK**
+- 6-7/10 perfect = ⚠️ **DEVELOPING**
+- 0-5/10 perfect = ❌ **NEEDS WORK**
 
 **My Score:** ___/10
 
@@ -732,8 +732,8 @@ Count how many are PERFECT (all strings ring clearly)
 **Score:**
 - 10/10 perfect = ✅ **MASTERED**
 - 8-9/10 perfect = ✅ **PROFICIENT**
-- 6-7/10 perfect = âš ï¸ **DEVELOPING**
-- 0-5/10 perfect = âŒ **NEEDS WORK**
+- 6-7/10 perfect = ⚠️ **DEVELOPING**
+- 0-5/10 perfect = ❌ **NEEDS WORK**
 
 **My Score:** ___/10
 
@@ -754,8 +754,8 @@ Count how many are PERFECT (all strings ring clearly)
 **Score:**
 - 10/10 perfect = ✅ **MASTERED**
 - 8-9/10 perfect = ✅ **PROFICIENT**
-- 6-7/10 perfect = âš ï¸ **DEVELOPING**
-- 0-5/10 perfect = âŒ **NEEDS WORK**
+- 6-7/10 perfect = ⚠️ **DEVELOPING**
+- 0-5/10 perfect = ❌ **NEEDS WORK**
 
 **My Score:** ___/10
 
@@ -776,8 +776,8 @@ Count how many are PERFECT (all strings ring clearly)
 **Score:**
 - 10/10 perfect = ✅ **MASTERED**
 - 8-9/10 perfect = ✅ **PROFICIENT**
-- 6-7/10 perfect = âš ï¸ **DEVELOPING**
-- 0-5/10 perfect = âŒ **NEEDS WORK**
+- 6-7/10 perfect = ⚠️ **DEVELOPING**
+- 0-5/10 perfect = ❌ **NEEDS WORK**
 
 **My Score:** ___/10
 
@@ -801,8 +801,8 @@ Count how many are PERFECT (all strings ring clearly)
 
 **Overall Shape Formation:**
 - All 7 shapes PROFICIENT or MASTERED = ✅ **READY TO ADVANCE**
-- 5-6 shapes PROFICIENT, 1-2 DEVELOPING = âš ï¸ **MOSTLY READY** (focus practice on weak shapes)
-- 3 or more DEVELOPING or NEEDS WORK = âŒ **NOT READY** (practice 5-7 more days)
+- 5-6 shapes PROFICIENT, 1-2 DEVELOPING = ⚠️ **MOSTLY READY** (focus practice on weak shapes)
+- 3 or more DEVELOPING or NEEDS WORK = ❌ **NOT READY** (practice 5-7 more days)
 
 **My Assessment:** ________________
 
@@ -810,7 +810,7 @@ Count how many are PERFECT (all strings ring clearly)
 
 ---
 
-## ðŸ“Š ASSESSMENT #2: Shape Transition Speed
+## 🎸 ASSESSMENT #2: Shape Transition Speed
 
 ### One-Minute Changes Test (JustinGuitar Method)
 
@@ -835,7 +835,7 @@ Clean transition = both shapes sound good, no long pauses
 
 ---
 
-#### Em â†” Am
+#### Em ↔ Am
 **Set metronome: 60 BPM, Timer: 1 minute**
 
 **My Score:** _____ transitions
@@ -843,12 +843,12 @@ Clean transition = both shapes sound good, no long pauses
 **Benchmark:**
 - 50+ transitions = ✅ **EXCELLENT**
 - 40-49 transitions = ✅ **PROFICIENT**
-- 30-39 transitions = âš ï¸ **DEVELOPING**
-- Under 30 = âŒ **NEEDS WORK**
+- 30-39 transitions = ⚠️ **DEVELOPING**
+- Under 30 = ❌ **NEEDS WORK**
 
 ---
 
-#### Em â†” D
+#### Em ↔ D
 **Set metronome: 60 BPM, Timer: 1 minute**
 
 **My Score:** _____ transitions
@@ -856,12 +856,12 @@ Clean transition = both shapes sound good, no long pauses
 **Benchmark:**
 - 45+ transitions = ✅ **EXCELLENT**
 - 35-44 transitions = ✅ **PROFICIENT**
-- 25-34 transitions = âš ï¸ **DEVELOPING**
-- Under 25 = âŒ **NEEDS WORK**
+- 25-34 transitions = ⚠️ **DEVELOPING**
+- Under 25 = ❌ **NEEDS WORK**
 
 ---
 
-#### Am â†” D
+#### Am ↔ D
 **Set metronome: 60 BPM, Timer: 1 minute**
 
 **My Score:** _____ transitions
@@ -869,12 +869,12 @@ Clean transition = both shapes sound good, no long pauses
 **Benchmark:**
 - 40+ transitions = ✅ **EXCELLENT**
 - 30-39 transitions = ✅ **PROFICIENT**
-- 20-29 transitions = âš ï¸ **DEVELOPING**
-- Under 20 = âŒ **NEEDS WORK**
+- 20-29 transitions = ⚠️ **DEVELOPING**
+- Under 20 = ❌ **NEEDS WORK**
 
 ---
 
-#### G â†” C
+#### G ↔ C
 **Set metronome: 60 BPM, Timer: 1 minute**
 
 **My Score:** _____ transitions
@@ -882,12 +882,12 @@ Clean transition = both shapes sound good, no long pauses
 **Benchmark:**
 - 35+ transitions = ✅ **EXCELLENT**
 - 25-34 transitions = ✅ **PROFICIENT**
-- 15-24 transitions = âš ï¸ **DEVELOPING**
-- Under 15 = âŒ **NEEDS WORK**
+- 15-24 transitions = ⚠️ **DEVELOPING**
+- Under 15 = ❌ **NEEDS WORK**
 
 ---
 
-#### Em â†” E Major
+#### Em ↔ E Major
 **Set metronome: 60 BPM, Timer: 1 minute**
 
 **My Score:** _____ transitions
@@ -897,12 +897,12 @@ Clean transition = both shapes sound good, no long pauses
 **Benchmark:**
 - 60+ transitions = ✅ **EXCELLENT**
 - 50-59 transitions = ✅ **PROFICIENT**
-- 40-49 transitions = âš ï¸ **DEVELOPING**
-- Under 40 = âŒ **NEEDS WORK**
+- 40-49 transitions = ⚠️ **DEVELOPING**
+- Under 40 = ❌ **NEEDS WORK**
 
 ---
 
-#### E Major â†” A Major
+#### E Major ↔ A Major
 **Set metronome: 60 BPM, Timer: 1 minute**
 
 **My Score:** _____ transitions
@@ -910,8 +910,8 @@ Clean transition = both shapes sound good, no long pauses
 **Benchmark:**
 - 40+ transitions = ✅ **EXCELLENT**
 - 30-39 transitions = ✅ **PROFICIENT**
-- 20-29 transitions = âš ï¸ **DEVELOPING**
-- Under 20 = âŒ **NEEDS WORK**
+- 20-29 transitions = ⚠️ **DEVELOPING**
+- Under 20 = ❌ **NEEDS WORK**
 
 ---
 
@@ -921,17 +921,17 @@ Clean transition = both shapes sound good, no long pauses
 
 | Transition | Score | Status |
 |------------|-------|--------|
-| Em â†” Am | _____ | _______ |
-| Em â†” D | _____ | _______ |
-| Am â†” D | _____ | _______ |
-| G â†” C | _____ | _______ |
-| Em â†” E | _____ | _______ |
-| E â†” A | _____ | _______ |
+| Em ↔ Am | _____ | _______ |
+| Em ↔ D | _____ | _______ |
+| Am ↔ D | _____ | _______ |
+| G ↔ C | _____ | _______ |
+| Em ↔ E | _____ | _______ |
+| E ↔ A | _____ | _______ |
 
 **Overall Transition Readiness:**
 - All 6 tests PROFICIENT or EXCELLENT = ✅ **READY TO ADVANCE**
-- 4-5 PROFICIENT, 1-2 DEVELOPING = âš ï¸ **MOSTLY READY**
-- 3 or more DEVELOPING or NEEDS WORK = âŒ **NOT READY**
+- 4-5 PROFICIENT, 1-2 DEVELOPING = ⚠️ **MOSTLY READY**
+- 3 or more DEVELOPING or NEEDS WORK = ❌ **NOT READY**
 
 **My Assessment:** ________________
 
@@ -939,7 +939,7 @@ Clean transition = both shapes sound good, no long pauses
 
 ---
 
-## ðŸ“Š ASSESSMENT #3: Strumming Pattern Consistency
+## 🎸 ASSESSMENT #3: Strumming Pattern Consistency
 
 ### Pattern #1: Down-Up (Eighth Notes)
 
@@ -958,8 +958,8 @@ Count: How many mistakes? (missed strum, wrong direction, lost beat)
 **Benchmark:**
 - 0-2 mistakes = ✅ **EXCELLENT**
 - 3-5 mistakes = ✅ **PROFICIENT**
-- 6-10 mistakes = âš ï¸ **DEVELOPING**
-- 11+ mistakes = âŒ **NEEDS WORK**
+- 6-10 mistakes = ⚠️ **DEVELOPING**
+- 11+ mistakes = ❌ **NEEDS WORK**
 
 **My Assessment:** ________________
 
@@ -984,8 +984,8 @@ Count: How many mistakes? (hit string on rest, wrong pattern, lost beat)
 **Benchmark:**
 - 0-3 mistakes = ✅ **EXCELLENT**
 - 4-6 mistakes = ✅ **PROFICIENT**
-- 7-12 mistakes = âš ï¸ **DEVELOPING**
-- 13+ mistakes = âŒ **NEEDS WORK**
+- 7-12 mistakes = ⚠️ **DEVELOPING**
+- 13+ mistakes = ❌ **NEEDS WORK**
 
 **My Assessment:** ________________
 
@@ -1004,14 +1004,14 @@ Count: How many mistakes? (hit string on rest, wrong pattern, lost beat)
 
 **Overall Strumming Readiness:**
 - Both patterns PROFICIENT or EXCELLENT = ✅ **READY TO ADVANCE**
-- One PROFICIENT, one DEVELOPING = âš ï¸ **MOSTLY READY**
-- Both DEVELOPING or NEEDS WORK = âŒ **NOT READY**
+- One PROFICIENT, one DEVELOPING = ⚠️ **MOSTLY READY**
+- Both DEVELOPING or NEEDS WORK = ❌ **NOT READY**
 
 **My Assessment:** ________________
 
 ---
 
-## ðŸ“Š ASSESSMENT #4: Complete Song Performance
+## 🎸 ASSESSMENT #4: Complete Song Performance
 
 ### Test: Play Full Song Start to Finish
 
@@ -1053,8 +1053,8 @@ Evaluate:
 **Benchmark:**
 - 0-2 points = ✅ **EXCELLENT PERFORMANCE**
 - 3-5 points = ✅ **PROFICIENT PERFORMANCE**
-- 6-10 points = âš ï¸ **DEVELOPING PERFORMANCE**
-- 11+ points = âŒ **NEEDS WORK**
+- 6-10 points = ⚠️ **DEVELOPING PERFORMANCE**
+- 11+ points = ❌ **NEEDS WORK**
 
 **My Assessment:** ________________
 
@@ -1080,8 +1080,8 @@ Evaluate:
 
 **Overall Performance Readiness:**
 - PROFICIENT or EXCELLENT = ✅ **READY TO ADVANCE**
-- DEVELOPING = âš ï¸ **PRACTICE 3-5 MORE DAYS**
-- NEEDS WORK = âŒ **PRACTICE 7-10 MORE DAYS**
+- DEVELOPING = ⚠️ **PRACTICE 3-5 MORE DAYS**
+- NEEDS WORK = ❌ **PRACTICE 7-10 MORE DAYS**
 
 ---
 
@@ -1120,7 +1120,7 @@ Evaluate:
 ---
 
 **Scenario B: 3 areas PROFICIENT, 1 area DEVELOPING**
-âš ï¸ **MOSTLY READY - STRATEGIC PRACTICE NEEDED**
+⚠️ **MOSTLY READY - STRATEGIC PRACTICE NEEDED**
 - Identify the one weak area
 - Practice that specific area 10 minutes daily for 3-5 days
 - Reassess just that area
@@ -1134,7 +1134,7 @@ Evaluate:
 ---
 
 **Scenario C: 2+ areas DEVELOPING or NEEDS WORK**
-âŒ **NOT READY YET - MORE FOUNDATION PRACTICE NEEDED**
+❌ **NOT READY YET - MORE FOUNDATION PRACTICE NEEDED**
 - This is OKAY! Foundation takes time!
 - Review weak areas specifically:
   - Shape formation issues? → Review Lessons 1-6
@@ -1187,7 +1187,7 @@ Evaluate:
 
 ---
 
-## ðŸŽ“ SHAPE FAMILY UNDERSTANDING (Den Lopez Assessment)
+## 🎓 SHAPE FAMILY UNDERSTANDING (Den Lopez Assessment)
 
 ### Do You Think in Shapes?
 
@@ -1237,12 +1237,12 @@ Evaluate:
 
 **Shape thinking:** "These are the SAME A-shape with one finger different. Am has ring on 1st fret, A major has ring on 2nd fret. ONE FINGER moves!"
 
-**Which describes how you see Am â†” A major now?**
+**Which describes how you see Am ↔ A major now?**
 - [ ] Two completely different chords
 - [ ] Same shape family, one finger different
 - [ ] Starting to see it, but not automatic yet
 
-**If not shape thinking yet:** Practice Am â†” A major 20 times in a row, focusing on WHAT CHANGED (just the ring finger!).
+**If not shape thinking yet:** Practice Am ↔ A major 20 times in a row, focusing on WHAT CHANGED (just the ring finger!).
 
 ---
 
@@ -1272,8 +1272,8 @@ Evaluate:
 
 **7/7 = ✅ SHAPE THINKING MASTERED**
 **5-6/7 = ✅ SHAPE THINKING PROFICIENT**
-**3-4/7 = âš ï¸ SHAPE THINKING DEVELOPING**
-**0-2/7 = âŒ SHAPE THINKING NEEDS WORK**
+**3-4/7 = ⚠️ SHAPE THINKING DEVELOPING**
+**0-2/7 = ❌ SHAPE THINKING NEEDS WORK**
 
 **If not proficient:** Review Lesson 4 Theory section entirely. This is foundational!
 
@@ -1295,7 +1295,7 @@ Evaluate:
 
 ---
 
-## ðŸŽ‰ CELEBRATING YOUR FOUNDATION COMPLETION
+## 🎉 CELEBRATING YOUR FOUNDATION COMPLETION
 
 ### You've Accomplished Something REAL!
 
@@ -1367,7 +1367,7 @@ From here:
 **Lesson 7 (TODAY):** Assessment & celebration
 - Measuring real progress
 - Confirming solid foundation
-- **FOUNDATION PHASE COMPLETE!** ðŸŽ‰
+- **FOUNDATION PHASE COMPLETE!** 🎉
 
 ---
 
@@ -1433,15 +1433,15 @@ The foundation proved you have what it takes.
 
 ```
 Foundation Phase COMPLETE ✅
-    â†“
+    ↓
 Expansion Phase (Lessons 8-14)
-    â†“
+    ↓
 Technique Mastery (Lessons 15-30)
-    â†“
+    ↓
 Intermediate Guitarist
-    â†“
+    ↓
 Advanced Techniques
-    â†“
+    ↓
 Professional Level
 ```
 
@@ -1528,7 +1528,7 @@ Foundation complete means:
 
 ---
 
-## ðŸ“ PERSONAL PROGRESS JOURNAL
+## 📝 PERSONAL PROGRESS JOURNAL
 
 ### My Foundation Phase Summary
 
@@ -1569,12 +1569,12 @@ Foundation complete means:
 
 | Transition | Score |
 |------------|-------|
-| Em â†” Am | _____ |
-| Em â†” D | _____ |
-| Am â†” D | _____ |
-| G â†” C | _____ |
-| Em â†” E | _____ |
-| E â†” A | _____ |
+| Em ↔ Am | _____ |
+| Em ↔ D | _____ |
+| Am ↔ D | _____ |
+| G ↔ C | _____ |
+| Em ↔ E | _____ |
+| E ↔ A | _____ |
 
 **Smoothest transition:** ________________
 
@@ -1633,7 +1633,7 @@ Foundation complete means:
 **Based on all four assessments:**
 
 **My decision:** 
-- [ ] READY for Lesson 8! ðŸŽ‰
+- [ ] READY for Lesson 8! 🎉
 - [ ] Need 3-5 more days focused practice
 - [ ] Need 7-10 more days foundation work
 
@@ -1744,7 +1744,7 @@ _______________________________________________
 
 ---
 
-## ðŸ’­ FINAL MOTIVATIONAL NOTE
+## 💭 FINAL MOTIVATIONAL NOTE
 
 ### You Did It!
 
@@ -1871,7 +1871,7 @@ You have:
 
 **You made it through!**
 
-**Now onto Expansion Phase!** ðŸŽ¸ðŸš€
+**Now onto Expansion Phase!** 🎸🚀
 
 ---
 
@@ -1910,15 +1910,15 @@ Blues is the foundation of MOST popular music. Learn blues shapes = unlock hundr
 
 ---
 
-**Ready for Lesson 8?** Let's keep building! ðŸŽ¸
+**Ready for Lesson 8?** Let's keep building! 🎸
 
 ---
 
 **END OF LESSON 7**
 
-**FOUNDATION PHASE COMPLETE!** ðŸŽ‰ðŸŽ¸✅
+**FOUNDATION PHASE COMPLETE!** 🎉🎸✅
 
-**See you in Lesson 8 for Blues & Seventh Chords!** ðŸŽµ
+**See you in Lesson 8 for Blues & Seventh Chords!** 🎵
 
 ---
 
@@ -1929,13 +1929,13 @@ Blues is the foundation of MOST popular music. Learn blues shapes = unlock hundr
 **Total Word Count:** ~8,200 words  
 **Completion Time:** 3-5 days  
 **Foundation Phase:** COMPLETE! ✅  
-**Next Phase:** Expansion (Lessons 8-14) ðŸš€
+**Next Phase:** Expansion (Lessons 8-14) 🚀
 
-**CONGRATULATIONS, GUITARIST!** ðŸŽ¸ðŸŽ‰ðŸ‘
+**CONGRATULATIONS, GUITARIST!** 🎸🎉🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1947,7 +1947,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

@@ -279,13 +279,13 @@ From choppy transitions to smooth flow.
 From chord-thinking to music-thinking.  
 From capable to fluent.
 
-**This is where guitarists are made.** ðŸŽ¸
+**This is where guitarists are made.** 🎸
 
 ---
 
-## ðŸ“‹ LESSON OVERVIEW
+## 👂 LESSON OVERVIEW
 
-â±ï¸ **TYPICAL COMPLETION TIME**: 5-7 days  
+⏱️ **TYPICAL COMPLETION TIME**: 5-7 days  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Foundation (Lessons 1-30)  
 🎯 **PREREQUISITES**: Lessons 21-22 (E-shape and A-shape barre chords mastered)
@@ -305,7 +305,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽµ SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
+## 🎵 SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
 
 **The most important rule in guitar learning:**
 
@@ -343,7 +343,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸ“– THEORY: Understanding Efficient Progression Playing
+## 📖 THEORY: Understanding Efficient Progression Playing
 
 ### The Power of Barre Chords in Progressions
 
@@ -398,7 +398,7 @@ Same progression, 60% less movement!
 
 ---
 
-## ðŸŽ¸ THREE PROFESSIONAL TRANSITION TECHNIQUES
+## 🎸 THREE PROFESSIONAL TRANSITION TECHNIQUES
 
 ### Technique 1: Sliding Transitions
 
@@ -491,7 +491,7 @@ Result: Instant transition, zero hand movement
 **Starting Tempo:** 50 BPM
 
 ```
-Exercise: C (A-shape, 3rd) â†” G (E-shape, 3rd)
+Exercise: C (A-shape, 3rd) ↔ G (E-shape, 3rd)
 | / / | / / | / / | / / |
 Continuous back-and-forth
 ```
@@ -566,7 +566,7 @@ Exercise: G → C → G → C (both at 3rd fret)
 
 ---
 
-## ðŸŽ¸ COMPLETE SONG PROGRESSIONS
+## 🎸 COMPLETE SONG PROGRESSIONS
 
 ### Song 1: "Let It Be" - The Beatles
 
@@ -807,7 +807,7 @@ G (E-shape, 3rd) → D (A-shape, 5th)
 
 ---
 
-## ðŸƒ THE SPEED LADDER: Progressive Tempo Training
+## 🏃 THE SPEED LADDER: Progressive Tempo Training
 
 ### What It Is
 
@@ -859,7 +859,7 @@ Minutes 4-9: Sliding Technique (5 min)
 - Start 40 BPM, work up to 60 BPM
 
 Minutes 9-14: Pivoting Technique (5 min)
-- C (A-shape, 3rd) â†” G (E-shape, 3rd)
+- C (A-shape, 3rd) ↔ G (E-shape, 3rd)
 - Start 50 BPM, work up to 70 BPM
 
 Minutes 14-20: Anticipation Practice (6 min)
@@ -920,7 +920,7 @@ Minutes 17-20: Creative Application (3 min)
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING GUIDE
+## 🔧 TROUBLESHOOTING GUIDE
 
 ### Problem 1: Transitions Breaking Rhythm
 
@@ -1001,7 +1001,7 @@ Minutes 17-20: Creative Application (3 min)
 
 ---
 
-## ðŸ“Š PROGRESS CHECKPOINT
+## 🎸 PROGRESS CHECKPOINT
 
 ### Self-Assessment Checklist
 
@@ -1034,10 +1034,10 @@ Minutes 17-20: Creative Application (3 min)
 ### Advancement Guide
 
 **Ready for Lesson 24** if:
-- âœ“ Can play one complete song progression at musical tempo (65+ BPM)
-- âœ“ Transitions are smooth (no major gaps or hesitations)
-- âœ“ Understand and can apply all three techniques (slide, pivot, anticipate)
-- âœ“ Can practice with metronome successfully
+- ✜ Can play one complete song progression at musical tempo (65+ BPM)
+- ✜ Transitions are smooth (no major gaps or hesitations)
+- ✜ Understand and can apply all three techniques (slide, pivot, anticipate)
+- ✜ Can practice with metronome successfully
 
 **Need More Time** if:
 - Transitions still very choppy
@@ -1052,7 +1052,7 @@ Minutes 17-20: Creative Application (3 min)
 
 ---
 
-## ðŸ”® LOOKING AHEAD: Lesson 24 Preview
+## 🎸 LOOKING AHEAD: Lesson 24 Preview
 
 **Tomorrow's Focus:**
 - Complete integration of ALL chord types
@@ -1069,11 +1069,11 @@ Minutes 17-20: Creative Application (3 min)
 
 ---
 
-## ðŸ’ª INSPIRATION & ENCOURAGEMENT
+## 💪 INSPIRATION & ENCOURAGEMENT
 
 ### Milestone Achievement
 
-ðŸŽ‰ **You Now Have Complete Chord Fluency!**
+🎉 **You Now Have Complete Chord Fluency!**
 
 **Chord Types Mastered:**
 - ✅ Open chords (E, A, D, G, C, Em, Am, Dm)
@@ -1173,17 +1173,17 @@ Mark this lesson complete when you can demonstrate ALL of the following:
 
 ---
 
-**ðŸŽ‰ CONGRATULATIONS ON COMPLETING LESSON 23! ðŸŽ‰**
+**🎉 CONGRATULATIONS ON COMPLETING LESSON 23! 🎉**
 
 You've developed strategic mastery over barre chord progressions. You don't just know chords - you know how to connect them efficiently and musically like a professional!
 
 **Tomorrow in Lesson 24, we bring EVERYTHING together - the complete guitarist emerges!**
 
-**See you in the final integration lesson!** ðŸŽ¸
+**See you in the final integration lesson!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1195,7 +1195,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

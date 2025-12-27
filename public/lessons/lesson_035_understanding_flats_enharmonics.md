@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 3-4 days  
+**⏱️ TYPICAL COMPLETION TIME**: 3-4 days  
 **📅 PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-**ðŸ“‚ PHASE**: Theory Module 1 (Lessons 31-38)  
+**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
 **🎯 PREREQUISITES**: Lesson 34 complete (key signatures & Circle of Fifths)
 
 ---
@@ -21,7 +21,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽµ WHY THIS MATTERS: COMPLETING YOUR MUSICAL KNOWLEDGE
+## 🎵 WHY THIS MATTERS: COMPLETING YOUR MUSICAL KNOWLEDGE
 
 ### The Missing Half of the Circle
 
@@ -48,7 +48,7 @@ This completes your key signature mastery.
 
 ---
 
-## ðŸ“– SECTION 1: DEEP DIVE INTO FLAT KEYS
+## 📖 SECTION 1: DEEP DIVE INTO FLAT KEYS
 
 ### Review: The Order of Flats
 
@@ -80,17 +80,17 @@ Every flat key adds one flat to this sequence.
 ```
 Start: F
 
-F → G = 2 frets (W) âœ“
-G → A = 2 frets (W) âœ“
+F → G = 2 frets (W) ✜
+G → A = 2 frets (W) ✜
 A → ? = Need 1 fret (H)...
 
 A → B = 2 frets (TOO MUCH - whole step, not half!)
-A → Bb = 1 fret (CORRECT - half step!) âœ“
+A → Bb = 1 fret (CORRECT - half step!) ✜
 
-Bb → C = 2 frets (W) âœ“
-C → D = 2 frets (W) âœ“
-D → E = 2 frets (W) âœ“
-E → F = 1 fret (H) âœ“
+Bb → C = 2 frets (W) ✜
+C → D = 2 frets (W) ✜
+D → E = 2 frets (W) ✜
+E → F = 1 fret (H) ✜
 ```
 
 **Result: F - G - A - Bb - C - D - E - F**
@@ -109,13 +109,13 @@ The major scale formula requires a half step from A to the 4th scale degree. A t
 **Building Bb Major:**
 
 ```
-Bb → C = W âœ“
-C → D = W âœ“
-D → Eb = H âœ“ (D to E would be W, need H)
-Eb → F = W âœ“
-F → G = W âœ“
-G → A = W âœ“
-A → Bb = H âœ“
+Bb → C = W ✜
+C → D = W ✜
+D → Eb = H ✜ (D to E would be W, need H)
+Eb → F = W ✜
+F → G = W ✜
+G → A = W ✜
+A → Bb = H ✜
 ```
 
 **Result: Bb - C - D - Eb - F - G - A - Bb**
@@ -140,13 +140,13 @@ A → Bb = H âœ“
 **Building Eb Major:**
 
 ```
-Eb → F = W âœ“
-F → G = W âœ“
-G → Ab = H âœ“ (G to A would be W, need H)
-Ab → Bb = W âœ“
-Bb → C = W âœ“
-C → D = W âœ“
-D → Eb = H âœ“
+Eb → F = W ✜
+F → G = W ✜
+G → Ab = H ✜ (G to A would be W, need H)
+Ab → Bb = W ✜
+Bb → C = W ✜
+C → D = W ✜
+D → Eb = H ✜
 ```
 
 **Result: Eb - F - G - Ab - Bb - C - D - Eb**
@@ -226,7 +226,7 @@ Yes, but we call it Cb because:
 
 ---
 
-## ðŸ“– SECTION 2: ENHARMONIC EQUIVALENTS
+## 📖 SECTION 2: ENHARMONIC EQUIVALENTS
 
 ### What Are Enharmonic Equivalents?
 
@@ -364,29 +364,29 @@ Jazz frequently uses enharmonic reinterpretation for smooth voice leading.
 
 ---
 
-## ðŸ“– SECTION 3: COMPLETE CIRCLE OF FIFTHS MASTERY
+## 📖 SECTION 3: COMPLETE CIRCLE OF FIFTHS MASTERY
 
 ### The Complete Circle Visualized
 
 ```
               C (0)
-             â•±   â•²
-        F (1â™­)     G (1â™¯)
-        â•±           â•²
-   Bâ™­ (2â™­)           D (2â™¯)
-      â•±               â•²
- Eâ™­ (3â™­)               A (3â™¯)
-    â•±                   â•²
-Aâ™­ (4â™­)                 E (4â™¯)
-    â•²                   â•±
- Dâ™­ (5â™­)               B (5â™¯)
-      â•²               â•±
-   Gâ™­ (6â™­)       Fâ™¯ (6â™¯)
-        â•²       â•±
-     Câ™­ (7â™­) = B (7â™¯ = Câ™¯)
+             ▒   ▓
+        F (1♭)     G (1♯)
+        ▒           ▓
+   B♭ (2♭)           D (2♯)
+      ▒               ▓
+ E♭ (3♭)               A (3♯)
+    ▒                   ▓
+A♭ (4♭)                 E (4♯)
+    ▓                   ▒
+ D♭ (5♭)               B (5♯)
+      ▓               ▒
+   G♭ (6♭)       F♯ (6♯)
+        ▓       ▒
+     C♭ (7♭) = B (7♯ = C♯)
 
 Enharmonic Keys at Bottom:
-Gâ™­/Fâ™¯, Dâ™­/Câ™¯, Câ™­/B
+G♭/F♯, D♭/C♯, C♭/B
 ```
 
 **Reading the complete circle:**
@@ -412,21 +412,21 @@ Gâ™­/Fâ™¯, Dâ™­/Câ™¯, Câ™­/B
 
 ```
 Sharp Keys:        Flat Keys:
-G major (1â™¯)      F major (1â™­)
-D major (2â™¯)      Bâ™­ major (2â™­)
-A major (3â™¯)      Eâ™­ major (3â™­)
-E major (4â™¯)      Aâ™­ major (4â™­)
+G major (1♯)      F major (1♭)
+D major (2♯)      B♭ major (2♭)
+A major (3♯)      E♭ major (3♭)
+E major (4♯)      A♭ major (4♭)
 ```
 
 **Less Common (Still Used):**
 ```
-B major (5â™¯)      Dâ™­ major (5â™­)
-F# major (6â™¯)     Gâ™­ major (6â™­)
+B major (5♯)      D♭ major (5♭)
+F# major (6♯)     G♭ major (6♭)
 ```
 
 **Rarely Used (Theoretical):**
 ```
-C# major (7â™¯)     Câ™­ major (7â™­)
+C# major (7♯)     C♭ major (7♭)
 ```
 
 **Why these preferences?**
@@ -476,7 +476,7 @@ C# major (7â™¯)     Câ™­ major (7â™­)
 
 ---
 
-## ðŸ“– SECTION 4: FLAT KEYS ON GUITAR
+## 📖 SECTION 4: FLAT KEYS ON GUITAR
 
 ### Why Flat Keys Can Be Trickier on Guitar
 
@@ -576,7 +576,7 @@ The same scale patterns work in all keys—just move them to different fret posi
 
 ---
 
-## ðŸ“– SECTION 5: PRACTICAL EXERCISES
+## 📖 SECTION 5: PRACTICAL EXERCISES
 
 ### Exercise 1: Flat Key Signature Identification (10 minutes)
 
@@ -710,7 +710,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## ðŸŽ¸ FINAL THOUGHTS
+## 🎸 FINAL THOUGHTS
 
 ### You Now Command the Complete Musical Landscape
 
@@ -737,11 +737,11 @@ Mark this lesson complete when you can:
 
 Master both, and the entire world of Western music is yours.
 
-**See you in Lesson 36 - where we build chords from these scales!** ðŸŽ¸
+**See you in Lesson 36 - where we build chords from these scales!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -753,7 +753,7 @@ The practice tracker helps you:
 - Note Circle of Fifths mastery
 - Review your complete theory journey
 
-**You're mastering advanced theory!** ðŸŽ¸
+**You're mastering advanced theory!** 🎸
 
 ---
 

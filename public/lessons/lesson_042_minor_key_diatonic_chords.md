@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 5-6 days  
+**⏱️ TYPICAL COMPLETION TIME**: 5-6 days  
 **📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**ðŸ“‚ PHASE**: Theory Module 2 (Lessons 39-46)  
+**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
 **🎯 PREREQUISITES**: Lesson 41 complete (relative vs. parallel minor)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽµ WHY THIS MATTERS: THE HARMONY OF EMOTION
+## 🎵 WHY THIS MATTERS: THE HARMONY OF EMOTION
 
 ### The Question Every Songwriter Asks
 
@@ -63,7 +63,7 @@ This unlocks the darker, deeper side of harmony.
 
 ---
 
-## ðŸ“– SECTION 1: BUILDING DIATONIC CHORDS FROM NATURAL MINOR
+## 📖 SECTION 1: BUILDING DIATONIC CHORDS FROM NATURAL MINOR
 
 ### The Natural Minor Chord Pattern
 
@@ -216,7 +216,7 @@ VII = G major (G-B-D)
 
 ---
 
-## ðŸ“– SECTION 2: THE HARMONIC MINOR SOLUTION
+## 📖 SECTION 2: THE HARMONIC MINOR SOLUTION
 
 ### The Problem with Natural Minor v Chord
 
@@ -266,7 +266,7 @@ Chord: E - G# - B = E MAJOR (V)
 
 **E major has G# (the leading tone!).**
 
-**Now:** E major (V) → A minor (i) = **Strong resolution** âœ“
+**Now:** E major (V) → A minor (i) = **Strong resolution** ✜
 
 ---
 
@@ -296,7 +296,7 @@ Chord: E - G# - B = E MAJOR (V)
 
 ---
 
-## ðŸ“– SECTION 3: CHORD FAMILIES IN MINOR KEYS
+## 📖 SECTION 3: CHORD FAMILIES IN MINOR KEYS
 
 ### The Three Chord Families (Minor Version)
 
@@ -362,7 +362,7 @@ Example in A minor: Am - Dm - Em - Am
 
 ---
 
-## ðŸ“– SECTION 4: COMMON MINOR KEY PROGRESSIONS
+## 📖 SECTION 4: COMMON MINOR KEY PROGRESSIONS
 
 ### Progression 1: i-iv-V-i (The Classic Minor Progression)
 
@@ -471,7 +471,7 @@ G (VII) = Subtonic major, returns toward minor
 
 ---
 
-## ðŸ“– SECTION 5: DIFFERENCES FROM MAJOR KEY HARMONY
+## 📖 SECTION 5: DIFFERENCES FROM MAJOR KEY HARMONY
 
 ### Major vs. Minor Chord Patterns Compared
 
@@ -512,7 +512,7 @@ G (VII) = Subtonic major, returns toward minor
 
 ---
 
-## ðŸ“– SECTION 6: PRACTICAL EXERCISES
+## 📖 SECTION 6: PRACTICAL EXERCISES
 
 ### Exercise 1: Build Minor Key Diatonic Chords (15 minutes)
 
@@ -591,7 +591,7 @@ Roman numerals:
 - B = V (harmonic minor)
 - Em = i
 
-**Analysis:** i - iv - V - i âœ“ (Classic minor progression)
+**Analysis:** i - iv - V - i ✜ (Classic minor progression)
 
 ---
 
@@ -662,7 +662,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## ðŸŽ¸ FINAL THOUGHTS
+## 🎸 FINAL THOUGHTS
 
 ### You Now Command Minor Key Harmony
 
@@ -689,11 +689,11 @@ Mark this lesson complete when you can:
 
 Combined with major key knowledge, you have complete harmonic mastery.
 
-**See you in Lesson 43 - where we explore classic minor progressions in depth!** ðŸŽ¸
+**See you in Lesson 43 - where we explore classic minor progressions in depth!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -705,7 +705,7 @@ The practice tracker helps you:
 - Note harmonic breakthroughs
 - Review your minor key mastery
 
-**You're mastering the darker side of harmony!** ðŸŽ¸
+**You're mastering the darker side of harmony!** 🎸
 
 ---
 

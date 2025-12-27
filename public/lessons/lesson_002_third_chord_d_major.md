@@ -4,12 +4,12 @@
 
 ⏱️ **TYPICAL COMPLETION TIME**: 2-3 days  
 📅 **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-ðŸ“‚ **PHASE**: Foundation (Lessons 1-60)  
+📂 **PHASE**: Foundation (Lessons 1-60)  
 🎯 **PREREQUISITES**: Lesson 1 complete (can play Em and Am chords cleanly)
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Form the D major chord using three fingers
@@ -20,7 +20,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸ“– THEORY: Major vs. Minor Chords
+## 📖 THEORY: Major vs. Minor Chords
 
 ### Understanding "Happy" and "Sad" Sounds
 
@@ -47,7 +47,7 @@ This single note change completely transforms the emotional quality.
 
 ---
 
-## ðŸŽ¸ YOUR THIRD CHORD: D Major
+## 🎸 YOUR THIRD CHORD: D Major
 
 ### D Major Chord Diagram
 
@@ -78,7 +78,7 @@ This single note change completely transforms the emotional quality.
 
 ---
 
-## ðŸŽ¸ STEP-BY-STEP: FORMING D MAJOR
+## 🎸 STEP-BY-STEP: FORMING D MAJOR
 
 ### Method 1: The "Triangle" Approach (Recommended)
 
@@ -130,7 +130,7 @@ Some people find it easier to build the chord differently:
 
 ---
 
-## ðŸŽµ PRACTICE ROUTINE FOR D MAJOR
+## 🎵 PRACTICE ROUTINE FOR D MAJOR
 
 ### Exercise 1: The "Triangle Builder" (5 minutes)
 
@@ -200,7 +200,7 @@ Some people find it easier to build the chord differently:
 
 ---
 
-## ðŸ”„ THREE-CHORD COMBINATIONS
+## 🎸 THREE-CHORD COMBINATIONS
 
 ### Now You Have Three Chords!
 
@@ -270,7 +270,7 @@ Em → Am → D → Em → Am → D → (repeat)
 
 ---
 
-## ðŸŽµ SONG APPLICATIONS
+## 🎵 SONG APPLICATIONS
 
 ### Song 1: "Knockin' on Heaven's Door" by Bob Dylan
 
@@ -361,7 +361,7 @@ Em | Em | D | D |
 
 ---
 
-## ðŸŽ¥ VIDEO RESOURCES
+## 🎥 VIDEO RESOURCES
 
 ### Primary Instruction Videos
 
@@ -409,7 +409,7 @@ Check these off honestly:
 - [ ] **I played one three-chord song pattern** - At least the basic progression
 - [ ] **I hear the difference** - Can tell D major sounds "happier" than Em and Am
 
-### â° NOT READY YET?
+### ⏰ NOT READY YET?
 
 **That's fine!** Most learners spend 2-3 days on this lesson. Here's what to focus on:
 
@@ -437,7 +437,7 @@ Check these off honestly:
 - Then put it all together
 - Small steps lead to big results!
 
-### ðŸ’¡ REMEMBER
+### 🧠 REMEMBER
 
 **Most learners spend 2-3 days on this lesson.**
 
@@ -445,7 +445,7 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: Can't Get All Strings to Ring on D Major
 
@@ -678,7 +678,7 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 
 
-## ðŸ’­ MOTIVATIONAL NOTE
+## 💭 MOTIVATIONAL NOTE
 
 ### You're Making Real Progress!
 
@@ -712,13 +712,13 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 **Fun Fact**: Scientists have studied guitarists' brains with MRI scans. After just 2-3 weeks of practice, they can see physical changes in brain structure. Your brain is literally being rewired to be a musician. That's happening RIGHT NOW!
 
-**You're not just learning chords - you're becoming a guitarist.** ðŸŽ¸
+**You're not just learning chords - you're becoming a guitarist.** 🎸
 
 **Keep showing up. Keep practicing. The consistency is transforming you.**
 
 ---
 
-## ðŸ”— ADDITIONAL RESOURCES
+## 🔗 ADDITIONAL RESOURCES
 
 ### Songs That Use Em, Am, and D
 
@@ -747,11 +747,11 @@ D major uses three fingers (one more than Em and Am), so it's naturally more cha
 
 ---
 
-## ðŸŽ‰ EXCELLENT WORK ON LESSON 2! ðŸŽ‰
+## 🎉 EXCELLENT WORK ON LESSON 2! 🎉
 
 You now know THREE chords. That's enough to play hundreds of songs! When you can check off all the success criteria, mark this lesson complete and move on to Lesson 3, where we'll add TWO more chords in one lesson!
 
-**See you in Lesson 3!** ðŸŽ¸
+**See you in Lesson 3!** 🎸
 
 ---
 

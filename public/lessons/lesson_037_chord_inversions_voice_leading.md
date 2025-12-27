@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 4-5 days  
+**⏱️ TYPICAL COMPLETION TIME**: 4-5 days  
 **📅 PRACTICE SESSION LENGTH**: 35-45 minutes per session  
-**ðŸ“‚ PHASE**: Theory Module 1 (Lessons 31-38)  
+**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
 **🎯 PREREQUISITES**: Lesson 36 complete (diatonic harmony, chord progressions)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽµ WHY THIS MATTERS: FROM BEGINNER TO PROFESSIONAL SOUND
+## 🎵 WHY THIS MATTERS: FROM BEGINNER TO PROFESSIONAL SOUND
 
 ### The Question Every Advancing Guitarist Asks
 
@@ -77,7 +77,7 @@ This separates advanced players from beginners.
 
 ---
 
-## ðŸ“– SECTION 1: UNDERSTANDING CHORD INVERSIONS
+## 📖 SECTION 1: UNDERSTANDING CHORD INVERSIONS
 
 ### What Is a Chord Inversion?
 
@@ -211,7 +211,7 @@ Stable → Moving → Moving → Stable
 
 ---
 
-## ðŸ“– SECTION 2: SLASH CHORD NOTATION
+## 📖 SECTION 2: SLASH CHORD NOTATION
 
 ### Reading Slash Chords
 
@@ -277,7 +277,7 @@ Stable → Moving → Moving → Stable
 
 ---
 
-## ðŸ“– SECTION 3: VOICE LEADING PRINCIPLES
+## 📖 SECTION 3: VOICE LEADING PRINCIPLES
 
 ### What Is Voice Leading?
 
@@ -318,7 +318,7 @@ Common tone: G (appears in both)
 **C to G (with common tone G held):**
 ```
 C chord:  C  -  E  -  G
-          â†“     â†“     â†“
+          ↓     ↓     ↓
 G chord:  B  -  D  -  G
          (step down) (step down) (held)
 ```
@@ -371,7 +371,7 @@ Smooth, melodic
 
 ---
 
-## ðŸ“– SECTION 4: COMMON INVERSION PATTERNS ON GUITAR
+## 📖 SECTION 4: COMMON INVERSION PATTERNS ON GUITAR
 
 ### Pattern 1: Descending Bass Line (I - I/7 - vi - vi/5)
 
@@ -536,7 +536,7 @@ Bass: A - B - C (ascending stepwise - beautiful!)
 
 ---
 
-## ðŸ“– SECTION 5: INVERSIONS IN CHORD PROGRESSIONS
+## 📖 SECTION 5: INVERSIONS IN CHORD PROGRESSIONS
 
 ### When to Use Inversions
 
@@ -628,7 +628,7 @@ Different feel, still smooth
 
 ---
 
-## ðŸ“– SECTION 6: PRACTICAL EXERCISES
+## 📖 SECTION 6: PRACTICAL EXERCISES
 
 ### Exercise 1: Identify Inversions (10 minutes)
 
@@ -725,7 +725,7 @@ Play each chord for 4 beats at 60 BPM.
 
 ---
 
-## ðŸ“– SECTION 7: VOICE LEADING ON GUITAR
+## 📖 SECTION 7: VOICE LEADING ON GUITAR
 
 ### Guitar-Specific Voice Leading Challenges
 
@@ -827,7 +827,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## ðŸŽ¸ FINAL THOUGHTS
+## 🎸 FINAL THOUGHTS
 
 ### You Now Sound Professional
 
@@ -853,11 +853,11 @@ Mark this lesson complete when you can:
 
 This is the polish that makes your playing sound professional.
 
-**See you in Lesson 38 - where we integrate EVERYTHING from Theory Module 1!** ðŸŽ¸
+**See you in Lesson 38 - where we integrate EVERYTHING from Theory Module 1!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -869,7 +869,7 @@ The practice tracker helps you:
 - Note smooth progression breakthroughs
 - Review your advanced theory journey
 
-**Your playing is becoming sophisticated!** ðŸŽ¸
+**Your playing is becoming sophisticated!** 🎸
 
 ---
 

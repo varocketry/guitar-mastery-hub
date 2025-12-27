@@ -1,8 +1,8 @@
 # Lesson 3: Fourth & Fifth Chord Shapes - G Major & C Major
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 5-7 days  
+**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
 **📅 PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-**ðŸ“‚ PHASE**: Foundation (Lessons 1-30)  
+**📂 PHASE**: Foundation (Lessons 1-30)  
 **🎯 PREREQUISITES**: Lessons 1-2 complete (can play Em, Am, D shapes cleanly at 60 BPM)
 
 ---
@@ -88,13 +88,13 @@ With five shapes at 60 BPM, you can walk into any campfire, any open mic, any ja
 
 **This is like learning enough words in a foreign language to actually have conversations.**
 
-**Today is that breakthrough.** ðŸŽ¸
+**Today is that breakthrough.** 🎸
 
 **Let's unlock this power.**
 
 ---
 
-## ðŸ“– THEORY: Completing Your Foundation Shape Set
+## 📖 THEORY: Completing Your Foundation Shape Set
 
 ### The Five Core Open Shapes
 
@@ -215,7 +215,7 @@ Every exercise shows starting tempo. Use it.
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 
@@ -241,7 +241,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽ¸ YOUR FOURTH CHORD SHAPE: G Major
+## 🎸 YOUR FOURTH CHORD SHAPE: G Major
 
 ### The G Major Shape (G-Shape)
 
@@ -377,7 +377,7 @@ Repeat 5 times at 40 BPM
 
 ---
 
-## ðŸŽµ PRACTICE ROUTINES FOR G MAJOR SHAPE
+## 🎵 PRACTICE ROUTINES FOR G MAJOR SHAPE
 
 ### Exercise 1: The "Outside-In Builder" at 40 BPM (5 minutes)
 
@@ -462,7 +462,7 @@ Repeat 10 times at 40 BPM
 
 ---
 
-## ðŸŽ¸ YOUR FIFTH CHORD SHAPE: C Major
+## 🎸 YOUR FIFTH CHORD SHAPE: C Major
 
 ### The C Major Shape (C-Shape)
 
@@ -597,7 +597,7 @@ Repeat 5 times at 40 BPM
 
 ---
 
-## ðŸŽµ PRACTICE ROUTINES FOR C MAJOR SHAPE
+## 🎵 PRACTICE ROUTINES FOR C MAJOR SHAPE
 
 ### Exercise 1: The "Diagonal Builder" at 40 BPM (5 minutes)
 
@@ -681,7 +681,7 @@ Repeat 10 times at 40 BPM
 
 ---
 
-## ðŸ”„ FIVE-CHORD SHAPE INTEGRATION
+## 🎸 FIVE-CHORD SHAPE INTEGRATION
 
 ### You Now Have FIVE Shapes!
 
@@ -787,7 +787,7 @@ Target: 5-6 cycles at 40 BPM (this is challenging!)
 
 ---
 
-## ðŸŽµ SONG APPLICATION: "Let It Be" by The Beatles
+## 🎵 SONG APPLICATION: "Let It Be" by The Beatles
 
 ### The Song That Uses All Five Shapes!
 
@@ -963,7 +963,7 @@ Check these off honestly at 60 BPM:
 
 ---
 
-### â° NOT READY YET?
+### ⏰ NOT READY YET?
 
 **That's completely normal!** This is an ambitious lesson. Most learners spend 10-14 days here.
 
@@ -1000,7 +1000,7 @@ Check these off honestly at 60 BPM:
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: G Shape - Fingers Don't Reach
 
@@ -1231,9 +1231,9 @@ This progression requires time and patience
 
 ---
 
-## ðŸ’­ MOTIVATIONAL NOTE
+## 💭 MOTIVATIONAL NOTE
 
-### You Just Reached Critical Mass! ðŸŽ¸
+### You Just Reached Critical Mass! 🎸
 
 **Do you understand what you accomplished today?**
 
@@ -1371,14 +1371,14 @@ People who can sit with a guitar and make music that moves hearts.
 
 **You have critical mass.**
 
-**You're a guitarist.** ðŸŽ¸
+**You're a guitarist.** 🎸
 
 **Exceptional work!**
 
 ---
 
 
-## ðŸ”— ADDITIONAL RESOURCES
+## 🔗 ADDITIONAL RESOURCES
 
 ### Essential Reading
 
@@ -1390,7 +1390,7 @@ People who can sit with a guitar and make music that moves hearts.
 
 ---
 
-### ðŸŽ¥ Video Resources
+### 🎥 Video Resources
 
 **G Major Chord:**
 - JustinGuitar - G Major Chord Lesson
@@ -1409,7 +1409,7 @@ People who can sit with a guitar and make music that moves hearts.
 
 ---
 
-### ðŸŽµ Backing Tracks
+### 🎵 Backing Tracks
 
 **"Let It Be" Practice Tracks:**
 - YouTube: "let it be backing track 50 bpm"
@@ -1422,7 +1422,7 @@ People who can sit with a guitar and make music that moves hearts.
 
 ---
 
-### ðŸ“± Essential Apps
+### 📱 Essential Apps
 
 **Metronome** (MANDATORY):
 - Metronome Beats (Free)
@@ -1458,23 +1458,23 @@ People who can sit with a guitar and make music that moves hearts.
 - You'll realize you've been learning movable patterns all along
 - Barre chords suddenly become MUCH less intimidating
 
-**Motivation**: After Lesson 4, you'll understand WHY these five shapes are magic. You'll see that you're not memorizing 180 isolated fingerings - you're learning 6 movable patterns that create ALL music. Mind = blown! ðŸ¤¯
+**Motivation**: After Lesson 4, you'll understand WHY these five shapes are magic. You'll see that you're not memorizing 180 isolated fingerings - you're learning 6 movable patterns that create ALL music. Mind = blown! 🤯
 
 ---
 
-**ðŸŽ‰ CONGRATULATIONS ON LESSON 3!** ðŸŽ‰
+**🎉 CONGRATULATIONS ON LESSON 3!** 🎉
 
 **You reached critical mass!** Five shapes = functional guitarist.
 
 When you can check off all success criteria at 60 BPM, mark this lesson complete.
 
-**You're not "learning guitar" anymore. You're PLAYING guitar.** ðŸŽ¸
+**You're not "learning guitar" anymore. You're PLAYING guitar.** 🎸
 
-**See you in Lesson 4 for the shape philosophy revelation!** ðŸŽ¸
+**See you in Lesson 4 for the shape philosophy revelation!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1486,7 +1486,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

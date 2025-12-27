@@ -30,7 +30,7 @@ You're not learning new finger patterns today. Instead, you're learning a **new 
 
 ---
 
-## ðŸ“– THEORY: The Revolutionary "Shapes Not Chords" Concept
+## 📖 THEORY: The Revolutionary "Shapes Not Chords" Concept
 
 ### What You've Been Learning (Without Realizing It!)
 
@@ -61,7 +61,7 @@ You're not learning new finger patterns today. Instead, you're learning a **new 
 
 ### Traditional Thinking vs. Shape Thinking
 
-**Traditional Thinking** âŒ:
+**Traditional Thinking** ❌:
 ```
 "I need to learn:
 - C major (one thing)
@@ -187,7 +187,7 @@ ONE shape = UNLIMITED chords!
 
 ---
 
-## ðŸŽ¸ RECOGNIZING THE 5 SHAPES YOU ALREADY KNOW
+## 🎸 RECOGNIZING THE 5 SHAPES YOU ALREADY KNOW
 
 **Let's identify the shapes you've been learning!**
 
@@ -407,7 +407,7 @@ Can play along with slower backing tracks
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Understand the revolutionary concept of "shapes not chords" (Den Lopez philosophy)
@@ -420,7 +420,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽ¸ EXERCISES: THINKING IN SHAPES
+## 🎸 EXERCISES: THINKING IN SHAPES
 
 **Now that you understand the concept, let's practice shape thinking!**
 
@@ -616,7 +616,7 @@ Do this for 3 minutes - trains quick shape recognition
 
 ---
 
-## ðŸŽµ SONG APPLICATION: "Let It Be" by The Beatles
+## 🎵 SONG APPLICATION: "Let It Be" by The Beatles
 
 ### Your First Complete Song Using Shape Thinking!
 
@@ -879,7 +879,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 
 ---
 
-### â° NOT READY YET?
+### ⏰ NOT READY YET?
 
 **That's completely fine!** Most learners spend 4-5 days on this lesson. Here's what to focus on:
 
@@ -917,7 +917,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 
 ---
 
-### ðŸ’¡ REMEMBER
+### 🧠 REMEMBER
 
 **Most learners spend 4-5 days on this lesson.**
 
@@ -931,7 +931,7 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: "I don't understand what a 'shape' is"
 
@@ -943,30 +943,30 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 **Solutions**:
 
 **Solution 1: Think physically, not theoretically**
-- Ã¢Å“â€¦ A shape = the physical finger pattern your hand makes
-- Ã¢Å“â€¦ Look at your hand when playing Em - that's a shape
-- Ã¢Å“â€¦ That same hand position can move to different frets (later)
-- Ã¢Å“â€¦ Shape = physical thing, not abstract concept
+- ✦ A shape = the physical finger pattern your hand makes
+- ✦ Look at your hand when playing Em - that's a shape
+- ✦ That same hand position can move to different frets (later)
+- ✦ Shape = physical thing, not abstract concept
 
 **Solution 2: Watch Den Lopez videos**
-- Ã¢Å“â€¦ His visual demonstrations make this instantly clear
-- Ã¢Å“â€¦ Seeing it is better than reading about it
-- Ã¢Å“â€¦ Links provided in Additional Resources
-- Ã¢Å“â€¦ 10 minutes of watching = hours of confusion eliminated
+- ✦ His visual demonstrations make this instantly clear
+- ✦ Seeing it is better than reading about it
+- ✦ Links provided in Additional Resources
+- ✦ 10 minutes of watching = hours of confusion eliminated
 
 **Solution 3: Focus on recognition first**
-- Ã¢Å“â€¦ Don't worry about "movable" yet (that's Lessons 21-22)
-- Ã¢Å“â€¦ Just recognize: "Em is E-shape, Am is A-shape, D is D-shape"
-- Ã¢Å“â€¦ Name the shapes as you play them
-- Ã¢Å“â€¦ Understanding will deepen over time
+- ✦ Don't worry about "movable" yet (that's Lessons 21-22)
+- ✦ Just recognize: "Em is E-shape, Am is A-shape, D is D-shape"
+- ✦ Name the shapes as you play them
+- ✦ Understanding will deepen over time
 
 **Solution 4: Study the shape diagrams in this lesson**
-- Ã¢Å“â€¦ Each shape section shows the visual pattern
-- Ã¢Å“â€¦ Em shape: two fingers side by side
-- Ã¢Å“â€¦ Am shape: three fingers in triangle
-- Ã¢Å“â€¦ D shape: three fingers in upward triangle
-- Ã¢Å“â€¦ G shape: wide, spread pattern
-- Ã¢Å“â€¦ C shape: vertical line pattern
+- ✦ Each shape section shows the visual pattern
+- ✦ Em shape: two fingers side by side
+- ✦ Am shape: three fingers in triangle
+- ✦ D shape: three fingers in upward triangle
+- ✦ G shape: wide, spread pattern
+- ✦ C shape: vertical line pattern
 
 ---
 
@@ -980,27 +980,27 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 **Solutions**:
 
 **Solution 1: Trust the process (thousands have proven this works)**
-- Ã¢Å“â€¦ Den Lopez has taught this to millions of guitarists
-- Ã¢Å“â€¦ JustinGuitar calls it "CAGED" (same concept, different name)
-- Ã¢Å“â€¦ EVERY professional guitarist thinks this way
-- Ã¢Å“â€¦ Short-term effort, long-term payoff
+- ✦ Den Lopez has taught this to millions of guitarists
+- ✦ JustinGuitar calls it "CAGED" (same concept, different name)
+- ✦ EVERY professional guitarist thinks this way
+- ✦ Short-term effort, long-term payoff
 
 **Solution 2: See the payoff in 17 lessons**
-- Ã¢Å“â€¦ Lesson 21: E-shape barre chords
-- Ã¢Å“â€¦ Without shape thinking: "What is this impossible thing?!"
-- Ã¢Å“â€¦ With shape thinking: "Oh, just move Em shape up with a bar!"
-- Ã¢Å“â€¦ The "extra work" today saves weeks of frustration later
+- ✦ Lesson 21: E-shape barre chords
+- ✦ Without shape thinking: "What is this impossible thing?!"
+- ✦ With shape thinking: "Oh, just move Em shape up with a bar!"
+- ✦ The "extra work" today saves weeks of frustration later
 
 **Solution 3: Consider the math**
-- Ã¢Å“â€¦ Traditional: Memorize 180 separate fingerings
-- Ã¢Å“â€¦ Shape thinking: Learn 6 patterns, move them around
-- Ã¢Å“â€¦ Which is actually MORE work?
+- ✦ Traditional: Memorize 180 separate fingerings
+- ✦ Shape thinking: Learn 6 patterns, move them around
+- ✦ Which is actually MORE work?
 
 **Solution 4: You're already using shapes without knowing it**
-- Ã¢Å“â€¦ When you play Em, your hand forms a shape
-- Ã¢Å“â€¦ When you play Am, your hand forms a different shape
-- Ã¢Å“â€¦ We're just NAMING what you're already doing
-- Ã¢Å“â€¦ This makes future learning easier, not harder
+- ✦ When you play Em, your hand forms a shape
+- ✦ When you play Am, your hand forms a different shape
+- ✦ We're just NAMING what you're already doing
+- ✦ This makes future learning easier, not harder
 
 ---
 
@@ -1014,36 +1014,36 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 **Solutions**:
 
 **Solution 1: You're probably at the right tempo, but need more reps**
-- Ã¢Å“â€¦ 50 BPM gives you ~1.2 seconds per beat
-- Ã¢Å“â€¦ 4 beats = ~4.8 seconds total per chord
-- Ã¢Å“â€¦ That's plenty of time IF you've practiced the transitions
-- Ã¢Å“â€¦ Problem isn't tempo - it's reps
+- ✦ 50 BPM gives you ~1.2 seconds per beat
+- ✦ 4 beats = ~4.8 seconds total per chord
+- ✦ That's plenty of time IF you've practiced the transitions
+- ✦ Problem isn't tempo - it's reps
 
 **Solution 2: Practice transitions WITHOUT the song**
-- Ã¢Å“â€¦ Just practice C → G 20 times slowly
-- Ã¢Å“â€¦ Then G → Am 20 times
-- Ã¢Å“â€¦ Then Am → Em 20 times
-- Ã¢Å“â€¦ Then put song together
-- Ã¢Å“â€¦ Transitions need isolated practice first
+- ✦ Just practice C → G 20 times slowly
+- ✦ Then G → Am 20 times
+- ✦ Then Am → Em 20 times
+- ✦ Then put song together
+- ✦ Transitions need isolated practice first
 
 **Solution 3: Use "anchor fingers" where possible**
-- Ã¢Å“â€¦ Some transitions have fingers that stay close
-- Ã¢Å“â€¦ Example: C to G - index finger barely moves
-- Ã¢Å“â€¦ Find the anchors, use them
-- Ã¢Å“â€¦ Makes switches faster
+- ✦ Some transitions have fingers that stay close
+- ✦ Example: C to G - index finger barely moves
+- ✦ Find the anchors, use them
+- ✦ Makes switches faster
 
 **Solution 4: Slow down even more temporarily**
-- Ã¢Å“â€¦ Drop to 40 BPM just for learning the chord sequence
-- Ã¢Å“â€¦ Play each chord for 8 beats (more time to switch)
-- Ã¢Å“â€¦ Once sequence is memorized, return to 50 BPM with 4 beats
-- Ã¢Å“â€¦ Sometimes slower is necessary to learn the pattern
+- ✦ Drop to 40 BPM just for learning the chord sequence
+- ✦ Play each chord for 8 beats (more time to switch)
+- ✦ Once sequence is memorized, return to 50 BPM with 4 beats
+- ✦ Sometimes slower is necessary to learn the pattern
 
 **Solution 5: Practice WITHOUT metronome first**
-- Ã¢Å“â€¦ Learn the chord sequence at your own pace
-- Ã¢Å“â€¦ C → G → Am → Em → (pause) → C → G → Em → D
-- Ã¢Å“â€¦ Repeat 10 times with no tempo pressure
-- Ã¢Å“â€¦ THEN add metronome at 50 BPM
-- Ã¢Å“â€¦ Sequence needs to be memorized before adding tempo
+- ✦ Learn the chord sequence at your own pace
+- ✦ C → G → Am → Em → (pause) → C → G → Em → D
+- ✦ Repeat 10 times with no tempo pressure
+- ✦ THEN add metronome at 50 BPM
+- ✦ Sequence needs to be memorized before adding tempo
 
 ---
 
@@ -1057,29 +1057,29 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 **Solutions**:
 
 **Solution 1: Use the naming game exercise**
-- Ã¢Å“â€¦ Exercise 5 (Shape Naming Game) is designed for this
-- Ã¢Å“â€¦ Practice it 5 minutes daily
-- Ã¢Å“â€¦ Say shape name OUT LOUD before playing
-- Ã¢Å“â€¦ Repetition builds automatic recognition
+- ✦ Exercise 5 (Shape Naming Game) is designed for this
+- ✦ Practice it 5 minutes daily
+- ✦ Say shape name OUT LOUD before playing
+- ✦ Repetition builds automatic recognition
 
 **Solution 2: Create memory anchors**
-- Ã¢Å“â€¦ E-shape (Em): Two fingers side by side like "II"
-- Ã¢Å“â€¦ A-shape (Am): Triangle points to A string (where it's named)
-- Ã¢Å“â€¦ D-shape: Triangle points UP toward headstock
-- Ã¢Å“â€¦ G-shape: Big, wide, Ginormous spread
-- Ã¢Å“â€¦ C-shape: Vertical line going up like a "C" curve
+- ✦ E-shape (Em): Two fingers side by side like "II"
+- ✦ A-shape (Am): Triangle points to A string (where it's named)
+- ✦ D-shape: Triangle points UP toward headstock
+- ✦ G-shape: Big, wide, Ginormous spread
+- ✦ C-shape: Vertical line going up like a "C" curve
 
 **Solution 3: Physical memory drill**
-- Ã¢Å“â€¦ Form each shape 10 times
-- Ã¢Å“â€¦ Say name as you form it
-- Ã¢Å“â€¦ Your hand will learn faster than your brain
-- Ã¢Å“â€¦ Muscle memory + verbal = strong connection
+- ✦ Form each shape 10 times
+- ✦ Say name as you form it
+- ✦ Your hand will learn faster than your brain
+- ✦ Muscle memory + verbal = strong connection
 
 **Solution 4: Visual memory**
-- Ã¢Å“â€¦ Take photos of your hand in each shape
-- Ã¢Å“â€¦ Label them clearly
-- Ã¢Å“â€¦ Review photos daily
-- Ã¢Å“â€¦ Visual + physical = better memory
+- ✦ Take photos of your hand in each shape
+- ✦ Label them clearly
+- ✦ Review photos daily
+- ✦ Visual + physical = better memory
 
 ---
 
@@ -1093,28 +1093,28 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 **Solutions**:
 
 **Solution 1: This is normal at first!**
-- Ã¢Å“â€¦ Smooth transitions come with time and reps
-- Ã¢Å“â€¦ Even professionals sounded choppy when learning
-- Ã¢Å“â€¦ Keep practicing at slow tempo
-- Ã¢Å“â€¦ Smoothness develops naturally with repetition
+- ✦ Smooth transitions come with time and reps
+- ✦ Even professionals sounded choppy when learning
+- ✦ Keep practicing at slow tempo
+- ✦ Smoothness develops naturally with repetition
 
 **Solution 2: Practice "overlapping" the switch**
-- Ã¢Å“â€¦ Anticipate the next chord shape
-- Ã¢Å“â€¦ Start moving fingers DURING the last beat of current chord
-- Ã¢Å“â€¦ Slight overlap prevents gaps
-- Ã¢Å“â€¦ This is an advanced technique but worth trying
+- ✦ Anticipate the next chord shape
+- ✦ Start moving fingers DURING the last beat of current chord
+- ✦ Slight overlap prevents gaps
+- ✦ This is an advanced technique but worth trying
 
 **Solution 3: Keep strumming hand moving**
-- Ã¢Å“â€¦ Even if left hand is switching, right hand keeps rhythm
-- Ã¢Å“â€¦ Strum "air" or muted strings during switch
-- Ã¢Å“â€¦ This maintains tempo and rhythm
-- Ã¢Å“â€¦ Makes transitions less noticeable
+- ✦ Even if left hand is switching, right hand keeps rhythm
+- ✦ Strum "air" or muted strings during switch
+- ✦ This maintains tempo and rhythm
+- ✦ Makes transitions less noticeable
 
 **Solution 4: Increase practice time on transitions**
-- Ã¢Å“â€¦ Spend 50% of practice just on the switches
-- Ã¢Å“â€¦ Transitions are harder than holding chords
-- Ã¢Å“â€¦ Most beginners under-practice transitions
-- Ã¢Å“â€¦ More transition reps = smoother playing
+- ✦ Spend 50% of practice just on the switches
+- ✦ Transitions are harder than holding chords
+- ✦ Most beginners under-practice transitions
+- ✦ More transition reps = smoother playing
 
 ---
 
@@ -1128,28 +1128,28 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 **Solutions**:
 
 **Solution 1: Understand this is temporary**
-- Ã¢Å“â€¦ Fingertip soreness is NORMAL for first 2-3 weeks
-- Ã¢Å“â€¦ You're building calluses (toughened skin)
-- Ã¢Å“â€¦ Once calluses form, playing is painless
-- Ã¢Å“â€¦ This is a phase ALL guitarists went through
+- ✦ Fingertip soreness is NORMAL for first 2-3 weeks
+- ✦ You're building calluses (toughened skin)
+- ✦ Once calluses form, playing is painless
+- ✦ This is a phase ALL guitarists went through
 
 **Solution 2: Practice in shorter sessions**
-- Ã¢Å“â€¦ Instead of 45 minutes once per day...
-- Ã¢Å“â€¦ Do 15 minutes, three times per day
-- Ã¢Å“â€¦ This builds calluses faster with less pain
-- Ã¢Å“â€¦ Shorter sessions prevent excessive fatigue
+- ✦ Instead of 45 minutes once per day...
+- ✦ Do 15 minutes, three times per day
+- ✦ This builds calluses faster with less pain
+- ✦ Shorter sessions prevent excessive fatigue
 
 **Solution 3: Check your technique**
-- Ã¢Å“â€¦ You might be pressing WAY too hard
-- Ã¢Å“â€¦ Press just enough for clear sound, not more
-- Ã¢Å“â€¦ Excess pressure = excess pain, no benefit
-- Ã¢Å“â€¦ Review proper finger placement in shape sections
+- ✦ You might be pressing WAY too hard
+- ✦ Press just enough for clear sound, not more
+- ✦ Excess pressure = excess pain, no benefit
+- ✦ Review proper finger placement in shape sections
 
 **Solution 4: Take rest days if needed**
-- Ã¢Å“â€¦ If fingertips are raw, take 1 day off to heal
-- Ã¢Å“â€¦ Don't practice through bleeding or broken skin
-- Ã¢Å“â€¦ But minor discomfort = keep practicing (building calluses)
-- Ã¢Å“â€¦ Listen to your body
+- ✦ If fingertips are raw, take 1 day off to heal
+- ✦ Don't practice through bleeding or broken skin
+- ✦ But minor discomfort = keep practicing (building calluses)
+- ✦ Listen to your body
 
 ---
 
@@ -1163,35 +1163,35 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 **Solutions**:
 
 **Solution 1: Practice WITHOUT metronome first**
-- Ã¢Å“â€¦ Learn "Let It Be" chord sequence with no tempo
-- Ã¢Å“â€¦ Take as long as you need between chords
-- Ã¢Å“â€¦ Play each chord cleanly before switching
-- Ã¢Å“â€¦ THEN add metronome at 50 BPM
-- Ã¢Å“â€¦ You're trying to add tempo before learning the sequence
+- ✦ Learn "Let It Be" chord sequence with no tempo
+- ✦ Take as long as you need between chords
+- ✦ Play each chord cleanly before switching
+- ✦ THEN add metronome at 50 BPM
+- ✦ You're trying to add tempo before learning the sequence
 
 **Solution 2: Simplify the task**
-- Ã¢Å“â€¦ Just play Line 1 (C-G-Am-Em)
-- Ã¢Å“â€¦ Ignore Line 2 for now
-- Ã¢Å“â€¦ Master Line 1 perfectly at 50 BPM
-- Ã¢Å“â€¦ Only then add Line 2
-- Ã¢Å“â€¦ You're trying to do too much at once
+- ✦ Just play Line 1 (C-G-Am-Em)
+- ✦ Ignore Line 2 for now
+- ✦ Master Line 1 perfectly at 50 BPM
+- ✦ Only then add Line 2
+- ✦ You're trying to do too much at once
 
 **Solution 3: Drop to 40 BPM temporarily**
-- Ã¢Å“â€¦ Use 40 BPM until sequence is memorized
-- Ã¢Å“â€¦ 8 beats per chord (super slow)
-- Ã¢Å“â€¦ Focus on accuracy, not tempo
-- Ã¢Å“â€¦ Once perfect at 40, jump to 50
-- Ã¢Å“â€¦ No shame in going slower temporarily
+- ✦ Use 40 BPM until sequence is memorized
+- ✦ 8 beats per chord (super slow)
+- ✦ Focus on accuracy, not tempo
+- ✦ Once perfect at 40, jump to 50
+- ✦ No shame in going slower temporarily
 
 **Solution 4: Check if chords are clean**
-- Ã¢Å“â€¦ If individual chords buzz, tempo isn't the issue
-- Ã¢Å“â€¦ Review Lessons 1-3 for proper chord formation
-- Ã¢Å“â€¦ Get clean shapes first, THEN work on transitions
-- Ã¢Å“â€¦ Foundation must be solid before building
+- ✦ If individual chords buzz, tempo isn't the issue
+- ✦ Review Lessons 1-3 for proper chord formation
+- ✦ Get clean shapes first, THEN work on transitions
+- ✦ Foundation must be solid before building
 
 ---
 
-## ðŸ’­ MOTIVATIONAL NOTE
+## 💭 MOTIVATIONAL NOTE
 
 ### You Just Leveled Up Your Understanding!
 
@@ -1242,14 +1242,14 @@ Den Lopez, who pioneered this teaching approach, says:
 
 **This is the foundation.** Everything builds from here.
 
-**You're not just learning guitar - you're understanding guitar AND practicing it correctly.** ðŸŽ¸
+**You're not just learning guitar - you're understanding guitar AND practicing it correctly.** 🎸
 
 **Exceptional work!**
 
 ---
 
 
-## ðŸ”— ADDITIONAL RESOURCES
+## 🔗 ADDITIONAL RESOURCES
 
 ### Essential Reading
 
@@ -1359,7 +1359,7 @@ Den Lopez, who pioneered this teaching approach, says:
 
 ---
 
-## ðŸ”® HOW SHAPES BECOME BARRE CHORDS (Preview)
+## 🎸 HOW SHAPES BECOME BARRE CHORDS (Preview)
 
 **You're probably curious: "When do I get to move these shapes?"**
 
@@ -1423,14 +1423,14 @@ The Em shape you learned in Lesson 1 becomes:
 
 ### Why This Makes Barre Chords Easy
 
-**Traditional thinking** âŒ:
+**Traditional thinking** ❌:
 ```
 "Barre chords are these impossible new fingerings I have to learn from scratch!"
 
 Result: Anxiety, frustration, often quit guitar at this point
 ```
 
-**Shape thinking** Ã¢Å“â€¦ (what you're learning):
+**Shape thinking** ✦ (what you're learning):
 ```
 "Barre chords are just the E-shape and A-shape I ALREADY KNOW, 
 but moved up the neck with my index finger barring the strings!"
@@ -1509,10 +1509,10 @@ Bm (A-shape moved to fret 2):
 **Nothing new!**
 
 When you get to Lesson 21, you'll already know:
-- Ã¢Å“â€¦ The E-shape (you learned Em in Lesson 1, E major in Lesson 6)
-- Ã¢Å“â€¦ The A-shape (you learned Am in Lesson 1, A major in Lesson 8)
-- Ã¢Å“â€¦ How to switch between shapes smoothly
-- Ã¢Å“â€¦ The concept of "shapes as movable patterns"
+- ✦ The E-shape (you learned Em in Lesson 1, E major in Lesson 6)
+- ✦ The A-shape (you learned Am in Lesson 1, A major in Lesson 8)
+- ✦ How to switch between shapes smoothly
+- ✦ The concept of "shapes as movable patterns"
 
 **The ONLY new thing** in Lesson 21 is learning to:
 - Bar across strings with your index finger
@@ -1562,9 +1562,9 @@ That's 17 lessons to:
 - You're ready
 
 **For now**, just understand:
-- Ã¢Å“â€¦ Shapes are movable patterns
-- Ã¢Å“â€¦ Barre chords = shapes + bar
-- Ã¢Å“â€¦ You're already learning what you need
+- ✦ Shapes are movable patterns
+- ✦ Barre chords = shapes + bar
+- ✦ You're already learning what you need
 
 **That's enough for Lesson 4!**
 
@@ -1591,7 +1591,7 @@ That's 17 lessons to:
 
 ---
 
-**ðŸŽ‰ CONGRATULATIONS ON COMPLETING LESSON 4!** ðŸŽ‰
+**🎉 CONGRATULATIONS ON COMPLETING LESSON 4!** 🎉
 
 **You now understand shapes!** This is a game-changing concept that will make the rest of your guitar journey easier. When you can check off all the success criteria at 60 BPM, mark this lesson complete.
 
@@ -1599,9 +1599,9 @@ That's 17 lessons to:
 
 **You're thinking like a professional guitarist now** - understanding patterns, not just memorizing positions.
 
-**Remember: Slow is smooth, smooth is fast!** ðŸŽ¸
+**Remember: Slow is smooth, smooth is fast!** 🎸
 
-**See you in Lesson 5 for rhythm and strumming patterns!** ðŸŽ¸
+**See you in Lesson 5 for rhythm and strumming patterns!** 🎸
 
 ---
 
@@ -1613,7 +1613,7 @@ That's 17 lessons to:
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1625,7 +1625,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

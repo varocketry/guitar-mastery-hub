@@ -65,7 +65,7 @@ Every professional guitarist remembers their first public performance—not beca
 
 **Revelation 3: Your Music Needs to Be Heard**
 
-**JosÃ© GonzÃ¡lez:** *"I wrote songs for three years before I played them for anyone. THREE YEARS. Just me, my guitar, my bedroom. When I finally performed, people told me: 'Why didn't you share this sooner? We needed these songs.' I realized I'd been selfish. Not sharing your music isn't humility—it's withholding. Someone, somewhere needs to hear what you're creating."*
+**José GonzÃ¡lez:** *"I wrote songs for three years before I played them for anyone. THREE YEARS. Just me, my guitar, my bedroom. When I finally performed, people told me: 'Why didn't you share this sooner? We needed these songs.' I realized I'd been selfish. Not sharing your music isn't humility—it's withholding. Someone, somewhere needs to hear what you're creating."*
 
 **The truth about sharing:**
 - Your music isn't just for you
@@ -223,13 +223,13 @@ From private → public
 From perfect → real  
 From waiting → performing
 
-**Your music deserves to be heard.** ðŸŽ¸
+**Your music deserves to be heard.** 🎸
 
 ---
 
-## ðŸ“‹ LESSON OVERVIEW
+## 📋 LESSON OVERVIEW
 
-â±ï¸ **TYPICAL COMPLETION TIME**: 8-12 weeks (preparation + performance)  
+⏱️ **TYPICAL COMPLETION TIME**: 8-12 weeks (preparation + performance)  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Foundation (Lessons 28-30) - Performance Mastery  
 🎯 **PREREQUISITES**: Lessons 1-28 (complete musical skill set)
@@ -252,7 +252,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽ¸ SECTION 1: BUILDING YOUR REPERTOIRE
+## 🎸 SECTION 1: BUILDING YOUR REPERTOIRE
 
 ### Choosing Performance Songs
 
@@ -347,7 +347,7 @@ Goal: Complete set 7/10 successful (mistakes OK, don't stop)
 
 ---
 
-## ðŸŽ¸ SECTION 2: MANAGING PERFORMANCE ANXIETY
+## 🎸 SECTION 2: MANAGING PERFORMANCE ANXIETY
 
 ### Understanding Anxiety
 
@@ -439,7 +439,7 @@ Use this 5 minutes before performing.
 
 ---
 
-## ðŸŽ¸ SECTION 3: RECORDING & SELF-EVALUATION
+## 🎸 SECTION 3: RECORDING & SELF-EVALUATION
 
 ### Why Recording Is Critical
 
@@ -484,7 +484,7 @@ Take notes WITHOUT judgment
 - What moments sound musical?
 - Where do you hear emotion?
 
-**ðŸ“ Growth Areas (NOT failures):**
+**📝 Growth Areas (NOT failures):**
 - Where did tempo rush/drag?
 - Which transitions need work?
 - Any consistent mistakes?
@@ -499,7 +499,7 @@ Take notes WITHOUT judgment
 
 ---
 
-## ðŸŽ¸ SECTION 4: FIRST PERFORMANCES
+## 🎸 SECTION 4: FIRST PERFORMANCES
 
 ### The Graduated Exposure Plan
 
@@ -566,7 +566,7 @@ Record and post online regularly
 
 ---
 
-## ðŸŽ¸ SECTION 5: PLAYING WITH OTHERS
+## 🎸 SECTION 5: PLAYING WITH OTHERS
 
 ### Jam Session Basics
 
@@ -604,7 +604,7 @@ Record and post online regularly
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: Can't Stop Shaking When Performing
 
@@ -665,7 +665,7 @@ Mark complete when you have:
 
 ---
 
-## ðŸŽ¸ FINAL THOUGHTS
+## 🎸 FINAL THOUGHTS
 
 **You're a Performer Now**
 
@@ -696,11 +696,11 @@ Mark complete when you have:
 **Share authentically.**  
 **Connect honestly.**
 
-**See you in Lesson 30 - where we celebrate your complete journey and plan your future!** ðŸŽ¸
+**See you in Lesson 30 - where we celebrate your complete journey and plan your future!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -712,7 +712,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

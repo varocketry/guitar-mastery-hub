@@ -236,7 +236,7 @@ Watch any experienced guitarist strum. Their arm barely moves. All the action ha
 
 ---
 
-### The Downstroke (â†“)
+### The Downstroke (↓)
 
 Your first strumming motion is the downstroke.
 
@@ -303,7 +303,7 @@ If your pick is hitting the strings at a steep angle, you'll hear scraping. Keep
 
 ---
 
-### The Upstroke (â†‘)
+### The Upstroke (↑)
 
 Once you're comfortable with downstrokes, it's time to add upstrokes.
 
@@ -630,7 +630,7 @@ Now we combine everything you've learned into actual strumming patterns.
 
 ### Pattern 1: All Downstrokes (The Foundation Pattern)
 
-**Notation:** â†“ â†“ â†“ â†“  
+**Notation:** ↓ ↓ ↓ ↓  
 **Count:** 1 - 2 - 3 - 4  
 **Tempo:** Start at 60 BPM
 
@@ -646,7 +646,7 @@ Now we combine everything you've learned into actual strumming patterns.
 - Demonstrate: 4 measures (16 beats) of Pattern 1
 - Camera angle: Slightly from player's right side
 - Audio: Clear sound of each downstroke, plus metronome click
-- Overlay: Text showing "â†“ â†“ â†“ â†“" in sync with strums
+- Overlay: Text showing "↓ ↓ ↓ ↓" in sync with strums
 - Duration: 30 seconds
 **Caption:** "Pattern 1: All downstrokes at 60 BPM. Strum on each beat."
 
@@ -686,7 +686,7 @@ It's the foundation of all strumming. If you can't play steady quarter notes (on
 
 ### Pattern 2: Down-Down-Up (The "Island Strum")
 
-**Notation:** â†“ â†“ â†‘  
+**Notation:** ↓ ↓ ↑  
 **Count:** 1 - 2 - and  
 **Tempo:** Start at 60 BPM
 
@@ -701,7 +701,7 @@ It's the foundation of all strumming. If you can't play steady quarter notes (on
 - Same framing as Video 7
 - Demonstrate: Pattern 2 for 4 measures
 - Audio: Clear distinction between down and up strokes
-- Overlay: Text showing "â†“ â†“ â†‘" pattern in sync
+- Overlay: Text showing "↓ ↓ ↑" pattern in sync
 - Slow motion replay: Show the upstroke timing clearly
 - Duration: 45 seconds
 **Caption:** "Pattern 2: Down-Down-Up. Notice the upstroke comes between beats 2 and 3."
@@ -757,7 +757,7 @@ Start at 40 BPM if 60 feels too fast.
 
 ### Pattern 3: Down-Up-Down-Up (The Universal Pattern)
 
-**Notation:** â†“ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†‘  
+**Notation:** ↓ ↑ ↓ ↑ ↓ ↑ ↓ ↑  
 **Count:** 1-and-2-and-3-and-4-and  
 **Tempo:** Start at 60 BPM
 
@@ -772,7 +772,7 @@ Start at 40 BPM if 60 feels too fast.
 - Demonstrate: 4 measures of continuous down-up alternation
 - Side view: Show wrist rotation clearly
 - Audio: Hear dynamic difference between down (louder) and up (softer)
-- Overlay: "â†“ â†‘ â†“ â†‘" cycling continuously
+- Overlay: "↓ ↑ ↓ ↑" cycling continuously
 - Duration: 45 seconds
 **Caption:** "Pattern 3: Continuous down-up alternation. This is THE most versatile strumming pattern."
 
@@ -1214,7 +1214,7 @@ A chord: "[PAUSE]-STRUM-STRUM-STRUM"
 
 **Minute 10-15:** Down-Up alternation
 - Open strings
-- Pattern 3 (â†“ â†‘ â†“ â†‘)
+- Pattern 3 (↓ ↑ ↓ ↑)
 - 60 BPM
 
 **Minute 15-20:** Pattern 3 with D chord
@@ -1365,7 +1365,7 @@ When that happens, your brain is free to focus on:
 
 **That's when guitar gets really fun.**
 
-**Welcome to making music.** ðŸŽ¸
+**Welcome to making music.** 🎸
 
 ---
 
@@ -1417,7 +1417,7 @@ When that happens, your brain is free to focus on:
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1429,7 +1429,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges  
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

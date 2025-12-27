@@ -100,11 +100,11 @@ E|--0--2--0--2--0--2------
 
 
 **Hand Position Checklist**:
-- [âœ“] Thumb behind neck (low position)
-- [âœ“] Fingers curved, on fingertips
-- [âœ“] Ring finger directly above middle finger
-- [âœ“] Palm not touching neck
-- [âœ“] Wrist straight, not bent
+- [✜] Thumb behind neck (low position)
+- [✜] Fingers curved, on fingertips
+- [✜] Ring finger directly above middle finger
+- [✜] Palm not touching neck
+- [✜] Wrist straight, not bent
 
 **Step 2**: Sound Check
 1. Strum only the bottom 3 strings (E, A, D)
@@ -466,17 +466,17 @@ Rate yourself (1-5) on each skill:
 - [ ] Can play along with backing track
 
 ### If You Scored Mostly 4-5
-[âœ“] **Excellent!** Move confidently to Lesson 18  
+[✜] **Excellent!** Move confidently to Lesson 18  
 Focus: Speed and more complex progressions
 
 ### If You Scored Mostly 3
-[âœ“] **Good progress!** Spend extra time on:
+[✜] **Good progress!** Spend extra time on:
 - Clean chord transitions
 - Palm muting consistency
 - Rhythm stability
 
 ### If You Scored Mostly 1-2
-[âœ“] **Keep going!** Additional practice needed:
+[✜] **Keep going!** Additional practice needed:
 - Spend 2-3 days on this material
 - Focus on shape formation first
 - Practice with metronome at slower tempo (60 BPM)
@@ -522,6 +522,6 @@ _[Space for you to write what worked, what was challenging, questions to researc
 
 ---
 
-**Lesson 17 Complete! ðŸŽ¸**
+**Lesson 17 Complete! 🎸**
 
 Tomorrow: 5th string root power chords and advanced transitions!

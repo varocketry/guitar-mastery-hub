@@ -248,11 +248,11 @@ Verse:
 
 **That's true musical freedom.**
 
-**Let's learn to read.** ðŸŽ¸
+**Let's learn to read.** 🎸
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Read guitar tablature (TAB) fluently for single notes and chord shapes
@@ -381,7 +381,7 @@ Reading music is NOT a separate skill from playing - it's integrated. You need t
 
 ---
 
-## ðŸ“– THEORY: Why Learn to Read Music as a Guitarist?
+## 📖 THEORY: Why Learn to Read Music as a Guitarist?
 
 ### The Great News: Guitarists Have It Easy!
 
@@ -389,7 +389,7 @@ Reading music is NOT a separate skill from playing - it's integrated. You need t
 
 **Traditional Staff Notation** (what piano and orchestra musicians use):
 ```
-ð„ž Lines, spaces, note heads, stems, clefs, key signatures
+𝄞 Lines, spaces, note heads, stems, clefs, key signatures
 ```
 - Complex system (takes years to master)
 - Requires understanding music theory
@@ -428,7 +428,7 @@ Reading music is NOT a separate skill from playing - it's integrated. You need t
 
 ---
 
-## ðŸŽ¸ READING METHOD #1: TABLATURE (TAB)
+## 🎸 READING METHOD #1: TABLATURE (TAB)
 
 ### What is Tablature?
 
@@ -687,7 +687,7 @@ D|---------------|-------------------|---------------|-----------|
 
 ---
 
-## ðŸŽ¸ READING METHOD #2: CHORD DIAGRAMS
+## 🎸 READING METHOD #2: CHORD DIAGRAMS
 
 ### What Are Chord Diagrams?
 
@@ -706,7 +706,7 @@ D|---------------|-------------------|---------------|-----------|
 
 ```
    E A D G B e  ← String names
-   â•”───────────
+   "───────────
    │ │ │ │ │ │  ← Nut (top of fretboard)
    ├───────────  Fret 1
    │ │ │ │ │ │
@@ -872,7 +872,7 @@ E-shape
 
 ---
 
-## ðŸŽ¸ READING METHOD #3: RHYTHM NOTATION
+## 🎸 READING METHOD #3: RHYTHM NOTATION
 
 ### Why Rhythm Notation Matters
 
@@ -1041,7 +1041,7 @@ Em-shape                Am-shape                D-shape
 
 ---
 
-## ðŸŽ¸ READING METHOD #4: LEAD SHEETS
+## 🎸 READING METHOD #4: LEAD SHEETS
 
 ### What Are Lead Sheets?
 
@@ -1163,7 +1163,7 @@ Oh stand, stand by me, stand by me
 
 ---
 
-## ðŸŽ¸ NAVIGATING ONLINE RESOURCES
+## 🎸 NAVIGATING ONLINE RESOURCES
 
 ### Ultimate Guitar (ultimate-guitar.com)
 
@@ -1280,7 +1280,7 @@ Oh stand, stand by me, stand by me
 
 ---
 
-## ðŸŽ¸ WRITING YOUR OWN TAB AND CHARTS
+## 🎸 WRITING YOUR OWN TAB AND CHARTS
 
 ### Why Write Your Own?
 
@@ -1443,7 +1443,7 @@ Em-shape
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: TAB Looks Upside-Down
 
@@ -1661,7 +1661,7 @@ Em-shape
 - [ ] **I can learn songs without video tutorials** (using only written notation)
 - [ ] **I feel confident finding resources online** (know where to look)
 
-### â° NOT READY YET?
+### ⏰ NOT READY YET?
 
 **Spend more time on:**
 
@@ -1696,7 +1696,7 @@ Em-shape
 - Practice reading 5-10 minutes daily
 - Speed will come naturally with exposure
 
-### ðŸ’¡ REMEMBER
+### 🧠 REMEMBER
 
 **This lesson introduces a SKILL, not just knowledge.**
 
@@ -1749,7 +1749,7 @@ Try plucking individual strings with fingers instead of strumming:
 
 ---
 
-## ðŸ“ PRACTICE LOG
+## 📝 PRACTICE LOG
 
 ### Day 1:
 - **TAB practiced:** _______________
@@ -1853,7 +1853,7 @@ Try plucking individual strings with fingers instead of strumming:
 
 **The reading skills you developed today are foundational - they'll serve you for your entire guitar journey.**
 
-**See you in Lesson 10 - Fingerstyle Basics!** ðŸŽ¸
+**See you in Lesson 10 - Fingerstyle Basics!** 🎸
 
 ---
 
@@ -1864,7 +1864,7 @@ Try plucking individual strings with fingers instead of strumming:
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1876,7 +1876,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

@@ -211,13 +211,13 @@ From imitator → creator
 From copier → composer  
 From player → musician
 
-**The language of music awaits.** ðŸŽ¸
+**The language of music awaits.** 🎸
 
 ---
 
-## ðŸ“‹ LESSON OVERVIEW
+## 📋 LESSON OVERVIEW
 
-â±ï¸ **TYPICAL COMPLETION TIME**: 2-4 weeks (conceptual understanding)  
+⏱️ **TYPICAL COMPLETION TIME**: 2-4 weeks (conceptual understanding)  
 📅 **STUDY SESSION LENGTH**: 30-45 minutes per session  
 📍 **PHASE**: Theory Module (Lessons 31-32)  
 🎯 **PREREQUISITES**: Lessons 1-30 (practical foundation established)
@@ -238,7 +238,7 @@ By the end of this lesson, you will understand:
 
 ---
 
-## ðŸŽµ SECTION 1: THE MUSICAL ALPHABET
+## 🎵 SECTION 1: THE MUSICAL ALPHABET
 
 ### The 12 Notes
 
@@ -281,7 +281,7 @@ C - C#/Db - D - D#/Eb - E - F - F#/Gb - G - G#/Ab - A - A#/Bb - B - [C repeats]
 - C# is one half step higher than C
 - F# is one half step higher than F
 
-**Flat (â™­):** Lowers a note by one half step
+**Flat (♭):** Lowers a note by one half step
 - Db is one half step lower than D
 - Bb is one half step lower than B
 
@@ -314,7 +314,7 @@ Note:    E    F   F#    G   G#    A   A#    B    C   C#    D   D#    E
 
 ---
 
-## ðŸŽµ SECTION 2: INTERVALS
+## 🎵 SECTION 2: INTERVALS
 
 ### What Is an Interval?
 
@@ -393,7 +393,7 @@ C = 8th (Octave)
 
 ---
 
-## ðŸŽµ SECTION 3: THE MAJOR SCALE
+## 🎵 SECTION 3: THE MAJOR SCALE
 
 ### Why the Major Scale Matters
 
@@ -473,7 +473,7 @@ E|---0---1---3---|
 
 ---
 
-## ðŸŽµ SECTION 4: KEY SIGNATURES
+## 🎵 SECTION 4: KEY SIGNATURES
 
 ### What Is a Key?
 
@@ -535,7 +535,7 @@ Ab (4 flats: Bb, Eb, Ab, Db)
 
 ---
 
-## ðŸŽµ SECTION 5: APPLYING THEORY TO GUITAR
+## 🎵 SECTION 5: APPLYING THEORY TO GUITAR
 
 ### Finding Scale Notes on Fretboard
 
@@ -583,7 +583,7 @@ E|---3---5---7---8---
 
 ---
 
-## ðŸ”§ EXERCISES & PRACTICE
+## 🔧 EXERCISES & PRACTICE
 
 ### Exercise 1: Chromatic Scale on One String
 
@@ -655,7 +655,7 @@ Mark complete when you understand:
 
 ---
 
-## ðŸŽ¸ FINAL THOUGHTS
+## 🎸 FINAL THOUGHTS
 
 **You Now Understand the Language**
 
@@ -683,11 +683,11 @@ Mark complete when you understand:
 **From understanding the alphabet → forming words**  
 **From theory concepts → musical creation**
 
-**See you in Lesson 32 - where we build chords and understand progressions!** ðŸŽ¸
+**See you in Lesson 32 - where we build chords and understand progressions!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -699,7 +699,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

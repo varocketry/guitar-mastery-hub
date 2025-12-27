@@ -323,13 +323,13 @@ This confidence translates to:
 
 **Ready to double your power chord vocabulary in 2-3 days?**
 
-**Let's multiply.** ðŸŽ¸
+**Let's multiply.** 🎸
 
 ---
 
-## ðŸŽ¸ LESSON OVERVIEW
+## 🎸 LESSON OVERVIEW
 
-â±ï¸ **TYPICAL COMPLETION TIME**: 2-4 days  
+⏱️ **TYPICAL COMPLETION TIME**: 2-4 days  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Intermediate (Lessons 15-60)  
 🎯 **PREREQUISITES**: Lesson 17 complete (6th string root power chords mastered)
@@ -387,7 +387,7 @@ Right now, you'll think consciously. After 100+ reps, it becomes automatic - you
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Form clean 5th string root power chords at any fret instantly
@@ -401,7 +401,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸ“– THEORY: 5th String Root Power Chords
+## 📖 THEORY: 5th String Root Power Chords
 
 ### The Pattern Transfers!
 
@@ -410,7 +410,7 @@ By the end of this lesson, you will be able to:
 **6th String Root** (what you learned in Lesson 17):
 ```
 Root on E string (6th)
-     â†“
+     ↓
 E|----X----
 A|----X---- ← Root octave (same fret)
 D|----X---- ← Fifth (2 frets higher)
@@ -419,7 +419,7 @@ D|----X---- ← Fifth (2 frets higher)
 **5th String Root** (what you'll learn today):
 ```
 Root on A string (5th)
-     â†“
+     ↓
 A|----X----
 D|----X---- ← Root octave (same fret)
 G|----X---- ← Fifth (2 frets higher)
@@ -484,7 +484,7 @@ Instead of jumping from 3rd fret to 15th fret (same chord, different octave), yo
 
 ---
 
-## ðŸŽ¸ TECHNIQUE #1: 5th String Root Power Chords
+## 🎸 TECHNIQUE #1: 5th String Root Power Chords
 
 ### The Basic 5th String Shape
 
@@ -621,7 +621,7 @@ Do 20 repetitions (strum all 6 strings each time).
 **Phase 3: Continuous Quarter Notes (4 minutes)**
 ```
 A5  A5  A5  A5  | A5  A5  A5  A5  |
- â†“   â†“   â†“   â†“  |  â†“   â†“   â†“   â†“  |
+ ↓   ↓   ↓   ↓  |  ↓   ↓   ↓   ↓  |
  1   2   3   4  |  1   2   3   4  |
 ```
 
@@ -707,7 +707,7 @@ A5    | C5    | D5    | A5    |
 
 ---
 
-## ðŸŽ¸ TECHNIQUE #2: Mixing 6th and 5th String Roots
+## 🎸 TECHNIQUE #2: Mixing 6th and 5th String Roots
 
 ### The Strategic Decision
 
@@ -801,7 +801,7 @@ Each chord gets 4 beats.
 
 ---
 
-## ðŸŽ¸ TECHNIQUE #3: Eighth-Note Rhythms with Mixed Roots
+## 🎸 TECHNIQUE #3: Eighth-Note Rhythms with Mixed Roots
 
 ### Building Speed and Fluency
 
@@ -813,7 +813,7 @@ Each chord gets 4 beats.
 ```
 | /  ÊŒ  /  ÊŒ  /  ÊŒ  /  ÊŒ |
   1  &  2  &  3  &  4  &
-  â†“  â†‘  â†“  â†‘  â†“  â†‘  â†“  â†‘
+  ↓  ↑  ↓  ↑  ↓  ↑  ↓  ↑
   Down Up Down Up Down Up Down Up
 ```
 
@@ -829,7 +829,7 @@ Each chord gets 4 beats.
 
 A5 (5th string, open):
 ```
-A5: â†“ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†‘ |
+A5: ↓ ↑ ↓ ↑ ↓ ↑ ↓ ↑ |
     1 & 2 & 3 & 4 &
 ```
 
@@ -837,13 +837,13 @@ A5: â†“ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†‘ |
 
 **All downstrokes first:**
 ```
-A5: â†“ â†“ â†“ â†“ â†“ â†“ â†“ â†“ |
+A5: ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ |
     1 & 2 & 3 & 4 &
 ```
 
 **Then alternate (down-up-down-up):**
 ```
-A5: â†“ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†‘ |
+A5: ↓ ↑ ↓ ↑ ↓ ↑ ↓ ↑ |
 ```
 
 **Goal:** Consistent tone. No difference between downstrokes and upstrokes.
@@ -853,7 +853,7 @@ A5: â†“ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†‘ |
 E5-A5 progression:
 ```
 E5 (6th) | E5 (6th) | A5 (5th) | A5 (5th) |
-â†“ â†‘ â†“ â†‘ | â†“ â†‘ â†“ â†‘ | â†“ â†‘ â†“ â†‘ | â†“ â†‘ â†“ â†‘ |
+↓ ↑ ↓ ↑ | ↓ ↑ ↓ ↑ | ↓ ↑ ↓ ↑ | ↓ ↑ ↓ ↑ |
 ```
 
 **Each chord gets 2 measures (8 eighth notes).**
@@ -881,7 +881,7 @@ All on 6th string OR strategic mix:
 
 ---
 
-## ðŸŽµ MUSICAL APPLICATION: Famous Songs
+## 🎵 MUSICAL APPLICATION: Famous Songs
 
 ### Song 1: "Wild Thing" (The Troggs)
 
@@ -988,7 +988,7 @@ Check these off honestly:
 
 ---
 
-### â° NOT READY YET?
+### ⏰ NOT READY YET?
 
 **That's completely fine!** This lesson typically takes 2-4 days.
 
@@ -1020,7 +1020,7 @@ Check these off honestly:
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 [Troubleshooting section with problems and solutions for common issues]
 
@@ -1069,7 +1069,7 @@ Check these off honestly:
 
 ---
 
-## ðŸ’­ MOTIVATIONAL NOTE
+## 💭 MOTIVATIONAL NOTE
 
 ### You Just Doubled Your Vocabulary
 
@@ -1096,11 +1096,11 @@ Not: "I learned it one way, so I'll always do it that way."
 
 **That's professional-level thinking.**
 
-**Keep at it. The multiplication continues.** ðŸŽ¸âœ–ï¸
+**Keep at it. The multiplication continues.** 🎸✓ï¸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1112,7 +1112,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

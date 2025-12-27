@@ -1,6 +1,6 @@
 # Lesson 12: Travis Picking Mastery
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 2-3 weeks (minimum)  
+**⏱️ TYPICAL COMPLETION TIME**: 2-3 weeks (minimum)  
 **📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
 **📍 PHASE**: Foundation (Lessons 1-30)  
 **🎯 PREREQUISITES**: Lessons 1-11 complete (especially Lesson 10: Fingerstyle Basics)
@@ -332,11 +332,11 @@ At 15 BPM, your brain can:
 
 **Let's cross it together.**
 
-**Slowly. Patiently. Correctly.** ðŸŽ¸
+**Slowly. Patiently. Correctly.** 🎸
 
 ---
 
-## ðŸ“Œ QUICK REFERENCE: Finger Notation
+## 📌 QUICK REFERENCE: Finger Notation
 
 **Throughout this lesson, you'll see notation like "p-i-p-m"**
 
@@ -486,7 +486,7 @@ Day 21: Test at 40 BPM continuously for 5 minutes
 
 ---
 
-## ðŸ“– THEORY: What Is Travis Picking?
+## 📖 THEORY: What Is Travis Picking?
 
 ### The History
 
@@ -544,7 +544,7 @@ Count:      1   &   2   &   3   &   4   &
 
 ---
 
-## ðŸŽ¸ PHASE 1: THUMB INDEPENDENCE (WEEK 1)
+## 🎸 PHASE 1: THUMB INDEPENDENCE (WEEK 1)
 
 ### Why Start with Thumb-Only?
 
@@ -652,7 +652,7 @@ Count:   1   &   2   &   3   &   4   &
 
 ---
 
-## ðŸŽ¸ PHASE 2: BASIC TRAVIS PATTERN (WEEK 2)
+## 🎸 PHASE 2: BASIC TRAVIS PATTERN (WEEK 2)
 
 ### The Classic Travis Pattern
 
@@ -774,7 +774,7 @@ C:  (2 measures)
 
 ---
 
-## ðŸŽ¸ PHASE 3: SONG APPLICATIONS
+## 🎸 PHASE 3: SONG APPLICATIONS
 
 ### Song #1: "Dust in the Wind" (Kansas) - Simplified
 
@@ -831,7 +831,7 @@ Finger:  p i p m p i p m
 
 ---
 
-## ðŸŽµ PRACTICE ROUTINES
+## 🎵 PRACTICE ROUTINES
 
 ### Week 1: Thumb Independence
 
@@ -872,7 +872,7 @@ Finger:  p i p m p i p m
 
 ---
 
-## ðŸ“Š PROGRESS CHECKPOINTS
+## 🎸 PROGRESS CHECKPOINTS
 
 ### End of Week 1
 - [ ] Thumb alternates steadily at 20 BPM (thumb-only)
@@ -923,7 +923,7 @@ Finger:  p i p m p i p m
 
 ---
 
-## ðŸ’¡ MOTIVATION & REAL TALK
+## 🧠 MOTIVATION & REAL TALK
 
 ### Why This Is Hard
 
@@ -982,7 +982,7 @@ Most guitarists:
 
 ---
 
-## ðŸŽ¸ RECOMMENDED RESOURCES
+## 🎸 RECOMMENDED RESOURCES
 
 ### YouTube Video Tutorials (Highly Recommended!)
 
@@ -1136,7 +1136,7 @@ This is a 2-3 week (minimum) commitment, possibly 2-3 months to sound really goo
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1148,7 +1148,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

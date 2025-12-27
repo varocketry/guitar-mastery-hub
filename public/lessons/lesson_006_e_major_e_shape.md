@@ -140,7 +140,7 @@ E|--0 ← Open
 - ✅ Two complete shape families (E-shape: Em + E major, A-shape: Am + A major)
 - ✅ Ready for any beginner/intermediate song
 
-**This is critical mass Ã— 2.**
+**This is critical mass × 2.**
 
 ---
 
@@ -218,11 +218,11 @@ E|--0 ← Open
 
 **You'll cross from "good beginner" to "solid foundation."**
 
-**Let's complete these shape families.** ðŸŽ¸
+**Let's complete these shape families.** 🎸
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Form the E major **chord shape** cleanly with all three fingers
@@ -389,7 +389,7 @@ This comprehensive document explains:
 
 ---
 
-## ðŸ“– THEORY: The E-Shape Family & Why It's Special
+## 📖 THEORY: The E-Shape Family & Why It's Special
 
 ### Understanding the Shape Philosophy (Den Lopez Core Teaching)
 
@@ -463,7 +463,7 @@ Used in: Major key songs, rock anthems, pop hits
 **This is the power of shape thinking:**
 - You don't learn "two different chords"
 - You learn "one SHAPE with two versions"
-- Major â†” Minor = ONE finger difference
+- Major ↔ Minor = ONE finger difference
 - This pattern repeats across ALL shape families!
 
 ---
@@ -545,7 +545,7 @@ All other strings play
 
 ---
 
-## ðŸŽ¸ YOUR SIXTH CHORD SHAPE: E Major
+## 🎸 YOUR SIXTH CHORD SHAPE: E Major
 
 ### E Major Chord Shape Diagram
 
@@ -600,7 +600,7 @@ Three fingers now:
 **This is shape thinking:**
 - Not two different "chords"
 - One SHAPE with one finger modification
-- Minor â†” Major conversion is simple!
+- Minor ↔ Major conversion is simple!
 
 ---
 
@@ -631,7 +631,7 @@ When you move this shape up the neck (barre chords), your hand recognizes this S
 
 ---
 
-## ðŸŽ¸ STEP-BY-STEP: FORMING E MAJOR SHAPE
+## 🎸 STEP-BY-STEP: FORMING E MAJOR SHAPE
 
 ### Stage 1: Understanding Finger Positions (No Tempo - 5 minutes)
 
@@ -791,15 +791,15 @@ Beat 2: Strum
 4. If successful, increase to 60 BPM for final 10 reps
 
 **Checkpoint:**
-- Can you form E major shape without looking? âœ“
-- Does it sound clean every time? âœ“
-- Are you ready for shape transitions? âœ“
+- Can you form E major shape without looking? ✜
+- Does it sound clean every time? ✜
+- Are you ready for shape transitions? ✜
 
 **If yes to all three → You've mastered E major shape formation!**
 
 ---
 
-## ðŸ”„ PRACTICE ROUTINE: E Major Shape Exercises
+## 🎸 PRACTICE ROUTINE: E Major Shape Exercises
 
 ### Exercise 1: "The Shape Builder" (5 minutes, 40 BPM)
 
@@ -932,7 +932,7 @@ Practice 15 times
 
 ---
 
-## ðŸŽ¸ YOUR SEVENTH CHORD SHAPE: A Major (Bonus!)
+## 🎸 YOUR SEVENTH CHORD SHAPE: A Major (Bonus!)
 
 ### Why Learn A Major Today?
 
@@ -1025,7 +1025,7 @@ Compare the shapes:
 
 Am shape (Lesson 1):    A major shape (today):
 X 0 2 2 1 0             X 0 2 2 2 0
-                              â†‘
+                              ↑
                         Only difference!
 
 Process:
@@ -1040,7 +1040,7 @@ This is shape thinking!
 
 ---
 
-## ðŸ”„ SHAPE TRANSITIONS: Combining E and A with Your Other Shapes
+## 🎸 SHAPE TRANSITIONS: Combining E and A with Your Other Shapes
 
 ### Transition Practice Overview
 
@@ -1057,7 +1057,7 @@ This is shape thinking!
 
 ---
 
-### Transition Exercise 1: Em â†” E Major (5 minutes, 50 BPM)
+### Transition Exercise 1: Em ↔ E Major (5 minutes, 50 BPM)
 
 **Set metronome to 50 BPM**
 
@@ -1086,7 +1086,7 @@ Goal: Smooth transition, no pauses between shapes
 
 ---
 
-### Transition Exercise 2: E Major â†” A Major (8 minutes, 45 BPM)
+### Transition Exercise 2: E Major ↔ A Major (8 minutes, 45 BPM)
 
 **Set metronome to 45 BPM**
 
@@ -1183,7 +1183,7 @@ Day 6-7: 55-60 BPM (approaching song tempo)
 
 ---
 
-## ðŸŽµ MUSICAL APPLICATION: Songs Using E Major and A Major Shapes
+## 🎵 MUSICAL APPLICATION: Songs Using E Major and A Major Shapes
 
 ### Song 1: "Wild Thing" by The Troggs
 
@@ -1296,7 +1296,7 @@ Add accent (louder strum) on beats 1 and 3:
 
 C shape:       | D    d    D    d    |
                1    2    3    4
-               â†‘ loud     â†‘ loud
+               ↑ loud     ↑ loud
 
 Same pattern for G and E major shapes
 ```
@@ -1380,7 +1380,7 @@ When smooth, add Folk/Country pattern
 
 ---
 
-## ðŸŽ¥ VIDEO RESOURCES
+## 🎥 VIDEO RESOURCES
 
 ### Den Lopez Shape Philosophy Videos
 
@@ -1411,7 +1411,7 @@ When smooth, add Folk/Country pattern
 **4. "Major vs Minor Chord Shapes"**
 - Search: "Den Lopez major minor shapes"
 - Shows ONE finger difference principle
-- Em â†” E major, Am â†” A major examples
+- Em ↔ E major, Am ↔ A major examples
 - Reinforces shape philosophy
 
 ---
@@ -1466,7 +1466,7 @@ When smooth, add Folk/Country pattern
 **JustinGuitar - Chord Changes (One-Minute Changes)**
 - Search: "JustinGuitar one minute changes"
 - The famous exercise for building transition speed
-- Specifically shows E â†” A transitions
+- Specifically shows E ↔ A transitions
 - Track your progress
 
 **GuitarLessons365 - Fast Chord Changes**
@@ -1547,8 +1547,8 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 - [ ] **I see the relationship to Am shape** - One finger difference, major vs minor
 
 #### Shape Transitions
-- [ ] **Em â†” E major is smooth** - Can switch quickly (1-2 seconds)
-- [ ] **E major â†” A major at 60 BPM** - Clean transitions at tempo
+- [ ] **Em ↔ E major is smooth** - Can switch quickly (1-2 seconds)
+- [ ] **E major ↔ A major at 60 BPM** - Clean transitions at tempo
 - [ ] **Can play "Shape Circle"** - All seven shapes in sequence
 - [ ] **Transitions feel automatic** - Not thinking about each finger
 
@@ -1565,7 +1565,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 
 ---
 
-### â° NOT READY YET?
+### ⏰ NOT READY YET?
 
 **That's completely fine!** Most learners spend 5-7 days on this lesson. Here's what to focus on:
 
@@ -1616,7 +1616,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 
 ---
 
-### ðŸ’¡ REMEMBER
+### 🧠 REMEMBER
 
 **Most learners spend 5-7 days on this lesson.**
 
@@ -1638,7 +1638,7 @@ Your fingers need time to:
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: Buzzing Strings on E Major Shape
 
@@ -2308,13 +2308,13 @@ THIS IS WHY IT'S CALLED A SHAPE!
 - Em shape: 5 times
 - Am shape: 5 times
 
-**5-15 min: Em â†” E Major Transition**
+**5-15 min: Em ↔ E Major Transition**
 - Set metronome: 50 BPM
 - Em (4 beats) → E major (4 beats)
 - 20 complete cycles (Em-E-Em-E...)
 - Goal: Smooth transition, index finger addition feels natural
 
-**15-30 min: E Major â†” A Major Transition**
+**15-30 min: E Major ↔ A Major Transition**
 - Set metronome: 45 BPM
 - E major (4 beats) → A major (4 beats)
 - 25 complete cycles
@@ -2349,7 +2349,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
   - Form, pluck each string individually
 - Goal: E major is becoming automatic
 
-**15-25 min: E â†” A Transition Practice**
+**15-25 min: E ↔ A Transition Practice**
 - Set metronome: 50 BPM
 - E major (4 beats) → A major (4 beats)
 - 30 complete cycles
@@ -2363,9 +2363,9 @@ THIS IS WHY IT'S CALLED A SHAPE!
 - Don't worry about song speed yet!
 
 **40-45 min: Progress Assessment**
-- Can you form E major in under 3 seconds? âœ“
-- Can you form A major in under 3 seconds? âœ“
-- Can you transition E â†” A at 50 BPM? âœ“
+- Can you form E major in under 3 seconds? ✜
+- Can you form A major in under 3 seconds? ✜
+- Can you transition E ↔ A at 50 BPM? ✜
 - If yes to all: Great progress! Continue to Day 6
 - If no: Spend another day at this level
 
@@ -2416,8 +2416,8 @@ THIS IS WHY IT'S CALLED A SHAPE!
 **5-15 min: Speed Test**
 - E major formation: How fast? (goal: under 2 seconds)
 - A major formation: How fast? (goal: under 2 seconds)
-- Em â†” E transition: How fast? (goal: under 2 seconds)
-- E â†” A transition at 60 BPM: Clean? (goal: yes)
+- Em ↔ E transition: How fast? (goal: under 2 seconds)
+- E ↔ A transition at 60 BPM: Clean? (goal: yes)
 
 **15-25 min: Shape Circle at Target Tempo**
 - Set metronome: 55-60 BPM
@@ -2477,7 +2477,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 - Complete song performances (3-4 full songs)
 - First "performance day" (play through complete setlist)
 - Skills assessment checkpoint (are you ready for Lesson 8?)
-- Celebration of your foundation phase completion! ðŸŽ‰
+- Celebration of your foundation phase completion! 🎉
 
 **How Today Prepares You:**
 - E major and A major shapes complete your foundation
@@ -2499,7 +2499,7 @@ After Lesson 7, you move into **Expansion Phase** (Lessons 8-14):
 ---
 
 
-## ðŸ’­ MOTIVATIONAL NOTE
+## 💭 MOTIVATIONAL NOTE
 
 ### You're Building Something Amazing!
 
@@ -2564,13 +2564,13 @@ They think:
 **With E major and A major, you now have:**
 
 **Your Complete Foundation Shape Vocabulary:**
-1. Em shape âœ“
-2. Am shape âœ“
-3. D shape âœ“
-4. G shape âœ“
-5. C shape âœ“
-6. E major shape âœ“ (NEW!)
-7. A major shape âœ“ (NEW!)
+1. Em shape ✜
+2. Am shape ✜
+3. D shape ✜
+4. G shape ✜
+5. C shape ✜
+6. E major shape ✜ (NEW!)
+7. A major shape ✜ (NEW!)
 
 **That's SEVEN chord shapes!**
 
@@ -2669,11 +2669,11 @@ You're starting from "I already know the shape!"
 Six weeks ago, you couldn't play ANYTHING.
 
 Today:
-- Seven chord shapes âœ“
-- Multiple strumming patterns âœ“
-- Complete songs âœ“
-- Shape philosophy understanding âœ“
-- Ready for Lesson 7 âœ“
+- Seven chord shapes ✜
+- Multiple strumming patterns ✜
+- Complete songs ✜
+- Shape philosophy understanding ✜
+- Ready for Lesson 7 ✜
 
 **You're a GUITARIST now!**
 
@@ -2738,15 +2738,15 @@ You're learning:
 
 **Now pick up that guitar and form that E major shape!**
 
-**You've got this!** ðŸŽ¸ðŸ’ª
+**You've got this!** 🎸💪
 
 ---
 
 **END OF LESSON 6**
 
-**See you in Lesson 7 for Foundation Phase Review & Celebration!** ðŸŽ‰ðŸŽ¸
+**See you in Lesson 7 for Foundation Phase Review & Celebration!** 🎉🎸
 
-**YOU'RE ALMOST THERE!** ðŸš€
+**YOU'RE ALMOST THERE!** 🚀
 
 ---
 
@@ -2762,7 +2762,7 @@ You're learning:
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -2774,7 +2774,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

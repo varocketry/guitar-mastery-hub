@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 4-6 days  
+**⏱️ TYPICAL COMPLETION TIME**: 4-6 days  
 **📅 PRACTICE SESSION LENGTH**: 35-50 minutes per session  
-**ðŸ“‚ PHASE**: Theory Module 1 (Lessons 31-38)  
+**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
 **🎯 PREREQUISITES**: Lessons 33-35 complete (major scales, key signatures, Circle of Fifths)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽµ WHY THIS MATTERS: THE SECRET CODE OF SONGWRITING
+## 🎵 WHY THIS MATTERS: THE SECRET CODE OF SONGWRITING
 
 ### The Question Every Songwriter Asks
 
@@ -65,7 +65,7 @@ This is the moment you become a songwriter, not just a player.
 
 ---
 
-## ðŸ“– SECTION 1: BUILDING DIATONIC CHORDS
+## 📖 SECTION 1: BUILDING DIATONIC CHORDS
 
 ### What Are Diatonic Chords?
 
@@ -252,7 +252,7 @@ A song using "I-V-vi-IV" means:
 
 ---
 
-## ðŸ“– SECTION 2: DIATONIC CHORDS IN ALL KEYS
+## 📖 SECTION 2: DIATONIC CHORDS IN ALL KEYS
 
 ### C Major Diatonic Chords
 
@@ -336,7 +336,7 @@ viiÂ°= C# diminished
 
 ---
 
-## ðŸ“– SECTION 3: CHORD FAMILIES AND HARMONIC FUNCTION
+## 📖 SECTION 3: CHORD FAMILIES AND HARMONIC FUNCTION
 
 ### The Three Chord Families
 
@@ -408,11 +408,11 @@ Result: Sounds static, no movement, no resolution
 
 ```
 TONIC (I, iii, vi)
-    â†“
+    ↓
 SUBDOMINANT (IV, ii)
-    â†“
+    ↓
 DOMINANT (V, viiÂ°)
-    â†“
+    ↓
 TONIC (I)
 ```
 
@@ -426,7 +426,7 @@ TONIC (I)
 
 ---
 
-## ðŸ“– SECTION 4: COMMON CHORD PROGRESSIONS EXPLAINED
+## 📖 SECTION 4: COMMON CHORD PROGRESSIONS EXPLAINED
 
 ### I-IV-V-I: The Universal Progression
 
@@ -590,7 +590,7 @@ G (V)     = Dominant, sets up repeat
 
 ---
 
-## ðŸ“– SECTION 5: CHORD SUBSTITUTION WITHIN A KEY
+## 📖 SECTION 5: CHORD SUBSTITUTION WITHIN A KEY
 
 ### What Is Chord Substitution?
 
@@ -608,15 +608,15 @@ G (V)     = Dominant, sets up repeat
 **Rule 1: Substitute within the same family**
 
 **Tonic Family Substitutions:**
-- I â†” iii (C major â†” E minor in C major)
-- I â†” vi (C major â†” A minor)
-- iii â†” vi (E minor â†” A minor)
+- I ↔ iii (C major ↔ E minor in C major)
+- I ↔ vi (C major ↔ A minor)
+- iii ↔ vi (E minor ↔ A minor)
 
 **Subdominant Family Substitutions:**
-- IV â†” ii (F major â†” D minor in C major)
+- IV ↔ ii (F major ↔ D minor in C major)
 
 **Dominant Family Substitutions:**
-- V â†” viiÂ° (G major â†” B diminished in C major)
+- V ↔ viiÂ° (G major ↔ B diminished in C major)
 - *Note: viiÂ° is less common, sounds more tense*
 
 ---
@@ -657,8 +657,8 @@ G (V)     = Dominant, sets up repeat
 
 **In C Major, borrow from C Minor:**
 - Borrow iv (F minor) instead of IV (F major)
-- Borrow â™­VII (Bb major)
-- Borrow â™­III (Eb major)
+- Borrow ♭VII (Bb major)
+- Borrow ♭III (Eb major)
 
 **Example:**
 ```
@@ -674,7 +674,7 @@ The Fm (borrowed from C minor) adds darker color
 
 ---
 
-## ðŸ“– SECTION 6: PRACTICAL EXERCISES
+## 📖 SECTION 6: PRACTICAL EXERCISES
 
 ### Exercise 1: Build Diatonic Chords (15 minutes)
 
@@ -708,19 +708,19 @@ The Fm (borrowed from C minor) adds darker color
 
 **1. "Let It Be" - The Beatles (C Major)**
 - Chords: C - G - Am - F
-- Roman Numerals: I - V - vi - IV âœ“
+- Roman Numerals: I - V - vi - IV ✜
 
 **2. "Stand By Me" (A Major)**
 - Chords: A - F#m - D - E
-- Roman Numerals: I - vi - IV - V âœ“
+- Roman Numerals: I - vi - IV - V ✜
 
 **3. "Twist and Shout" (D Major)**
 - Chords: D - G - A
-- Roman Numerals: I - IV - V âœ“
+- Roman Numerals: I - IV - V ✜
 
 **4. "Sweet Home Alabama" (D Major)**
 - Chords: D - C - G
-- Roman Numerals: I - â™­VII - IV
+- Roman Numerals: I - ♭VII - IV
 - *Note: C is borrowed from D minor (modal interchange)*
 
 ---
@@ -800,7 +800,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## ðŸŽ¸ FINAL THOUGHTS
+## 🎸 FINAL THOUGHTS
 
 ### You Now Understand the DNA of Songs
 
@@ -828,11 +828,11 @@ Mark this lesson complete when you can:
 
 Master it, and you can write songs in any style.
 
-**See you in Lesson 37 - where we smooth out these progressions with voice leading!** ðŸŽ¸
+**See you in Lesson 37 - where we smooth out these progressions with voice leading!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -844,7 +844,7 @@ The practice tracker helps you:
 - Note harmonic function breakthroughs
 - Review your composition journey
 
-**You're becoming a songwriter!** ðŸŽ¸
+**You're becoming a songwriter!** 🎸
 
 ---
 

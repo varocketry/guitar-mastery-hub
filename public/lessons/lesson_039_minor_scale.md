@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 5-6 days  
+**⏱️ TYPICAL COMPLETION TIME**: 5-6 days  
 **📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**ðŸ“‚ PHASE**: Theory Module 2 (Lessons 39-46)  
+**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
 **🎯 PREREQUISITES**: Theory Module 1 complete (Lessons 31-38 - major key mastery)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## ðŸŽµ WHY THIS MATTERS: THE EMOTIONAL DEPTH OF MUSIC
+## 🎵 WHY THIS MATTERS: THE EMOTIONAL DEPTH OF MUSIC
 
 ### The Question Every Musician Asks
 
@@ -67,7 +67,7 @@ This doubles your musical vocabulary.
 
 ---
 
-## ðŸ“– SECTION 1: THE NATURAL MINOR SCALE
+## 📖 SECTION 1: THE NATURAL MINOR SCALE
 
 ### What Is the Natural Minor Scale?
 
@@ -92,15 +92,15 @@ This doubles your musical vocabulary.
 **Start with A (the easiest minor scale - no sharps or flats)**
 
 ```
-A → B = 2 frets (W) âœ“
-B → C = 1 fret (H) âœ“
-C → D = 2 frets (W) âœ“
-D → E = 2 frets (W) âœ“
-E → F = 1 fret (H) âœ“
-F → G = 2 frets (W) âœ“
-G → A = 2 frets (W) âœ“
+A → B = 2 frets (W) ✜
+B → C = 1 fret (H) ✜
+C → D = 2 frets (W) ✜
+D → E = 2 frets (W) ✜
+E → F = 1 fret (H) ✜
+F → G = 2 frets (W) ✜
+G → A = 2 frets (W) ✜
 
-Formula: W - H - W - W - H - W - W âœ“
+Formula: W - H - W - W - H - W - W ✜
 
 A Natural Minor Scale: A - B - C - D - E - F - G - A
 ```
@@ -211,7 +211,7 @@ D Natural Minor: D - E - F - G - A - Bb - C - D
 
 ---
 
-## ðŸ“– SECTION 2: THE HARMONIC MINOR SCALE
+## 📖 SECTION 2: THE HARMONIC MINOR SCALE
 
 ### Why We Need Harmonic Minor
 
@@ -297,7 +297,7 @@ In major keys, the V chord (dominant) creates strong tension that resolves to I.
 
 ---
 
-## ðŸ“– SECTION 3: THE MELODIC MINOR SCALE
+## 📖 SECTION 3: THE MELODIC MINOR SCALE
 
 ### Why We Need Melodic Minor
 
@@ -385,7 +385,7 @@ D - C - Bb - A - G - F - E - D (natural minor)
 
 ---
 
-## ðŸ“– SECTION 4: COMPARING ALL THREE MINOR SCALES
+## 📖 SECTION 4: COMPARING ALL THREE MINOR SCALES
 
 ### A Minor - All Three Types Side by Side
 
@@ -448,7 +448,7 @@ Melodic (desc):A   G   F   E   D   C   B   A
 
 ---
 
-## ðŸ“– SECTION 5: MINOR SCALES ON GUITAR
+## 📖 SECTION 5: MINOR SCALES ON GUITAR
 
 ### A Natural Minor - Open Position
 
@@ -466,13 +466,13 @@ E|-------------------------------|
 
 **Formula check:**
 ```
-A → B = W âœ“
-B → C = H âœ“
-C → D = W âœ“
-D → E = W âœ“
-E → F = H âœ“
-F → G = W âœ“
-G → A = W âœ“
+A → B = W ✜
+B → C = H ✜
+C → D = W ✜
+D → E = W ✜
+E → F = H ✜
+F → G = W ✜
+G → A = W ✜
 ```
 
 **Play this slowly (40 BPM) and listen to the sad, minor quality.**
@@ -549,11 +549,11 @@ G|--------------------------0---2-------|
 D|-------------------0---2--------------|
 A|-----------0---2----------------------|
 E|---ROOT----2---3----------------------|
-      1     2   â™­3   4   5   â™­6  â™­7  8
+      1     2   ♭3   4   5   ♭6  ♭7  8
 ```
 
-**For harmonic minor:** Raise the 7th (move â™­7 up one fret)  
-**For melodic minor (asc):** Raise both 6th and 7th (move â™­6 and â™­7 up one fret each)
+**For harmonic minor:** Raise the 7th (move ♭7 up one fret)  
+**For melodic minor (asc):** Raise both 6th and 7th (move ♭6 and ♭7 up one fret each)
 
 **This pattern is movable:**
 - Root at fret 3 = G minor
@@ -563,7 +563,7 @@ E|---ROOT----2---3----------------------|
 
 ---
 
-## ðŸ“– SECTION 6: PRACTICAL EXERCISES
+## 📖 SECTION 6: PRACTICAL EXERCISES
 
 ### Exercise 1: Build Minor Scales (15 minutes)
 
@@ -588,13 +588,13 @@ E|---ROOT----2---3----------------------|
 **Convert these natural minor scales to harmonic minor (raise the 7th):**
 
 **1. E Natural Minor:** E - F# - G - A - B - C - D - E  
-**E Harmonic Minor:** E - F# - G - A - B - C - **D#** - E âœ“
+**E Harmonic Minor:** E - F# - G - A - B - C - **D#** - E ✜
 
 **2. D Natural Minor:** D - E - F - G - A - Bb - C - D  
-**D Harmonic Minor:** D - E - F - G - A - Bb - **C#** - D âœ“
+**D Harmonic Minor:** D - E - F - G - A - Bb - **C#** - D ✜
 
 **3. B Natural Minor:** B - C# - D - E - F# - G - A - B  
-**B Harmonic Minor:** B - C# - D - E - F# - G - **A#** - B âœ“
+**B Harmonic Minor:** B - C# - D - E - F# - G - **A#** - B ✜
 
 ---
 
@@ -673,7 +673,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## ðŸŽ¸ FINAL THOUGHTS
+## 🎸 FINAL THOUGHTS
 
 ### You Now Understand the Minor Universe
 
@@ -700,11 +700,11 @@ Mark this lesson complete when you can:
 
 Master them, and you can convey any feeling through music.
 
-**See you in Lesson 40 - where we organize minor keys with key signatures!** ðŸŽ¸
+**See you in Lesson 40 - where we organize minor keys with key signatures!** 🎸
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -716,7 +716,7 @@ The practice tracker helps you:
 - Note emotional breakthroughs in playing
 - Review your minor key journey
 
-**You're entering the world of emotional depth!** ðŸŽ¸
+**You're entering the world of emotional depth!** 🎸
 
 ---
 

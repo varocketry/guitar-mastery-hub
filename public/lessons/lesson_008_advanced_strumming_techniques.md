@@ -1,6 +1,6 @@
 # Lesson 8: Advanced Strumming Patterns
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 4-6 days  
+**⏱️ TYPICAL COMPLETION TIME**: 4-6 days  
 **📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
 **📍 PHASE**: Foundation (Lessons 1-30)  
 **🎯 PREREQUISITES**: Lessons 1-7 complete (7 **chord shapes** + 2 basic strumming patterns mastered)
@@ -18,10 +18,10 @@
 
 **But here's what you CAN'T do yet:**
 
-âŒ Play reggae (that signature offbeat "chick-chick" sound)  
-âŒ Play rock with syncopation (the driving, edgy rhythm)  
-âŒ Switch between patterns within one song (verse → chorus variation)  
-âŒ Create dynamics (loud and soft, building energy)
+❌ Play reggae (that signature offbeat "chick-chick" sound)  
+❌ Play rock with syncopation (the driving, edgy rhythm)  
+❌ Switch between patterns within one song (verse → chorus variation)  
+❌ Create dynamics (loud and soft, building energy)
 
 **These aren't just "more patterns."**
 
@@ -54,7 +54,7 @@
 **Pattern #3: Reggae/Offbeat** (The "chick-chick" groove)
 ```
 1  &  2  &  3  &  4  &
-   â†‘     â†‘     â†‘     â†‘
+   ↑     ↑     ↑     ↑
 Miss-UP-miss-UP-miss-UP-miss-UP
 
 Only play the UPstrokes!
@@ -68,7 +68,7 @@ That signature offbeat feel!
 **Pattern #4: Syncopated Rock** (The driving, edgy rhythm)
 ```
 1  &  2  &  3  &  4  &
-â†“  â†‘  â†“     â†“  â†‘  â†“  â†‘
+↓  ↑  ↓     ↓  ↑  ↓  ↑
 Down-up-down-SKIP-down-up-down-up
 
 That missing beat creates TENSION!
@@ -210,11 +210,11 @@ Result: Dynamic, interesting, MUSICAL
 
 **You'll cross from "rhythm guitarist" to "stylistically aware rhythm guitarist."**
 
-**Let's unlock these styles.** ðŸŽ¸
+**Let's unlock these styles.** 🎸
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Execute two new strumming patterns (reggae/offbeat + syncopated rock)
@@ -321,9 +321,9 @@ Target: 75 BPM (by end of lesson)
 - ✅ Sound like professionals
 
 **The ones who rush to 80 BPM on Day 1:**
-- âŒ Never quite get the patterns clean
-- âŒ Timing always slightly off
-- âŒ Frustrated after weeks of practice
+- ❌ Never quite get the patterns clean
+- ❌ Timing always slightly off
+- ❌ Frustrated after weeks of practice
 
 **Choose wisely.**
 
@@ -345,7 +345,7 @@ This comprehensive document explains:
 
 ---
 
-## ðŸ“– THEORY: Building on Your Strumming Foundation
+## 📖 THEORY: Building on Your Strumming Foundation
 
 ### What You've Already Mastered
 
@@ -403,7 +403,7 @@ Don't try to learn everything at once. This lesson will take 4-6 days minimum:
 
 ---
 
-## ðŸŽ¸ PATTERN #3: REGGAE/OFFBEAT PATTERN
+## 🎸 PATTERN #3: REGGAE/OFFBEAT PATTERN
 
 ### Understanding the Offbeat
 
@@ -412,10 +412,10 @@ Don't try to learn everything at once. This lesson will take 4-6 days minimum:
 Remember counting from Lesson 5?
 ```
 Count:  1   &   2   &   3   &   4   &
-        â†“       â†“       â†“       â†“
+        ↓       ↓       ↓       ↓
       Main beats
 
-            â†“       â†“       â†“       â†“
+            ↓       ↓       ↓       ↓
          Offbeats (the "&" counts)
 ```
 
@@ -431,7 +431,7 @@ This creates a laid-back, bouncy feel that's instantly recognizable.
 
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  -   â†“   -   â†“   -   â†“   -   â†“
+Strum:  -   ↓   -   ↓   -   ↓   -   ↓
 ```
 
 **Notice:**
@@ -477,7 +477,7 @@ Strum:  -   â†“   -   â†“   -   â†“   -   â†“
 ```
 Click:  BEEP    BEEP    BEEP    BEEP    BEEP    BEEP    BEEP    BEEP
 Count:  1   &   2   &   3   &   4   &   1   &   2   &   3   &   4   &
-Strum:  -   â†“   -   â†“   -   â†“   -   â†“   -   â†“   -   â†“   -   â†“   -   â†“
+Strum:  -   ↓   -   ↓   -   ↓   -   ↓   -   ↓   -   ↓   -   ↓   -   ↓
 ```
 
 **Instructions:**
@@ -501,7 +501,7 @@ Strum:  -   â†“   -   â†“   -   â†“   -   â†“   -   â†“
 Same pattern, slightly faster:
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  -   â†“   -   â†“   -   â†“   -   â†“
+Strum:  -   ↓   -   ↓   -   ↓   -   ↓
 ```
 
 **Practice on different chord shapes:**
@@ -525,7 +525,7 @@ Strum:  -   â†“   -   â†“   -   â†“   -   â†“
 ```
 Shape: G               G               D               D
 Count: 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &
-Strum: - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“ - â†“
+Strum: - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓ - ↓
 ```
 
 **Instructions:**
@@ -593,7 +593,7 @@ Duration: 32 beats total per cycle
 
 ---
 
-## ðŸŽ¸ PATTERN #4: SYNCOPATED ROCK PATTERN
+## 🎸 PATTERN #4: SYNCOPATED ROCK PATTERN
 
 ### Understanding Syncopation
 
@@ -602,7 +602,7 @@ Duration: 32 beats total per cycle
 **Regular rhythm** (no syncopation):
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
+Strum:  ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
 Accent: ^       ^       ^       ^
         Beats 1, 2, 3, 4 (predictable)
 ```
@@ -610,7 +610,7 @@ Accent: ^       ^       ^       ^
 **Syncopated rhythm** (Pattern #4):
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  â†“   â†“   â†‘   â†‘   â†“   â†‘   â†“   â†‘
+Strum:  ↓   ↓   ↑   ↑   ↓   ↑   ↓   ↑
 Accent: ^   ^           ^
         Beat 1, "&" of 1, beat 3 (unexpected!)
 ```
@@ -623,7 +623,7 @@ Accent: ^   ^           ^
 
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  â†“   â†“   â†‘   â†‘   â†“   â†‘   â†“   â†‘
+Strum:  ↓   ↓   ↑   ↑   ↓   ↑   ↓   ↑
 
 Breakdown:
 Beat 1: DOWN (strong)
@@ -651,21 +651,21 @@ Used in countless rock, pop, and alternative songs.
 **Section 1:** Beats 1-& (the "double down")
 ```
 Count:  1   &
-Strum:  â†“   â†“
+Strum:  ↓   ↓
         This is the syncopation!
 ```
 
 **Section 2:** Beats 2-& (regular)
 ```
 Count:  2   &
-Strum:  â†‘   â†‘
+Strum:  ↑   ↑
         Both ups
 ```
 
 **Section 3:** Beats 3-4-& (like Pattern #1)
 ```
 Count:  3   &   4   &
-Strum:  â†“   â†‘   â†“   â†‘
+Strum:  ↓   ↑   ↓   ↑
         Regular down-up pattern
 ```
 
@@ -686,7 +686,7 @@ Strum:  â†“   â†‘   â†“   â†‘
 ```
 Click:  BEEP        BEEP        BEEP        BEEP
 Count:  1   &       2   &       3   &       4   &
-Strum:  â†“   â†“       â†‘   â†‘       â†“   â†‘       â†“   â†‘
+Strum:  ↓   ↓       ↑   ↑       ↓   ↑       ↓   ↑
         Down-down   Up-up       Down-up     Down-up
 ```
 
@@ -731,7 +731,7 @@ Strum:  â†“   â†“       â†‘   â†‘       â†“   â†‘ 
 ```
 Shape: E               E               A               A
 Count: 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &
-Strum: â†“ â†“ â†‘ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†“ â†‘ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†“ â†‘ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†“ â†‘ â†‘ â†“ â†‘ â†“ â†‘
+Strum: ↓ ↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↓ ↑ ↑ ↓ ↑ ↓ ↑
 ```
 
 **Instructions:**
@@ -799,7 +799,7 @@ Duration: 32 beats total per cycle
 
 ---
 
-## ðŸŽµ MUSICAL APPLICATION: Songs Using Advanced Patterns
+## 🎵 MUSICAL APPLICATION: Songs Using Advanced Patterns
 
 ### Song 1: "Three Little Birds" by Bob Marley (Pattern #3)
 
@@ -815,7 +815,7 @@ Duration: 32 beats total per cycle
 ```
 Verse/Chorus:
 D              G              A              A
--  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“
+-  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓
 
 "Don't worry about a thing..."
 
@@ -848,7 +848,7 @@ Tempo: Start at 60 BPM, work up to 80 BPM
 ```
 Verse:
 D              A              G              D
-â†“ â†“ â†‘ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†“ â†‘ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†“ â†‘ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†“ â†‘ â†‘ â†“ â†‘ â†“ â†‘
+↓ ↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↓ ↑ ↑ ↓ ↑ ↓ ↑ ↓ ↓ ↑ ↑ ↓ ↑ ↓ ↑
 
 "I see a bad moon rising..."
 
@@ -881,7 +881,7 @@ Tempo: Start at 65 BPM, work up to 75 BPM
 ```
 Verse:
 Am     D      G      C      Am     D      G      G
--  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“  -  â†“
+-  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓  -  ↓
 
 Pattern: Offbeat
 Tempo: 75 BPM (slightly slower than "Three Little Birds")
@@ -889,7 +889,7 @@ Tempo: 75 BPM (slightly slower than "Three Little Birds")
 
 ---
 
-## ðŸŽ¨ DYNAMICS: Playing Louder and Softer
+## 🎨 DYNAMICS: Playing Louder and Softer
 
 ### What Are Dynamics?
 
@@ -957,7 +957,7 @@ This creates natural contrast!
 
 ---
 
-## ðŸ“Š PATTERN SELECTION GUIDE
+## 🎸 PATTERN SELECTION GUIDE
 
 ### Which Pattern for Which Style?
 
@@ -1027,7 +1027,7 @@ Check these off honestly:
 
 ---
 
-### â° NOT READY YET?
+### ⏰ NOT READY YET?
 
 **That's completely fine!** Most learners spend 4-6 days on this lesson.
 
@@ -1051,7 +1051,7 @@ Check these off honestly:
 
 ---
 
-## ðŸ”§ TROUBLESHOOTING
+## 🔧 TROUBLESHOOTING
 
 ### Problem: Can't Feel the Offbeat (Pattern #3)
 
@@ -1088,7 +1088,7 @@ Check these off honestly:
 ✅ **Practice just the double down**
 ```
 Count:  1   &
-Strum:  â†“   â†“
+Strum:  ↓   ↓
         Repeat 50 times
 ```
 
@@ -1128,7 +1128,7 @@ Strum:  â†“   â†“
 ---
 
 
-## ðŸ’­ MOTIVATIONAL NOTE
+## 💭 MOTIVATIONAL NOTE
 
 ### You're Expanding Your Musical Vocabulary!
 
@@ -1150,7 +1150,7 @@ Strum:  â†“   â†“
 
 That's enough rhythmic vocabulary to play thousands more songs across multiple genres!
 
-**Keep practicing!** ðŸŽ¸
+**Keep practicing!** 🎸
 
 ---
 
@@ -1160,11 +1160,11 @@ That's enough rhythmic vocabulary to play thousands more songs across multiple g
 
 **Total Word Count:** ~7,400 words  
 **Completion Time:** 4-6 days  
-**You're doing great!** ðŸŽµ
+**You're doing great!** 🎵
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1176,7 +1176,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 

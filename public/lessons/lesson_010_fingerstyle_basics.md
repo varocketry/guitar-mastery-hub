@@ -1,6 +1,6 @@
 # Lesson 10: Fingerstyle Basics
 
-**â±ï¸ TYPICAL COMPLETION TIME**: 5-7 days  
+**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
 **📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
 **📍 PHASE**: Foundation (Lessons 1-30)  
 **🎯 PREREQUISITES**: Lessons 1-9 complete (Chord shapes, strumming, basic technique, music reading)
@@ -221,7 +221,7 @@ Your brain needs time to:
 - Simultaneous bass + melody
 
 **When you learn fingerstyle, you're learning the SAME technique as:**
-- AndrÃ©s Segovia (classical legend)
+- Andrés Segovia (classical legend)
 - Julian Bream (classical master)
 - John Williams (not the composer - the guitarist!)
 
@@ -326,11 +326,11 @@ Your brain needs time to:
 
 **That's a different category of player.**
 
-**Let's develop those fingers.** ðŸŽ¸
+**Let's develop those fingers.** 🎸
 
 ---
 
-## ðŸŽ“ LEARNING OBJECTIVES
+## 🎓 LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Use proper fingerstyle hand position and technique
@@ -462,7 +462,7 @@ Days 11-14: 50 BPM (song application)
 
 ---
 
-## ðŸ“– THEORY: What Is Fingerstyle?
+## 📖 THEORY: What Is Fingerstyle?
 
 ### Understanding Fingerstyle Playing
 
@@ -518,7 +518,7 @@ Days 11-14: 50 BPM (song application)
 
 ---
 
-## ðŸŽ¸ RIGHT-HAND TECHNIQUE: Proper Positioning
+## 🎸 RIGHT-HAND TECHNIQUE: Proper Positioning
 
 ### Finger Names (Classical Notation)
 
@@ -557,16 +557,16 @@ Days 11-14: 50 BPM (song application)
 4. Follow through naturally (fingers curl slightly)
 
 **Common mistakes:**
-- âŒ Pushing string down (toward soundboard)
-- âŒ Plucking with nail only
-- âŒ Lifting finger straight up
-- âŒ Excessive motion
+- ❌ Pushing string down (toward soundboard)
+- ❌ Plucking with nail only
+- ❌ Lifting finger straight up
+- ❌ Excessive motion
 
 **Correct motion:** Small, efficient, toward palm
 
 ---
 
-## ðŸŽ¸ FINGER INDEPENDENCE EXERCISES
+## 🎸 FINGER INDEPENDENCE EXERCISES
 
 ### Exercise 1: Single Finger Plucks (10 minutes, 20 BPM)
 
@@ -656,7 +656,7 @@ Repeat continuously. This is the foundation of fingerstyle!
 
 ---
 
-## ðŸŽ¸ PATTERN #1: SIMPLE ARPEGGIO
+## 🎸 PATTERN #1: SIMPLE ARPEGGIO
 
 ### What Is an Arpeggio?
 
@@ -766,7 +766,7 @@ Days 13-14: 50 BPM (target!)
 
 ---
 
-## ðŸŽ¸ PATTERN #2: FOLK FINGERPICKING
+## 🎸 PATTERN #2: FOLK FINGERPICKING
 
 ### What Is Folk Fingerpicking?
 
@@ -909,7 +909,7 @@ Count:   1   &   2   &   3   &   4   &
 
 ---
 
-## ðŸŽµ PRACTICE ROUTINES
+## 🎵 PRACTICE ROUTINES
 
 ### Daily Practice Structure (30-45 minutes)
 
@@ -948,7 +948,7 @@ Count:   1   &   2   &   3   &   4   &
 
 ---
 
-## ðŸ“Š PROGRESS CHECKPOINTS
+## 🎸 PROGRESS CHECKPOINTS
 
 ### Day 3 Checkpoint
 - [ ] All fingers pluck clearly at 20 BPM
@@ -991,7 +991,7 @@ Count:   1   &   2   &   3   &   4   &
 
 ---
 
-## ðŸŽ¸ RECOMMENDED RESOURCES
+## 🎸 RECOMMENDED RESOURCES
 
 ### YouTube Tutorials
 - JustinGuitar: "Beginner Fingerstyle Lesson"
@@ -1017,7 +1017,7 @@ Pattern #1 (Arpeggio) and Pattern #2 (Folk) are the building blocks for hundreds
 
 ---
 
-## ðŸ“ TRACK YOUR PRACTICE
+## 📝 TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1029,7 +1029,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** ðŸŽ¸
+**Your progress is worth tracking!** 🎸
 
 ---
 
