@@ -69,7 +69,7 @@ Every guitarist remembers the moment they realized they'd transformed from "some
 **Ry Cooder:** *"Been playing for 60 years. Still learning. Not because I 'have to.' Because there's always something new. A different tuning. A song from another culture. A technique I never tried. The day you think you're 'done' learning is the day you start declining as a musician. Stay curious forever."*
 
 **The truth about mastery:**
-- Foundation lessons: Complete ✓
+- Foundation lessons: Complete âœ“
 - Guitar journey: Infinite
 - Required learning: Finished
 - Optional learning: Endless
@@ -417,7 +417,7 @@ Examples:
 
 ---
 
-## 🎸 FINAL ASSESSMENT
+## ðŸŽ¸ FINAL ASSESSMENT
 
 ### Skills Inventory
 
@@ -467,7 +467,7 @@ Examples:
 
 ---
 
-## 🎸 THE GRADUATION SPEECH
+## ðŸŽ¸ THE GRADUATION SPEECH
 
 **You did it.**
 
@@ -554,7 +554,7 @@ The journey just began.
 **Play often.**  
 **Play forever.**
 
-**Congratulations, guitarist.** 🎸
+**Congratulations, guitarist.** ðŸŽ¸
 
 **The foundation is complete.**  
 **Your music awaits.**
@@ -589,7 +589,7 @@ The journey just began.
 
 ---
 
-## 🎸 RESOURCES FOR CONTINUED GROWTH
+## ðŸŽ¸ RESOURCES FOR CONTINUED GROWTH
 
 **Free Learning:**
 - JustinGuitar.com
@@ -624,7 +624,7 @@ The journey just began.
 ---
 
 **LESSON 30 COMPLETE**  
-**FOUNDATION PHASE: GRADUATED** 🎓🎸
+**FOUNDATION PHASE: GRADUATED** ðŸŽ“ðŸŽ¸
 
 **You are a guitarist.**  
 **Go make music.**
@@ -635,11 +635,11 @@ The journey just began.
 *End of Foundation Phase*  
 *Beginning of Your Guitar Life*
 
-**CONGRATULATIONS!** 🎉🎸🎶
+**CONGRATULATIONS!** ðŸŽ‰ðŸŽ¸ðŸŽ¶
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -651,7 +651,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

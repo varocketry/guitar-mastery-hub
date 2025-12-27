@@ -39,7 +39,7 @@ When Keith Richards plays "(I Can't Get No) Satisfaction," when Noel Gallagher c
 
 **The Mathematics of Mastery:**
 ```
-12 notes in music × 2 qualities (major/minor) = 24 primary chords
+12 notes in music Ã— 2 qualities (major/minor) = 24 primary chords
 After today, you have access to ALL 24
 Anywhere on the fretboard
 In multiple positions
@@ -225,13 +225,13 @@ From competent to complete.
 
 **This is the lesson that makes you dangerous on any fretboard, in any key, with any song.**
 
-Let's get to work. 🎸
+Let's get to work. ðŸŽ¸
 
 ---
 
-## 📋 LESSON OVERVIEW
+## ðŸ“‹ LESSON OVERVIEW
 
-⏱️ **TYPICAL COMPLETION TIME**: 4-6 days  
+â±ï¸ **TYPICAL COMPLETION TIME**: 4-6 days  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Foundation (Lessons 1-30)  
 🎯 **PREREQUISITES**: 
@@ -256,7 +256,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
+## ðŸŽµ SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
 
 **A-Shape Formation Practice:**
 - **Week 1:** 40 BPM - Form C major A-shape, 4 beats per chord
@@ -279,7 +279,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: Expanding Your Barre Chord System
+## ðŸ“– THEORY: Expanding Your Barre Chord System
 
 ### What You've Already Mastered
 
@@ -369,7 +369,7 @@ The minor chord sounds "darker" or "sadder"
 
 After today's lesson, you'll have complete access to:
 
-**1. E-Shape Major** (Lesson 21) ✓
+**1. E-Shape Major** (Lesson 21) âœ“
 - Examples: F (1st), G (3rd), A (5th), C (8th)
 
 **2. E-Shape Minor** (Today)
@@ -385,7 +385,7 @@ This is your complete barre chord toolkit!
 
 ---
 
-## 🎸 QUICK REVIEW & WARM-UP (8 minutes)
+## ðŸŽ¸ QUICK REVIEW & WARM-UP (8 minutes)
 
 ### Reviewing Yesterday's Essential Skill: E-Shape Barre Chords
 
@@ -482,7 +482,7 @@ This shape will move up the neck today
 
 ---
 
-## 🎵 A-SHAPE MAJOR BARRE CHORD CONSTRUCTION (20 minutes)
+## ðŸŽµ A-SHAPE MAJOR BARRE CHORD CONSTRUCTION (20 minutes)
 
 ### Understanding the A-Shape Barre System
 
@@ -617,22 +617,22 @@ Disadvantages: Requires careful strumming accuracy
 
 **Checklist**:
 
-✓ **Thumb Position**:
+âœ“ **Thumb Position**:
 - [ ] Centered on back of neck (or slightly wrapped over top)
 - [ ] Providing counter-pressure for index barre
 - [ ] Tip touching 6th string lightly to mute
 
-✓ **Index Finger**:
+âœ“ **Index Finger**:
 - [ ] Partial barre from A to B string (not all 6 strings!)
 - [ ] Positioned right behind 3rd fret wire
 - [ ] Using bony side
 
-✓ **Middle, Ring, Pinky**:
+âœ“ **Middle, Ring, Pinky**:
 - [ ] All on fingertips (not pads)
 - [ ] Arched perpendicular to fretboard
 - [ ] Stacked together in tight formation
 
-✓ **6th String**:
+âœ“ **6th String**:
 - [ ] Muted (thumb, index tip, or palm)
 - [ ] When strumming, aim for strings 5-1 only
 
@@ -704,22 +704,22 @@ Practice: Form chord, hold 15 seconds, repeat 10 times
 ### Which Method Should You Use?
 
 **Four-Finger Method**:
-✓ Fuller sound (can include high e string)
-✓ Traditional/classical technique
-✗ More complex finger coordination
-✗ Harder for smaller hands
+âœ“ Fuller sound (can include high e string)
+âœ“ Traditional/classical technique
+âœ— More complex finger coordination
+âœ— Harder for smaller hands
 
 **Three-Finger Method**:
-✓ Faster to form
-✓ Easier for smaller hands
-✓ Still sounds great (minus one high note)
-✗ Ring finger barre takes time to develop
+âœ“ Faster to form
+âœ“ Easier for smaller hands
+âœ“ Still sounds great (minus one high note)
+âœ— Ring finger barre takes time to develop
 
 **Our Recommendation**: Learn the 3-finger method first (easier), then add the 4-finger version later if desired. Most modern players use the 3-finger approach.
 
 ---
 
-## 🎼 MOVING A-SHAPE UP THE FRETBOARD (10 minutes)
+## ðŸŽ¼ MOVING A-SHAPE UP THE FRETBOARD (10 minutes)
 
 ### Root Note Reference: 5th String (A String)
 
@@ -810,7 +810,7 @@ Goal: Smooth movement along 5th-string-root positions
 
 ---
 
-## 🎶 COMPARING E-SHAPE AND A-SHAPE (8 minutes)
+## ðŸŽ¶ COMPARING E-SHAPE AND A-SHAPE (8 minutes)
 
 ### Playing the Same Chord Two Ways
 
@@ -884,7 +884,7 @@ Repeat with:
 
 ---
 
-## 🌑 MINOR BARRE CHORDS: E-SHAPE (10 minutes)
+## ðŸŒ‘ MINOR BARRE CHORDS: E-SHAPE (10 minutes)
 
 ### Understanding the Major-to-Minor Transformation
 
@@ -980,7 +980,7 @@ Repeat each transformation 10 times
 
 ---
 
-## 🌑 MINOR BARRE CHORDS: A-SHAPE (10 minutes)
+## ðŸŒ‘ MINOR BARRE CHORDS: A-SHAPE (10 minutes)
 
 ### A-Shape Minor Construction
 
@@ -1050,7 +1050,7 @@ Repeat each transformation 10 times
 
 ---
 
-## 🎭 MIXING MAJOR AND MINOR CHORDS (12 minutes)
+## ðŸŽ­ MIXING MAJOR AND MINOR CHORDS (12 minutes)
 
 ### Creating Emotional Dynamics
 
@@ -1236,7 +1236,7 @@ Focus: Musical application and creative expression
 
 ---
 
-## 🔧 TROUBLESHOOTING GUIDE
+## ðŸ”§ TROUBLESHOOTING GUIDE
 
 ### Problem 1: Can't Mute 6th String on A-Shape
 
@@ -1452,7 +1452,7 @@ Ring finger isn't as strong as index finger. Barring with ring is a new skill re
 
 ---
 
-## 📊 PROGRESS CHECKPOINT
+## ðŸ“Š PROGRESS CHECKPOINT
 
 ### Self-Assessment Checklist
 
@@ -1493,10 +1493,10 @@ Ring finger isn't as strong as index finger. Barring with ring is a new skill re
 ### Advancement Guide
 
 **Ready for Lesson 23** if:
-- ✓ Can play C major (A-shape) with 3+ strings clear
-- ✓ Can play Fm and Cm with reasonable clarity
-- ✓ Can play Am → F → C → G progression slowly
-- ✓ Understand difference between major and minor
+- âœ“ Can play C major (A-shape) with 3+ strings clear
+- âœ“ Can play Fm and Cm with reasonable clarity
+- âœ“ Can play Am → F → C → G progression slowly
+- âœ“ Understand difference between major and minor
 
 **Need More Time** if:
 - Struggling to form A-shape chords at all
@@ -1525,11 +1525,11 @@ Count checkmarks in Self-Assessment:
 ✅ Competent but needs reinforcement. Spend 2-3 extra days practicing, then proceed.
 
 **Below 10 checked (<50%)**:
-⚠️ Need more development. Spend 4-5 days on Lesson 22 content before advancing.
+âš ï¸ Need more development. Spend 4-5 days on Lesson 22 content before advancing.
 
 ---
 
-## 🔮 LOOKING AHEAD: Lesson 23 Preview
+## ðŸ”® LOOKING AHEAD: Lesson 23 Preview
 
 **Tomorrow's Focus**:
 - Barre chord progressions in different keys
@@ -1547,11 +1547,11 @@ Count checkmarks in Self-Assessment:
 
 ---
 
-## 💪 INSPIRATION & ENCOURAGEMENT
+## ðŸ’ª INSPIRATION & ENCOURAGEMENT
 
 ### Milestone Achievement
 
-🎸 **You've just expanded your chord vocabulary by 300%!**
+ðŸŽ¸ **You've just expanded your chord vocabulary by 300%!**
 
 **Before Lesson 21**: ~8 open chords  
 **After Lesson 21**: All 12 major chords (E-shape)  
@@ -1581,12 +1581,12 @@ Count checkmarks in Self-Assessment:
 ### What This Means for Your Playing
 
 **With complete barre chord knowledge**:
-- ✓ Play in any key without capo
-- ✓ Access to thousands more songs
-- ✓ Professional-level chord vocabulary
-- ✓ Complete fretboard freedom
-- ✓ Can play with other musicians in any key
-- ✓ Truly intermediate guitarist now!
+- âœ“ Play in any key without capo
+- âœ“ Access to thousands more songs
+- âœ“ Professional-level chord vocabulary
+- âœ“ Complete fretboard freedom
+- âœ“ Can play with other musicians in any key
+- âœ“ Truly intermediate guitarist now!
 
 ---
 
@@ -1614,14 +1614,14 @@ Mark this lesson complete when you can demonstrate ALL of the following:
 
 **Comprehensive Barre Chord System**:
 - [ ] Comfortable with all four barre types:
-  - E-shape major ✓
-  - E-shape minor ✓
-  - A-shape major ✓
-  - A-shape minor ✓
+  - E-shape major âœ“
+  - E-shape minor âœ“
+  - A-shape major âœ“
+  - A-shape minor âœ“
 
 ---
 
-**🎉 CONGRATULATIONS ON COMPLETING LESSON 22! 🎉**
+**ðŸŽ‰ CONGRATULATIONS ON COMPLETING LESSON 22! ðŸŽ‰**
 
 You now command the complete barre chord system:
 ✅ E-shape major  
@@ -1633,11 +1633,11 @@ You now command the complete barre chord system:
 
 **Tomorrow in Lesson 23, we'll put everything together into complete musical applications!**
 
-**See you in the next lesson!** 🎸
+**See you in the next lesson!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1649,7 +1649,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

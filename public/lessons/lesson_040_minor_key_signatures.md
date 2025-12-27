@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 4-5 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 4-5 days  
 **📅 PRACTICE SESSION LENGTH**: 35-45 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
+**ðŸ“‚ PHASE**: Theory Module 2 (Lessons 39-46)  
 **🎯 PREREQUISITES**: Lesson 39 complete (three types of minor scales)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: READING MINOR KEY MUSIC
+## ðŸŽµ WHY THIS MATTERS: READING MINOR KEY MUSIC
 
 ### The Question Every Musician Asks
 
@@ -64,7 +64,7 @@ This completes your key signature mastery.
 
 ---
 
-## 📖 SECTION 1: MINOR KEY SIGNATURES EXPLAINED
+## ðŸ“– SECTION 1: MINOR KEY SIGNATURES EXPLAINED
 
 ### The Fundamental Principle
 
@@ -164,7 +164,7 @@ B → C (1) → C# (2) → D (3)
 
 ---
 
-## 📖 SECTION 2: ALL 12 MINOR KEY SIGNATURES
+## ðŸ“– SECTION 2: ALL 12 MINOR KEY SIGNATURES
 
 ### Sharp Minor Keys
 
@@ -269,7 +269,7 @@ B → C (1) → C# (2) → D (3)
 
 ---
 
-## 📖 SECTION 3: THE CIRCLE OF FIFTHS FOR MINOR KEYS
+## ðŸ“– SECTION 3: THE CIRCLE OF FIFTHS FOR MINOR KEYS
 
 ### The Complete Circle (Major + Minor)
 
@@ -277,19 +277,19 @@ B → C (1) → C# (2) → D (3)
 
 ```
               C / Am
-             ╱       ╲
+             â•±       â•²
         F / Dm         G / Em
-        ╱               ╲
+        â•±               â•²
    Bb / Gm              D / Bm
-     ╱                   ╲
+     â•±                   â•²
 Eb / Cm                  A / F#m
-   ╱                       ╲
+   â•±                       â•²
 Ab / Fm                    E / C#m
-   ╲                       ╱
+   â•²                       â•±
 Db / Bbm                  B / G#m
-     ╲                   ╱
+     â•²                   â•±
    Gb / Ebm         F# / D#m
-        ╲           ╱
+        â•²           â•±
      Cb / Abm = B / G#m
 
 Outer circle: MAJOR KEYS
@@ -306,7 +306,7 @@ Inner circle: MINOR KEYS
 
 **Clockwise (adding sharps):**
 
-**A minor (0)** → **E minor (1♯)** → **B minor (2♯)** → **F# minor (3♯)** → **C# minor (4♯)** → **G# minor (5♯)** → **D# minor (6♯)** → **A# minor (7♯)**
+**A minor (0)** → **E minor (1â™¯)** → **B minor (2â™¯)** → **F# minor (3â™¯)** → **C# minor (4â™¯)** → **G# minor (5â™¯)** → **D# minor (6â™¯)** → **A# minor (7â™¯)**
 
 Each step clockwise adds one sharp (same order: F-C-G-D-A-E-B)
 
@@ -314,7 +314,7 @@ Each step clockwise adds one sharp (same order: F-C-G-D-A-E-B)
 
 **Counter-clockwise (adding flats):**
 
-**A minor (0)** → **D minor (1♭)** → **G minor (2♭)** → **C minor (3♭)** → **F minor (4♭)** → **Bb minor (5♭)** → **Eb minor (6♭)** → **Ab minor (7♭)**
+**A minor (0)** → **D minor (1â™­)** → **G minor (2â™­)** → **C minor (3â™­)** → **F minor (4â™­)** → **Bb minor (5â™­)** → **Eb minor (6â™­)** → **Ab minor (7â™­)**
 
 Each step counter-clockwise adds one flat (same order: B-E-A-D-G-C-F)
 
@@ -350,7 +350,7 @@ Each step counter-clockwise adds one flat (same order: B-E-A-D-G-C-F)
 
 ---
 
-## 📖 SECTION 4: TRANSPOSING TO MINOR KEYS
+## ðŸ“– SECTION 4: TRANSPOSING TO MINOR KEYS
 
 ### Transposing a Minor Key Song
 
@@ -404,13 +404,13 @@ A minor → D minor = up a perfect 4th (or down a perfect 5th)
 
 ---
 
-## 📖 SECTION 5: HARMONIC & MELODIC MINOR KEY SIGNATURES
+## ðŸ“– SECTION 5: HARMONIC & MELODIC MINOR KEY SIGNATURES
 
 ### Important Note About Key Signatures
 
 **Key signatures show ONLY the natural minor scale.**
 
-**Harmonic and melodic minor use accidentals** (♯, ♮, ♭ symbols in the music).
+**Harmonic and melodic minor use accidentals** (â™¯, â™®, â™­ symbols in the music).
 
 ---
 
@@ -441,7 +441,7 @@ A minor → D minor = up a perfect 4th (or down a perfect 5th)
 
 ---
 
-## 📖 SECTION 6: PRACTICAL EXERCISES
+## ðŸ“– SECTION 6: PRACTICAL EXERCISES
 
 ### Exercise 1: Identify Minor Keys from Key Signatures (10 minutes)
 
@@ -449,23 +449,23 @@ A minor → D minor = up a perfect 4th (or down a perfect 5th)
 
 1. **1 sharp (F#)**
    - Major key: G major
-   - Relative minor (6th of G major scale): **E minor** ✓
+   - Relative minor (6th of G major scale): **E minor** âœ“
 
 2. **2 flats (Bb, Eb)**
    - Major key: Bb major
-   - Relative minor (6th of Bb major scale): **G minor** ✓
+   - Relative minor (6th of Bb major scale): **G minor** âœ“
 
 3. **3 sharps (F#, C#, G#)**
    - Major key: A major
-   - Relative minor (6th of A major scale): **F# minor** ✓
+   - Relative minor (6th of A major scale): **F# minor** âœ“
 
 4. **3 flats (Bb, Eb, Ab)**
    - Major key: Eb major
-   - Relative minor (6th of Eb major scale): **C minor** ✓
+   - Relative minor (6th of Eb major scale): **C minor** âœ“
 
 5. **No sharps or flats**
    - Major key: C major
-   - Relative minor (6th of C major scale): **A minor** ✓
+   - Relative minor (6th of C major scale): **A minor** âœ“
 
 ---
 
@@ -476,22 +476,22 @@ A minor → D minor = up a perfect 4th (or down a perfect 5th)
 1. **B minor**
    - Relative major: D major
    - D major has 2 sharps (F#, C#)
-   - **Answer: 2 sharps (F#, C#)** ✓
+   - **Answer: 2 sharps (F#, C#)** âœ“
 
 2. **C minor**
    - Relative major: Eb major
    - Eb major has 3 flats (Bb, Eb, Ab)
-   - **Answer: 3 flats (Bb, Eb, Ab)** ✓
+   - **Answer: 3 flats (Bb, Eb, Ab)** âœ“
 
 3. **F# minor**
    - Relative major: A major
    - A major has 3 sharps (F#, C#, G#)
-   - **Answer: 3 sharps (F#, C#, G#)** ✓
+   - **Answer: 3 sharps (F#, C#, G#)** âœ“
 
 4. **G minor**
    - Relative major: Bb major
    - Bb major has 2 flats (Bb, Eb)
-   - **Answer: 2 flats (Bb, Eb)** ✓
+   - **Answer: 2 flats (Bb, Eb)** âœ“
 
 ---
 
@@ -501,17 +501,17 @@ A minor → D minor = up a perfect 4th (or down a perfect 5th)
 
 1. **Starting from A minor, move 2 steps clockwise. What minor key?**
    - A minor → E minor → B minor
-   - **Answer: B minor** ✓
+   - **Answer: B minor** âœ“
 
 2. **Starting from E minor, move 3 steps counter-clockwise. What minor key?**
    - E minor → A minor → D minor → G minor
-   - **Answer: G minor** ✓
+   - **Answer: G minor** âœ“
 
 3. **What minor key is opposite A minor on the Circle?**
    - **Answer: Eb minor / D# minor** (enharmonic)
 
 4. **Starting from C minor, move 1 step clockwise. What minor key?**
-   - **Answer: G minor** ✓
+   - **Answer: G minor** âœ“
 
 ---
 
@@ -536,7 +536,7 @@ Em - G - D - Am - Em
 - iv = Gm
 - i = Dm
 
-**Result: Dm - F - Bb - Gm - Dm** ✓
+**Result: Dm - F - Bb - Gm - Dm** âœ“
 
 ---
 
@@ -569,7 +569,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 ### You Now Command Both Major AND Minor Keys
 
@@ -596,11 +596,11 @@ Mark this lesson complete when you can:
 
 Master this, and no sheet music is intimidating.
 
-**See you in Lesson 41 - where we explore relative vs. parallel minor relationships!** 🎸
+**See you in Lesson 41 - where we explore relative vs. parallel minor relationships!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -612,7 +612,7 @@ The practice tracker helps you:
 - Note transposition breakthroughs
 - Review your minor key journey
 
-**You're mastering the complete harmonic system!** 🎸
+**You're mastering the complete harmonic system!** ðŸŽ¸
 
 ---
 

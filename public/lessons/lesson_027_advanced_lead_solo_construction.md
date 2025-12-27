@@ -269,13 +269,13 @@ From licks → phrases
 From phrases → paragraphs  
 From paragraphs → complete stories
 
-**Your guitar is about to tell unforgettable stories.** 🎸
+**Your guitar is about to tell unforgettable stories.** ðŸŽ¸
 
 ---
 
-## 📋 LESSON OVERVIEW
+## ðŸ“‹ LESSON OVERVIEW
 
-⏱️ **TYPICAL COMPLETION TIME**: 8-12 weeks (this is comprehensive!)  
+â±ï¸ **TYPICAL COMPLETION TIME**: 8-12 weeks (this is comprehensive!)  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Foundation (Lessons 25-30) - Complete Lead Mastery  
 🎯 **PREREQUISITES**: Lessons 25-26 (pentatonic Position 1, bending, vibrato)
@@ -297,7 +297,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
+## ðŸŽµ SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
 
 ### Starting Tempo: 40 BPM
 
@@ -328,7 +328,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: The Complete Pentatonic System
+## ðŸ“– THEORY: The Complete Pentatonic System
 
 ### All Five Positions Mapped
 
@@ -414,7 +414,7 @@ Connects back to Position 1 at open position
 
 ---
 
-## 🎸 SECTION 1: LEARNING POSITIONS 2-5
+## ðŸŽ¸ SECTION 1: LEARNING POSITIONS 2-5
 
 ### Week 1: Position 2 (10th Fret Area)
 
@@ -489,7 +489,7 @@ First taste of complete navigation
 
 ---
 
-## 🎸 SECTION 2: LEGATO TECHNIQUES
+## ðŸŽ¸ SECTION 2: LEGATO TECHNIQUES
 
 ### Hammer-Ons Fundamentals
 
@@ -520,7 +520,7 @@ Notation: 7h8 (h = hammer-on)
 ```
 B string, ascending pattern:
 7 (pick) - 8 (hammer) - 10 (hammer)
-↓         h           h
+â†“         h           h
 
 Only pick first note
 Hammer remaining notes with force
@@ -562,7 +562,7 @@ Notation: 8p7 (p = pull-off)
 ```
 B string, descending pattern:
 10 (pick) - 8 (pull) - 7 (pull)
-↓          p         p
+â†“          p         p
 
 Fret all three notes
 Pick only first note
@@ -582,7 +582,7 @@ Goal: Even volume across all notes
 ```
 B string, complete phrase:
 7 (pick) - 8h - 10h - 8p - 7
-↓         h     h     p     (end)
+â†“         h     h     p     (end)
 
 Pick only first note
 All other notes from hammer-ons/pull-offs
@@ -618,7 +618,7 @@ Also practice:
 
 ---
 
-## 🎸 SECTION 3: SOLO CONSTRUCTION
+## ðŸŽ¸ SECTION 3: SOLO CONSTRUCTION
 
 ### Four-Part Architecture
 
@@ -706,7 +706,7 @@ End on root note with vibrato
 
 ---
 
-## 🔧 TROUBLESHOOTING
+## ðŸ”§ TROUBLESHOOTING
 
 ### Problem: Can't Remember All Five Positions
 
@@ -762,7 +762,7 @@ Mark complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 **You've Reached Complete Lead Guitar Mastery**
 
@@ -782,11 +782,11 @@ Mark complete when you can:
 **Play with intention.**  
 **Build experiences people remember.**
 
-**See you in Lesson 28 - where we integrate rhythm and lead for complete musicianship!** 🎸
+**See you in Lesson 28 - where we integrate rhythm and lead for complete musicianship!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -798,7 +798,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

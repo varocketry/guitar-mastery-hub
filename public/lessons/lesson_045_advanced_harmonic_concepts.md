@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 5-7 days  
 **📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
+**ðŸ“‚ PHASE**: Theory Module 2 (Lessons 39-46)  
 **🎯 PREREQUISITES**: Lesson 44 complete (modal interchange & borrowing)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: THE PROFESSIONAL TOUCH
+## ðŸŽµ WHY THIS MATTERS: THE PROFESSIONAL TOUCH
 
 ### The Question Every Advanced Player Asks
 
@@ -69,7 +69,7 @@ This is the final frontier of practical music theory.
 
 ---
 
-## 📖 SECTION 1: SECONDARY DOMINANTS
+## ðŸ“– SECTION 1: SECONDARY DOMINANTS
 
 ### What Is a Secondary Dominant?
 
@@ -166,7 +166,7 @@ In C major: E major → Am
 In C major: C major → F
 
 **Progression: C - C7 - F - G - C**
-- C7 (C major with ♭7) = V/IV (dominant of F)
+- C7 (C major with â™­7) = V/IV (dominant of F)
 - Creates temporary focus on F
 
 ---
@@ -187,11 +187,11 @@ In C major: C major → F
 
 ---
 
-## 📖 SECTION 2: DIMINISHED SEVENTH CHORDS
+## ðŸ“– SECTION 2: DIMINISHED SEVENTH CHORDS
 
 ### What Is a Diminished Seventh Chord?
 
-**Diminished seventh chord (dim7 or °7):**
+**Diminished seventh chord (dim7 or Â°7):**
 - Built from stacked minor thirds
 - Four notes, all equally spaced
 - Extremely tense, unstable sound
@@ -201,12 +201,12 @@ In C major: C major → F
 
 ### Building Diminished Seventh Chords
 
-**Structure:** Root - ♭3 - ♭5 - ♭♭7 (double flat 7 = 6th)
+**Structure:** Root - â™­3 - â™­5 - â™­â™­7 (double flat 7 = 6th)
 
-**B Diminished Seventh (B°7):**
+**B Diminished Seventh (BÂ°7):**
 ```
 B  - D  - F  - Ab
-1    ♭3   ♭5   ♭♭7
+1    â™­3   â™­5   â™­â™­7
 ```
 
 **Equally spaced minor thirds (3 half steps each):**
@@ -224,8 +224,8 @@ Ab → B  = 3 half steps (minor 3rd) - back to start!
 ### The Magic of Diminished Seventh Chords
 
 **Because of the symmetry:**
-- B°7 = D°7 = F°7 = Ab°7 (all the same notes!)
-- Only 3 unique dim7 chords exist (12 notes ÷ 4 = 3)
+- BÂ°7 = DÂ°7 = FÂ°7 = AbÂ°7 (all the same notes!)
+- Only 3 unique dim7 chords exist (12 notes Ã· 4 = 3)
 - Each has 4 names
 - Can resolve to multiple places
 
@@ -251,10 +251,10 @@ Move between two nearby chords smoothly.
 
 **Use 2: Leading Tone Diminished Seventh**
 
-**vii°7 in any key** (built on 7th scale degree)
+**viiÂ°7 in any key** (built on 7th scale degree)
 
-**In C major: B°7 → C**
-- B°7 = B-D-F-Ab
+**In C major: BÂ°7 → C**
+- BÂ°7 = B-D-F-Ab
 - Resolves strongly to C major
 - Creates intense pull to tonic
 
@@ -264,7 +264,7 @@ Move between two nearby chords smoothly.
 
 **Diminished seventh can substitute for dominant seventh:**
 
-Instead of G7 → C, use B°7 → C
+Instead of G7 → C, use BÂ°7 → C
 
 **Both create strong resolution to C.**
 
@@ -272,7 +272,7 @@ Instead of G7 → C, use B°7 → C
 
 ### Playing Diminished Seventh Chords
 
-**B°7 (Leading tone in C major):**
+**BÂ°7 (Leading tone in C major):**
 
 ```
 E|---2---|
@@ -296,13 +296,13 @@ E|---1---|
 
 **Use in progression:**
 
-**C - B°7 - C**
+**C - BÂ°7 - C**
 
 Creates tension and resolution.
 
 ---
 
-## 📖 SECTION 3: AUGMENTED SIXTH CHORDS
+## ðŸ“– SECTION 3: AUGMENTED SIXTH CHORDS
 
 ### What Are Augmented Sixth Chords?
 
@@ -323,7 +323,7 @@ Creates tension and resolution.
 
 **In C major, resolving to G (V):**
 
-**Structure: ♭6 - 1 - #4**
+**Structure: â™­6 - 1 - #4**
 
 In C major: Ab - C - F#
 
@@ -340,7 +340,7 @@ In C major: Ab - C - F#
 
 **Adds a major third above the bass:**
 
-**Structure: ♭6 - 1 - 2 - #4**
+**Structure: â™­6 - 1 - 2 - #4**
 
 In C major: Ab - C - D - F#
 
@@ -352,7 +352,7 @@ In C major: Ab - C - D - F#
 
 **Adds a perfect fifth above the bass:**
 
-**Structure: ♭6 - 1 - ♭3 - #4**
+**Structure: â™­6 - 1 - â™­3 - #4**
 
 In C major: Ab - C - Eb - F#
 
@@ -384,11 +384,11 @@ Creates dramatic approach to G, then resolution to C.
 
 ---
 
-## 📖 SECTION 4: THE NEAPOLITAN SIXTH CHORD
+## ðŸ“– SECTION 4: THE NEAPOLITAN SIXTH CHORD
 
 ### What Is the Neapolitan Sixth?
 
-**Neapolitan sixth (N6 or ♭II6):**
+**Neapolitan sixth (N6 or â™­II6):**
 - A major chord built on the lowered second scale degree
 - Used in first inversion (6th in bass)
 - Pre-dominant function (moves to V or i)
@@ -402,13 +402,13 @@ Creates dramatic approach to G, then resolution to C.
 
 **C minor scale:** C - D - Eb - F - G - Ab - Bb - C
 
-**♭II = Db (lowered 2nd degree)**
+**â™­II = Db (lowered 2nd degree)**
 
 **Db major chord: Db - F - Ab**
 
 **In first inversion (6th in bass): F - Ab - Db**
 - F in bass (6th of Db)
-- Symbol: N6 or ♭II6
+- Symbol: N6 or â™­II6
 
 ---
 
@@ -460,7 +460,7 @@ Composers like Alessandro Scarlatti used it extensively.
 
 ---
 
-## 📖 SECTION 5: ADVANCED VOICE LEADING
+## ðŸ“– SECTION 5: ADVANCED VOICE LEADING
 
 ### Chromatic Voice Leading
 
@@ -518,7 +518,7 @@ Both move up a perfect fifth = parallel fifths
 
 ---
 
-## 📖 SECTION 6: PUTTING IT ALL TOGETHER
+## ðŸ“– SECTION 6: PUTTING IT ALL TOGETHER
 
 ### Sophisticated Progression Example
 
@@ -571,7 +571,7 @@ Both move up a perfect fifth = parallel fifths
 
 ---
 
-## 📖 SECTION 7: PRACTICAL EXERCISES
+## ðŸ“– SECTION 7: PRACTICAL EXERCISES
 
 ### Exercise 1: Play Secondary Dominants (20 minutes)
 
@@ -632,7 +632,7 @@ Mark this lesson complete when you can:
 - [ ] Define secondary dominants (V/x format)
 - [ ] Explain diminished seventh structure (stacked minor 3rds)
 - [ ] Understand augmented sixth function (pre-dominant)
-- [ ] Explain Neapolitan sixth (♭II6, pre-dominant)
+- [ ] Explain Neapolitan sixth (â™­II6, pre-dominant)
 
 **Recognition:**
 - [ ] Identify V/V in progressions
@@ -654,7 +654,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 ### You Now Think Like a Composer
 
@@ -662,7 +662,7 @@ Mark this lesson complete when you can:
 - Secondary dominants (V/V, V/ii, V/vi, V/IV)
 - Diminished seventh chords (versatile, symmetrical)
 - Augmented sixth chords (It+6, Fr+6, Gr+6)
-- Neapolitan sixth chord (♭II6, exotic)
+- Neapolitan sixth chord (â™­II6, exotic)
 - Advanced voice leading techniques
 - **Graduate-level music theory made accessible**
 
@@ -684,11 +684,11 @@ Mark this lesson complete when you can:
 
 **Sophistication serves the music, not the ego.**
 
-**See you in Lesson 46 - where we integrate EVERYTHING for complete mastery!** 🎸
+**See you in Lesson 46 - where we integrate EVERYTHING for complete mastery!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -700,7 +700,7 @@ The practice tracker helps you:
 - Note compositional breakthroughs
 - Review your complete harmonic journey
 
-**You've reached the summit of practical music theory!** 🎸
+**You've reached the summit of practical music theory!** ðŸŽ¸
 
 ---
 

@@ -2,14 +2,14 @@
 
 ## Lesson Overview
 
-⏱️ **TYPICAL COMPLETION TIME**: 2-4 days  
+â±ï¸ **TYPICAL COMPLETION TIME**: 2-4 days  
 📅 **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-📂 **PHASE**: Foundation (Lessons 1-60)  
+ðŸ“‚ **PHASE**: Foundation (Lessons 1-60)  
 🎯 **PREREQUISITES**: None - this is your starting point!
 
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## ðŸŽ“ LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Form the E minor (Em) chord cleanly
@@ -20,7 +20,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: What is a Chord?
+## ðŸ“– THEORY: What is a Chord?
 
 ### Understanding Your First Chords
 
@@ -42,25 +42,11 @@ Here's how to read the diagrams you'll see:
 
 ![Hand Diagram](/chord_diagrams/hand_diagram.png)
 
-I made this diagram to illustrate several things. First of all, the finger numbering for your fret hand. Index finger is 1, middle finger is 2, ring finger 3, and pinky is numbered 4. 
-
-The fretboard diagram in the middle shows how the strings are numbered and what the standard tuning is. In other words, the thickest string, the E string, is number 6. The thinnest string on the right side of the fretboard is an E, string number 1. So the strings go from thinnest to thickest, 1, 2, 3, 4, 5, 6. 
-
-The diagram on the right hand side shows the fretboard numbering. Beginning just below the nut on the head of the guitar, they are numbered sequentially 1, 2, 3, 4, etc. Most guitars have 20-24 frets.
-
-It's probably also useful to mention that there are a number of simple mnemonics that can help you remember the names of the strings. I like to use **E**ddy **A**te **D**ynamite **G**ood **B**ye **E**ddy. 
-
-But there are others, such as:  **E**lephants **A**nd **D**onkeys **G**row **B**ig **E**ars. 
-
-Another would be **E**very **A**pe **D**eserves **G**ood **B**ananas **E**veryday. 
-
-And for my military veteran buddies, a little saltier version would be **E**very **A**sshole **D**eserves **G**ood **B**ooze **E**ventually.  Your choice, one of them will stick with you.
-
 **Fun Fact**: The guitar has been teaching people these exact two chords first for over 100 years. You're part of a long tradition!
 
 ---
 
-## 🎸 YOUR FIRST CHORD: E Minor (Em)
+## ðŸŽ¸ YOUR FIRST CHORD: E Minor (Em)
 
 ### E Minor Chord Diagram
 
@@ -99,7 +85,7 @@ And for my military veteran buddies, a little saltier version would be **E**very
 2. Listen: You should hear a rich, full sound
 
 **Does it sound good?** ✅ Congratulations - you're playing guitar!  
-**Does it sound buzzy or muted?** ⬇️ Check the troubleshooting section below
+**Does it sound buzzy or muted?** â¬‡ï¸ Check the troubleshooting section below
 
 ---
 
@@ -133,7 +119,7 @@ And for my military veteran buddies, a little saltier version would be **E**very
 
 ---
 
-## 🎸 YOUR SECOND CHORD: A Minor (Am)
+## ðŸŽ¸ YOUR SECOND CHORD: A Minor (Am)
 
 ### A Minor Chord Diagram
 
@@ -206,7 +192,7 @@ And for my military veteran buddies, a little saltier version would be **E**very
 
 ---
 
-## 🔄 SWITCHING BETWEEN CHORDS
+## ðŸ”„ SWITCHING BETWEEN CHORDS
 
 ### The Key Skill: Transitions
 
@@ -260,15 +246,15 @@ This time, super slow motion:
 ### Transition Tips
 
 **Common Mistake #1**: Moving fingers one at a time
-- ❌ Don't: Lift index, then lift middle, then lift ring...
+- âŒ Don't: Lift index, then lift middle, then lift ring...
 - ✅ Do: Lift all fingers at once, move together, land together
 
 **Common Mistake #2**: Looking away and then back
-- ❌ Don't: Form chord, look away to strum, look back, form next chord
+- âŒ Don't: Form chord, look away to strum, look back, form next chord
 - ✅ Do: Keep eyes on your fretting hand, feel the strings with your strumming hand
 
 **Common Mistake #3**: Pressing too hard
-- ❌ Don't: Death grip the neck
+- âŒ Don't: Death grip the neck
 - ✅ Do: Press just hard enough for clear sound (saves energy!)
 
 **Pro Tip**: Some fingers can stay down while switching:
@@ -277,7 +263,7 @@ This time, super slow motion:
 
 ---
 
-## 🎵 SONG APPLICATION: "Horse with No Name" by America
+## ðŸŽµ SONG APPLICATION: "Horse with No Name" by America
 
 ### Why This Song?
 
@@ -339,7 +325,7 @@ https://www.youtube.com/watch?v=9-xcKxHYUcA
 
 ---
 
-## 🎥 VIDEO RESOURCES
+## ðŸŽ¥ VIDEO RESOURCES
 
 ### Primary Instruction Videos
 
@@ -387,7 +373,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 - [ ] **I played "Horse with No Name" pattern** - Even if slowly, I got through it
 - [ ] **My fingertips are slightly sore** - Normal! This means you're building calluses
 
-### ⏰ NOT READY YET?
+### â° NOT READY YET?
 
 **That's completely fine!** Most learners spend 2-4 days on this lesson. Here's what to focus on:
 
@@ -421,7 +407,7 @@ Check these off honestly. If you can do all of these, you're ready to move on:
 - Take a break, come back fresh
 - Progress happens in tiny increments - celebrate small wins!
 
-### 💡 REMEMBER
+### ðŸ’¡ REMEMBER
 
 **Most learners spend 2-4 days on this lesson.**
 
@@ -434,7 +420,7 @@ Taking your time here will make Lesson 2 much easier! Your fingers need time to:
 **There's no prize for rushing. Quality beats speed every time.**
 
 ---
-## 🔧 TROUBLESHOOTING
+## ðŸ”§ TROUBLESHOOTING
 
 ### Problem: Buzzing Strings on E Minor
 
@@ -610,8 +596,8 @@ Taking your time here will make Lesson 2 much easier! Your fingers need time to:
 - ✅ But minor pain = keep going (you're building calluses)
 
 **When to worry**:
-- ⚠️ Sharp pain in joints or wrist = Stop, check your positioning
-- ⚠️ Numbness or tingling = Stop, relax your grip
+- âš ï¸ Sharp pain in joints or wrist = Stop, check your positioning
+- âš ï¸ Numbness or tingling = Stop, relax your grip
 - ✅ Fingertip soreness = Normal, keep going
 
 ---
@@ -707,7 +693,7 @@ Taking your time here will make Lesson 2 much easier! Your fingers need time to:
 
 
 
-## 💭 MOTIVATIONAL NOTE
+## ðŸ’­ MOTIVATIONAL NOTE
 
 ### You're Starting Something Amazing
 
@@ -742,11 +728,11 @@ Right now, these two chords might feel awkward. Your fingers might hurt. The swi
 
 Every expert was once a beginner. The difference? They didn't quit on Day 3 when it felt hard.
 
-**You've got this.** 🎸
+**You've got this.** ðŸŽ¸
 
 ---
 
-## 🔗 ADDITIONAL RESOURCES
+## ðŸ”— ADDITIONAL RESOURCES
 
 ### Recommended Practice Tools
 
@@ -780,11 +766,11 @@ Every expert was once a beginner. The difference? They didn't quit on Day 3 when
 
 ---
 
-## 🎉 CONGRATULATIONS ON COMPLETING LESSON 1! 🎉
+## ðŸŽ‰ CONGRATULATIONS ON COMPLETING LESSON 1! ðŸŽ‰
 
 When you can check off all the success criteria, mark this lesson complete and move on to Lesson 2. Remember - you're building a foundation for everything that comes next. Take your time, practice daily, and enjoy the journey!
 
-**See you in Lesson 2!** 🎸
+**See you in Lesson 2!** ðŸŽ¸
 
 ---
 

@@ -173,28 +173,28 @@ Not a flat line - a mountain range
 **Professional guitarists use this mental map:**
 
 **VERSE (storytelling, vocal focus):**
-✓ **Prefer:** Open chords (intimate, breathing, space for vocals)
-✓ **Alternative:** Fingerpicking open chords (even more intimate)
-✓ **Strumming:** Light, gentle, supportive
-✓ **Why:** Creates vulnerability, draws listener in
+âœ“ **Prefer:** Open chords (intimate, breathing, space for vocals)
+âœ“ **Alternative:** Fingerpicking open chords (even more intimate)
+âœ“ **Strumming:** Light, gentle, supportive
+âœ“ **Why:** Creates vulnerability, draws listener in
 
 **CHORUS (emotional release, energy peak):**
-✓ **Prefer:** Power chords (driving, energetic, punchy)
-✓ **Alternative:** Strong barre chords (controlled power)
-✓ **Strumming:** Aggressive, full, confident
-✓ **Why:** Creates climax, satisfies built tension
+âœ“ **Prefer:** Power chords (driving, energetic, punchy)
+âœ“ **Alternative:** Strong barre chords (controlled power)
+âœ“ **Strumming:** Aggressive, full, confident
+âœ“ **Why:** Creates climax, satisfies built tension
 
 **BRIDGE (contrast, new territory):**
-✓ **Prefer:** Barre chords in different positions
-✓ **Alternative:** Mix of types not used elsewhere
-✓ **Purpose:** Gives ear something new, prevents boredom
-✓ **Why:** Maintains listener interest, provides journey
+âœ“ **Prefer:** Barre chords in different positions
+âœ“ **Alternative:** Mix of types not used elsewhere
+âœ“ **Purpose:** Gives ear something new, prevents boredom
+âœ“ **Why:** Maintains listener interest, provides journey
 
 **BREAKDOWN (space, dynamics reset):**
-✓ **Prefer:** Single-note lines or minimal chords
-✓ **Alternative:** Muted strumming, sparse
-✓ **Purpose:** Create space before final climax
-✓ **Why:** Makes final chorus hit harder by contrast
+âœ“ **Prefer:** Single-note lines or minimal chords
+âœ“ **Alternative:** Muted strumming, sparse
+âœ“ **Purpose:** Create space before final climax
+âœ“ **Why:** Makes final chorus hit harder by contrast
 
 ---
 
@@ -274,12 +274,12 @@ You're learning **when, where, and why** to use them.
 **This lesson is your graduation from Foundation Phase.**
 
 **When you complete Lesson 24:**
-- ✓ 24 lessons mastered
-- ✓ 70+ chords accessible
-- ✓ Complete songs performable
-- ✓ All fundamental techniques solid
-- ✓ Professional arrangement understanding
-- ✓ **Intermediate guitarist status achieved**
+- âœ“ 24 lessons mastered
+- âœ“ 70+ chords accessible
+- âœ“ Complete songs performable
+- âœ“ All fundamental techniques solid
+- âœ“ Professional arrangement understanding
+- âœ“ **Intermediate guitarist status achieved**
 
 **Most guitarists quit before this point.**  
 **You didn't.**
@@ -347,13 +347,13 @@ From choppy sections to flowing performances.
 From technique-display to emotional journey.  
 From capable to confident.
 
-**This is where guitarists become artists.** 🎸
+**This is where guitarists become artists.** ðŸŽ¸
 
 ---
 
-## 📋 LESSON OVERVIEW
+## ðŸ“‹ LESSON OVERVIEW
 
-⏱️ **TYPICAL COMPLETION TIME**: 7-10 days  
+â±ï¸ **TYPICAL COMPLETION TIME**: 7-10 days  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Foundation (Lessons 1-30) - Integration Milestone  
 🎯 **PREREQUISITES**: Lessons 1-23 (all chord types learned)
@@ -374,7 +374,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
+## ðŸŽµ SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
 
 ### Complete Song Learning Protocol
 
@@ -419,7 +419,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: Understanding Strategic Voice Selection
+## ðŸ“– THEORY: Understanding Strategic Voice Selection
 
 ### Your Complete Chord Arsenal
 
@@ -447,7 +447,7 @@ After Lessons 1-23, you have three complete chord families:
 
 **3. Barre Chords (Lessons 21-23)**
 - E-shape and A-shape, major & minor
-- **Total: All 12 notes × 4 shapes = 48+ barre chords**
+- **Total: All 12 notes Ã— 4 shapes = 48+ barre chords**
 
 **Characteristics:**
 - Consistent tone across fretboard
@@ -461,19 +461,19 @@ After Lessons 1-23, you have three complete chord families:
 **Decision Factor 1: Musical Section**
 
 **VERSES (storytelling, vocal focus):**
-✓ **Prefer:** Open chords (intimate, breathing space)
-✓ **Strumming:** Gentle
-✓ **Why:** Vulnerability, draws listener in
+âœ“ **Prefer:** Open chords (intimate, breathing space)
+âœ“ **Strumming:** Gentle
+âœ“ **Why:** Vulnerability, draws listener in
 
 **CHORUSES (emotional release):**
-✓ **Prefer:** Power chords (driving energy)
-✓ **Strumming:** Aggressive, full
-✓ **Why:** Creates climax, releases built tension
+âœ“ **Prefer:** Power chords (driving energy)
+âœ“ **Strumming:** Aggressive, full
+âœ“ **Why:** Creates climax, releases built tension
 
 **BRIDGES (contrast, new territory):**
-✓ **Prefer:** Barre chords in different positions
-✓ **Purpose:** Provides something new
-✓ **Why:** Maintains interest, prevents boredom
+âœ“ **Prefer:** Barre chords in different positions
+âœ“ **Purpose:** Provides something new
+âœ“ **Why:** Maintains interest, prevents boredom
 
 ---
 
@@ -536,7 +536,7 @@ OUTRO: ff to p (fade)
 
 ---
 
-## 🎸 COMPLETE SONG ARRANGEMENTS
+## ðŸŽ¸ COMPLETE SONG ARRANGEMENTS
 
 ### Song 1: "Acoustic Rock Ballad" (Original Arrangement)
 
@@ -969,7 +969,7 @@ Represents completion of journey
 
 ---
 
-## 🔧 TROUBLESHOOTING GUIDE
+## ðŸ”§ TROUBLESHOOTING GUIDE
 
 ### Problem 1: Can't Remember Section Order
 
@@ -1105,7 +1105,7 @@ Mark this lesson complete when you can demonstrate ALL of the following:
 
 ---
 
-## 🎉 FOUNDATION PHASE COMPLETE!
+## ðŸŽ‰ FOUNDATION PHASE COMPLETE!
 
 ### You've Come So Far
 
@@ -1157,17 +1157,17 @@ Mark this lesson complete when you can demonstrate ALL of the following:
 
 ---
 
-**🎉 CONGRATULATIONS ON COMPLETING LESSON 24! 🎉**
+**ðŸŽ‰ CONGRATULATIONS ON COMPLETING LESSON 24! ðŸŽ‰**
 
 **You've orchestrated complete musical performances. You don't just play chords - you create emotional journeys through strategic voice selection!**
 
 **Tomorrow in Lesson 25, we begin lead guitar - melodies, solos, and single-note expression!**
 
-**You're a complete guitarist now.** 🎸
+**You're a complete guitarist now.** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1179,7 +1179,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

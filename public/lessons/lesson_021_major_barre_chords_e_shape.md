@@ -1,6 +1,6 @@
 # Lesson 21: Major Barre Chords - E-Shape Foundation
 
-## 🎸 THE UNLOCK: COMPLETE FRETBOARD FREEDOM
+## ðŸŽ¸ THE UNLOCK: COMPLETE FRETBOARD FREEDOM
 
 **Everything changes today.**
 
@@ -10,11 +10,11 @@
 
 **Eight wonderful chords. But here's what you CAN'T do:**
 
-❌ You can't play "Let It Be" in the original key (needs F major)
-❌ You can't play "Wonderwall" properly (needs F#m)
-❌ You can't play "Hotel California" (needs Bm)
-❌ You can't play along with most recorded songs
-❌ You're trapped in just 3-4 musical keys
+âŒ You can't play "Let It Be" in the original key (needs F major)
+âŒ You can't play "Wonderwall" properly (needs F#m)
+âŒ You can't play "Hotel California" (needs Bm)
+âŒ You can't play along with most recorded songs
+âŒ You're trapped in just 3-4 musical keys
 
 **Count it: You're missing 16 of the 24 most common chords in popular music.**
 
@@ -339,11 +339,11 @@ Today, that changes forever.
 
 **Professional guitarists will tell you:** "Getting barre chords was the moment I became a real guitarist." Today, that journey begins for you.
 
-Let's unlock your fretboard. 🎸
+Let's unlock your fretboard. ðŸŽ¸
 
 ---
 
-⏱️ **TYPICAL COMPLETION TIME**: 5-7 days  
+â±ï¸ **TYPICAL COMPLETION TIME**: 5-7 days  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Foundation (Lessons 1-30)  
 🎯 **PREREQUISITES**: 
@@ -352,7 +352,7 @@ Let's unlock your fretboard. 🎸
 
 ---
 
-## 🔥 FOUNDATIONAL PRINCIPLE: "Slow is Smooth, Smooth is Fast"
+## ðŸ”¥ FOUNDATIONAL PRINCIPLE: "Slow is Smooth, Smooth is Fast"
 
 ### The Barre Chord Practice Method
 
@@ -401,7 +401,7 @@ Let's unlock your fretboard. 🎸
 
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## ðŸŽ“ LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Understand what barre chords are and why they revolutionize your playing
@@ -415,7 +415,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 UNDERSTANDING BARRE CHORDS: The Concept That Changes Everything
+## ðŸ“– UNDERSTANDING BARRE CHORDS: The Concept That Changes Everything
 
 ### What Are Barre Chords?
 
@@ -435,7 +435,7 @@ G|--1-- (middle finger)
 D|--2-- (ring finger)
 A|--2-- (pinky)
 E|--0--
-     ↑
+     â†‘
   Nut (open strings)
 ```
 
@@ -447,7 +447,7 @@ G|--2-- ← Middle finger
 D|--3-- ← Ring finger
 A|--3-- ← Pinky
 E|--1-- ← Index finger barres
-     ↑
+     â†‘
   Barre finger
 ```
 
@@ -579,7 +579,7 @@ Fret 12 = E (one octave higher)
 
 [CONTINUING WITH ALL ORIGINAL CONTENT FROM LINE 239 ONWARD...]
 
-## 🎵 F MAJOR BARRE CHORD: Building the Foundation (20 minutes)
+## ðŸŽµ F MAJOR BARRE CHORD: Building the Foundation (20 minutes)
 
 **F major is where everyone starts with E-shape barre chords.** Not because it's easy (it's not), but because it's the most common barre chord and only requires moving up one fret from open E.
 
@@ -634,7 +634,7 @@ The barre is the make-or-break element. Get this right, and everything else fall
 
 **Most beginners get this wrong immediately.**
 
-❌ **Don't use the soft, fleshy pad of your finger**  
+âŒ **Don't use the soft, fleshy pad of your finger**  
 ✅ **Use the bony side of your index finger** (the side closest to your thumb)
 
 **Why this matters:**
@@ -654,7 +654,7 @@ The barre is the make-or-break element. Get this right, and everything else fall
 
 ✅ **Very close to the fret wire** (the metal bar), but not ON it  
 ✅ **In the space just behind the 1st fret wire**  
-❌ **Not in the middle of the fret space** (causes buzzing)
+âŒ **Not in the middle of the fret space** (causes buzzing)
 
 **The closer to the fret wire, the less pressure needed.**
 
@@ -731,7 +731,7 @@ Once you can barre cleanly (even if only briefly), add the other fingers:
 
 ---
 
-## 🎸 EXPANDING TO OTHER E-SHAPE MAJOR CHORDS
+## ðŸŽ¸ EXPANDING TO OTHER E-SHAPE MAJOR CHORDS
 
 ### G Major (3rd Fret E-Shape)
 
@@ -780,7 +780,7 @@ E|--3-- ← Index (barre)
 
 ---
 
-## 🎵 SONG APPLICATION: "Let It Be" Style Progression
+## ðŸŽµ SONG APPLICATION: "Let It Be" Style Progression
 
 ### The Classic C-G-Am-F Progression
 
@@ -819,7 +819,7 @@ C → G → F → C
 - [ ] **I practiced 5-7 days** - Daily practice for skill building
 - [ ] **My hand no longer cramps immediately** - Endurance is building
 
-### ⏰ NOT READY YET?
+### â° NOT READY YET?
 
 **This is completely normal!** Most learners spend 5-7 days on this lesson, some longer.
 
@@ -842,7 +842,7 @@ C → G → F → C
 
 ---
 
-## 🔧 TROUBLESHOOTING
+## ðŸ”§ TROUBLESHOOTING
 
 ### Problem: Some Strings Buzz on F Major
 
@@ -869,7 +869,7 @@ C → G → F → C
 
 ---
 
-## 💬 FINAL ENCOURAGEMENT
+## ðŸ’¬ FINAL ENCOURAGEMENT
 
 ### You're Unlocking Everything
 
@@ -880,17 +880,17 @@ C → G → F → C
 
 **Every guitarist who masters barre chords remembers the struggle AND the breakthrough moment.**
 
-**The breakthrough is coming. Keep practicing.** 🎸
+**The breakthrough is coming. Keep practicing.** ðŸŽ¸
 
 ---
 
-**🎉 CONGRATULATIONS ON STARTING LESSON 21!** 🎉
+**ðŸŽ‰ CONGRATULATIONS ON STARTING LESSON 21!** ðŸŽ‰
 
-**See you in Lesson 22!** 🎸
+**See you in Lesson 22!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -902,7 +902,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

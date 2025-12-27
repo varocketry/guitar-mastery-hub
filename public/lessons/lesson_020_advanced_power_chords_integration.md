@@ -1,6 +1,6 @@
 # Lesson 20: Advanced Power Chords & Week 3 Integration
 
-## 🎸 THE COMPLETE ARSENAL: MASTERY THROUGH INTEGRATION
+## ðŸŽ¸ THE COMPLETE ARSENAL: MASTERY THROUGH INTEGRATION
 
 **Week 3 ends here. This is where you become complete.**
 
@@ -8,7 +8,7 @@ Not "competent." Not "pretty good." **COMPLETE.**
 
 **Here's what separates the amateur from the professional:**
 
-❌ **The Amateur:**
+âŒ **The Amateur:**
 - Knows techniques in isolation
 - Can play power chords... OR open chords
 - Plays everything at the same volume
@@ -139,14 +139,14 @@ Not playing on the beat. Playing **OFF** the beat.
 **Standard rhythm** (amateur):
 ```
 | 1   2   3   4   |
-  ↓   ↓   ↓   ↓
+  â†“   â†“   â†“   â†“
   Play on every strong beat (predictable, stiff)
 ```
 
 **Syncopated rhythm** (professional):
 ```
 | 1   &   2   &   3   &   4   &   |
-  ↓       ↓   ↓       ↓       ↓
+  â†“       â†“   â†“       â†“       â†“
   Emphasize the "ands" (groove, movement, life)
 ```
 
@@ -301,7 +301,7 @@ Not playing on the beat. Playing **OFF** the beat.
 
 ## Lesson Overview
 
-⏱️ **TYPICAL COMPLETION TIME**: 3-5 days  
+â±ï¸ **TYPICAL COMPLETION TIME**: 3-5 days  
 📅 **PRACTICE SESSION LENGTH**: 60-75 minutes per session  
 📍 **PHASE**: Foundation (Lessons 1-30)  
 🎯 **PREREQUISITES**: 
@@ -311,7 +311,7 @@ Not playing on the beat. Playing **OFF** the beat.
 
 ---
 
-## 🔥 FOUNDATIONAL PRINCIPLE: "Slow is Smooth, Smooth is Fast"
+## ðŸ”¥ FOUNDATIONAL PRINCIPLE: "Slow is Smooth, Smooth is Fast"
 
 ### The Professional Practice Method
 
@@ -358,7 +358,7 @@ Not playing on the beat. Playing **OFF** the beat.
 
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## ðŸŽ“ LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Understand and apply syncopation to power chord rhythms
@@ -372,7 +372,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: Understanding Musical Expression Through Rhythm & Dynamics
+## ðŸ“– THEORY: Understanding Musical Expression Through Rhythm & Dynamics
 
 ### What Makes Music Come Alive?
 
@@ -408,17 +408,17 @@ Before we dive into syncopation, let's understand how beats work:
 ```
 | /   /   /   /   |
   1   2   3   4
-  ↓   ↓   ↓   ↓
+  â†“   â†“   â†“   â†“
   Strong beats (the pulse you tap your foot to)
 ```
 
 **Eighth Notes** (dividing each beat in half):
 ```
-| /   ʌ   /   ʌ   /   ʌ   /   ʌ   |
+| /   ÊŒ   /   ÊŒ   /   ÊŒ   /   ÊŒ   |
   1   &   2   &   3   &   4   &
-  ↓       ↓       ↓       ↓
+  â†“       â†“       â†“       â†“
   Downbeat    Downbeat    Downbeat    Downbeat
-      ↑       ↑       ↑       ↑
+      â†‘       â†‘       â†‘       â†‘
       Upbeat  Upbeat  Upbeat  Upbeat
 ```
 
@@ -457,7 +457,7 @@ Power chords, with their raw, aggressive nature, are *perfect* for dramatic dyna
 
 ---
 
-## 🎸 WARM-UP ROUTINE (10 minutes)
+## ðŸŽ¸ WARM-UP ROUTINE (10 minutes)
 
 ### Overview: Preparing Your Mind and Muscles
 
@@ -574,7 +574,7 @@ Palm muted for clarity
 
 ---
 
-## 🎼 ADVANCED THEORY: Syncopation Deep Dive (12 minutes)
+## ðŸŽ¼ ADVANCED THEORY: Syncopation Deep Dive (12 minutes)
 
 Now that you're warmed up, let's dive deep into syncopation - the rhythmic technique that will transform your power chord playing from basic to compelling.
 
@@ -584,7 +584,7 @@ Now that you're warmed up, let's dive deep into syncopation - the rhythmic techn
 ```
 | /   /   /   /   |
   1   2   3   4
-  ↑   ↑   ↑   ↑
+  â†‘   â†‘   â†‘   â†‘
   All emphasis on the strong beats (predictable, but can sound stiff)
 ```
 
@@ -592,9 +592,9 @@ This is perfectly fine for learning, but it lacks the rhythmic interest that mak
 
 **Syncopated "Off-Beat" Pattern** (what professionals play):
 ```
-| /   ʌ   /   ʌ   /   ʌ   /   ʌ   |
+| /   ÊŒ   /   ÊŒ   /   ÊŒ   /   ÊŒ   |
   1   &   2   &   3   &   4   &
-      ↑       ↑       ↑       ↑
+      â†‘       â†‘       â†‘       â†‘
       Emphasis on the "and" beats (creates groove and movement)
 ```
 
@@ -662,7 +662,7 @@ Before playing guitar, get the rhythm in your body:
 
 ---
 
-## 🎸 TECHNIQUE #1: Dynamic Control Mastery
+## ðŸŽ¸ TECHNIQUE #1: Dynamic Control Mastery
 
 ### The Five Dynamic Levels
 
@@ -801,7 +801,7 @@ Start soft, build to climax, release back down.
 
 ---
 
-## 🎸 TECHNIQUE #2: Integration Skills
+## ðŸŽ¸ TECHNIQUE #2: Integration Skills
 
 ### Combining Power Chords with Open Chords
 
@@ -888,7 +888,7 @@ Em → C → G → D (repeat)
 
 ---
 
-## 🎵 SONG APPLICATION #1: 24-Bar Original Composition
+## ðŸŽµ SONG APPLICATION #1: 24-Bar Original Composition
 
 ### The Complete Dynamic Journey
 
@@ -988,7 +988,7 @@ Final Em: Let ring until it fades completely
 
 ---
 
-## 🎵 SONG APPLICATION #2: Classic Rock Integration
+## ðŸŽµ SONG APPLICATION #2: Classic Rock Integration
 
 ### "Alive" (Pearl Jam) Style Progression
 
@@ -1023,7 +1023,7 @@ Let chords ring fully
 
 ---
 
-## 🎵 SONG APPLICATION #3: Punk Rock Energy
+## ðŸŽµ SONG APPLICATION #3: Punk Rock Energy
 
 ### Green Day Style Fast Power Chord Track
 
@@ -1074,7 +1074,7 @@ Attitude: Aggressive, rebellious, energetic
 - [ ] Create an original 8-bar progression using varied techniques
 - [ ] Play 2-3 complete songs using power chords
 
-### ⏰ NOT READY YET?
+### â° NOT READY YET?
 
 **That's okay!** This is the most complex lesson of Week 3.
 
@@ -1103,7 +1103,7 @@ Attitude: Aggressive, rebellious, energetic
 
 ---
 
-## 🔧 TROUBLESHOOTING
+## ðŸ”§ TROUBLESHOOTING
 
 ### Problem: Can't Feel the Syncopated Rhythm
 
@@ -1171,7 +1171,7 @@ Attitude: Aggressive, rebellious, energetic
 
 ---
 
-## 💪 60-MINUTE DAILY PRACTICE ROUTINE
+## ðŸ’ª 60-MINUTE DAILY PRACTICE ROUTINE
 
 ### Day 1: Syncopation Foundation
 
@@ -1228,7 +1228,7 @@ Attitude: Aggressive, rebellious, energetic
 
 ---
 
-## 🏆 WEEK 3 MILESTONE ACHIEVEMENT
+## ðŸ† WEEK 3 MILESTONE ACHIEVEMENT
 
 ### You've Just Completed Power Chord Mastery!
 
@@ -1313,7 +1313,7 @@ Attitude: Aggressive, rebellious, energetic
 
 ---
 
-## 📚 RECOMMENDED RESOURCES
+## ðŸ“š RECOMMENDED RESOURCES
 
 ### For Syncopation Study
 
@@ -1345,7 +1345,7 @@ Attitude: Aggressive, rebellious, energetic
 
 ---
 
-## 💬 FINAL ENCOURAGEMENT
+## ðŸ’¬ FINAL ENCOURAGEMENT
 
 ### You've Just Achieved Something Significant
 
@@ -1398,11 +1398,11 @@ Take a day to review and consolidate. Rest your hands. Listen to great guitar mu
 
 Then, when you're ready, step into Week 4 with confidence.
 
-**You're doing great. Keep going!** 🎸
+**You're doing great. Keep going!** ðŸŽ¸
 
 ---
 
-## 📝 PERSONAL PRACTICE LOG
+## ðŸ“ PERSONAL PRACTICE LOG
 
 ### Week 3 Summary & Progress Tracking
 
@@ -1430,7 +1430,7 @@ Then, when you're ready, step into Week 4 with confidence.
 **Technical Milestones Achieved**:
 - [ ] 2-note power chords clean and fast
 - [ ] 3-note power chords with good tone quality
-- [ ] Can switch between root positions (6th ↔ 5th) smoothly
+- [ ] Can switch between root positions (6th â†” 5th) smoothly
 - [ ] Palm muting controlled and musical
 - [ ] Syncopation understood and executed accurately
 - [ ] Dynamics applied musically (pp through ff)
@@ -1460,17 +1460,17 @@ _________________________________________________
 
 ---
 
-**🎉 CONGRATULATIONS ON COMPLETING LESSON 20 & WEEK 3! 🎉**
+**ðŸŽ‰ CONGRATULATIONS ON COMPLETING LESSON 20 & WEEK 3! ðŸŽ‰**
 
 You've mastered the complete power chord system - one of rock guitar's most essential and enduring techniques. You're now ready to tackle barre chords and continue your journey toward guitar mastery!
 
 **You are now a COMPLETE power chord player.**
 
-**See you in Lesson 21!** 🎸
+**See you in Lesson 21!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1482,7 +1482,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

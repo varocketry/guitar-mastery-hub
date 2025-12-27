@@ -47,7 +47,7 @@ Every composer remembers when theory transformed from concepts to creative power
 
 **Revelation 2: Progressions Aren't Random—They Follow Functional Patterns**
 
-**John Legend:** *"Why does I-V-vi-IV work in a thousand pop songs? Because it follows functional harmony. I (home) â†' V (tension) â†' vi (minor contrast) â†' IV (pre-dominant) â†' back to I (resolution). It's not magic. It's harmonic function. Once you understand function, you can create progressions that work every time."*
+**John Legend:** *"Why does I-V-vi-IV work in a thousand pop songs? Because it follows functional harmony. I (home) Ã¢â€ ' V (tension) Ã¢â€ ' vi (minor contrast) Ã¢â€ ' IV (pre-dominant) Ã¢â€ ' back to I (resolution). It's not magic. It's harmonic function. Once you understand function, you can create progressions that work every time."*
 
 **The truth about "good progressions":**
 - Not: Certain chords just "sound good" together
@@ -207,13 +207,13 @@ From theorist → composer
 From analyzer → creator  
 From understanding → making
 
-**The tools of creation await.** 🎸
+**The tools of creation await.** ðŸŽ¸
 
 ---
 
-## 📋 LESSON OVERVIEW
+## ðŸ“‹ LESSON OVERVIEW
 
-⏱️ **TYPICAL COMPLETION TIME**: 6-8 weeks (deep understanding + application)  
+â±ï¸ **TYPICAL COMPLETION TIME**: 6-8 weeks (deep understanding + application)  
 📅 **STUDY SESSION LENGTH**: 30-45 minutes per session  
 📍 **PHASE**: Theory Module (Final Lesson!)  
 🎯 **PREREQUISITES**: Lesson 31 (theory fundamentals)
@@ -234,7 +234,7 @@ By the end of this lesson, you will understand:
 
 ---
 
-## 🎵 SECTION 1: BUILDING TRIADS
+## ðŸŽµ SECTION 1: BUILDING TRIADS
 
 ### What Is a Triad?
 
@@ -262,15 +262,15 @@ Result: C Major Chord
 - **Half steps:** Root, +4 half steps, +3 half steps
 
 **2. Minor Triad**
-- **Formula:** 1 - ♭3 - 5 (flatted 3rd)
+- **Formula:** 1 - â™­3 - 5 (flatted 3rd)
 - **Sound:** Sad, dark, stable
-- **Example:** C Minor = C - E♭ - G
+- **Example:** C Minor = C - Eâ™­ - G
 - **Half steps:** Root, +3 half steps, +4 half steps
 
 **3. Diminished Triad**
-- **Formula:** 1 - ♭3 - ♭5 (flatted 3rd and 5th)
+- **Formula:** 1 - â™­3 - â™­5 (flatted 3rd and 5th)
 - **Sound:** Tense, unstable, unresolved
-- **Example:** C Diminished = C - E♭ - G♭
+- **Example:** C Diminished = C - Eâ™­ - Gâ™­
 - **Half steps:** Root, +3 half steps, +3 half steps
 
 **4. Augmented Triad**
@@ -286,13 +286,13 @@ Result: C Major Chord
 **The only difference is ONE NOTE—the 3rd.**
 
 **C Major:** C - E - G (major 3rd = 4 half steps from root)  
-**C Minor:** C - E♭ - G (minor 3rd = 3 half steps from root)
+**C Minor:** C - Eâ™­ - G (minor 3rd = 3 half steps from root)
 
 **That one half-step changes the entire emotional character.**
 
 ---
 
-## 🎵 SECTION 2: SEVENTH CHORDS
+## ðŸŽµ SECTION 2: SEVENTH CHORDS
 
 ### Adding the Seventh
 
@@ -307,27 +307,27 @@ Result: C Major Chord
 - **Chords:** Cmaj7, Gmaj7, Fmaj7
 
 **2. Dominant 7th (7)**
-- **Formula:** 1 - 3 - 5 - ♭7 (major triad + flatted 7th)
+- **Formula:** 1 - 3 - 5 - â™­7 (major triad + flatted 7th)
 - **Sound:** Tense, wants resolution, bluesy
-- **Example:** C7 = C - E - G - B♭
+- **Example:** C7 = C - E - G - Bâ™­
 - **Usage:** Creates tension, resolves to tonic
 - **Chords:** G7, D7, A7, E7
 
 **3. Minor 7th (m7)**
-- **Formula:** 1 - ♭3 - 5 - ♭7 (minor triad + flatted 7th)
+- **Formula:** 1 - â™­3 - 5 - â™­7 (minor triad + flatted 7th)
 - **Sound:** Mellow, jazzy, smooth
-- **Example:** Cm7 = C - E♭ - G - B♭
+- **Example:** Cm7 = C - Eâ™­ - G - Bâ™­
 - **Chords:** Am7, Em7, Dm7
 
-**4. Minor 7♭5 (Half-Diminished)**
-- **Formula:** 1 - ♭3 - ♭5 - ♭7 (diminished triad + flatted 7th)
+**4. Minor 7â™­5 (Half-Diminished)**
+- **Formula:** 1 - â™­3 - â™­5 - â™­7 (diminished triad + flatted 7th)
 - **Sound:** Very tense, jazzy
-- **Example:** Cm7♭5 = C - E♭ - G♭ - B♭
+- **Example:** Cm7â™­5 = C - Eâ™­ - Gâ™­ - Bâ™­
 - **Usage:** Jazz, leading to minor chords
 
 ---
 
-## 🎵 SECTION 3: HARMONIC FUNCTION
+## ðŸŽµ SECTION 3: HARMONIC FUNCTION
 
 ### The Three Functions
 
@@ -346,7 +346,7 @@ Result: C Major Chord
 - **Example in C Major:** F major, D minor
 
 **3. DOMINANT Function (Tension, Wants to Resolve)**
-- **Chords:** V, vii°
+- **Chords:** V, viiÂ°
 - **Feel:** Tense, unstable, pulling toward tonic
 - **Job:** Create tension that resolves to I
 - **Example in C Major:** G major, B diminished
@@ -397,7 +397,7 @@ Result: C Major Chord
 
 ---
 
-## 🎵 SECTION 4: DIATONIC CHORDS IN A KEY
+## ðŸŽµ SECTION 4: DIATONIC CHORDS IN A KEY
 
 ### The Seven Chords of Any Major Key
 
@@ -413,7 +413,7 @@ iii: E minor (E - G - B)
 IV: F major (F - A - C)
 V: G major (G - B - D)
 vi: A minor (A - C - E)
-vii°: B diminished (B - D - F)
+viiÂ°: B diminished (B - D - F)
 ```
 
 **Pattern (same in every major key):**
@@ -423,11 +423,11 @@ vii°: B diminished (B - D - F)
 - IV = Major
 - V = Major
 - vi = minor
-- vii° = diminished
+- viiÂ° = diminished
 
 **Uppercase Roman numeral = Major chord**  
 **Lowercase = minor chord**  
-**° = diminished**
+**Â° = diminished**
 
 ---
 
@@ -445,7 +445,7 @@ vii°: B diminished (B - D - F)
 
 ---
 
-## 🎵 SECTION 5: PRACTICAL APPLICATION
+## ðŸŽµ SECTION 5: PRACTICAL APPLICATION
 
 ### Creating Your Own Progressions
 
@@ -460,7 +460,7 @@ iii: B minor
 IV: C major
 V: D major
 vi: E minor
-vii°: F# diminished
+viiÂ°: F# diminished
 ```
 
 **Step 3: Start with I (establish home)**
@@ -504,7 +504,7 @@ vii°: F# diminished
 
 ---
 
-## 🎵 SECTION 6: ADVANCED CONCEPTS (PREVIEW)
+## ðŸŽµ SECTION 6: ADVANCED CONCEPTS (PREVIEW)
 
 ### Chord Substitutions
 
@@ -533,18 +533,18 @@ vii°: F# diminished
 - **Sound:** Lush, sophisticated
 
 **11th Chord:** Add the 11th (1-3-5-7-9-11)
-- **Example:** C11 = C - E - G - B♭ - D - F
+- **Example:** C11 = C - E - G - Bâ™­ - D - F
 - **Sound:** Complex, jazzy
 
 **13th Chord:** Add the 13th (1-3-5-7-9-11-13)
-- **Example:** C13 = C - E - G - B♭ - D - F - A
+- **Example:** C13 = C - E - G - Bâ™­ - D - F - A
 - **Sound:** Very full, jazz standard
 
 **These are built the same way—just stacking more scale degrees.**
 
 ---
 
-## 🔧 EXERCISES & PRACTICE
+## ðŸ”§ EXERCISES & PRACTICE
 
 ### Exercise 1: Build Triads in Every Key
 
@@ -604,7 +604,7 @@ Mark complete when you understand:
 **Chord Construction:**
 - [ ] Can build major and minor triads from any root
 - [ ] Understand the four triad types (major, minor, dim, aug)
-- [ ] Can construct 7th chords (maj7, 7, m7, m7♭5)
+- [ ] Can construct 7th chords (maj7, 7, m7, m7â™­5)
 - [ ] Know chord formulas (intervals from root)
 
 **Harmonic Function:**
@@ -627,7 +627,7 @@ Mark complete when you understand:
 
 ---
 
-## 🎸 FINAL THOUGHTS - YOU'VE COMPLETED THE ENTIRE CURRICULUM!
+## ðŸŽ¸ FINAL THOUGHTS - YOU'VE COMPLETED THE ENTIRE CURRICULUM!
 
 **32 Lessons. Complete Journey. Total Transformation.**
 
@@ -735,17 +735,17 @@ Share art only you can make.
 **From learner → creator**  
 **From beginner → MUSICIAN**
 
-**Your music awaits.** 🎸
+**Your music awaits.** ðŸŽ¸
 
 ---
 
-## 🎓 CURRICULUM COMPLETE!
+## ðŸŽ“ CURRICULUM COMPLETE!
 
 **32 LESSONS MASTERED**  
 **COMPLETE GUITARIST ACHIEVED**  
 **YOUR JOURNEY BEGINS NOW**
 
-**CONGRATULATIONS!** 🎉🎸🎶
+**CONGRATULATIONS!** ðŸŽ‰ðŸŽ¸ðŸŽ¶
 
 ---
 
@@ -754,11 +754,11 @@ Share art only you can make.
 *End of Complete Curriculum*  
 *Beginning of Your Musical Life*
 
-**NOW GO MAKE BEAUTIFUL MUSIC** 🎸
+**NOW GO MAKE BEAUTIFUL MUSIC** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -770,7 +770,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

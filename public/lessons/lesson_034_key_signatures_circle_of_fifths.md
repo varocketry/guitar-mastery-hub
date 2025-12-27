@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 3-4 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 3-4 days  
 **📅 PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
+**ðŸ“‚ PHASE**: Theory Module 1 (Lessons 31-38)  
 **🎯 PREREQUISITES**: Lesson 33 complete (major scale formula mastery)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: THE SHORTHAND OF MUSIC
+## ðŸŽµ WHY THIS MATTERS: THE SHORTHAND OF MUSIC
 
 ### The Question Every Musician Asks
 
@@ -65,7 +65,7 @@ This lesson gives you the MAP of music.
 
 ---
 
-## 📖 SECTION 1: WHAT IS A KEY SIGNATURE?
+## ðŸ“– SECTION 1: WHAT IS A KEY SIGNATURE?
 
 ### Definition and Purpose
 
@@ -75,7 +75,7 @@ This lesson gives you the MAP of music.
 
 ```
 Musical Staff:
-   ♯
+   â™¯
   ─────────────────────────
 G Clef with one sharp (F#) on the F-line
   ─────────────────────────
@@ -90,15 +90,15 @@ Imagine a song in G major (which has F# in the scale).
 
 **Without key signature:**
 ```
-Every single F note would need a ♯ symbol next to it
-F♯ F♯ F♯ F♯ F♯ F♯ F♯ F♯ F♯ F♯ F♯ F♯...
+Every single F note would need a â™¯ symbol next to it
+Fâ™¯ Fâ™¯ Fâ™¯ Fâ™¯ Fâ™¯ Fâ™¯ Fâ™¯ Fâ™¯ Fâ™¯ Fâ™¯ Fâ™¯ Fâ™¯...
 (Cluttered, hard to read, lots of ink!)
 ```
 
 **With key signature:**
 ```
-Put one ♯ on the F-line at the start = "all F's are sharp"
-F F F F F F F (all played as F♯ automatically)
+Put one â™¯ on the F-line at the start = "all F's are sharp"
+F F F F F F F (all played as Fâ™¯ automatically)
 (Clean, readable, efficient!)
 ```
 
@@ -118,28 +118,28 @@ One marking at the start → affects the entire piece.
 **Sharp key signatures:**
 ```
 Treble Clef (G Clef):
-  ♯
- ───────  ← Sharp on the F-line = All F's are F♯
+  â™¯
+ ───────  ← Sharp on the F-line = All F's are Fâ™¯
  ───────
 
-One sharp = F♯ = G Major (or E minor)
+One sharp = Fâ™¯ = G Major (or E minor)
 ```
 
 **Flat key signatures:**
 ```
 Treble Clef:
-  ♭
- ───────  ← Flat on the B-line = All B's are B♭
+  â™­
+ ───────  ← Flat on the B-line = All B's are Bâ™­
  ───────
 
-One flat = B♭ = F Major (or D minor)
+One flat = Bâ™­ = F Major (or D minor)
 ```
 
 **Multiple sharps/flats stack up in a specific order** (which we'll learn next).
 
 ---
 
-## 📖 SECTION 2: THE ORDER OF SHARPS
+## ðŸ“– SECTION 2: THE ORDER OF SHARPS
 
 ### Why Sharps Appear in a Specific Order
 
@@ -155,10 +155,10 @@ One flat = B♭ = F Major (or D minor)
 
 **Pattern:**
 ```
-G major:   F♯
-D major:   F♯, C♯         (kept F♯, added C♯)
-A major:   F♯, C♯, G♯      (kept F♯ and C♯, added G♯)
-E major:   F♯, C♯, G♯, D♯  (kept all previous, added D♯)
+G major:   Fâ™¯
+D major:   Fâ™¯, Câ™¯         (kept Fâ™¯, added Câ™¯)
+A major:   Fâ™¯, Câ™¯, Gâ™¯      (kept Fâ™¯ and Câ™¯, added Gâ™¯)
+E major:   Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯  (kept all previous, added Dâ™¯)
 ```
 
 **This is not random.**
@@ -191,13 +191,13 @@ B  - Seventh sharp (appears in C# major)
 
 ```
 0 sharps:               = C Major
-1 sharp:   F♯           = G Major
-2 sharps:  F♯, C♯       = D Major
-3 sharps:  F♯, C♯, G♯   = A Major
-4 sharps:  F♯, C♯, G♯, D♯ = E Major
-5 sharps:  F♯, C♯, G♯, D♯, A♯ = B Major
-6 sharps:  F♯, C♯, G♯, D♯, A♯, E♯ = F♯ Major
-7 sharps:  F♯, C♯, G♯, D♯, A♯, E♯, B♯ = C♯ Major
+1 sharp:   Fâ™¯           = G Major
+2 sharps:  Fâ™¯, Câ™¯       = D Major
+3 sharps:  Fâ™¯, Câ™¯, Gâ™¯   = A Major
+4 sharps:  Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯ = E Major
+5 sharps:  Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯, Aâ™¯ = B Major
+6 sharps:  Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯, Aâ™¯, Eâ™¯ = Fâ™¯ Major
+7 sharps:  Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯, Aâ™¯, Eâ™¯, Bâ™¯ = Câ™¯ Major
 ```
 
 **To identify a sharp key from sheet music:**
@@ -207,9 +207,9 @@ B  - Seventh sharp (appears in C# major)
 3. That's the key!
 
 **Example:**
-- Key signature has F♯, C♯, G♯
-- Last sharp = G♯
-- G♯ + one half step = A
+- Key signature has Fâ™¯, Câ™¯, Gâ™¯
+- Last sharp = Gâ™¯
+- Gâ™¯ + one half step = A
 - **Key: A Major**
 
 **Why this works:**
@@ -223,10 +223,10 @@ The leading tone (7th scale degree) is always a half step below the tonic. The l
 **Exercise 1: Identify the key**
 
 ```
-Key signature: F♯, C♯
-Last sharp: C♯
-C♯ + half step = D
-Key = D Major ✓
+Key signature: Fâ™¯, Câ™¯
+Last sharp: Câ™¯
+Câ™¯ + half step = D
+Key = D Major âœ“
 ```
 
 **Exercise 2: Build the key signature**
@@ -235,19 +235,19 @@ Key = D Major ✓
 Question: What sharps are in E Major?
 Answer: E major has 4 sharps
 Order of sharps: F-C-G-D-A-E-B
-First 4 sharps: F♯, C♯, G♯, D♯ ✓
+First 4 sharps: Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯ âœ“
 ```
 
 **Exercise 3: Quick recall**
 
 Without looking, answer:
-- How many sharps in A major? (3: F♯, C♯, G♯)
+- How many sharps in A major? (3: Fâ™¯, Câ™¯, Gâ™¯)
 - What key has 2 sharps? (D major)
-- What are the sharps in B major? (5: F♯, C♯, G♯, D♯, A♯)
+- What are the sharps in B major? (5: Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯, Aâ™¯)
 
 ---
 
-## 📖 SECTION 3: THE ORDER OF FLATS
+## ðŸ“– SECTION 3: THE ORDER OF FLATS
 
 ### Why Flats Appear in a Specific Order
 
@@ -296,13 +296,13 @@ Flats:  B-E-A-D-G-C-F (backwards!)
 
 ```
 0 flats:                = C Major
-1 flat:    B♭           = F Major
-2 flats:   B♭, E♭       = B♭ Major
-3 flats:   B♭, E♭, A♭   = E♭ Major
-4 flats:   B♭, E♭, A♭, D♭ = A♭ Major
-5 flats:   B♭, E♭, A♭, D♭, G♭ = D♭ Major
-6 flats:   B♭, E♭, A♭, D♭, G♭, C♭ = G♭ Major
-7 flats:   B♭, E♭, A♭, D♭, G♭, C♭, F♭ = C♭ Major
+1 flat:    Bâ™­           = F Major
+2 flats:   Bâ™­, Eâ™­       = Bâ™­ Major
+3 flats:   Bâ™­, Eâ™­, Aâ™­   = Eâ™­ Major
+4 flats:   Bâ™­, Eâ™­, Aâ™­, Dâ™­ = Aâ™­ Major
+5 flats:   Bâ™­, Eâ™­, Aâ™­, Dâ™­, Gâ™­ = Dâ™­ Major
+6 flats:   Bâ™­, Eâ™­, Aâ™­, Dâ™­, Gâ™­, Câ™­ = Gâ™­ Major
+7 flats:   Bâ™­, Eâ™­, Aâ™­, Dâ™­, Gâ™­, Câ™­, Fâ™­ = Câ™­ Major
 ```
 
 **To identify a flat key from sheet music:**
@@ -312,12 +312,12 @@ Flats:  B-E-A-D-G-C-F (backwards!)
 2. That flat's letter name is the key!
 
 **Example:**
-- Key signature has B♭, E♭, A♭
-- Second-to-last flat = E♭
-- **Key: E♭ Major**
+- Key signature has Bâ™­, Eâ™­, Aâ™­
+- Second-to-last flat = Eâ™­
+- **Key: Eâ™­ Major**
 
 **Method 2: Exception for one flat**
-- If there's only ONE flat (B♭), the key is F Major (memorize this exception)
+- If there's only ONE flat (Bâ™­), the key is F Major (memorize this exception)
 
 **Why Method 1 works:**
 
@@ -330,29 +330,29 @@ Flat keys are named after the second-to-last flat because of how the flat patter
 **Exercise 1: Identify the key**
 
 ```
-Key signature: B♭, E♭, A♭, D♭
-Second-to-last flat: A♭
-Key = A♭ Major ✓
+Key signature: Bâ™­, Eâ™­, Aâ™­, Dâ™­
+Second-to-last flat: Aâ™­
+Key = Aâ™­ Major âœ“
 ```
 
 **Exercise 2: Build the key signature**
 
 ```
-Question: What flats are in E♭ Major?
-Answer: E♭ is the second-to-last flat
-Need 3 flats: B♭, E♭, A♭ ✓
+Question: What flats are in Eâ™­ Major?
+Answer: Eâ™­ is the second-to-last flat
+Need 3 flats: Bâ™­, Eâ™­, Aâ™­ âœ“
 ```
 
 **Exercise 3: Quick recall**
 
 Without looking:
-- How many flats in B♭ major? (2: B♭, E♭)
-- What key has 4 flats? (A♭ major)
-- What are the flats in D♭ major? (5: B♭, E♭, A♭, D♭, G♭)
+- How many flats in Bâ™­ major? (2: Bâ™­, Eâ™­)
+- What key has 4 flats? (Aâ™­ major)
+- What are the flats in Dâ™­ major? (5: Bâ™­, Eâ™­, Aâ™­, Dâ™­, Gâ™­)
 
 ---
 
-## 📖 SECTION 4: THE CIRCLE OF FIFTHS
+## ðŸ“– SECTION 4: THE CIRCLE OF FIFTHS
 
 ### The Most Important Diagram in Music Theory
 
@@ -366,27 +366,27 @@ Because moving clockwise around the circle, each key is a **perfect fifth** (7 h
 
 ```
             C (0)
-           ╱ ╲
-      F (1♭)   G (1♯)
-        ╱       ╲
-   B♭ (2♭)       D (2♯)
-     ╱             ╲
-E♭ (3♭)             A (3♯)
-   ╱                 ╲
-A♭ (4♭)               E (4♯)
-   ╲                 ╱
-D♭ (5♭)             B (5♯)
-     ╲             ╱
-   G♭ (6♭)       F♯ (6♯)
-        ╲       ╱
-         C♭/B (7♭/7♯)
+           â•± â•²
+      F (1â™­)   G (1â™¯)
+        â•±       â•²
+   Bâ™­ (2â™­)       D (2â™¯)
+     â•±             â•²
+Eâ™­ (3â™­)             A (3â™¯)
+   â•±                 â•²
+Aâ™­ (4â™­)               E (4â™¯)
+   â•²                 â•±
+Dâ™­ (5â™­)             B (5â™¯)
+     â•²             â•±
+   Gâ™­ (6â™­)       Fâ™¯ (6â™¯)
+        â•²       â•±
+         Câ™­/B (7â™­/7â™¯)
 ```
 
 **Reading the circle:**
 - **Top (12 o'clock):** C major (no sharps or flats)
 - **Right side (clockwise):** Sharp keys (G, D, A, E, B, F#, C#)
 - **Left side (counter-clockwise):** Flat keys (F, Bb, Eb, Ab, Db, Gb, Cb)
-- **Bottom:** Enharmonic equivalents (C♭ = B, G♭ = F♯, D♭ = C♯)
+- **Bottom:** Enharmonic equivalents (Câ™­ = B, Gâ™­ = Fâ™¯, Dâ™­ = Câ™¯)
 
 ---
 
@@ -396,13 +396,13 @@ D♭ (5♭)             B (5♯)
 
 ```
 C → G    (up a 5th = 7 half steps)
-         Add 1 sharp (F♯)
+         Add 1 sharp (Fâ™¯)
 
 G → D    (up a 5th)
-         Add 1 sharp (C♯), now 2 sharps total
+         Add 1 sharp (Câ™¯), now 2 sharps total
 
 D → A    (up a 5th)
-         Add 1 sharp (G♯), now 3 sharps total
+         Add 1 sharp (Gâ™¯), now 3 sharps total
 
 ...and so on
 ```
@@ -411,13 +411,13 @@ D → A    (up a 5th)
 
 ```
 C → F    (down a 5th = up a 4th)
-         Add 1 flat (B♭)
+         Add 1 flat (Bâ™­)
 
-F → B♭   (down a 5th)
-         Add 1 flat (E♭), now 2 flats total
+F → Bâ™­   (down a 5th)
+         Add 1 flat (Eâ™­), now 2 flats total
 
-B♭ → E♭  (down a 5th)
-         Add 1 flat (A♭), now 3 flats total
+Bâ™­ → Eâ™­  (down a 5th)
+         Add 1 flat (Aâ™­), now 3 flats total
 
 ...and so on
 ```
@@ -519,7 +519,7 @@ Each key adds one flat in the order: B-E-A-D-G-C-F
 
 ---
 
-## 📖 SECTION 5: PRACTICAL APPLICATIONS
+## ðŸ“– SECTION 5: PRACTICAL APPLICATIONS
 
 ### Application 1: Reading Sheet Music
 
@@ -539,19 +539,19 @@ Each key adds one flat in the order: B-E-A-D-G-C-F
 
 **Example 1:**
 ```
-Key signature: ♯ ♯ ♯ (three sharps)
-Sharps: F♯, C♯, G♯
-Last sharp: G♯
-G♯ + half step = A
-Key = A Major ✓
+Key signature: â™¯ â™¯ â™¯ (three sharps)
+Sharps: Fâ™¯, Câ™¯, Gâ™¯
+Last sharp: Gâ™¯
+Gâ™¯ + half step = A
+Key = A Major âœ“
 ```
 
 **Example 2:**
 ```
-Key signature: ♭ ♭ ♭ (three flats)
-Flats: B♭, E♭, A♭
-Second-to-last flat: E♭
-Key = E♭ Major ✓
+Key signature: â™­ â™­ â™­ (three flats)
+Flats: Bâ™­, Eâ™­, Aâ™­
+Second-to-last flat: Eâ™­
+Key = Eâ™­ Major âœ“
 ```
 
 ---
@@ -561,15 +561,15 @@ Key = E♭ Major ✓
 **Task: Write a melody in D major**
 
 **Step 1:** What's the key signature of D major?
-- 2 sharps: F♯, C♯
+- 2 sharps: Fâ™¯, Câ™¯
 
 **Step 2:** Remember the rule
-- Every F is F♯
-- Every C is C♯
+- Every F is Fâ™¯
+- Every C is Câ™¯
 - All other notes are natural
 
 **Step 3:** Write freely using notes from D major scale
-- D - E - F♯ - G - A - B - C♯ - D
+- D - E - Fâ™¯ - G - A - B - Câ™¯ - D
 
 ---
 
@@ -578,21 +578,21 @@ Key = E♭ Major ✓
 **Understanding which chords fit a key**
 
 **In D Major:**
-- Key signature: 2 sharps (F♯, C♯)
-- Available notes: D - E - F♯ - G - A - B - C♯
+- Key signature: 2 sharps (Fâ™¯, Câ™¯)
+- Available notes: D - E - Fâ™¯ - G - A - B - Câ™¯
 - Diatonic chords (built from these notes):
   - D major (I)
   - E minor (ii)
-  - F♯ minor (iii)
+  - Fâ™¯ minor (iii)
   - G major (IV)
   - A major (V)
   - B minor (vi)
-  - C♯ diminished (vii°)
+  - Câ™¯ diminished (viiÂ°)
 
 **Common D major progression:**
 - D - G - A - D (I - IV - V - I)
 
-**All chords stay within the key signature of D major (F♯ and C♯).**
+**All chords stay within the key signature of D major (Fâ™¯ and Câ™¯).**
 
 ---
 
@@ -608,13 +608,13 @@ Key = E♭ Major ✓
 - Move each chord up by a 5th (or check the Circle of Fifths)
 - C → G, F → C, G → D
 - Chords: G - C - D - G
-- Key signature: 1 sharp (F♯)
+- Key signature: 1 sharp (Fâ™¯)
 
 **Circle of Fifths helps:** One step clockwise from C = G
 
 ---
 
-## 📖 SECTION 6: MINOR KEYS (PREVIEW)
+## ðŸ“– SECTION 6: MINOR KEYS (PREVIEW)
 
 ### Relative Minor Keys
 
@@ -624,8 +624,8 @@ Key = E♭ Major ✓
 
 **Examples:**
 - **C major** → relative minor = **A minor** (both have no sharps/flats)
-- **G major** → relative minor = **E minor** (both have 1 sharp: F♯)
-- **D major** → relative minor = **B minor** (both have 2 sharps: F♯, C♯)
+- **G major** → relative minor = **E minor** (both have 1 sharp: Fâ™¯)
+- **D major** → relative minor = **B minor** (both have 2 sharps: Fâ™¯, Câ™¯)
 
 **The Circle of Fifths also includes minor keys** (inner circle):
 
@@ -645,26 +645,26 @@ D major / B minor (2 sharps)
 
 ---
 
-## 📖 SECTION 7: PRACTICE EXERCISES
+## ðŸ“– SECTION 7: PRACTICE EXERCISES
 
 ### Exercise 1: Key Signature Identification (10 minutes)
 
 **Identify these keys:**
 
-1. Key signature: F♯
+1. Key signature: Fâ™¯
    - Answer: G major (1 sharp, last sharp + half step = G)
 
-2. Key signature: B♭, E♭, A♭
-   - Answer: E♭ major (3 flats, second-to-last = E♭)
+2. Key signature: Bâ™­, Eâ™­, Aâ™­
+   - Answer: Eâ™­ major (3 flats, second-to-last = Eâ™­)
 
-3. Key signature: F♯, C♯, G♯, D♯
-   - Answer: E major (4 sharps, last sharp D♯ + half step = E)
+3. Key signature: Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯
+   - Answer: E major (4 sharps, last sharp Dâ™¯ + half step = E)
 
-4. Key signature: B♭
+4. Key signature: Bâ™­
    - Answer: F major (1 flat = F major, memorized exception)
 
-5. Key signature: F♯, C♯, G♯, D♯, A♯, E♯
-   - Answer: F♯ major (6 sharps, last sharp E♯ + half step = F♯)
+5. Key signature: Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯, Aâ™¯, Eâ™¯
+   - Answer: Fâ™¯ major (6 sharps, last sharp Eâ™¯ + half step = Fâ™¯)
 
 ---
 
@@ -673,19 +673,19 @@ D major / B minor (2 sharps)
 **Write the key signatures for these keys:**
 
 1. A major
-   - Answer: 3 sharps (F♯, C♯, G♯)
+   - Answer: 3 sharps (Fâ™¯, Câ™¯, Gâ™¯)
 
-2. B♭ major
-   - Answer: 2 flats (B♭, E♭)
+2. Bâ™­ major
+   - Answer: 2 flats (Bâ™­, Eâ™­)
 
 3. E major
-   - Answer: 4 sharps (F♯, C♯, G♯, D♯)
+   - Answer: 4 sharps (Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯)
 
-4. A♭ major
-   - Answer: 4 flats (B♭, E♭, A♭, D♭)
+4. Aâ™­ major
+   - Answer: 4 flats (Bâ™­, Eâ™­, Aâ™­, Dâ™­)
 
 5. B major
-   - Answer: 5 sharps (F♯, C♯, G♯, D♯, A♯)
+   - Answer: 5 sharps (Fâ™¯, Câ™¯, Gâ™¯, Dâ™¯, Aâ™¯)
 
 ---
 
@@ -700,13 +700,13 @@ D major / B minor (2 sharps)
    - Answer: G major (D has 2 sharps, G has 1)
 
 3. What key is opposite C major on the circle?
-   - Answer: F♯/G♭ major (enharmonic keys)
+   - Answer: Fâ™¯/Gâ™­ major (enharmonic keys)
 
 4. Starting from A major, move 2 steps clockwise. What key?
    - Answer: B major (A → E → B)
 
-5. Starting from E♭ major, move 3 steps counter-clockwise. What key?
-   - Answer: D♭ major (E♭ → A♭ → D♭)
+5. Starting from Eâ™­ major, move 3 steps counter-clockwise. What key?
+   - Answer: Dâ™­ major (Eâ™­ → Aâ™­ → Dâ™­)
 
 ---
 
@@ -720,8 +720,8 @@ D major / B minor (2 sharps)
 2. D major
    - Adjacent keys: G major (left), A major (right)
 
-3. B♭ major
-   - Adjacent keys: E♭ major (left), F major (right)
+3. Bâ™­ major
+   - Adjacent keys: Eâ™­ major (left), F major (right)
 
 **Why this matters:**
 These are the keys songs commonly modulate to. Knowing adjacent keys helps you anticipate key changes.
@@ -752,12 +752,12 @@ Mark this lesson complete when you can:
 
 **Theory Understanding:**
 - [ ] Explain why sharps/flats appear in a specific order
-- [ ] Understand enharmonic equivalents (G♭ = F♯)
+- [ ] Understand enharmonic equivalents (Gâ™­ = Fâ™¯)
 - [ ] Know what relative minor keys are (preview for later lessons)
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 ### You Now Have the Map of Music
 
@@ -784,11 +784,11 @@ Mark this lesson complete when you can:
 
 Use it every time you play, write, or analyze music.
 
-**See you in Lesson 35 - where we complete the Circle with flat keys in depth!** 🎸
+**See you in Lesson 35 - where we complete the Circle with flat keys in depth!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -800,7 +800,7 @@ The practice tracker helps you:
 - Note theory breakthroughs
 - Review your musical journey
 
-**Your theory understanding is accelerating!** 🎸
+**Your theory understanding is accelerating!** ðŸŽ¸
 
 ---
 

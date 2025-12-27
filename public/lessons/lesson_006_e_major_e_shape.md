@@ -136,9 +136,9 @@ E|--0 ← Open
 - Learning them together reinforces the MAJOR vs MINOR concept
 
 **By end of today:**
-- âœ… Seven total shapes (Em, Am, D, G, C, **E major, A major**)
-- âœ… Two complete shape families (E-shape: Em + E major, A-shape: Am + A major)
-- âœ… Ready for any beginner/intermediate song
+- ✅ Seven total shapes (Em, Am, D, G, C, **E major, A major**)
+- ✅ Two complete shape families (E-shape: Em + E major, A-shape: Am + A major)
+- ✅ Ready for any beginner/intermediate song
 
 **This is critical mass Ã— 2.**
 
@@ -210,11 +210,11 @@ E|--0 ← Open
 
 **By the end of this lesson:**
 
-âœ… You'll complete two essential shape families  
-âœ… You'll understand MAJOR/MINOR transformations  
-âœ… You'll play songs using all seven shapes  
-âœ… You'll see how shapes become barre chords  
-âœ… You'll have the foundation 90% of guitarists have
+✅ You'll complete two essential shape families  
+✅ You'll understand MAJOR/MINOR transformations  
+✅ You'll play songs using all seven shapes  
+✅ You'll see how shapes become barre chords  
+✅ You'll have the foundation 90% of guitarists have
 
 **You'll cross from "good beginner" to "solid foundation."**
 
@@ -611,11 +611,11 @@ Three fingers now:
 ```
 Visual Pattern:
 
-    â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-    â”‚   [1]       â”‚  ← Index finger (1st fret)
-    â”‚ [2]         â”‚  ← Middle & Ring together (2nd fret)
-    â”‚   [3]       â”‚
-    â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+    ┌─────────────┐
+    │   [1]       │  ← Index finger (1st fret)
+    │ [2]         │  ← Middle & Ring together (2nd fret)
+    │   [3]       │
+    └─────────────┘
 
 Look at your hand forming E major:
 - Index finger reaches "forward" (toward nut)
@@ -1527,7 +1527,7 @@ When smooth, add Folk/Country pattern
 
 ---
 
-## âœ… SUCCESS CRITERIA
+## ✅ SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
@@ -1655,12 +1655,12 @@ Your fingers need time to:
 - This mutes the open B string (very common!)
 
 **Solutions:**
-âœ… **Arch index finger more**
+✅ **Arch index finger more**
 - Come down on string at steeper angle
 - Fingertip only touching, not side of finger
 - Practice: Form shape, look at index finger, adjust angle
 
-âœ… **Check finger position**
+✅ **Check finger position**
 - Index finger should be perpendicular to fretboard
 - Not angled or laying flat
 
@@ -1681,15 +1681,15 @@ Exercise: Isolated index finger check (3 minutes)
 - Especially D, A, or G strings
 
 **Solutions:**
-âœ… **Press firmer with fingertips**
+✅ **Press firmer with fingertips**
 - E major uses 3 fingers = more pressure needed
 - Your fingers are building strength (takes time!)
 
-âœ… **Check finger placement relative to fret**
+✅ **Check finger placement relative to fret**
 - Fingers should be right next to fret wire (not middle of fret)
 - Closer to fret = less pressure needed
 
-âœ… **Build finger strength**
+✅ **Build finger strength**
 ```
 Exercise: Shape holds (3 minutes daily)
 1. Form E major shape
@@ -1709,13 +1709,13 @@ Builds endurance for maintaining pressure
 - OR thumb is too far down neck
 
 **Solutions:**
-âœ… **Proper thumb position:**
+✅ **Proper thumb position:**
 - Thumb should be on BACK of neck
 - Roughly behind middle finger
 - Not visible from front when you look at guitar
 - Acts as anchor point for finger pressure
 
-âœ… **Check in mirror:**
+✅ **Check in mirror:**
 ```
 1. Form E major shape
 2. Look at neck from side
@@ -1738,13 +1738,13 @@ Builds endurance for maintaining pressure
 **Instead of:**
 ```
 Index, middle, ring separately placed
-â”€â”€â”€1â”€2â”€3â”€â”€â”€â”€  ← Fingers spread across three strings
+───1─2─3────  ← Fingers spread across three strings
 ```
 
 **Try:**
 ```
 All three fingers stacked together
-â”€â”€â”€[1+3+4]â”€â”€  ← Fingers bunched together as one unit
+───[1+3+4]──  ← Fingers bunched together as one unit
 ```
 
 **How to do it:**
@@ -1798,7 +1798,7 @@ This builds the shape progressively
 **Solutions:**
 
 #### Solution 1: Thumb Muting Technique
-âœ… **Rest thumb on low E string**
+✅ **Rest thumb on low E string**
 - Lightly touch low E string with side of thumb
 - Mutes it even if pick hits it
 - Professional technique!
@@ -1814,7 +1814,7 @@ This builds the shape progressively
 ---
 
 #### Solution 2: Visual Targeting Practice
-âœ… **Look where you're strumming**
+✅ **Look where you're strumming**
 ```
 Exercise: Targeted strumming (5 minutes)
 
@@ -1837,7 +1837,7 @@ Goal: Your hand learns where to start strum
 - Need smaller, controlled motion
 
 **Solution:**
-âœ… Use wrist motion, not arm motion
+✅ Use wrist motion, not arm motion
 - Smaller movement = more accurate
 - Aim for 4-5 strings only (A, D, G, B, e)
 - Power comes from wrist snap, not arm swing
@@ -1854,7 +1854,7 @@ Goal: Your hand learns where to start strum
 **Solutions:**
 
 #### Solution 1: Slow Down Practice Tempo
-âœ… **This is NORMAL on Day 1-3!**
+✅ **This is NORMAL on Day 1-3!**
 - Everyone is slow at first
 - Speed comes from repetition
 - Be patient with yourself
@@ -1900,7 +1900,7 @@ Your hand learns to move the SHAPE, not individual fingers
 #### Solution 3: Anticipate Next Shape
 **Mental preparation speeds physical movement**
 
-âœ… **While playing current shape, think about next shape**
+✅ **While playing current shape, think about next shape**
 ```
 Playing E major → Brain already sees A major position
 Playing A major → Brain already sees D shape position
@@ -1926,7 +1926,7 @@ Mental practice speeds up physical transitions!
 #### Solution 4: Use the "One-Minute Changes" Exercise
 **This exercise builds transition speed FAST**
 
-âœ… **JustinGuitar's famous exercise:**
+✅ **JustinGuitar's famous exercise:**
 ```
 Set timer: 1 minute
 Set metronome: 60 BPM
@@ -1959,7 +1959,7 @@ Day 14: 35-40 transitions
 **Solutions:**
 
 #### Solution 1: Understanding Calluses
-âœ… **Fingertip pain is NORMAL for beginners**
+✅ **Fingertip pain is NORMAL for beginners**
 - You're building calluses (toughened skin)
 - Takes 7-14 days to develop
 - Once you have them, playing is painless!
@@ -1972,7 +1972,7 @@ Days 8-14: Calluses forming, much less pain
 Days 15+: Minimal to no pain (calluses established)
 ```
 
-âœ… **This temporary pain = permanent calluses**
+✅ **This temporary pain = permanent calluses**
 
 ---
 
@@ -1980,7 +1980,7 @@ Days 15+: Minimal to no pain (calluses established)
 **Instead of:** 45 minutes once per day
 **Try:** 15 minutes, three times per day
 
-âœ… **Why this works:**
+✅ **Why this works:**
 - Builds calluses FASTER (more sessions)
 - Hurts LESS (shorter duration each time)
 - More learning (spaced repetition)
@@ -1998,7 +1998,7 @@ Effect: Less pain, faster callus building, better learning!
 ---
 
 #### Solution 3: Ice Fingers After Practice
-âœ… **Reduce inflammation:**
+✅ **Reduce inflammation:**
 ```
 After practice session:
 1. Hold cold drink or ice pack
@@ -2015,7 +2015,7 @@ After practice session:
 - Creates unnecessary pain
 
 **Solution:**
-âœ… **Press just hard enough for clear sound**
+✅ **Press just hard enough for clear sound**
 ```
 Test:
 1. Form E major shape
@@ -2030,7 +2030,7 @@ Extra pressure = Extra pain, NO benefit
 ---
 
 #### Solution 5: Take a Rest Day (If Needed)
-âœ… **When to take a day off:**
+✅ **When to take a day off:**
 - Fingertips are raw or bleeding
 - Sharp pain (not just soreness)
 - Fingers extremely swollen
@@ -2052,7 +2052,7 @@ Extra pressure = Extra pain, NO benefit
 **Solutions:**
 
 #### Solution 1: The Individual String Test
-âœ… **Don't strum - pluck each string separately**
+✅ **Don't strum - pluck each string separately**
 ```
 Process:
 1. Form E major shape
@@ -2079,7 +2079,7 @@ Any buzzing = That finger needs adjustment
 ---
 
 #### Solution 2: Watch Video Examples
-âœ… **Compare your sound to professionals**
+✅ **Compare your sound to professionals**
 ```
 Process:
 1. Watch Den Lopez E major shape video
@@ -2097,7 +2097,7 @@ Process:
 ---
 
 #### Solution 3: Record Yourself
-âœ… **Your ears hear differently when listening to recording**
+✅ **Your ears hear differently when listening to recording**
 ```
 Process:
 1. Use phone voice recorder
@@ -2116,7 +2116,7 @@ Process:
 ---
 
 #### Solution 4: Ask for Help
-âœ… **Get feedback from others**
+✅ **Get feedback from others**
 - Friend who plays guitar
 - Post video in r/guitar or beginner forums
 - Ask local music store staff
@@ -2134,7 +2134,7 @@ Process:
 **Solutions:**
 
 #### Solution 1: Watch Den Lopez Videos
-âœ… **He explains this BETTER than written text can**
+✅ **He explains this BETTER than written text can**
 
 **Must-watch:**
 - "Shapes vs Chords - What's the Difference?"
@@ -2146,7 +2146,7 @@ Process:
 ---
 
 #### Solution 2: The "Aha!" Moment Exercise
-âœ… **Experience WHY shapes matter:**
+✅ **Experience WHY shapes matter:**
 ```
 Exercise: Moving the E-Shape (3 minutes)
 
@@ -2172,7 +2172,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 ---
 
 #### Solution 3: Read Lesson 4 Again
-âœ… **The shape concept is introduced there**
+✅ **The shape concept is introduced there**
 - Lesson 4 explains shape philosophy in depth
 - Maybe it makes more sense now that you've practiced
 - Understanding grows with experience
@@ -2180,7 +2180,7 @@ THIS IS WHY IT'S CALLED A SHAPE!
 ---
 
 #### Solution 4: Just Trust the Process
-âœ… **It's okay if concept is fuzzy now**
+✅ **It's okay if concept is fuzzy now**
 - You're using shapes correctly (forming chord shapes)
 - Deep understanding comes later
 - By Lesson 21 (barre chords), you'll see why this matters

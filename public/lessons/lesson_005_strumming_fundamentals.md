@@ -236,7 +236,7 @@ Watch any experienced guitarist strum. Their arm barely moves. All the action ha
 
 ---
 
-### The Downstroke (↓)
+### The Downstroke (â†“)
 
 Your first strumming motion is the downstroke.
 
@@ -303,7 +303,7 @@ If your pick is hitting the strings at a steep angle, you'll hear scraping. Keep
 
 ---
 
-### The Upstroke (↑)
+### The Upstroke (â†‘)
 
 Once you're comfortable with downstrokes, it's time to add upstrokes.
 
@@ -630,7 +630,7 @@ Now we combine everything you've learned into actual strumming patterns.
 
 ### Pattern 1: All Downstrokes (The Foundation Pattern)
 
-**Notation:** ↓ ↓ ↓ ↓  
+**Notation:** â†“ â†“ â†“ â†“  
 **Count:** 1 - 2 - 3 - 4  
 **Tempo:** Start at 60 BPM
 
@@ -646,7 +646,7 @@ Now we combine everything you've learned into actual strumming patterns.
 - Demonstrate: 4 measures (16 beats) of Pattern 1
 - Camera angle: Slightly from player's right side
 - Audio: Clear sound of each downstroke, plus metronome click
-- Overlay: Text showing "↓ ↓ ↓ ↓" in sync with strums
+- Overlay: Text showing "â†“ â†“ â†“ â†“" in sync with strums
 - Duration: 30 seconds
 **Caption:** "Pattern 1: All downstrokes at 60 BPM. Strum on each beat."
 
@@ -686,7 +686,7 @@ It's the foundation of all strumming. If you can't play steady quarter notes (on
 
 ### Pattern 2: Down-Down-Up (The "Island Strum")
 
-**Notation:** ↓ ↓ ↑  
+**Notation:** â†“ â†“ â†‘  
 **Count:** 1 - 2 - and  
 **Tempo:** Start at 60 BPM
 
@@ -701,7 +701,7 @@ It's the foundation of all strumming. If you can't play steady quarter notes (on
 - Same framing as Video 7
 - Demonstrate: Pattern 2 for 4 measures
 - Audio: Clear distinction between down and up strokes
-- Overlay: Text showing "↓ ↓ ↑" pattern in sync
+- Overlay: Text showing "â†“ â†“ â†‘" pattern in sync
 - Slow motion replay: Show the upstroke timing clearly
 - Duration: 45 seconds
 **Caption:** "Pattern 2: Down-Down-Up. Notice the upstroke comes between beats 2 and 3."
@@ -757,7 +757,7 @@ Start at 40 BPM if 60 feels too fast.
 
 ### Pattern 3: Down-Up-Down-Up (The Universal Pattern)
 
-**Notation:** ↓ ↑ ↓ ↑ ↓ ↑ ↓ ↑  
+**Notation:** â†“ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†‘  
 **Count:** 1-and-2-and-3-and-4-and  
 **Tempo:** Start at 60 BPM
 
@@ -772,7 +772,7 @@ Start at 40 BPM if 60 feels too fast.
 - Demonstrate: 4 measures of continuous down-up alternation
 - Side view: Show wrist rotation clearly
 - Audio: Hear dynamic difference between down (louder) and up (softer)
-- Overlay: "↓ ↑ ↓ ↑" cycling continuously
+- Overlay: "â†“ â†‘ â†“ â†‘" cycling continuously
 - Duration: 45 seconds
 **Caption:** "Pattern 3: Continuous down-up alternation. This is THE most versatile strumming pattern."
 
@@ -1214,7 +1214,7 @@ A chord: "[PAUSE]-STRUM-STRUM-STRUM"
 
 **Minute 10-15:** Down-Up alternation
 - Open strings
-- Pattern 3 (↓ ↑ ↓ ↑)
+- Pattern 3 (â†“ â†‘ â†“ â†‘)
 - 60 BPM
 
 **Minute 15-20:** Pattern 3 with D chord
@@ -1365,7 +1365,7 @@ When that happens, your brain is free to focus on:
 
 **That's when guitar gets really fun.**
 
-**Welcome to making music.** 🎸
+**Welcome to making music.** ðŸŽ¸
 
 ---
 
@@ -1373,19 +1373,19 @@ When that happens, your brain is free to focus on:
 
 **You're ready for Lesson 6 when you can:**
 
-□ Hold a pick with proper technique (or execute finger strumming confidently)  
-□ Demonstrate correct wrist motion (not arm motion)  
-□ Play Pattern 1 at 60 BPM for 2+ minutes without stopping  
-□ Play Pattern 3 at 60 BPM for 2+ minutes without stopping  
-□ Explain what "1-2-3-4" and "1-and-2-and-3-and-4-and" mean  
-□ Use a metronome comfortably in practice  
-□ Switch from D to A while maintaining rhythm  
-□ Switch from D to E while maintaining rhythm  
-□ Strum only strings 4-3-2-1 on D chord (not 6 or 5)  
-□ Strum only strings 5-4-3-2-1 on A chord (not 6)  
-□ Practice for 15-20 minutes without hand pain  
-□ Identify when your rhythm is speeding up or slowing down  
-□ Play along with a metronome without fighting it  
+â–¡ Hold a pick with proper technique (or execute finger strumming confidently)  
+â–¡ Demonstrate correct wrist motion (not arm motion)  
+â–¡ Play Pattern 1 at 60 BPM for 2+ minutes without stopping  
+â–¡ Play Pattern 3 at 60 BPM for 2+ minutes without stopping  
+â–¡ Explain what "1-2-3-4" and "1-and-2-and-3-and-4-and" mean  
+â–¡ Use a metronome comfortably in practice  
+â–¡ Switch from D to A while maintaining rhythm  
+â–¡ Switch from D to E while maintaining rhythm  
+â–¡ Strum only strings 4-3-2-1 on D chord (not 6 or 5)  
+â–¡ Strum only strings 5-4-3-2-1 on A chord (not 6)  
+â–¡ Practice for 15-20 minutes without hand pain  
+â–¡ Identify when your rhythm is speeding up or slowing down  
+â–¡ Play along with a metronome without fighting it  
 
 **If you've checked all these boxes, move to Lesson 6.**  
 **If not, keep practicing! There's no rush.**
@@ -1417,7 +1417,7 @@ When that happens, your brain is free to focus on:
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1429,7 +1429,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges  
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

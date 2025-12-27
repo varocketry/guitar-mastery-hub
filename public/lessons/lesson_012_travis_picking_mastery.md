@@ -1,6 +1,6 @@
 # Lesson 12: Travis Picking Mastery
 
-**⏱️ TYPICAL COMPLETION TIME**: 2-3 weeks (minimum)  
+**â±ï¸ TYPICAL COMPLETION TIME**: 2-3 weeks (minimum)  
 **📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
 **📍 PHASE**: Foundation (Lessons 1-30)  
 **🎯 PREREQUISITES**: Lessons 1-11 complete (especially Lesson 10: Fingerstyle Basics)
@@ -332,18 +332,18 @@ At 15 BPM, your brain can:
 
 **Let's cross it together.**
 
-**Slowly. Patiently. Correctly.** 🎸
+**Slowly. Patiently. Correctly.** ðŸŽ¸
 
 ---
 
-## 📌 QUICK REFERENCE: Finger Notation
+## ðŸ“Œ QUICK REFERENCE: Finger Notation
 
 **Throughout this lesson, you'll see notation like "p-i-p-m"**
 
 This is **standard fingerstyle notation** for which right-hand finger to use:
 
 - **p** = **Thumb** (Spanish: "pulgar")
-- **i** = **Index finger** (Spanish: "índice")
+- **i** = **Index finger** (Spanish: "Ã­ndice")
 - **m** = **Middle finger** (Spanish: "medio")
 - **a** = **Ring finger** (Spanish: "anular")
 
@@ -486,7 +486,7 @@ Day 21: Test at 40 BPM continuously for 5 minutes
 
 ---
 
-## 📖 THEORY: What Is Travis Picking?
+## ðŸ“– THEORY: What Is Travis Picking?
 
 ### The History
 
@@ -544,7 +544,7 @@ Count:      1   &   2   &   3   &   4   &
 
 ---
 
-## 🎸 PHASE 1: THUMB INDEPENDENCE (WEEK 1)
+## ðŸŽ¸ PHASE 1: THUMB INDEPENDENCE (WEEK 1)
 
 ### Why Start with Thumb-Only?
 
@@ -652,7 +652,7 @@ Count:   1   &   2   &   3   &   4   &
 
 ---
 
-## 🎸 PHASE 2: BASIC TRAVIS PATTERN (WEEK 2)
+## ðŸŽ¸ PHASE 2: BASIC TRAVIS PATTERN (WEEK 2)
 
 ### The Classic Travis Pattern
 
@@ -774,7 +774,7 @@ C:  (2 measures)
 
 ---
 
-## 🎸 PHASE 3: SONG APPLICATIONS
+## ðŸŽ¸ PHASE 3: SONG APPLICATIONS
 
 ### Song #1: "Dust in the Wind" (Kansas) - Simplified
 
@@ -831,7 +831,7 @@ Finger:  p i p m p i p m
 
 ---
 
-## 🎵 PRACTICE ROUTINES
+## ðŸŽµ PRACTICE ROUTINES
 
 ### Week 1: Thumb Independence
 
@@ -872,7 +872,7 @@ Finger:  p i p m p i p m
 
 ---
 
-## 📊 PROGRESS CHECKPOINTS
+## ðŸ“Š PROGRESS CHECKPOINTS
 
 ### End of Week 1
 - [ ] Thumb alternates steadily at 20 BPM (thumb-only)
@@ -923,7 +923,7 @@ Finger:  p i p m p i p m
 
 ---
 
-## 💡 MOTIVATION & REAL TALK
+## ðŸ’¡ MOTIVATION & REAL TALK
 
 ### Why This Is Hard
 
@@ -982,7 +982,7 @@ Most guitarists:
 
 ---
 
-## 🎸 RECOMMENDED RESOURCES
+## ðŸŽ¸ RECOMMENDED RESOURCES
 
 ### YouTube Video Tutorials (Highly Recommended!)
 
@@ -1136,7 +1136,7 @@ This is a 2-3 week (minimum) commitment, possibly 2-3 months to sound really goo
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -1148,7 +1148,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

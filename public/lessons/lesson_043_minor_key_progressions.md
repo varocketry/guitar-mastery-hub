@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-6 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 5-6 days  
 **📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
+**ðŸ“‚ PHASE**: Theory Module 2 (Lessons 39-46)  
 **🎯 PREREQUISITES**: Lesson 42 complete (minor key diatonic chords)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: THE SOUND OF EMOTION
+## ðŸŽµ WHY THIS MATTERS: THE SOUND OF EMOTION
 
 ### The Question Every Songwriter Asks
 
@@ -43,7 +43,7 @@ Just as major keys have characteristic progressions (I-IV-V, I-V-vi-IV), **minor
 ### What You're About to Learn
 
 **You already know:**
-- Minor key diatonic chords: i-ii°-III-iv-v-VI-VII (Lesson 42)
+- Minor key diatonic chords: i-iiÂ°-III-iv-v-VI-VII (Lesson 42)
 - Why V (major) is stronger than v (minor)
 - Chord families in minor keys
 - How to build minor progressions
@@ -64,7 +64,7 @@ This unlocks expressive, emotional songwriting.
 
 ---
 
-## 📖 SECTION 1: THE CLASSIC MINOR PROGRESSION (i-iv-V-i)
+## ðŸ“– SECTION 1: THE CLASSIC MINOR PROGRESSION (i-iv-V-i)
 
 ### The Minor Key I-IV-V
 
@@ -179,7 +179,7 @@ E|-------|    E|---3---|    E|-------|    E|-------|
 
 ---
 
-## 📖 SECTION 2: THE ANDALUSIAN CADENCE (i-VI-III-VII)
+## ðŸ“– SECTION 2: THE ANDALUSIAN CADENCE (i-VI-III-VII)
 
 ### The Spanish/Flamenco Progression
 
@@ -268,7 +268,7 @@ E|-------|    E|---1---|    E|-------|    E|---3---|
 
 ---
 
-## 📖 SECTION 3: ROCK/METAL MINOR PROGRESSIONS
+## ðŸ“– SECTION 3: ROCK/METAL MINOR PROGRESSIONS
 
 ### The i-VII-VI-VII Pattern
 
@@ -347,7 +347,7 @@ E|---5---|    E|---3---|    E|---1---|    E|---3---|
 
 ---
 
-## 📖 SECTION 4: MODAL MINOR PROGRESSIONS
+## ðŸ“– SECTION 4: MODAL MINOR PROGRESSIONS
 
 ### Using Natural Minor v (Not V Major)
 
@@ -402,7 +402,7 @@ E|-------|    E|---0---|    E|---1---|    E|-------|
 
 ---
 
-## 📖 SECTION 5: MINOR BLUES PROGRESSIONS
+## ðŸ“– SECTION 5: MINOR BLUES PROGRESSIONS
 
 ### 12-Bar Minor Blues
 
@@ -450,7 +450,7 @@ E|-------|    E|---0---|    E|---1---|    E|-------|
 
 ---
 
-## 📖 SECTION 6: CHOOSING PROGRESSIONS FOR EMOTION
+## ðŸ“– SECTION 6: CHOOSING PROGRESSIONS FOR EMOTION
 
 ### Emotional Qualities of Minor Progressions
 
@@ -515,7 +515,7 @@ E|-------|    E|---0---|    E|---1---|    E|-------|
 
 ---
 
-## 📖 SECTION 7: PRACTICAL EXERCISES
+## ðŸ“– SECTION 7: PRACTICAL EXERCISES
 
 ### Exercise 1: Play All Major Progressions (20 minutes)
 
@@ -615,7 +615,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 ### You Now Speak the Language of Emotion
 
@@ -643,11 +643,11 @@ Mark this lesson complete when you can:
 
 Master them, and you can express any feeling through your guitar.
 
-**See you in Lesson 44 - where we borrow chords between major and minor for even more color!** 🎸
+**See you in Lesson 44 - where we borrow chords between major and minor for even more color!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -659,7 +659,7 @@ The practice tracker helps you:
 - Note songwriting breakthroughs
 - Review your minor key mastery
 
-**You're mastering emotional expression!** 🎸
+**You're mastering emotional expression!** ðŸŽ¸
 
 ---
 

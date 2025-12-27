@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-6 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 5-6 days  
 **📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
+**ðŸ“‚ PHASE**: Theory Module 2 (Lessons 39-46)  
 **🎯 PREREQUISITES**: Lesson 41 complete (relative vs. parallel minor)
 
 ---
@@ -13,7 +13,7 @@
 
 By the end of this lesson, you will be able to:
 - Build all seven diatonic chords from natural minor scales
-- Understand the minor key chord pattern (i-ii°-III-iv-v-VI-VII)
+- Understand the minor key chord pattern (i-iiÂ°-III-iv-v-VI-VII)
 - Apply harmonic minor to strengthen the V chord
 - Understand chord families in minor keys
 - Recognize common minor key progressions
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: THE HARMONY OF EMOTION
+## ðŸŽµ WHY THIS MATTERS: THE HARMONY OF EMOTION
 
 ### The Question Every Songwriter Asks
 
@@ -43,7 +43,7 @@ Just like major keys have seven diatonic chords following a pattern, **minor key
 ### What You're About to Learn
 
 **You already know:**
-- Major key diatonic chords: I-ii-iii-IV-V-vi-vii° (Lesson 36)
+- Major key diatonic chords: I-ii-iii-IV-V-vi-viiÂ° (Lesson 36)
 - Natural, harmonic, and melodic minor scales (Lesson 39)
 - Relative and parallel relationships (Lesson 41)
 
@@ -63,22 +63,22 @@ This unlocks the darker, deeper side of harmony.
 
 ---
 
-## 📖 SECTION 1: BUILDING DIATONIC CHORDS FROM NATURAL MINOR
+## ðŸ“– SECTION 1: BUILDING DIATONIC CHORDS FROM NATURAL MINOR
 
 ### The Natural Minor Chord Pattern
 
 **From Lesson 36, you learned the major key pattern:**  
-**I - ii - iii - IV - V - vi - vii°**
+**I - ii - iii - IV - V - vi - viiÂ°**
 
 **Minor keys have a DIFFERENT pattern:**  
-**i - ii° - III - iv - v - VI - VII**
+**i - iiÂ° - III - iv - v - VI - VII**
 
 **Notice the differences:**
 - Lowercase "i" = minor tonic (not major I)
-- "ii°" = diminished (not minor ii)
+- "iiÂ°" = diminished (not minor ii)
 - "III" = MAJOR third chord (not minor iii)
 - "v" = minor dominant (not major V) ← **This is important!**
-- "VII" = MAJOR seventh chord (not diminished vii°)
+- "VII" = MAJOR seventh chord (not diminished viiÂ°)
 
 **This pattern NEVER changes in natural minor.**
 
@@ -104,12 +104,12 @@ Minor 3rd (A to C = 3 half steps) → **Minor chord**
 
 ---
 
-**Chord ii° (built on B - Supertonic):**
+**Chord iiÂ° (built on B - Supertonic):**
 ```
 A  B  C  D  E  F  G  A
    1     3     5
 
-Chord: B - D - F = B DIMINISHED (ii°)
+Chord: B - D - F = B DIMINISHED (iiÂ°)
 ```
 
 Minor 3rd (B to D = 3 half steps) + diminished 5th (B to F = 6 half steps) → **Diminished chord**
@@ -178,7 +178,7 @@ Chord: G - B - D = G MAJOR (VII)
 
 Major 3rd (G to B = 4 half steps) → **Major chord**
 
-**Note:** In major keys, vii° is diminished. In natural minor, VII is MAJOR.
+**Note:** In major keys, viiÂ° is diminished. In natural minor, VII is MAJOR.
 
 ---
 
@@ -188,7 +188,7 @@ Major 3rd (G to B = 4 half steps) → **Major chord**
 
 ```
 i   = A minor (A-C-E)
-ii° = B diminished (B-D-F)
+iiÂ° = B diminished (B-D-F)
 III = C major (C-E-G)
 iv  = D minor (D-F-A)
 v   = E minor (E-G-B)
@@ -197,7 +197,7 @@ VII = G major (G-B-D)
 ```
 
 **Pattern (always the same in natural minor):**  
-**i - ii° - III - iv - v - VI - VII**
+**i - iiÂ° - III - iv - v - VI - VII**
 
 **Memorize this pattern. It works in ALL 12 minor keys.**
 
@@ -212,11 +212,11 @@ VII = G major (G-B-D)
 **G Minor:** Gm - Adim - Bb - Cm - Dm - Eb - F  
 **C Minor:** Cm - Ddim - Eb - Fm - Gm - Ab - Bb
 
-**Pattern is ALWAYS: i - ii° - III - iv - v - VI - VII**
+**Pattern is ALWAYS: i - iiÂ° - III - iv - v - VI - VII**
 
 ---
 
-## 📖 SECTION 2: THE HARMONIC MINOR SOLUTION
+## ðŸ“– SECTION 2: THE HARMONIC MINOR SOLUTION
 
 ### The Problem with Natural Minor v Chord
 
@@ -266,7 +266,7 @@ Chord: E - G# - B = E MAJOR (V)
 
 **E major has G# (the leading tone!).**
 
-**Now:** E major (V) → A minor (i) = **Strong resolution** ✓
+**Now:** E major (V) → A minor (i) = **Strong resolution** âœ“
 
 ---
 
@@ -274,18 +274,18 @@ Chord: E - G# - B = E MAJOR (V)
 
 **When using harmonic minor (raised 7th), THREE chords change:**
 
-**Natural minor:** i - ii° - III - iv - **v** - VI - **VII**  
-**Harmonic minor:** i - ii° - **III+** - iv - **V** - VI - **vii°**
+**Natural minor:** i - iiÂ° - III - iv - **v** - VI - **VII**  
+**Harmonic minor:** i - iiÂ° - **III+** - iv - **V** - VI - **viiÂ°**
 
 **Changes:**
 1. **III becomes III+** (augmented chord - rare)
 2. **v becomes V** (MAJOR dominant - common!)
-3. **VII becomes vii°** (diminished leading tone chord)
+3. **VII becomes viiÂ°** (diminished leading tone chord)
 
 **In practice:**
 
 **Most minor key songs use:**
-- Natural minor for i, ii°, iv, VI
+- Natural minor for i, iiÂ°, iv, VI
 - Harmonic minor for **V** (major dominant)
 - **This is the best of both worlds**
 
@@ -296,7 +296,7 @@ Chord: E - G# - B = E MAJOR (V)
 
 ---
 
-## 📖 SECTION 3: CHORD FAMILIES IN MINOR KEYS
+## ðŸ“– SECTION 3: CHORD FAMILIES IN MINOR KEYS
 
 ### The Three Chord Families (Minor Version)
 
@@ -316,7 +316,7 @@ Chord: E - G# - B = E MAJOR (V)
 
 **SUBDOMINANT FAMILY (Pre-dominant/Movement)**
 - **iv** (minor) - Primary subdominant
-- **ii°** (diminished) - Weak subdominant (rarely used alone)
+- **iiÂ°** (diminished) - Weak subdominant (rarely used alone)
 
 **Function:** Moves away from tonic, builds tension  
 **Feel:** Moving, transitioning, searching
@@ -326,7 +326,7 @@ Chord: E - G# - B = E MAJOR (V)
 **DOMINANT FAMILY (Tension/Resolution)**
 - **V** (MAJOR - from harmonic minor) - Primary dominant
 - **v** (minor - from natural minor) - Weak dominant (less common)
-- **vii°** (diminished - from harmonic minor) - Leading tone chord
+- **viiÂ°** (diminished - from harmonic minor) - Leading tone chord
 
 **Function:** Creates tension that resolves to tonic  
 **Feel:** Unstable, needs resolution to i
@@ -362,7 +362,7 @@ Example in A minor: Am - Dm - Em - Am
 
 ---
 
-## 📖 SECTION 4: COMMON MINOR KEY PROGRESSIONS
+## ðŸ“– SECTION 4: COMMON MINOR KEY PROGRESSIONS
 
 ### Progression 1: i-iv-V-i (The Classic Minor Progression)
 
@@ -471,27 +471,27 @@ G (VII) = Subtonic major, returns toward minor
 
 ---
 
-## 📖 SECTION 5: DIFFERENCES FROM MAJOR KEY HARMONY
+## ðŸ“– SECTION 5: DIFFERENCES FROM MAJOR KEY HARMONY
 
 ### Major vs. Minor Chord Patterns Compared
 
 **Major Key Pattern:**  
-**I - ii - iii - IV - V - vi - vii°**
+**I - ii - iii - IV - V - vi - viiÂ°**
 
 **Minor Key Pattern (Natural Minor):**  
-**i - ii° - III - iv - v - VI - VII**
+**i - iiÂ° - III - iv - v - VI - VII**
 
 **What changed:**
 
 | Degree | Major Key    | Minor Key     | Change            |
 |--------|--------------|---------------|-------------------|
 | 1      | I (major)    | i (minor)     | Became minor      |
-| 2      | ii (minor)   | ii° (dim)     | Became diminished |
+| 2      | ii (minor)   | iiÂ° (dim)     | Became diminished |
 | 3      | iii (minor)  | III (major)   | Became major      |
 | 4      | IV (major)   | iv (minor)    | Became minor      |
 | 5      | V (major)    | v (minor)*    | Became minor*     |
 | 6      | vi (minor)   | VI (major)    | Became major      |
-| 7      | vii° (dim)   | VII (major)   | Became major      |
+| 7      | viiÂ° (dim)   | VII (major)   | Became major      |
 
 ***Note:** In practice, V is often MAJOR (borrowed from harmonic minor)
 
@@ -512,7 +512,7 @@ G (VII) = Subtonic major, returns toward minor
 
 ---
 
-## 📖 SECTION 6: PRACTICAL EXERCISES
+## ðŸ“– SECTION 6: PRACTICAL EXERCISES
 
 ### Exercise 1: Build Minor Key Diatonic Chords (15 minutes)
 
@@ -522,7 +522,7 @@ G (VII) = Subtonic major, returns toward minor
 
 ```
 i   = E minor (E-G-B)
-ii° = F# diminished (F#-A-C)
+iiÂ° = F# diminished (F#-A-C)
 III = G major (G-B-D)
 iv  = A minor (A-C-E)
 v   = B minor (B-D-F#)
@@ -546,7 +546,7 @@ V = B major (B-D#-F#) ← From harmonic minor
 
 ```
 i   = D minor (D-F-A)
-ii° = E diminished (E-G-Bb)
+iiÂ° = E diminished (E-G-Bb)
 III = F major (F-A-C)
 iv  = G minor (G-Bb-D)
 v   = A minor (A-C-E)
@@ -591,7 +591,7 @@ Roman numerals:
 - B = V (harmonic minor)
 - Em = i
 
-**Analysis:** i - iv - V - i ✓ (Classic minor progression)
+**Analysis:** i - iv - V - i âœ“ (Classic minor progression)
 
 ---
 
@@ -638,7 +638,7 @@ Mark this lesson complete when you can:
 
 **Chord Construction:**
 - [ ] Build all seven natural minor diatonic chords in any key
-- [ ] Recite the pattern: i - ii° - III - iv - v - VI - VII
+- [ ] Recite the pattern: i - iiÂ° - III - iv - v - VI - VII
 - [ ] Understand why harmonic minor changes v to V
 - [ ] Build the major V chord from harmonic minor
 
@@ -662,12 +662,12 @@ Mark this lesson complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 ### You Now Command Minor Key Harmony
 
 **What you've learned:**
-- The natural minor chord pattern (i-ii°-III-iv-v-VI-VII)
+- The natural minor chord pattern (i-iiÂ°-III-iv-v-VI-VII)
 - Why harmonic minor provides V (major) for resolution
 - Chord families in minor keys
 - Common minor progressions (i-iv-V-i, Andalusian, etc.)
@@ -689,11 +689,11 @@ Mark this lesson complete when you can:
 
 Combined with major key knowledge, you have complete harmonic mastery.
 
-**See you in Lesson 43 - where we explore classic minor progressions in depth!** 🎸
+**See you in Lesson 43 - where we explore classic minor progressions in depth!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -705,7 +705,7 @@ The practice tracker helps you:
 - Note harmonic breakthroughs
 - Review your minor key mastery
 
-**You're mastering the darker side of harmony!** 🎸
+**You're mastering the darker side of harmony!** ðŸŽ¸
 
 ---
 

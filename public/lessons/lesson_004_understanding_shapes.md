@@ -74,7 +74,7 @@ You're not learning new finger patterns today. Instead, you're learning a **new 
 Result: Overwhelmed, confused, discouraged, quit
 ```
 
-**Shape Thinking** âœ… (Den Lopez approach):
+**Shape Thinking** ✅ (Den Lopez approach):
 ```
 "I need to learn:
 - E-shape (one moveable pattern)
@@ -851,7 +851,7 @@ Search YouTube for these - they'll show you the exact strumming and timing.
 
 ---
 
-## âœ… SUCCESS CRITERIA
+## ✅ SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
@@ -1379,11 +1379,11 @@ You'll learn that the **Em shape** you know (E-shape, minor version) becomes a *
 Open Em (you know this!):
     E A D G B e
     | | | | | |  
-    â”€0â”€0â”€0â”€0â”€0â”€0â”€  Fret 0
+    ─0─0─0─0─0─0─  Fret 0
     | | | | | |
-    â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€   
+    ───────────   
     | | | | | |
-    â”€2â”€â”€â”€â”€â”€â”€â”€â”€â”€   Fret 2
+    ─2─────────   Fret 2
     | | | 3 | |
     
     2 fingers, open position
@@ -1395,11 +1395,11 @@ Open Em (you know this!):
 F major (E-shape moved to fret 1):
     E A D G B e
     | | | | | |  
-    â”€1â”€1â”€1â”€1â”€1â”€1â”€  Fret 1 (INDEX FINGER BARS ALL STRINGS)
+    ─1─1─1─1─1─1─  Fret 1 (INDEX FINGER BARS ALL STRINGS)
     | | | | | |
-    â”€3â”€â”€â”€â”€â”€â”€â”€â”€â”€   Fret 3 (middle finger, same relative position)
+    ─3─────────   Fret 3 (middle finger, same relative position)
     | | | 4 | |
-    â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€   Fret 4 (ring finger, same relative position)
+    ───────────   Fret 4 (ring finger, same relative position)
     
     SAME SHAPE, just moved up!
 ```
@@ -1448,9 +1448,9 @@ Result: Confidence, natural progression, "Oh, I already know this!"
 Open Am (you know this!):
     E A D G B e
     X | | | | |  
-    â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€   Fret 0
+    ───────────   Fret 0
     | 1 2 3 | |
-    â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€   Fret 1
+    ───────────   Fret 1
     
     3 fingers, A-string root
 ```
@@ -1461,9 +1461,9 @@ Open Am (you know this!):
 Bm (A-shape moved to fret 2):
     E A D G B e
     X | | | | |  
-    â”€2â”€2â”€2â”€2â”€2â”€2â”€  Fret 2 (bar with index)
+    ─2─2─2─2─2─2─  Fret 2 (bar with index)
     | 2 3 4 | |   
-    â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€   Fret 3-4 (middle, ring, pinky in Am shape)
+    ───────────   Fret 3-4 (middle, ring, pinky in Am shape)
     
     SAME SHAPE, just moved up!
 ```

@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 5-7 days  
 **📅 PRACTICE SESSION LENGTH**: 40-60 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38) - CAPSTONE LESSON  
+**ðŸ“‚ PHASE**: Theory Module 1 (Lessons 31-38) - CAPSTONE LESSON  
 **🎯 PREREQUISITES**: Lessons 31-37 complete (all major key theory)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: THEORY INTO PRACTICE
+## ðŸŽµ WHY THIS MATTERS: THEORY INTO PRACTICE
 
 ### The Complete Picture
 
@@ -33,7 +33,7 @@ By the end of this lesson, you will be able to:
 **Lesson 33:** Major scale formula (W-W-H-W-W-W-H), all 12 major scales  
 **Lesson 34:** Key signatures (sharps/flats), Circle of Fifths  
 **Lesson 35:** Flat keys, enharmonic equivalents, complete Circle  
-**Lesson 36:** Diatonic harmony (I-ii-iii-IV-V-vi-vii°), progressions  
+**Lesson 36:** Diatonic harmony (I-ii-iii-IV-V-vi-viiÂ°), progressions  
 **Lesson 37:** Chord inversions, voice leading, slash chords
 
 **That's A LOT of theory.**
@@ -54,7 +54,7 @@ This is your Theory Module 1 graduation.
 
 ---
 
-## 📖 SECTION 1: THE COMPLETE MAJOR KEY SYSTEM
+## ðŸ“– SECTION 1: THE COMPLETE MAJOR KEY SYSTEM
 
 ### How Everything Connects
 
@@ -62,21 +62,21 @@ This is your Theory Module 1 graduation.
 
 ```
 MUSICAL ALPHABET (12 notes)
-        ↓
+        â†“
 MAJOR SCALE FORMULA (W-W-H-W-W-W-H)
-        ↓
+        â†“
 MAJOR SCALES (one starting from each note)
-        ↓
+        â†“
 KEY SIGNATURES (which sharps/flats each key has)
-        ↓
+        â†“
 CIRCLE OF FIFTHS (organizing keys by relationship)
-        ↓
+        â†“
 DIATONIC CHORDS (seven chords built from scale notes)
-        ↓
+        â†“
 CHORD PROGRESSIONS (moving between diatonic chords)
-        ↓
+        â†“
 VOICE LEADING & INVERSIONS (smoothing progressions)
-        ↓
+        â†“
 COMPLETE MUSICIANSHIP
 ```
 
@@ -113,7 +113,7 @@ COMPLETE MUSICIANSHIP
 
 ---
 
-## 📖 SECTION 2: COMPREHENSIVE INTEGRATION EXERCISES
+## ðŸ“– SECTION 2: COMPREHENSIVE INTEGRATION EXERCISES
 
 ### Integration Exercise 1: Key of G Major (Complete Analysis)
 
@@ -137,7 +137,7 @@ F# → G = 1 fret (H)
 G Major Scale: G - A - B - C - D - E - F# - G
 ```
 
-✓ Scale degree names: Tonic (G), Supertonic (A), Mediant (B), Subdominant (C), Dominant (D), Submediant (E), Leading Tone (F#)
+âœ“ Scale degree names: Tonic (G), Supertonic (A), Mediant (B), Subdominant (C), Dominant (D), Submediant (E), Leading Tone (F#)
 
 ---
 
@@ -153,7 +153,7 @@ Why? Because the major scale formula requires F# (not F) between E and G for the
 
 **Step 3: Build All Diatonic Chords**
 
-Pattern: I-ii-iii-IV-V-vi-vii°
+Pattern: I-ii-iii-IV-V-vi-viiÂ°
 
 ```
 I   = G major (G-B-D)
@@ -162,7 +162,7 @@ iii = B minor (B-D-F#)
 IV  = C major (C-E-G)
 V   = D major (D-F#-A)
 vi  = E minor (E-G-B)
-vii°= F# diminished (F#-A-C)
+viiÂ°= F# diminished (F#-A-C)
 ```
 
 ---
@@ -202,7 +202,7 @@ Bass: G → C → F# → G (smoother return to G)
 
 ---
 
-**✓ Complete G Major Integration Demonstrated**
+**âœ“ Complete G Major Integration Demonstrated**
 
 ---
 
@@ -245,7 +245,7 @@ iii = A minor (A-C-E)
 IV  = Bb major (Bb-D-F)
 V   = C major (C-E-G)
 vi  = D minor (D-F-A)
-vii°= E diminished (E-G-Bb)
+viiÂ°= E diminished (E-G-Bb)
 ```
 
 ---
@@ -265,7 +265,7 @@ Bass: F → D → E → F (smooth, ascending)
 
 ---
 
-**✓ Complete F Major Integration Demonstrated**
+**âœ“ Complete F Major Integration Demonstrated**
 
 ---
 
@@ -305,7 +305,7 @@ Bass: F → D → E → F (smooth, ascending)
 
 ---
 
-## 📖 SECTION 3: SONG ANALYSIS PRACTICE
+## ðŸ“– SECTION 3: SONG ANALYSIS PRACTICE
 
 ### Analyzing "Stand By Me" (Ben E. King) - Key of A Major
 
@@ -336,7 +336,7 @@ iii = C# minor
 IV  = D major
 V   = E major
 vi  = F# minor
-vii°= G# diminished
+viiÂ°= G# diminished
 ```
 
 ---
@@ -379,7 +379,7 @@ Bass: A - F# - F# - E (holds F#, then smooth to E)
 
 ---
 
-**✓ Complete song analysis using all Theory Module 1 concepts**
+**âœ“ Complete song analysis using all Theory Module 1 concepts**
 
 ---
 
@@ -408,14 +408,14 @@ Bass: C - B - A - F (descending then jump)
 
 ---
 
-## 📖 SECTION 4: ORIGINAL COMPOSITION EXERCISES
+## ðŸ“– SECTION 4: ORIGINAL COMPOSITION EXERCISES
 
 ### Composition Exercise 1: Write a 4-Chord Progression
 
 **Task: Create an original 4-chord progression in D major**
 
 **D Major diatonic chords:**
-I=D, ii=Em, iii=F#m, IV=G, V=A, vi=Bm, vii°=C#dim
+I=D, ii=Em, iii=F#m, IV=G, V=A, vi=Bm, viiÂ°=C#dim
 
 ---
 
@@ -451,7 +451,7 @@ Less common, uses the iii chord for different color.
 
 Use different combinations of I, ii, iii, IV, V, vi.
 
-Remember: iii and vii° are less common but available!
+Remember: iii and viiÂ° are less common but available!
 
 Play each on guitar. Which sounds best to you?
 
@@ -505,7 +505,7 @@ Which creates the best voice leading for your musical intent?
 
 ---
 
-## 📖 SECTION 5: FRETBOARD INTEGRATION
+## ðŸ“– SECTION 5: FRETBOARD INTEGRATION
 
 ### Exercise: One Key, Multiple Positions
 
@@ -598,7 +598,7 @@ E|-------|
 
 ---
 
-## 📖 SECTION 6: PREPARING FOR MINOR KEYS
+## ðŸ“– SECTION 6: PREPARING FOR MINOR KEYS
 
 ### What's Next: Theory Module 2 (Lessons 39-46)
 
@@ -653,7 +653,7 @@ A is the 6th → A minor is relative minor
 
 ---
 
-## 📖 SECTION 7: MASTERY ASSESSMENT
+## ðŸ“– SECTION 7: MASTERY ASSESSMENT
 
 ### Self-Assessment Checklist
 
@@ -668,7 +668,7 @@ A is the 6th → A minor is relative minor
 
 **Chord Construction:**
 - [ ] I can build all seven diatonic chords in any major key
-- [ ] I know the pattern: I-ii-iii-IV-V-vi-vii°
+- [ ] I know the pattern: I-ii-iii-IV-V-vi-viiÂ°
 - [ ] I understand chord families (Tonic, Subdominant, Dominant)
 - [ ] I can explain why certain progressions "work"
 
@@ -693,7 +693,7 @@ A is the 6th → A minor is relative minor
 
 ---
 
-**If you marked 15+ statements true: You've mastered Theory Module 1! ✓**
+**If you marked 15+ statements true: You've mastered Theory Module 1! âœ“**
 
 **If 10-14 true: Review weak areas, you're close!**
 
@@ -733,7 +733,7 @@ Mark Theory Module 1 complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS: THEORY MODULE 1 COMPLETE
+## ðŸŽ¸ FINAL THOUGHTS: THEORY MODULE 1 COMPLETE
 
 ### You Are Now a Music Theorist
 
@@ -799,7 +799,7 @@ Mark Theory Module 1 complete when you can:
 
 **This is a massive achievement.**
 
-**Celebrate it.** 🎉
+**Celebrate it.** ðŸŽ‰
 
 ---
 
@@ -811,11 +811,11 @@ Mark Theory Module 1 complete when you can:
 
 **Theory Module 2 begins with Lesson 39: The Minor Scale**
 
-**See you there for the "other half" of music!** 🎸
+**See you there for the "other half" of music!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -827,7 +827,7 @@ The practice tracker helps you:
 - Note theory application breakthroughs
 - Celebrate Theory Module 1 completion!
 
-**You've completed Theory Module 1!** 🎉🎸
+**You've completed Theory Module 1!** ðŸŽ‰ðŸŽ¸
 
 ---
 

@@ -1,6 +1,6 @@
 # Lesson 11: Percussive Strumming & Palm Muting Techniques
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 5-7 days  
 **📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
 **📍 PHASE**: Foundation (Lessons 1-30)  
 **🎯 PREREQUISITES**: Lessons 1-10 complete (7 open chord shapes, 4 strumming patterns, fingerstyle basics)
@@ -293,11 +293,11 @@ Example: "Enter Sandman" - Metallica (tight palm-muted rhythms)
 
 **That's the intermediate guitarist threshold.**
 
-**Let's add texture.** 🎸
+**Let's add texture.** ðŸŽ¸
 
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## ðŸŽ“ LEARNING OBJECTIVES
 
 By the end of this lesson, you will be able to:
 - Apply percussive strumming techniques for rhythmic texture
@@ -447,7 +447,7 @@ This comprehensive document explains:
 
 ---
 
-## 📖 THEORY: What Are Percussive Techniques?
+## ðŸ“– THEORY: What Are Percussive Techniques?
 
 ### Understanding "Percussive" Playing
 
@@ -527,7 +527,7 @@ This comprehensive document explains:
 
 ---
 
-## 🎸 TECHNIQUE #1: GHOST NOTES (LEFT-HAND MUTING)
+## ðŸŽ¸ TECHNIQUE #1: GHOST NOTES (LEFT-HAND MUTING)
 
 ### What Are Ghost Notes?
 
@@ -571,7 +571,7 @@ This comprehensive document explains:
 Click:  BEEP    BEEP    BEEP    BEEP    BEEP    BEEP    BEEP    BEEP
 Action: CHORD   CHUNK   CHORD   CHUNK   CHORD   CHUNK   CHORD   CHUNK
 Count:  1       2       3       4       1       2       3       4
-Strum:  ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+Strum:  â†“       â†“       â†“       â†“       â†“       â†“       â†“       â†“
 ```
 
 **Instructions:**
@@ -603,7 +603,7 @@ Strum:  ↓       ↓       ↓       ↓       ↓       ↓       ↓       �
 
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
+Strum:  â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
 Action: C   C   X   C   C   C   C   C
 
 C = Clean chord (pressed)
@@ -626,7 +626,7 @@ X = Ghost note (lifted pressure)
 
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
+Strum:  â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
 Action: C   X   C   C   X   C   C   C
 ```
 
@@ -761,7 +761,7 @@ Action: C   X   C   C   X   C   C   C
 **The pattern:**
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   X   ↓   ↑   ↓   X   ↓   ↑
+Strum:  â†“   X   â†“   â†‘   â†“   X   â†“   â†‘
         D   X   D   U   D   X   D   U
 
 D = Downstroke (clean shape)
@@ -784,7 +784,7 @@ X = Ghost note (chunk)
 
 ---
 
-## 🎸 TECHNIQUE #2: PALM MUTING (RIGHT-HAND DAMPING)
+## ðŸŽ¸ TECHNIQUE #2: PALM MUTING (RIGHT-HAND DAMPING)
 
 ### What Is Palm Muting?
 
@@ -856,7 +856,7 @@ X = Ghost note (chunk)
 Click:  BEEP    BEEP    BEEP    BEEP    BEEP    BEEP    BEEP    BEEP
 Action: OPEN    MUTE    OPEN    MUTE    OPEN    MUTE    OPEN    MUTE
 Count:  1       2       3       4       1       2       3       4
-Strum:  ↓       ↓       ↓       ↓       ↓       ↓       ↓       ↓
+Strum:  â†“       â†“       â†“       â†“       â†“       â†“       â†“       â†“
 ```
 
 **Instructions:**
@@ -889,7 +889,7 @@ Strum:  ↓       ↓       ↓       ↓       ↓       ↓       ↓       �
 Click:  BEEP    BEEP    BEEP    BEEP
 Action: OPEN    MUTE    MUTE    MUTE
 Count:  1       2       3       4
-Strum:  ↓       ↓       ↓       ↓
+Strum:  â†“       â†“       â†“       â†“
 ```
 
 **Pattern:**
@@ -914,7 +914,7 @@ Strum:  ↓       ↓       ↓       ↓
 
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
+Strum:  â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
 Action: O   O   M   M   M   M   O   O
 
 O = Open (palm off)
@@ -1193,7 +1193,7 @@ If you have both acoustic and electric:
 **Verse pattern:**
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
+Strum:  â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
 Action: M   M   M   M   M   M   M   M
 
 M = Muted (palm on entire verse)
@@ -1202,7 +1202,7 @@ M = Muted (palm on entire verse)
 **Chorus pattern:**
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
+Strum:  â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
 Action: O   O   O   O   O   O   O   O
 
 O = Open (palm off entire chorus)
@@ -1231,7 +1231,7 @@ O = Open (palm off entire chorus)
 Power Chord: E5 (0-2-2 on E-A-D strings)
 
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   ↓   ↓   ↓   ↓   ↓   ↓   ↓
+Strum:  â†“   â†“   â†“   â†“   â†“   â†“   â†“   â†“
 Action: M   M   M   M   M   M   M   M
 
 M = Palm muted (all eighth notes muted)
@@ -1278,7 +1278,7 @@ E5 (8 muted hits) → A5 (8 muted hits) → D5 (8 muted hits)
 Power Chord: E5
 
 Count:  1   e  &  a  2   e  &  a  3   e  &  a  4   e  &  a
-Strum:  ↓   ↓  ↑  ↓  ↓   ↓  ↑  ↓  ↓   ↓  ↑  ↓  ↓   ↓  ↑  ↓
+Strum:  â†“   â†“  â†‘  â†“  â†“   â†“  â†‘  â†“  â†“   â†“  â†‘  â†“  â†“   â†“  â†‘  â†“
 Action: M   M  M  M  M   M  M  M  M   M  M  M  O   O  O  O
 
 M = Palm muted
@@ -1294,7 +1294,7 @@ O = Open (accent on beat 4)
 **Simplified Beginner Version:**
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
+Strum:  â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
 Action: M   M   M   M   M   M   O   O
 
 Mute for 6 eighth notes, open for last 2
@@ -1330,7 +1330,7 @@ Mute for 6 eighth notes, open for last 2
 Chord: Am (standard open position)
 
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   X   ↑   X   ↓   ↑   X   ↑
+Strum:  â†“   X   â†‘   X   â†“   â†‘   X   â†‘
 Action: M   G   M   G   M   O   G   O
 
 M = Palm muted
@@ -1348,7 +1348,7 @@ X = Strum with ghost note
 **Simplified Beginner Version (Muting Only):**
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
+Strum:  â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
 Action: M   M   O   O   M   M   O   O
 
 Alternate muted and open pairs
@@ -1397,7 +1397,7 @@ Alternate muted and open pairs
 
 ---
 
-## 🎸 COMBINING BOTH TECHNIQUES
+## ðŸŽ¸ COMBINING BOTH TECHNIQUES
 
 ### Advanced Integration: Ghost Notes + Palm Muting
 
@@ -1406,7 +1406,7 @@ Alternate muted and open pairs
 **Example Pattern:**
 ```
 Count:  1   &   2   &   3   &   4   &
-Strum:  ↓   X   ↓   ↑   ↓   X   ↓   ↑
+Strum:  â†“   X   â†“   â†‘   â†“   X   â†“   â†‘
 Action: M   G   O   O   M   G   O   O
 
 M = Palm mute (right hand)
@@ -1427,7 +1427,7 @@ O = Open (clean)
 
 ---
 
-## 🎵 PRACTICE ROUTINES
+## ðŸŽµ PRACTICE ROUTINES
 
 ### Daily Practice Structure (30-45 minutes)
 
@@ -1608,15 +1608,15 @@ Sunday: Song integration only
 Tempo Ladder for Percussive Techniques:
 
 Level 1: 40 BPM (Foundation)
-↓ (Practice 2-3 days until consistent)
+â†“ (Practice 2-3 days until consistent)
 Level 2: 50 BPM (Control)
-↓ (Practice 2-3 days)
+â†“ (Practice 2-3 days)
 Level 3: 60 BPM (Coordination)
-↓ (Practice 2-3 days)
+â†“ (Practice 2-3 days)
 Level 4: 70 BPM (Fluency)
-↓ (Practice 2-3 days)
+â†“ (Practice 2-3 days)
 Level 5: 80 BPM (Song Tempo)
-↓ (Practice 3-5 days)
+â†“ (Practice 3-5 days)
 Level 6: 90-100 BPM (Performance)
 
 CRITICAL: Don't advance until current level is EASY!
@@ -1716,7 +1716,7 @@ This builds the "toggle switch" in your brain!
 
 ---
 
-## 🎵 PRACTICE ROUTINES
+## ðŸŽµ PRACTICE ROUTINES
 
 **Ghost Notes (Left-Hand Muting):**
 - [ ] Can create consistent chunk sound at 40 BPM
@@ -1744,7 +1744,7 @@ This builds the "toggle switch" in your brain!
 
 ---
 
-## 📊 PROGRESS CHECKPOINTS
+## ðŸ“Š PROGRESS CHECKPOINTS
 
 ### Day 3 Checkpoint
 
@@ -1831,7 +1831,7 @@ This builds the "toggle switch" in your brain!
 
 ---
 
-## 💡 MOTIVATION & REAL TALK
+## ðŸ’¡ MOTIVATION & REAL TALK
 
 ### You've Leveled Up Again!
 
@@ -1929,7 +1929,7 @@ Advanced techniques take time. Period.
 
 ---
 
-## 🎸 RECOMMENDED RESOURCES
+## ðŸŽ¸ RECOMMENDED RESOURCES
 
 ### YouTube Tutorials
 
@@ -1986,7 +1986,7 @@ Advanced techniques take time. Period.
 
 ---
 
-## 📝 PRACTICE LOG
+## ðŸ“ PRACTICE LOG
 
 ### Week 1: Learning the Techniques
 
@@ -2084,7 +2084,7 @@ Advanced techniques take time. Period.
 
 ---
 
-**Congratulations on completing Lesson 11!** 🎸
+**Congratulations on completing Lesson 11!** ðŸŽ¸
 
 **You're not just learning techniques - you're becoming a complete guitarist!**
 
@@ -2094,7 +2094,7 @@ Advanced techniques take time. Period.
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -2106,7 +2106,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

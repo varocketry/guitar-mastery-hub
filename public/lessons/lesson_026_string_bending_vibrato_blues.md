@@ -112,7 +112,7 @@ Not the technical execution. The gut-wrenching bends that sound like a human voi
 ### The Blue Note: The "Cry" Note
 
 **You learned pentatonic scale (5 notes).**  
-**Today you add the "blue note" (♭5).**
+**Today you add the "blue note" (â™­5).**
 
 **The blues scale = Minor pentatonic + one dissonant note**
 
@@ -258,13 +258,13 @@ From technical → emotional
 From correct → expressive  
 From pleasant → unforgettable
 
-**Your guitar is about to cry, wail, and sing.** 🎸
+**Your guitar is about to cry, wail, and sing.** ðŸŽ¸
 
 ---
 
-## 📋 LESSON OVERVIEW
+## ðŸ“‹ LESSON OVERVIEW
 
-⏱️ **TYPICAL COMPLETION TIME**: 7-10 days  
+â±ï¸ **TYPICAL COMPLETION TIME**: 7-10 days  
 📅 **PRACTICE SESSION LENGTH**: 45-60 minutes per session  
 📍 **PHASE**: Foundation (Lessons 25-30) - Blues Expression  
 🎯 **PREREQUISITES**: Lesson 25 (Pentatonic scale, alternate picking)
@@ -286,7 +286,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
+## ðŸŽµ SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
 
 ### String Bending Starting Tempo: 40 BPM
 
@@ -318,22 +318,22 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: The Blues Scale & Vocal Expression
+## ðŸ“– THEORY: The Blues Scale & Vocal Expression
 
 ### Adding the Blue Note
 
 **You learned:** E minor pentatonic (5 notes)
 ```
 E - G - A - B - D
-1   ♭3  4  5  ♭7
+1   â™­3  4  5  â™­7
 ```
 
-**Today you add:** The blue note (♭5)
+**Today you add:** The blue note (â™­5)
 ```
 E Minor Blues Scale:
-E - G - A - A♯/B♭ - B - D
-1   ♭3  4   ♭5     5  ♭7
-         ↑
+E - G - A - Aâ™¯/Bâ™­ - B - D
+1   â™­3  4   â™­5     5  â™­7
+         â†‘
     THE BLUE NOTE
 ```
 
@@ -386,7 +386,7 @@ E - G - A - A♯/B♭ - B - D
 
 ---
 
-## 🎸 SECTION 1: STRING BENDING FUNDAMENTALS
+## ðŸŽ¸ SECTION 1: STRING BENDING FUNDAMENTALS
 
 ### Proper Bending Technique
 
@@ -523,7 +523,7 @@ Repeat: 10 times per session
 
 ---
 
-## 🎸 SECTION 2: VIBRATO FUNDAMENTALS
+## ðŸŽ¸ SECTION 2: VIBRATO FUNDAMENTALS
 
 ### Exercise 4: Vibrato Development
 
@@ -590,7 +590,7 @@ This is the signature "crying" guitar sound
 
 ---
 
-## 🎸 SECTION 3: BLUES SCALE PATTERNS
+## ðŸŽ¸ SECTION 3: BLUES SCALE PATTERNS
 
 ### Playing the Blues Scale
 
@@ -601,7 +601,7 @@ Pattern adds one note to pentatonic:
 e string: 12-15 (E-G)
 B string: 12-15 (B-D)
 G string: 12-14 (G-A)
-D string: 12-13-14 (D-D♯-E) ← Blue note added!
+D string: 12-13-14 (D-Dâ™¯-E) ← Blue note added!
 A string: 12-14 (A-B)
 E string: 12-15 (E-G)
 
@@ -611,7 +611,7 @@ Practice: 10 minutes daily
 
 **Using the Blue Note:**
 - Play as passing tone (don't land on it)
-- Bend it up to the 5th (D♯ → E)
+- Bend it up to the 5th (Dâ™¯ → E)
 - Use as grace note (quick ornament)
 - Creates tension that resolves
 
@@ -643,7 +643,7 @@ Practice these until they feel natural (Week 3)
 
 ---
 
-## 🎵 MUSICAL APPLICATION
+## ðŸŽµ MUSICAL APPLICATION
 
 ### Blues Improvisation Framework
 
@@ -683,7 +683,7 @@ Focus on EMOTION over notes
 
 ---
 
-## 🔧 TROUBLESHOOTING
+## ðŸ”§ TROUBLESHOOTING
 
 ### Problem: Bends Are Out of Tune
 
@@ -740,7 +740,7 @@ Mark complete when you can demonstrate:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 **You've Learned to Make Guitar Sing**
 
@@ -770,11 +770,11 @@ Where guitar becomes voice.
 **Play with soul.**  
 **Make it cry.**
 
-**See you in Lesson 27 - where we build complete solos!** 🎸
+**See you in Lesson 27 - where we build complete solos!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -786,7 +786,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

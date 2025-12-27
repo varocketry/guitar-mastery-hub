@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 4-5 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 4-5 days  
 **📅 PRACTICE SESSION LENGTH**: 35-45 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
+**ðŸ“‚ PHASE**: Theory Module 2 (Lessons 39-46)  
 **🎯 PREREQUISITES**: Lesson 40 complete (minor key signatures)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: TWO PATHS BETWEEN MAJOR AND MINOR
+## ðŸŽµ WHY THIS MATTERS: TWO PATHS BETWEEN MAJOR AND MINOR
 
 ### The Question Every Musician Asks
 
@@ -61,7 +61,7 @@ This unlocks advanced harmonic thinking.
 
 ---
 
-## 📖 SECTION 1: RELATIVE MAJOR AND MINOR
+## ðŸ“– SECTION 1: RELATIVE MAJOR AND MINOR
 
 ### What Is a Relative Relationship?
 
@@ -89,13 +89,13 @@ This unlocks advanced harmonic thinking.
 C → B (1 half step)  
 B → Bb (2 half steps)  
 Bb → A (3 half steps)  
-**Relative minor: A minor** ✓
+**Relative minor: A minor** âœ“
 
 **From G major:**  
 G → F# (1)  
 F# → F (2)  
 F → E (3)  
-**Relative minor: E minor** ✓
+**Relative minor: E minor** âœ“
 
 ---
 
@@ -103,11 +103,11 @@ F → E (3)
 
 **C major scale:** C - D - E - F - G - **A** - B - C  
 6th degree = A  
-**Relative minor: A minor** ✓
+**Relative minor: A minor** âœ“
 
 **G major scale:** G - A - B - C - D - **E** - F# - G  
 6th degree = E  
-**Relative minor: E minor** ✓
+**Relative minor: E minor** âœ“
 
 **This method is faster and more reliable.**
 
@@ -121,13 +121,13 @@ F → E (3)
 A → Bb (1)  
 Bb → B (2)  
 B → C (3)  
-**Relative major: C major** ✓
+**Relative major: C major** âœ“
 
 **From E minor:**  
 E → F (1)  
 F → F# (2)  
 F# → G (3)  
-**Relative major: G major** ✓
+**Relative major: G major** âœ“
 
 ---
 
@@ -135,11 +135,11 @@ F# → G (3)
 
 **A natural minor scale:** A - B - **C** - D - E - F - G - A  
 3rd degree = C  
-**Relative major: C major** ✓
+**Relative major: C major** âœ“
 
 **E natural minor scale:** E - F# - **G** - A - B - C - D - E  
 3rd degree = G  
-**Relative major: G major** ✓
+**Relative major: G major** âœ“
 
 ---
 
@@ -187,7 +187,7 @@ F# → G (3)
 
 ---
 
-## 📖 SECTION 2: PARALLEL MAJOR AND MINOR
+## ðŸ“– SECTION 2: PARALLEL MAJOR AND MINOR
 
 ### What Is a Parallel Relationship?
 
@@ -285,7 +285,7 @@ Character: Dark, sad, emotional
 
 ---
 
-## 📖 SECTION 3: RELATIVE VS. PARALLEL - KEY DIFFERENCES
+## ðŸ“– SECTION 3: RELATIVE VS. PARALLEL - KEY DIFFERENCES
 
 ### Side-by-Side Comparison
 
@@ -345,7 +345,7 @@ Why? B minor is the 6th degree of D major, same key signature (2 sharps)
 
 ---
 
-## 📖 SECTION 4: MUSICAL APPLICATIONS
+## ðŸ“– SECTION 4: MUSICAL APPLICATIONS
 
 ### Application 1: Song Modulation Examples
 
@@ -421,7 +421,7 @@ Why? B minor is the 6th degree of D major, same key signature (2 sharps)
 
 ---
 
-## 📖 SECTION 5: GUITAR APPLICATIONS
+## ðŸ“– SECTION 5: GUITAR APPLICATIONS
 
 ### Playing Relative Keys on Guitar
 
@@ -557,7 +557,7 @@ E|---3---5-----------------------|
 
 ---
 
-## 📖 SECTION 6: PRACTICAL EXERCISES
+## ðŸ“– SECTION 6: PRACTICAL EXERCISES
 
 ### Exercise 1: Find Relative Keys (10 minutes)
 
@@ -565,15 +565,15 @@ E|---3---5-----------------------|
 
 1. **D major**
    - 6th scale degree: D-E-F#-G-A-**B**-C#-D
-   - **Answer: B minor** ✓
+   - **Answer: B minor** âœ“
 
 2. **Eb major**
    - 6th scale degree: Eb-F-G-Ab-Bb-**C**-D-Eb
-   - **Answer: C minor** ✓
+   - **Answer: C minor** âœ“
 
 3. **A major**
    - 6th scale degree: A-B-C#-D-E-**F#**-G#-A
-   - **Answer: F# minor** ✓
+   - **Answer: F# minor** âœ“
 
 ---
 
@@ -581,15 +581,15 @@ E|---3---5-----------------------|
 
 4. **B minor**
    - 3rd scale degree: B-C#-**D**-E-F#-G-A-B
-   - **Answer: D major** ✓
+   - **Answer: D major** âœ“
 
 5. **G minor**
    - 3rd scale degree: G-A-**Bb**-C-D-Eb-F-G
-   - **Answer: Bb major** ✓
+   - **Answer: Bb major** âœ“
 
 6. **F# minor**
    - 3rd scale degree: F#-G#-**A**-B-C#-D-E-F#
-   - **Answer: A major** ✓
+   - **Answer: A major** âœ“
 
 ---
 
@@ -633,27 +633,27 @@ E|---3---5-----------------------|
 
 1. **C major / A minor**
    - Same key signature? Yes (0 sharps/flats)
-   - **Answer: Relative** ✓
+   - **Answer: Relative** âœ“
 
 2. **G major / G minor**
    - Same tonic? Yes (G)
-   - **Answer: Parallel** ✓
+   - **Answer: Parallel** âœ“
 
 3. **E major / C# minor**
    - Same key signature? Yes (4 sharps)
-   - **Answer: Relative** ✓
+   - **Answer: Relative** âœ“
 
 4. **D major / D minor**
    - Same tonic? Yes (D)
-   - **Answer: Parallel** ✓
+   - **Answer: Parallel** âœ“
 
 5. **Bb major / G minor**
    - Same key signature? Yes (2 flats)
-   - **Answer: Relative** ✓
+   - **Answer: Relative** âœ“
 
 6. **F major / F minor**
    - Same tonic? Yes (F)
-   - **Answer: Parallel** ✓
+   - **Answer: Parallel** âœ“
 
 ---
 
@@ -727,7 +727,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 ### You Now Understand Both Major/Minor Relationships
 
@@ -756,11 +756,11 @@ Use relative for smoothness. Use parallel for drama.
 
 **Master both, and your music becomes richer.**
 
-**See you in Lesson 42 - where we build chords from minor scales!** 🎸
+**See you in Lesson 42 - where we build chords from minor scales!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -772,7 +772,7 @@ The practice tracker helps you:
 - Note songwriting breakthroughs
 - Review your minor key journey
 
-**You're mastering advanced harmonic concepts!** 🎸
+**You're mastering advanced harmonic concepts!** ðŸŽ¸
 
 ---
 

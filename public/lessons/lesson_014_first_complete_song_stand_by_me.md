@@ -31,14 +31,14 @@ When you can play a complete song all the way through, something fundamental shi
 - **Eric Clapton** recalls completing "House of the Rising Sun" as his turning point
 
 **What makes a song "complete"?**
-- âœ… Intro section (sets the mood)
-- âœ… Verse structure (tells the story)
-- âœ… Chorus (the memorable hook)
-- âœ… Bridge or instrumental section (provides contrast)
-- âœ… Outro (professional ending, not just stopping)
-- âœ… Smooth transitions between all sections
-- âœ… Consistent tempo and rhythm throughout
-- âœ… Dynamic variation (louder/softer sections)
+- ✅ Intro section (sets the mood)
+- ✅ Verse structure (tells the story)
+- ✅ Chorus (the memorable hook)
+- ✅ Bridge or instrumental section (provides contrast)
+- ✅ Outro (professional ending, not just stopping)
+- ✅ Smooth transitions between all sections
+- ✅ Consistent tempo and rhythm throughout
+- ✅ Dynamic variation (louder/softer sections)
 
 **Why "Stand By Me" is perfect:**
 
@@ -73,24 +73,24 @@ The song that answers "Can you play guitar?" with a definitive **yes**.
 **You've completed the free trial content!** This is a major milestone in your guitar journey.
 
 **What you've accomplished so far:**
-- âœ… Mastered basic open chord shapes (Lessons 1-3)
-- âœ… Built chord transition fluency (Lessons 4-7)
-- âœ… Developed multiple strumming patterns (Lessons 8-9)
-- âœ… Learned fingerstyle fundamentals (Lessons 10-12)
-- âœ… Mastered walking bass line techniques (Lesson 13)
+- ✅ Mastered basic open chord shapes (Lessons 1-3)
+- ✅ Built chord transition fluency (Lessons 4-7)
+- ✅ Developed multiple strumming patterns (Lessons 8-9)
+- ✅ Learned fingerstyle fundamentals (Lessons 10-12)
+- ✅ Mastered walking bass line techniques (Lesson 13)
 
 **Today, everything comes together.**
 
 You're going to learn a **complete song arrangement** from intro to outro. Not just shape progressions or technique exercises—a real, full song that you can perform for friends, family, or just for yourself.
 
 **By the end of today's lesson, you will:**
-- âœ… Know the complete shape progression for "Stand By Me"
-- âœ… Play multiple walking bass transitions between chords
-- âœ… Perform the song with three different techniques (strumming, fingerstyle, walking bass)
-- âœ… Build from 40 BPM practice tempo to 118 BPM performance tempo
-- âœ… Understand song arrangement and structure
-- âœ… Polish your performance with dynamics and feel
-- âœ… Record yourself playing a complete song
+- ✅ Know the complete shape progression for "Stand By Me"
+- ✅ Play multiple walking bass transitions between chords
+- ✅ Perform the song with three different techniques (strumming, fingerstyle, walking bass)
+- ✅ Build from 40 BPM practice tempo to 118 BPM performance tempo
+- ✅ Understand song arrangement and structure
+- ✅ Polish your performance with dynamics and feel
+- ✅ Record yourself playing a complete song
 
 **This is your moment to shine!**
 

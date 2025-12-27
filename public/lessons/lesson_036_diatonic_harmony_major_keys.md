@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 4-6 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 4-6 days  
 **📅 PRACTICE SESSION LENGTH**: 35-50 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
+**ðŸ“‚ PHASE**: Theory Module 1 (Lessons 31-38)  
 **🎯 PREREQUISITES**: Lessons 33-35 complete (major scales, key signatures, Circle of Fifths)
 
 ---
@@ -13,7 +13,7 @@
 
 By the end of this lesson, you will be able to:
 - Understand diatonic harmony (chords built from a major scale)
-- Use Roman numeral analysis (I, ii, iii, IV, V, vi, vii°)
+- Use Roman numeral analysis (I, ii, iii, IV, V, vi, viiÂ°)
 - Identify chord families (Tonic, Subdominant, Dominant)
 - Understand harmonic function and tension/resolution
 - Analyze common chord progressions (I-IV-V, I-V-vi-IV, etc.)
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: THE SECRET CODE OF SONGWRITING
+## ðŸŽµ WHY THIS MATTERS: THE SECRET CODE OF SONGWRITING
 
 ### The Question Every Songwriter Asks
 
@@ -65,7 +65,7 @@ This is the moment you become a songwriter, not just a player.
 
 ---
 
-## 📖 SECTION 1: BUILDING DIATONIC CHORDS
+## ðŸ“– SECTION 1: BUILDING DIATONIC CHORDS
 
 ### What Are Diatonic Chords?
 
@@ -190,19 +190,19 @@ A to C = 3 half steps (minor 3rd)
 
 ---
 
-**Chord vii° (built on B - Leading Tone):**
+**Chord viiÂ° (built on B - Leading Tone):**
 ```
 C  D  E  F  G  A  B  C
                   1     3     5
 
-Chord: B - D - F = B DIMINISHED (vii°)
+Chord: B - D - F = B DIMINISHED (viiÂ°)
 ```
 
 **Why diminished?**
 - B to D = 3 half steps (minor 3rd)
 - D to F = 3 half steps (minor 3rd)
 - Both thirds are minor = diminished chord
-- Symbol: ° or dim
+- Symbol: Â° or dim
 
 ---
 
@@ -217,7 +217,7 @@ iii   = minor
 IV    = MAJOR
 V     = MAJOR
 vi    = minor
-vii°  = diminished
+viiÂ°  = diminished
 ```
 
 **This NEVER changes.**
@@ -238,8 +238,8 @@ vii°  = diminished
 **Lowercase = Minor chord**
 - ii, iii, vi
 
-**Lowercase with ° = Diminished chord**
-- vii°
+**Lowercase with Â° = Diminished chord**
+- viiÂ°
 
 **This system works in ALL keys.**
 
@@ -252,7 +252,7 @@ A song using "I-V-vi-IV" means:
 
 ---
 
-## 📖 SECTION 2: DIATONIC CHORDS IN ALL KEYS
+## ðŸ“– SECTION 2: DIATONIC CHORDS IN ALL KEYS
 
 ### C Major Diatonic Chords
 
@@ -265,7 +265,7 @@ iii = E minor
 IV  = F major
 V   = G major
 vi  = A minor
-vii°= B diminished
+viiÂ°= B diminished
 ```
 
 **Most common progressions:**
@@ -286,7 +286,7 @@ iii = B minor
 IV  = C major
 V   = D major
 vi  = E minor
-vii°= F# diminished
+viiÂ°= F# diminished
 ```
 
 **Most common progressions:**
@@ -307,7 +307,7 @@ iii = F# minor
 IV  = G major
 V   = A major
 vi  = B minor
-vii°= C# diminished
+viiÂ°= C# diminished
 ```
 
 **Most common progressions:**
@@ -332,11 +332,11 @@ vii°= C# diminished
 **Db Major:** Db-Ebm-Fm-Gb-Ab-Bbm-Cdim  
 **Gb Major:** Gb-Abm-Bbm-Cb-Db-Ebm-Fdim
 
-**Pattern is always the same: I-ii-iii-IV-V-vi-vii°**
+**Pattern is always the same: I-ii-iii-IV-V-vi-viiÂ°**
 
 ---
 
-## 📖 SECTION 3: CHORD FAMILIES AND HARMONIC FUNCTION
+## ðŸ“– SECTION 3: CHORD FAMILIES AND HARMONIC FUNCTION
 
 ### The Three Chord Families
 
@@ -365,7 +365,7 @@ vii°= C# diminished
 
 **DOMINANT FAMILY (Tension/Need to Resolve)**
 - **V** (major) - Primary dominant, strongest tension
-- **vii°** (diminished) - Leading tone, pulls strongly to I
+- **viiÂ°** (diminished) - Leading tone, pulls strongly to I
 
 **Function:** Creates tension that must resolve to tonic  
 **Feel:** Unstable, unfinished, needs resolution
@@ -408,11 +408,11 @@ Result: Sounds static, no movement, no resolution
 
 ```
 TONIC (I, iii, vi)
-    ↓
+    â†“
 SUBDOMINANT (IV, ii)
-    ↓
-DOMINANT (V, vii°)
-    ↓
+    â†“
+DOMINANT (V, viiÂ°)
+    â†“
 TONIC (I)
 ```
 
@@ -426,7 +426,7 @@ TONIC (I)
 
 ---
 
-## 📖 SECTION 4: COMMON CHORD PROGRESSIONS EXPLAINED
+## ðŸ“– SECTION 4: COMMON CHORD PROGRESSIONS EXPLAINED
 
 ### I-IV-V-I: The Universal Progression
 
@@ -590,7 +590,7 @@ G (V)     = Dominant, sets up repeat
 
 ---
 
-## 📖 SECTION 5: CHORD SUBSTITUTION WITHIN A KEY
+## ðŸ“– SECTION 5: CHORD SUBSTITUTION WITHIN A KEY
 
 ### What Is Chord Substitution?
 
@@ -608,16 +608,16 @@ G (V)     = Dominant, sets up repeat
 **Rule 1: Substitute within the same family**
 
 **Tonic Family Substitutions:**
-- I ↔ iii (C major ↔ E minor in C major)
-- I ↔ vi (C major ↔ A minor)
-- iii ↔ vi (E minor ↔ A minor)
+- I â†” iii (C major â†” E minor in C major)
+- I â†” vi (C major â†” A minor)
+- iii â†” vi (E minor â†” A minor)
 
 **Subdominant Family Substitutions:**
-- IV ↔ ii (F major ↔ D minor in C major)
+- IV â†” ii (F major â†” D minor in C major)
 
 **Dominant Family Substitutions:**
-- V ↔ vii° (G major ↔ B diminished in C major)
-- *Note: vii° is less common, sounds more tense*
+- V â†” viiÂ° (G major â†” B diminished in C major)
+- *Note: viiÂ° is less common, sounds more tense*
 
 ---
 
@@ -657,8 +657,8 @@ G (V)     = Dominant, sets up repeat
 
 **In C Major, borrow from C Minor:**
 - Borrow iv (F minor) instead of IV (F major)
-- Borrow ♭VII (Bb major)
-- Borrow ♭III (Eb major)
+- Borrow â™­VII (Bb major)
+- Borrow â™­III (Eb major)
 
 **Example:**
 ```
@@ -674,7 +674,7 @@ The Fm (borrowed from C minor) adds darker color
 
 ---
 
-## 📖 SECTION 6: PRACTICAL EXERCISES
+## ðŸ“– SECTION 6: PRACTICAL EXERCISES
 
 ### Exercise 1: Build Diatonic Chords (15 minutes)
 
@@ -688,7 +688,7 @@ The Fm (borrowed from C minor) adds darker color
 - IV = C major (C-E-G)
 - V = D major (D-F#-A)
 - vi = E minor (E-G-B)
-- vii° = F# diminished (F#-A-C)
+- viiÂ° = F# diminished (F#-A-C)
 
 **2. F Major:**
 - Scale: F-G-A-Bb-C-D-E
@@ -698,7 +698,7 @@ The Fm (borrowed from C minor) adds darker color
 - IV = Bb major (Bb-D-F)
 - V = C major (C-E-G)
 - vi = D minor (D-F-A)
-- vii° = E diminished (E-G-Bb)
+- viiÂ° = E diminished (E-G-Bb)
 
 ---
 
@@ -708,19 +708,19 @@ The Fm (borrowed from C minor) adds darker color
 
 **1. "Let It Be" - The Beatles (C Major)**
 - Chords: C - G - Am - F
-- Roman Numerals: I - V - vi - IV ✓
+- Roman Numerals: I - V - vi - IV âœ“
 
 **2. "Stand By Me" (A Major)**
 - Chords: A - F#m - D - E
-- Roman Numerals: I - vi - IV - V ✓
+- Roman Numerals: I - vi - IV - V âœ“
 
 **3. "Twist and Shout" (D Major)**
 - Chords: D - G - A
-- Roman Numerals: I - IV - V ✓
+- Roman Numerals: I - IV - V âœ“
 
 **4. "Sweet Home Alabama" (D Major)**
 - Chords: D - C - G
-- Roman Numerals: I - ♭VII - IV
+- Roman Numerals: I - â™­VII - IV
 - *Note: C is borrowed from D minor (modal interchange)*
 
 ---
@@ -774,7 +774,7 @@ Mark this lesson complete when you can:
 
 **Diatonic Harmony:**
 - [ ] Build all seven diatonic chords in any major key
-- [ ] Recite the pattern: I-ii-iii-IV-V-vi-vii°
+- [ ] Recite the pattern: I-ii-iii-IV-V-vi-viiÂ°
 - [ ] Understand why some chords are major, some minor, one diminished
 - [ ] Know the diatonic chords in C, G, D, and F major by memory
 
@@ -800,12 +800,12 @@ Mark this lesson complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 ### You Now Understand the DNA of Songs
 
 **What you've learned:**
-- Every major key has seven diatonic chords (I-ii-iii-IV-V-vi-vii°)
+- Every major key has seven diatonic chords (I-ii-iii-IV-V-vi-viiÂ°)
 - Chords organize into three functional families
 - Harmonic function creates tension and resolution
 - Common progressions follow predictable patterns
@@ -828,11 +828,11 @@ Mark this lesson complete when you can:
 
 Master it, and you can write songs in any style.
 
-**See you in Lesson 37 - where we smooth out these progressions with voice leading!** 🎸
+**See you in Lesson 37 - where we smooth out these progressions with voice leading!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -844,7 +844,7 @@ The practice tracker helps you:
 - Note harmonic function breakthroughs
 - Review your composition journey
 
-**You're becoming a songwriter!** 🎸
+**You're becoming a songwriter!** ðŸŽ¸
 
 ---
 

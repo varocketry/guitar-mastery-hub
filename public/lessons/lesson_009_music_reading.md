@@ -40,12 +40,12 @@
 
 **After today, you'll be able to:**
 
-âœ… **Go to Ultimate-Guitar.com** and read any song  
-âœ… **Look at tablature** and know exactly what to play  
-âœ… **See a chord chart** and understand the structure  
-âœ… **Read rhythm notation** and play timing correctly  
-âœ… **Write down your own ideas** so you don't forget them  
-âœ… **Communicate with other musicians** through notation
+✅ **Go to Ultimate-Guitar.com** and read any song  
+✅ **Look at tablature** and know exactly what to play  
+✅ **See a chord chart** and understand the structure  
+✅ **Read rhythm notation** and play timing correctly  
+✅ **Write down your own ideas** so you don't forget them  
+✅ **Communicate with other musicians** through notation
 
 **This isn't about becoming a music theory expert.**
 
@@ -238,11 +238,11 @@ Verse:
 
 **By the end of this lesson:**
 
-âœ… You'll understand TAB, chord charts, and lead sheets  
-âœ… You'll read simple songs slowly but accurately  
-âœ… You'll know WHERE to find guitar music online  
-âœ… You'll document your own ideas in writing  
-âœ… You'll be independent in your learning
+✅ You'll understand TAB, chord charts, and lead sheets  
+✅ You'll read simple songs slowly but accurately  
+✅ You'll know WHERE to find guitar music online  
+✅ You'll document your own ideas in writing  
+✅ You'll be independent in your learning
 
 **You'll cross from "can play what I'm shown" to "can learn anything independently."**
 
@@ -1630,7 +1630,7 @@ Em-shape
 
 ---
 
-## âœ… SUCCESS CRITERIA
+## ✅ SUCCESS CRITERIA
 
 ### Ready to Mark This Lesson Complete?
 
@@ -1709,11 +1709,11 @@ Em-shape
 **You're at Week 1 - be patient with yourself!**
 
 Meeting the success criteria means you:
-- âœ… Understand the notation systems
-- âœ… Can read simple examples slowly
-- âœ… Know where to find resources
-- âœ… Can learn songs independently (at slow tempo)
-- âœ… Practiced with proper tempo discipline
+- ✅ Understand the notation systems
+- ✅ Can read simple examples slowly
+- ✅ Know where to find resources
+- ✅ Can learn songs independently (at slow tempo)
+- ✅ Practiced with proper tempo discipline
 
 **Mastery takes months of daily reading practice, not 6 days!**
 
@@ -1857,7 +1857,7 @@ Try plucking individual strings with fingers instead of strumming:
 
 ---
 
-**Lesson 9 Complete!** âœ…  
+**Lesson 9 Complete!** ✅  
 **Next:** Lesson 10 - Fingerstyle Basics (Playing with fingers instead of pick!)
 
 **Word Count:** ~13,500 words

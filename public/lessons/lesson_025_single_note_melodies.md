@@ -124,9 +124,9 @@ Remember Lesson 4? Den Lopez's revolutionary insight: "Learn shapes, not isolate
 ### The Alternate Picking Revolution
 
 **What is alternate picking?**
-- Down stroke (↓)
-- Up stroke (↑)  
-- Alternate continuously: ↓↑↓↑↓↑
+- Down stroke (â†“)
+- Up stroke (â†‘)  
+- Alternate continuously: â†“â†‘â†“â†‘â†“â†‘
 
 **Why it matters:**
 - **Speed:** Can play twice as fast as all down-strokes
@@ -275,13 +275,13 @@ From chords to notes.
 From accompaniment to voice.  
 From rhythm to lead.
 
-**Your guitar is about to sing.** 🎸
+**Your guitar is about to sing.** ðŸŽ¸
 
 ---
 
-## 📋 LESSON OVERVIEW
+## ðŸ“‹ LESSON OVERVIEW
 
-⏱️ **TYPICAL COMPLETION TIME**: 5-7 days  
+â±ï¸ **TYPICAL COMPLETION TIME**: 5-7 days  
 📅 **PRACTICE SESSION LENGTH**: 30-45 minutes per session  
 📍 **PHASE**: Foundation (Lessons 25-30) - Lead Guitar Introduction  
 🎯 **PREREQUISITES**: Lessons 1-24 (rhythm mastery complete)
@@ -301,7 +301,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
+## ðŸŽµ SLOW IS SMOOTH, SMOOTH IS FAST: Today's Tempo Guidance
 
 ### Lead Guitar Starting Tempo: 40 BPM
 
@@ -329,7 +329,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 📖 THEORY: Understanding Single-Note Technique
+## ðŸ“– THEORY: Understanding Single-Note Technique
 
 ### The Pentatonic Scale Explained
 
@@ -356,14 +356,14 @@ They're the most consonant, harmonious notes in the minor key. They all "work" t
 
 ```
 Fret:    12  13  14  15
-e string: ●   -   ●   -   ● (E-G-E octave)
-B string: ●   -   ●   -   ● (B-D-B octave)
-G string: ●   ●   -   -   - (G-A)
-D string: ●   ●   -   -   - (D-E)
-A string: ●   ●   -   -   - (A-B)
-E string: ●   -   ●   -   ● (E-G-E octave)
+e string: â—   -   â—   -   â— (E-G-E octave)
+B string: â—   -   â—   -   â— (B-D-B octave)
+G string: â—   â—   -   -   - (G-A)
+D string: â—   â—   -   -   - (D-E)
+A string: â—   â—   -   -   - (A-B)
+E string: â—   -   â—   -   â— (E-G-E octave)
 
-● = Notes in scale
+â— = Notes in scale
 Pattern: 2 notes per string
 Shape fits naturally under hand
 ```
@@ -381,9 +381,9 @@ Shape fits naturally under hand
 
 **The Technique:**
 ```
-Down stroke: ↓ (pick moves toward floor)
-Up stroke: ↑ (pick moves toward ceiling)
-Pattern: ↓ ↑ ↓ ↑ ↓ ↑ (continuous alternation)
+Down stroke: â†“ (pick moves toward floor)
+Up stroke: â†‘ (pick moves toward ceiling)
+Pattern: â†“ â†‘ â†“ â†‘ â†“ â†‘ (continuous alternation)
 ```
 
 **Why Alternate?**
@@ -393,18 +393,18 @@ Pattern: ↓ ↑ ↓ ↑ ↓ ↑ (continuous alternation)
 - **Standard:** All professionals use this
 
 **Common Beginner Mistake:**
-Playing all down-strokes: ↓ ↓ ↓ ↓
+Playing all down-strokes: â†“ â†“ â†“ â†“
 - Works at slow tempo
 - Hits speed ceiling around 80 BPM
 - Creates tension in hand
 - Not scalable to fast playing
 
 **Correct From Day One:**
-↓ ↑ ↓ ↑ even if it feels awkward initially
+â†“ â†‘ â†“ â†‘ even if it feels awkward initially
 
 ---
 
-## 🎸 WARM-UP EXERCISES
+## ðŸŽ¸ WARM-UP EXERCISES
 
 ### Exercise 1: The Chromatic Builder
 
@@ -423,7 +423,7 @@ e string: 0-1-2-3
 
 Then reverse: e to E strings
 
-Picking: ↓ ↑ ↓ ↑ throughout (alternate every note)
+Picking: â†“ â†‘ â†“ â†‘ throughout (alternate every note)
 ```
 
 **Instructions:**
@@ -451,7 +451,7 @@ Picking: ↓ ↑ ↓ ↑ throughout (alternate every note)
 **The Exercise:**
 ```
 E string, 12th fret only
-Play continuously: ↓ ↑ ↓ ↑ ↓ ↑ ↓ ↑
+Play continuously: â†“ â†‘ â†“ â†‘ â†“ â†‘ â†“ â†‘
 One note per metronome click
 Duration: 1 minute straight
 
@@ -469,7 +469,7 @@ D string, 12th fret: 1 minute
 
 ---
 
-## 🎸 THE PENTATONIC SCALE - STEP BY STEP
+## ðŸŽ¸ THE PENTATONIC SCALE - STEP BY STEP
 
 ### Learning the Pattern: String by String
 
@@ -483,7 +483,7 @@ D string, 12th fret: 1 minute
 E string (6th string):
 Fret: 12  -  15  -  (12 octave higher)
 Note:  E  -   G  -   E
-Pick: ↓  ↑  ↓  ↑  ↓
+Pick: â†“  â†‘  â†“  â†‘  â†“
 
 Tempo: 40 BPM
 Practice: 10 minutes
@@ -507,7 +507,7 @@ A string: 12-14 (A-B)
 
 Combined exercise:
 E:12  E:15  A:12  A:14  A:12  E:15  E:12
-↓    ↑    ↓    ↑    ↓    ↑    ↓
+â†“    â†‘    â†“    â†‘    â†“    â†‘    â†“
 
 Tempo: 40 BPM
 Practice: 10 minutes
@@ -556,7 +556,7 @@ Duration: 20 minutes
 **Ascending Pattern:**
 ```
 E:12 E:15 A:12 A:14 D:12 D:14 G:12 G:14 B:12 B:15 e:12 e:15
-↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
+â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
 
 Tempo progression:
 Day 8-9: 50 BPM
@@ -567,7 +567,7 @@ Day 12-14: 60 BPM
 **Descending Pattern:**
 ```
 e:15 e:12 B:15 B:12 G:14 G:12 D:14 D:12 A:14 A:12 E:15 E:12
-↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑   ↓   ↑
+â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“   â†‘
 
 Same tempo progression
 ```
@@ -579,7 +579,7 @@ Ascending → Descending → Ascending (continuous loop)
 
 ---
 
-## 🎵 MUSICAL APPLICATION
+## ðŸŽµ MUSICAL APPLICATION
 
 ### Song 1: "Mary Had a Little Lamb" (In E Minor Pentatonic)
 
@@ -593,11 +593,11 @@ Ascending → Descending → Ascending (continuous loop)
 ```
 "Mary had a little lamb"
 B:15 G:14 G:12 G:14 B:15 B:15 B:15
-↓   ↑   ↓   ↑   ↓   ↑   ↓
+â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“
 
 "Little lamb, little lamb"
 G:14 G:14 G:14 B:15 B:15 B:15
-↓   ↑   ↓   ↑   ↓   ↑
+â†“   â†‘   â†“   â†‘   â†“   â†‘
 
 (Pattern continues)
 ```
@@ -616,7 +616,7 @@ G:14 G:14 G:14 B:15 B:15 B:15
 **Classic Rock/Blues Line:**
 ```
 E:12 E:15 A:12 A:14 A:12 E:15 E:12 (descend)
-↓   ↑   ↓   ↑   ↓   ↑   ↓
+â†“   â†‘   â†“   â†‘   â†“   â†‘   â†“
 
 Tempo: 50 BPM
 Feel: Bluesy, bent notes feeling
@@ -674,7 +674,7 @@ OUTRO: Pentatonic pattern descending - 4 bars
 
 ---
 
-## 🔧 TROUBLESHOOTING GUIDE
+## ðŸ”§ TROUBLESHOOTING GUIDE
 
 ### Problem 1: Alternate Picking Feels Awkward
 
@@ -773,7 +773,7 @@ Mark this lesson complete when you can demonstrate:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 **You've Just Opened a New Door**
 
@@ -791,11 +791,11 @@ This lesson is where guitar becomes TRULY expressive.
 **Progress with purpose.**  
 **Play with passion.**
 
-**See you in Lesson 26 - where we add bending, vibrato, and blues feeling!** 🎸
+**See you in Lesson 26 - where we add bending, vibrato, and blues feeling!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -807,7 +807,7 @@ The practice tracker helps you:
 - Note breakthroughs and challenges
 - Review your guitar journey
 
-**Your progress is worth tracking!** 🎸
+**Your progress is worth tracking!** ðŸŽ¸
 
 ---
 

@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 4-5 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 4-5 days  
 **📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
+**ðŸ“‚ PHASE**: Theory Module 1 (Lessons 31-38)  
 **🎯 PREREQUISITES**: Lessons 31-32 complete (music theory fundamentals, chord construction)
 
 ---
@@ -21,7 +21,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: THE PATTERN THAT EXPLAINS EVERYTHING
+## ðŸŽµ WHY THIS MATTERS: THE PATTERN THAT EXPLAINS EVERYTHING
 
 ### The Question Every Guitarist Asks
 
@@ -64,7 +64,7 @@ This is the moment everything clicks.
 
 ---
 
-## 📖 SECTION 1: THE MAJOR SCALE FORMULA
+## ðŸ“– SECTION 1: THE MAJOR SCALE FORMULA
 
 ### Review: What Makes a Major Scale?
 
@@ -124,15 +124,15 @@ Because C major uses only the white keys on a piano—no sharps, no flats. It's 
 ```
 Start: C
 
-C → D = 2 frets (whole step) ✓
-D → E = 2 frets (whole step) ✓
-E → F = 1 fret (half step) ✓
-F → G = 2 frets (whole step) ✓
-G → A = 2 frets (whole step) ✓
-A → B = 2 frets (whole step) ✓
-B → C = 1 fret (half step) ✓
+C → D = 2 frets (whole step) âœ“
+D → E = 2 frets (whole step) âœ“
+E → F = 1 fret (half step) âœ“
+F → G = 2 frets (whole step) âœ“
+G → A = 2 frets (whole step) âœ“
+A → B = 2 frets (whole step) âœ“
+B → C = 1 fret (half step) âœ“
 
-Formula: W - W - H - W - W - W - H ✓
+Formula: W - W - H - W - W - W - H âœ“
 ```
 
 **Result: C - D - E - F - G - A - B - C**
@@ -152,17 +152,17 @@ This is why C major is the reference key—it shows the pattern without any modi
 ```
 Start: G
 
-G → A = 2 frets (whole step) ✓
-A → B = 2 frets (whole step) ✓
-B → C = 1 fret (half step) ✓
-C → D = 2 frets (whole step) ✓
-D → E = 2 frets (whole step) ✓
+G → A = 2 frets (whole step) âœ“
+A → B = 2 frets (whole step) âœ“
+B → C = 1 fret (half step) âœ“
+C → D = 2 frets (whole step) âœ“
+D → E = 2 frets (whole step) âœ“
 E → ? = Need 2 frets (whole step)...
 
 E → F = only 1 fret (NOT ENOUGH!)
-E → F# = 2 frets (CORRECT!) ✓
+E → F# = 2 frets (CORRECT!) âœ“
 
-F# → G = 1 fret (half step) ✓
+F# → G = 1 fret (half step) âœ“
 ```
 
 **Result: G - A - B - C - D - E - F# - G**
@@ -186,17 +186,17 @@ Because the formula demands a whole step from E to the 6th note. E to F is only 
 ```
 Start: F
 
-F → G = 2 frets (whole step) ✓
-G → A = 2 frets (whole step) ✓
+F → G = 2 frets (whole step) âœ“
+G → A = 2 frets (whole step) âœ“
 A → ? = Need 1 fret (half step)...
 
 A → B = 2 frets (TOO MUCH!)
-A → Bb = 1 fret (CORRECT!) ✓
+A → Bb = 1 fret (CORRECT!) âœ“
 
-Bb → C = 2 frets (whole step) ✓
-C → D = 2 frets (whole step) ✓
-D → E = 2 frets (whole step) ✓
-E → F = 1 fret (half step) ✓
+Bb → C = 2 frets (whole step) âœ“
+C → D = 2 frets (whole step) âœ“
+D → E = 2 frets (whole step) âœ“
+E → F = 1 fret (half step) âœ“
 ```
 
 **Result: F - G - A - Bb - C - D - E - F**
@@ -209,7 +209,7 @@ Because the formula requires a half step from A to the 4th note. A to B is a who
 
 ---
 
-## 📖 SECTION 2: BUILDING ALL 12 MAJOR SCALES
+## ðŸ“– SECTION 2: BUILDING ALL 12 MAJOR SCALES
 
 ### The Complete Major Scale Collection
 
@@ -439,7 +439,7 @@ A to B is 2 frets (whole step), but we need 1 fret (half step). A to Bb = 1 fret
 
 ---
 
-## 📖 SECTION 3: MAJOR SCALES ON THE GUITAR FRETBOARD
+## ðŸ“– SECTION 3: MAJOR SCALES ON THE GUITAR FRETBOARD
 
 ### Why Guitarists Need Fretboard Scale Patterns
 
@@ -520,13 +520,13 @@ E|-------------------------------|
 
 **Formula check:**
 ```
-C → D = 2 frets (W) ✓
-D → E = 2 frets (W) ✓
-E → F = 1 fret (H) ✓
-F → G = 2 frets (W) ✓
-G → A = 2 frets (W) ✓
-A → B = 2 frets (W) ✓
-B → C = 1 fret (H) ✓
+C → D = 2 frets (W) âœ“
+D → E = 2 frets (W) âœ“
+E → F = 1 fret (H) âœ“
+F → G = 2 frets (W) âœ“
+G → A = 2 frets (W) âœ“
+A → B = 2 frets (W) âœ“
+B → C = 1 fret (H) âœ“
 ```
 
 **Formula satisfied!**
@@ -575,7 +575,7 @@ E|---3----------------------------|
 
 ---
 
-## 📖 SECTION 4: SCALE DEGREES AND HARMONIC FUNCTION
+## ðŸ“– SECTION 4: SCALE DEGREES AND HARMONIC FUNCTION
 
 ### Understanding Scale Degrees
 
@@ -604,7 +604,7 @@ E|---3----------------------------|
 
 1. **Build chords from scales**
    - 1-3-5 = Major chord (I, iii, V scale degrees)
-   - 1-♭3-5 = Minor chord
+   - 1-â™­3-5 = Minor chord
 
 2. **Understand progressions**
    - I-IV-V = Most common progression (uses scale degrees 1, 4, 5)
@@ -655,7 +655,7 @@ E|---3----------------------------|
 
 ---
 
-## 📖 SECTION 5: PRACTICAL APPLICATION - PLAYING MAJOR SCALES
+## ðŸ“– SECTION 5: PRACTICAL APPLICATION - PLAYING MAJOR SCALES
 
 ### Practice Routine 1: Formula Recognition (10 minutes)
 
@@ -764,7 +764,7 @@ Making actual music with scales keeps practice musical, not mechanical.
 
 ---
 
-## 📖 SECTION 6: COMMON QUESTIONS ANSWERED
+## ðŸ“– SECTION 6: COMMON QUESTIONS ANSWERED
 
 ### Q: "Do I need to memorize all 12 major scales?"
 
@@ -906,7 +906,7 @@ Mark this lesson complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 ### You Now Understand the Foundation of Western Music
 
@@ -933,11 +933,11 @@ Mark this lesson complete when you can:
 
 Master it, and everything else becomes logical.
 
-**See you in Lesson 34 - where we organize these scales with key signatures!** 🎸
+**See you in Lesson 34 - where we organize these scales with key signatures!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -949,7 +949,7 @@ The practice tracker helps you:
 - Note breakthroughs and "aha moments"
 - Review your musical growth
 
-**Your theory journey is worth documenting!** 🎸
+**Your theory journey is worth documenting!** ðŸŽ¸
 
 ---
 

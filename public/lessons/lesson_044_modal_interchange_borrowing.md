@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-6 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 5-6 days  
 **📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
+**ðŸ“‚ PHASE**: Theory Module 2 (Lessons 39-46)  
 **🎯 PREREQUISITES**: Lesson 43 complete (minor key progressions)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: BREAKING THE BOUNDARIES
+## ðŸŽµ WHY THIS MATTERS: BREAKING THE BOUNDARIES
 
 ### The Question Every Songwriter Asks
 
@@ -45,8 +45,8 @@ You've learned major key harmony (Lessons 31-38) and minor key harmony (Lessons 
 ### What You're About to Learn
 
 **You already know:**
-- Major key diatonic chords (I-ii-iii-IV-V-vi-vii°)
-- Minor key diatonic chords (i-ii°-III-iv-v-VI-VII)
+- Major key diatonic chords (I-ii-iii-IV-V-vi-viiÂ°)
+- Minor key diatonic chords (i-iiÂ°-III-iv-v-VI-VII)
 - Relative vs. parallel relationships (Lesson 41)
 - How to write progressions in both major and minor
 
@@ -66,7 +66,7 @@ This is advanced harmonic technique used by The Beatles, Radiohead, and classica
 
 ---
 
-## 📖 SECTION 1: WHAT IS MODAL INTERCHANGE?
+## ðŸ“– SECTION 1: WHAT IS MODAL INTERCHANGE?
 
 ### The Basic Concept
 
@@ -118,7 +118,7 @@ This is advanced harmonic technique used by The Beatles, Radiohead, and classica
 
 ---
 
-## 📖 SECTION 2: BORROWING FROM PARALLEL MINOR (IN MAJOR KEYS)
+## ðŸ“– SECTION 2: BORROWING FROM PARALLEL MINOR (IN MAJOR KEYS)
 
 ### The Setup
 
@@ -146,19 +146,19 @@ Cm - Ddim - Eb - Fm - Gm - Ab - Bb
    - C major: F → **Fm** (borrowed from C minor)
    - Creates: Melancholic, bittersweet quality
 
-2. **♭VII (subtonic major)** - From natural minor
+2. **â™­VII (subtonic major)** - From natural minor
    - C major: Add **Bb** (borrowed from C minor)
    - Creates: Rock sound, modal flavor
 
-3. **♭VI (submediant major)** - From natural minor
+3. **â™­VI (submediant major)** - From natural minor
    - C major: Add **Ab** (borrowed from C minor)
    - Creates: Dramatic, descending effect
 
-4. **♭III (mediant major)** - From natural minor
+4. **â™­III (mediant major)** - From natural minor
    - C major: Add **Eb** (borrowed from C minor)
    - Creates: Unexpected, dramatic
 
-5. **ii° (diminished supertonic)** - From natural minor
+5. **iiÂ° (diminished supertonic)** - From natural minor
    - C major: Dm → **Ddim** (borrowed from C minor)
    - Creates: Tension, leading quality
 
@@ -226,7 +226,7 @@ E|-------|    E|---1---|    E|---3---|    E|-------|
 
 ---
 
-## 📖 SECTION 3: BORROWING FROM PARALLEL MAJOR (IN MINOR KEYS)
+## ðŸ“– SECTION 3: BORROWING FROM PARALLEL MAJOR (IN MINOR KEYS)
 
 ### The Setup
 
@@ -254,11 +254,11 @@ A - Bm - C#m - D - E - F#m - G#dim
    - A minor: Dm → **D** (borrowed from A major)
    - Creates: Brief brightening, hopeful quality
 
-2. **II (major supertonic)** - Instead of ii° (diminished)
+2. **II (major supertonic)** - Instead of iiÂ° (diminished)
    - A minor: Bdim → **B** (borrowed from A major)
    - Creates: Strong pre-dominant, classical sound
 
-3. **VII (major leading tone)** - Instead of ♭VII
+3. **VII (major leading tone)** - Instead of â™­VII
    - A minor: G → **G#** (borrowed from A major)
    - Creates: Strong leading tone pull
    - Note: This is similar to using harmonic minor V
@@ -305,7 +305,7 @@ E|-------|    E|-------|    E|---0---|    E|-------|
 
 ---
 
-## 📖 SECTION 4: THE MOST USEFUL BORROWED CHORDS
+## ðŸ“– SECTION 4: THE MOST USEFUL BORROWED CHORDS
 
 ### In Major Keys (Borrowing from Parallel Minor)
 
@@ -314,12 +314,12 @@ E|-------|    E|-------|    E|---0---|    E|-------|
 - Effect: Bittersweet, melancholic
 - Used constantly in pop, rock, film scores
 
-**Priority 2: ♭VII (subtonic major)**
+**Priority 2: â™­VII (subtonic major)**
 - Example: C major borrowing Bb
 - Effect: Rock/modal sound
 - Used in rock, blues-rock, modal music
 
-**Priority 3: ♭VI (submediant major)**
+**Priority 3: â™­VI (submediant major)**
 - Example: C major borrowing Ab
 - Effect: Dramatic descent
 - Used in dramatic moments, film scores
@@ -340,7 +340,7 @@ E|-------|    E|-------|    E|---0---|    E|-------|
 
 ---
 
-## 📖 SECTION 5: FAMOUS EXAMPLES OF MODAL INTERCHANGE
+## ðŸ“– SECTION 5: FAMOUS EXAMPLES OF MODAL INTERCHANGE
 
 ### "While My Guitar Gently Weeps" - The Beatles
 
@@ -401,7 +401,7 @@ E|-------|    E|-------|    E|---0---|    E|-------|
 
 ---
 
-## 📖 SECTION 6: PRACTICAL APPLICATIONS
+## ðŸ“– SECTION 6: PRACTICAL APPLICATIONS
 
 ### Application 1: Adding Emotional Depth
 
@@ -423,7 +423,7 @@ E|-------|    E|-------|    E|---0---|    E|-------|
 
 **C - F - G - C** (I-IV-V-I in C major)
 
-**Add borrowed ♭VII:**
+**Add borrowed â™­VII:**
 
 **C - F - Bb - C** (Bb borrowed from C minor)
 
@@ -445,7 +445,7 @@ E|-------|    E|-------|    E|---0---|    E|-------|
 
 ---
 
-## 📖 SECTION 7: PRACTICAL EXERCISES
+## ðŸ“– SECTION 7: PRACTICAL EXERCISES
 
 ### Exercise 1: Play Borrowed iv in Major Keys (15 minutes)
 
@@ -468,7 +468,7 @@ E|-------|    E|-------|    E|---0---|    E|-------|
 
 ---
 
-### Exercise 2: Play Borrowed ♭VII in Major Keys (15 minutes)
+### Exercise 2: Play Borrowed â™­VII in Major Keys (15 minutes)
 
 **In C Major:**
 
@@ -532,7 +532,7 @@ E|-------|    E|-------|    E|---0---|    E|-------|
 **1. In C Major with borrowed iv:**
 C - Am - Fm - G
 
-**2. In C Major with borrowed ♭VII:**
+**2. In C Major with borrowed â™­VII:**
 C - Bb - F - C
 
 **3. In A Minor with borrowed IV:**
@@ -556,13 +556,13 @@ Mark this lesson complete when you can:
 
 **Recognition:**
 - [ ] Identify borrowed iv in major key songs
-- [ ] Identify borrowed ♭VII in major key songs
+- [ ] Identify borrowed â™­VII in major key songs
 - [ ] Identify borrowed IV in minor key songs
 - [ ] Recognize modal interchange in "Creep," Beatles songs, etc.
 
 **Playing:**
 - [ ] Play progressions with borrowed iv in major keys
-- [ ] Play progressions with borrowed ♭VII
+- [ ] Play progressions with borrowed â™­VII
 - [ ] Play progressions with borrowed IV in minor keys
 - [ ] Smoothly transition to borrowed chords
 
@@ -574,14 +574,14 @@ Mark this lesson complete when you can:
 
 ---
 
-## 🎸 FINAL THOUGHTS
+## ðŸŽ¸ FINAL THOUGHTS
 
 ### You Now Use Advanced Harmonic Technique
 
 **What you've learned:**
 - Modal interchange = borrowing from parallel keys
 - Borrowed iv (minor subdominant) in major keys
-- Borrowed ♭VII and ♭VI for rock/drama
+- Borrowed â™­VII and â™­VI for rock/drama
 - Borrowed IV (major subdominant) in minor keys
 - Why parallel keys can share chords
 - **Professional-level harmonic sophistication**
@@ -604,11 +604,11 @@ The Beatles, Radiohead, Stevie Wonder, classical masters—they all use this.
 
 **Now you can too.**
 
-**See you in Lesson 45 - where we explore even more advanced harmonic concepts!** 🎸
+**See you in Lesson 45 - where we explore even more advanced harmonic concepts!** ðŸŽ¸
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your practice session?**
 
@@ -620,7 +620,7 @@ The practice tracker helps you:
 - Note sophisticated songwriting breakthroughs
 - Review your advanced harmony journey
 
-**You're mastering professional-level techniques!** 🎸
+**You're mastering professional-level techniques!** ðŸŽ¸
 
 ---
 

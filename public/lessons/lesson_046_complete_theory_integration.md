@@ -2,9 +2,9 @@
 
 ## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 6-8 days  
+**â±ï¸ TYPICAL COMPLETION TIME**: 6-8 days  
 **📅 PRACTICE SESSION LENGTH**: 45-60 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46) - **FINAL CAPSTONE LESSON**  
+**ðŸ“‚ PHASE**: Theory Module 2 (Lessons 39-46) - **FINAL CAPSTONE LESSON**  
 **🎯 PREREQUISITES**: Lesson 45 complete (advanced harmonic concepts)
 
 ---
@@ -22,7 +22,7 @@ By the end of this lesson, you will be able to:
 
 ---
 
-## 🎵 WHY THIS MATTERS: THE COMPLETE PICTURE
+## ðŸŽµ WHY THIS MATTERS: THE COMPLETE PICTURE
 
 ### The Journey You've Completed
 
@@ -77,31 +77,31 @@ This is your graduation.
 
 ---
 
-## 📖 SECTION 1: THE COMPLETE HARMONIC SYSTEM
+## ðŸ“– SECTION 1: THE COMPLETE HARMONIC SYSTEM
 
 ### How Major and Minor Theory Connect
 
 **The foundation:**
 ```
 12 NOTES (chromatic scale)
-        ↓
+        â†“
 MAJOR SCALE FORMULA (W-W-H-W-W-W-H)
 MINOR SCALE FORMULA (W-H-W-W-H-W-W)
-        ↓
+        â†“
 12 MAJOR KEYS + 12 MINOR KEYS
-        ↓
+        â†“
 CIRCLE OF FIFTHS (organizing all 24 keys)
-        ↓
-DIATONIC HARMONY (7 chords per key × 24 keys)
-        ↓
+        â†“
+DIATONIC HARMONY (7 chords per key Ã— 24 keys)
+        â†“
 CHORD PROGRESSIONS (movement between chords)
-        ↓
+        â†“
 VOICE LEADING & INVERSIONS (smooth connections)
-        ↓
+        â†“
 MODAL INTERCHANGE (borrowing between parallel keys)
-        ↓
+        â†“
 ADVANCED CONCEPTS (secondary dominants, etc.)
-        ↓
+        â†“
 COMPLETE HARMONIC MASTERY
 ```
 
@@ -117,19 +117,19 @@ COMPLETE HARMONIC MASTERY
 
 ```
                 C / Am
-               ╱       ╲
+               â•±       â•²
           F / Dm         G / Em
-          ╱               ╲
+          â•±               â•²
      Bb / Gm              D / Bm
-       ╱                   ╲
+       â•±                   â•²
   Eb / Cm                  A / F#m
-     ╱                       ╲
+     â•±                       â•²
 Ab / Fm                      E / C#m
-   ╲                         ╱
+   â•²                         â•±
 Db / Bbm                    B / G#m
-     ╲                     ╱
+     â•²                     â•±
    Gb / Ebm         F# / D#m
-        ╲           ╱
+        â•²           â•±
      Cb / Abm = B / G#m
 ```
 
@@ -143,7 +143,7 @@ Db / Bbm                    B / G#m
 
 ---
 
-## 📖 SECTION 2: COMPREHENSIVE ANALYSIS EXERCISES
+## ðŸ“– SECTION 2: COMPREHENSIVE ANALYSIS EXERCISES
 
 ### Analysis Exercise 1: "Let It Be" - The Beatles
 
@@ -156,7 +156,7 @@ Db / Bbm                    B / G#m
 **Scale:** C-D-E-F-G-A-B-C (no sharps/flats)
 
 **Diatonic chords:**
-- I=C, ii=Dm, iii=Em, IV=F, V=G, vi=Am, vii°=Bdim
+- I=C, ii=Dm, iii=Em, IV=F, V=G, vi=Am, viiÂ°=Bdim
 
 **Progression analysis:**
 - C = I (Tonic, home, stable)
@@ -197,7 +197,7 @@ Home  → Tension  → Emotion        → Return motion
 **Scale (A natural minor):** A-B-C-D-E-F-G-A
 
 **Diatonic chords:**
-- i=Am, ii°=Bdim, III=C, iv=Dm, v=Em, VI=F, VII=G
+- i=Am, iiÂ°=Bdim, III=C, iv=Dm, v=Em, VI=F, VII=G
 
 **Progression analysis:**
 - Am = i (Tonic minor, dark home)
@@ -230,7 +230,7 @@ Home  → Tension  → Emotion        → Return motion
 **Scale (G major):** G-A-B-C-D-E-F#-G
 
 **Diatonic chords:**
-- I=G, ii=Am, iii=Bm, IV=C, V=D, vi=Em, vii°=F#dim
+- I=G, ii=Am, iii=Bm, IV=C, V=D, vi=Em, viiÂ°=F#dim
 
 **Progression analysis:**
 - G = I (Tonic major)
@@ -252,7 +252,7 @@ Home  → Tension  → Emotion        → Return motion
 
 ---
 
-## 📖 SECTION 3: COMPLETE INTEGRATION EXERCISES
+## ðŸ“– SECTION 3: COMPLETE INTEGRATION EXERCISES
 
 ### Integration Exercise 1: Build Complete Harmonic Analysis
 
@@ -325,7 +325,7 @@ Home  → Tension  → Emotion        → Return motion
 
 ---
 
-## 📖 SECTION 4: PRACTICAL SONGWRITING INTEGRATION
+## ðŸ“– SECTION 4: PRACTICAL SONGWRITING INTEGRATION
 
 ### Songwriting Exercise 1: Verse and Chorus in Different Modes
 
@@ -370,7 +370,7 @@ Bars 13-16: F/A - G/B - C - C    (IV/3-V/3-I, smooth bass ascent)
 
 ---
 
-## 📖 SECTION 5: THE COMPLETE MASTERY ASSESSMENT
+## ðŸ“– SECTION 5: THE COMPLETE MASTERY ASSESSMENT
 
 ### Self-Assessment Checklist
 
@@ -381,7 +381,7 @@ Bars 13-16: F/A - G/B - C - C    (IV/3-V/3-I, smooth bass ascent)
 **MAJOR KEY THEORY:**
 - [ ] I can build any major scale from memory
 - [ ] I can identify any major key signature instantly
-- [ ] I know all major key diatonic chords (I-ii-iii-IV-V-vi-vii°)
+- [ ] I know all major key diatonic chords (I-ii-iii-IV-V-vi-viiÂ°)
 - [ ] I understand harmonic function in major keys
 - [ ] I can use inversions for smooth voice leading
 - [ ] I can analyze major key progressions with Roman numerals
@@ -392,7 +392,7 @@ Bars 13-16: F/A - G/B - C - C    (IV/3-V/3-I, smooth bass ascent)
 **MINOR KEY THEORY:**
 - [ ] I can build natural, harmonic, and melodic minor scales
 - [ ] I can identify any minor key signature instantly
-- [ ] I know all minor key diatonic chords (i-ii°-III-iv-v-VI-VII)
+- [ ] I know all minor key diatonic chords (i-iiÂ°-III-iv-v-VI-VII)
 - [ ] I understand when to use harmonic minor V
 - [ ] I can play classic minor progressions (i-iv-V-i, Andalusian)
 - [ ] I can analyze minor key progressions with Roman numerals
@@ -443,7 +443,7 @@ Bars 13-16: F/A - G/B - C - C    (IV/3-V/3-I, smooth bass ascent)
 
 ---
 
-## 📖 SECTION 6: WHAT YOU'VE ACHIEVED
+## ðŸ“– SECTION 6: WHAT YOU'VE ACHIEVED
 
 ### The Scope of Your Accomplishment
 
@@ -515,7 +515,7 @@ Bars 13-16: F/A - G/B - C - C    (IV/3-V/3-I, smooth bass ascent)
 
 ---
 
-## 📖 SECTION 7: BEYOND THEORY MODULE 2
+## ðŸ“– SECTION 7: BEYOND THEORY MODULE 2
 
 ### Where Theory Goes From Here
 
@@ -552,7 +552,7 @@ Bars 13-16: F/A - G/B - C - C    (IV/3-V/3-I, smooth bass ascent)
 
 ---
 
-## 📖 SECTION 8: PRACTICAL NEXT STEPS
+## ðŸ“– SECTION 8: PRACTICAL NEXT STEPS
 
 ### Continue Applying Theory
 
@@ -613,7 +613,7 @@ Bars 13-16: F/A - G/B - C - C    (IV/3-V/3-I, smooth bass ascent)
 
 ---
 
-## 🎸 FINAL THOUGHTS: YOU ARE A MUSIC THEORIST
+## ðŸŽ¸ FINAL THOUGHTS: YOU ARE A MUSIC THEORIST
 
 ### What You've Become
 
@@ -689,7 +689,7 @@ Bars 13-16: F/A - G/B - C - C    (IV/3-V/3-I, smooth bass ascent)
 
 ---
 
-## 🎊 CELEBRATION: THEORY MODULE 2 COMPLETE!
+## ðŸŽŠ CELEBRATION: THEORY MODULE 2 COMPLETE!
 
 ### You've Finished the Journey
 
@@ -731,11 +731,11 @@ Bars 13-16: F/A - G/B - C - C    (IV/3-V/3-I, smooth bass ascent)
 
 **You've earned this.**
 
-**Now go make beautiful music.** 🎸✨
+**Now go make beautiful music.** ðŸŽ¸âœ¨
 
 ---
 
-## 📝 TRACK YOUR PRACTICE
+## ðŸ“ TRACK YOUR PRACTICE
 
 **Ready to log your final theory practice session?**
 
@@ -747,7 +747,7 @@ The practice tracker helps you:
 - Note integration breakthroughs
 - **Celebrate Theory Module 2 completion!**
 
-**You did it!** 🎉🎸🏆
+**You did it!** ðŸŽ‰ðŸŽ¸ðŸ†
 
 ---
 
@@ -755,4 +755,4 @@ The practice tracker helps you:
 
 *End of ALL Theory Lessons - Complete Music Theory Mastery Achieved!*
 
-**🎓 YOU ARE NOW A MUSIC THEORIST 🎓**
+**ðŸŽ“ YOU ARE NOW A MUSIC THEORIST ðŸŽ“**
