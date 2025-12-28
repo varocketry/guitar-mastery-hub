@@ -170,25 +170,30 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
   };
 
   function extractSuccessCriteriaItems(markdown: string): string[] {
-    const match = markdown.match(/## ✅ SUCCESS CRITERIA[\s\S]*?### Ready to Mark[\s\S]*?(?=\n### ⏰ NOT READY)/);
+    // Try multiple patterns to find checkbox items
+    // Pattern 1: - [ ] **Bold** - text
+    let match = markdown.match(/## .*[Ss]uccess[\s\S]*?### Ready to Mark[\s\S]*?(?=\n### .*NOT READY)/);
+    if (!match) {
+      // Pattern 2: Look for any success section with checkboxes
+      match = markdown.match(/## .*[Ss]uccess[\s\S]*?(?=\n## )/);
+    }
     if (!match) return [];
+    
     const items = match[0].match(/- \[ \] (.+)/g);
     return items ? items.map(line => line.replace('- [ ] ', '').trim()) : [];
   }
 
-  function splitLesson1Content(markdown: string) {
-    // Find section positions
-    const successStart = markdown.indexOf('## ✅ SUCCESS CRITERIA');
-    const troubleshootingStart = markdown.indexOf('## 🔧 TROUBLESHOOTING');
+  // UPDATED: Now works for ALL lessons, not just Lesson 1
+  function splitLessonContent(markdown: string, lessonNumber: number) {
+    // Handle various heading formats (case-insensitive, with/without emojis)
+    const successMatch = markdown.match(/\n## .*[Ss]uccess/);
+    const successStart = successMatch ? successMatch.index! + 1 : -1;
+
+    const troubleshootingMatch = markdown.match(/\n## .*[Tt]roubleshoot/);
+    const troubleshootingStart = troubleshootingMatch ? troubleshootingMatch.index! + 1 : -1;
     
     if (successStart === -1 || troubleshootingStart === -1) {
-      return {
-        beforeSuccess: markdown,
-        successSection: '',
-        troubleshootingSection: '',
-        afterTroubleshooting: '',
-        successItems: []
-      };
+      return null;
     }
 
     // Extract full SUCCESS CRITERIA section (everything until TROUBLESHOOTING)
@@ -229,7 +234,8 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
     );
   }
 
-  const split = lessonNumber === 1 ? splitLesson1Content(content) : null;
+  // UPDATED: Apply to ALL lessons
+  const split = splitLessonContent(content, lessonNumber);
 
   return (
     <div className="min-h-screen bg-slate-900">
@@ -262,62 +268,68 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
             <div>
               <div className="bg-white rounded-xl p-6 shadow-2xl mb-6">
                 <article className="lesson-content">
-                  {lessonNumber === 1 && split ? (
+                  {/* UPDATED: Check if split exists (not just lessonNumber === 1) */}
+                  {split ? (
                     <>
                       {/* Content BEFORE Success Criteria */}
-                      <div className="prose max-w-none prose-li:my-0">
+                      <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
                         <ReactMarkdown remarkPlugins={[remarkGfm]}>{split.beforeSuccess}</ReactMarkdown>
                       </div>
                       
                       {/* SUCCESS CRITERIA - With interactive checkboxes */}
-                      <div className="my-3">
-                        <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
-                          <span>✅</span><span>SUCCESS CRITERIA</span>
-                        </h2>
-                        
-                        <h3 className="text-lg font-semibold text-blue-900 mt-3 mb-2">Ready to Mark This Lesson Complete?</h3>
-                        <p className="text-sm mb-2">Check these off honestly. If you can do all of these, you're ready to move on:</p>
-                        
-                        <SuccessCriteriaCheckboxes lessonNumber={1} items={split.successItems} />
-                        
-                        {/* Render the rest of SUCCESS CRITERIA section (NOT READY YET, REMEMBER) */}
-                        <div className="prose max-w-none prose-li:my-0 mt-4">
-                          <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                            {split.successSection.replace(/## ✅ SUCCESS CRITERIA[\s\S]*?(?=### ⏰ NOT READY)/, '')}
-                          </ReactMarkdown>
+                      {split.successItems.length > 0 && (
+                        <div className="my-3">
+                          <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
+                            <span>✅</span><span>SUCCESS CRITERIA</span>
+                          </h2>
+                          
+                          <h3 className="text-lg font-semibold text-blue-900 mt-3 mb-2">Ready to Mark This Lesson Complete?</h3>
+                          <p className="text-sm mb-2">Check these off honestly. If you can do all of these, you're ready to move on:</p>
+                          
+                          {/* UPDATED: Use lessonNumber variable instead of hardcoded 1 */}
+                          <SuccessCriteriaCheckboxes lessonNumber={lessonNumber} items={split.successItems} />
+                          
+                          {/* Render the rest of SUCCESS CRITERIA section (NOT READY YET, REMEMBER) */}
+                          <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1 mt-4">
+                            <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                              {split.successSection.replace(/## .*[Ss]uccess[\s\S]*?(?=### Ready to Mark|### .*NOT READY)/, '')}
+                            </ReactMarkdown>
+                          </div>
                         </div>
-                      </div>
+                      )}
                       
                       {/* TROUBLESHOOTING - With accordions */}
-                      <div className="my-3">
-                        <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
-                          <span>🔧</span><span>TROUBLESHOOTING</span>
-                        </h2>
-                        
-                        <div className="space-y-0">
-                          {split.troubleshootingProblems?.map((problem, index) => {
-                            const titleMatch = problem.match(/### Problem: ([^\n]+)/);
-                            const title = titleMatch ? titleMatch[1] : `Problem ${index + 1}`;
-                            const content = problem.replace(/### Problem: [^\n]+\n/, '');
-                            
-                            return (
-                              <ProblemAccordion key={index} title={`Problem: ${title}`}>
-                                <div className="prose prose-sm max-w-none prose-li:my-0">
-                                  <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
-                                </div>
-                              </ProblemAccordion>
-                            );
-                          })}
+                      {split.troubleshootingProblems && split.troubleshootingProblems.length > 0 && (
+                        <div className="my-3">
+                          <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
+                            <span>🔧</span><span>TROUBLESHOOTING</span>
+                          </h2>
+                          
+                          <div className="space-y-0">
+                            {split.troubleshootingProblems.map((problem, index) => {
+                              const titleMatch = problem.match(/### Problem: ([^\n]+)/);
+                              const title = titleMatch ? titleMatch[1] : `Problem ${index + 1}`;
+                              const content = problem.replace(/### Problem: [^\n]+\n/, '');
+                              
+                              return (
+                                <ProblemAccordion key={index} title={`Problem: ${title}`}>
+                                  <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
+                                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
+                                  </div>
+                                </ProblemAccordion>
+                              );
+                            })}
+                          </div>
                         </div>
-                      </div>
+                      )}
                       
                       {/* Content AFTER Troubleshooting */}
-                      <div className="prose max-w-none prose-li:my-0">
+                      <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
                         <ReactMarkdown remarkPlugins={[remarkGfm]}>{split.afterTroubleshooting}</ReactMarkdown>
                       </div>
                     </>
                   ) : (
-                    <div className="prose max-w-none prose-li:my-0">
+                    <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
                       <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
                     </div>
                   )}
