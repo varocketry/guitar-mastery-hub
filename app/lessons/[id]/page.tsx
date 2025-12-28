@@ -295,7 +295,7 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
                         </h2>
                         
                         <div className="space-y-0">
-                          {split.troubleshootingProblems.map((problem, index) => {
+                          {split.troubleshootingProblems?.map((problem, index) => {
                             const titleMatch = problem.match(/### Problem: ([^\n]+)/);
                             const title = titleMatch ? titleMatch[1] : `Problem ${index + 1}`;
                             const content = problem.replace(/### Problem: [^\n]+\n/, '');
