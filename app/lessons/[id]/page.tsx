@@ -8,11 +8,10 @@ import Navigation from '@/app/components/Navigation';
 import { getCurrentUser, markLessonComplete, getLessonProgress } from '@/lib/supabase';
 
 // SUCCESS CRITERIA CHECKBOXES
-function SuccessCriteriaCheckboxes({ lessonNumber, items }: { lessonNumber: number; items: string[] }) {
+function SuccessCriteriaCheckboxes({ lessonNumber, items, storageKey }: { lessonNumber: number; items: string[]; storageKey: string }) {
+  console.log('SuccessCriteriaCheckboxes rendering:', { lessonNumber, itemCount: items.length, storageKey });
   const [checkedItems, setCheckedItems] = useState<Set<number>>(new Set())
   const [isLoaded, setIsLoaded] = useState(false)
-  
-  const storageKey = `lesson_${lessonNumber}_success_criteria`
 
   useEffect(() => {
     try {
@@ -44,14 +43,18 @@ function SuccessCriteriaCheckboxes({ lessonNumber, items }: { lessonNumber: numb
     })
   }
 
-  if (!isLoaded) return null
+  if (!isLoaded) {
+    console.log('SuccessCriteriaCheckboxes: Not loaded yet, returning null');
+    return null;
+  }
 
+  console.log('SuccessCriteriaCheckboxes: Rendering', items.length, 'checkboxes');
+  
   return (
     <ul className="list-disc pl-5 m-0">
       {items.map((item, index) => {
         const isChecked = checkedItems.has(index)
         
-        // Parse: **Bold part** - Normal part
         const match = item.match(/\*\*(.+?)\*\*\s*-?\s*(.*)/)
         const boldPart = match ? match[1] : ''
         const normalPart = match ? match[2] : item.replace(/\*\*/g, '')
@@ -73,7 +76,7 @@ function SuccessCriteriaCheckboxes({ lessonNumber, items }: { lessonNumber: numb
   )
 }
 
-// ACCORDION FOR TROUBLESHOOTING PROBLEMS
+// ACCORDION FOR TROUBLESHOOTING
 function ProblemAccordion({ title, children }: { title: string; children: React.ReactNode }) {
   const [isOpen, setIsOpen] = useState(false)
 
@@ -169,58 +172,130 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
     setCompletedLessons(progress ? progress.map((p: any) => p.lesson_number) : []);
   };
 
-  function extractSuccessCriteriaItems(markdown: string): string[] {
-    // Try multiple patterns to find checkbox items
-    // Pattern 1: - [ ] **Bold** - text
-    let match = markdown.match(/## .*[Ss]uccess[\s\S]*?### Ready to Mark[\s\S]*?(?=\n### .*NOT READY)/);
-    if (!match) {
-      // Pattern 2: Look for any success section with checkboxes
-      match = markdown.match(/## .*[Ss]uccess[\s\S]*?(?=\n## )/);
-    }
-    if (!match) return [];
+  function splitLessonContent(markdown: string, lessonNum: number) {
+    console.log(`=== Lesson ${lessonNum} - Starting split ===`);
+    console.log('Markdown length:', markdown.length);
     
-    const items = match[0].match(/- \[ \] (.+)/g);
-    return items ? items.map(line => line.replace('- [ ] ', '').trim()) : [];
-  }
-
-  // UPDATED: Now works for ALL lessons, not just Lesson 1
-  function splitLessonContent(markdown: string, lessonNumber: number) {
-    // Handle various heading formats (case-insensitive, with/without emojis)
-    const successMatch = markdown.match(/\n## .*[Ss]uccess/);
-    const successStart = successMatch ? successMatch.index! + 1 : -1;
-
-    const troubleshootingMatch = markdown.match(/\n## .*[Tt]roubleshoot/);
-    const troubleshootingStart = troubleshootingMatch ? troubleshootingMatch.index! + 1 : -1;
+    // Find all interactive sections
+    const successMatch = markdown.match(/(?:^|\n)(## .*[Ss][Uu][Cc][Cc][Ee][Ss][Ss].*$)/im);
+    const troubleMatch = markdown.match(/(?:^|\n)(## .*[Tt][Rr][Oo][Uu][Bb][Ll][Ee].*$)/im);
+    const section5Match = lessonNum === 46 ? markdown.match(/(?:^|\n)(## .*SECTION 5:.*$)/im) : null;
     
-    if (successStart === -1 || troubleshootingStart === -1) {
+    console.log('SUCCESS match:', successMatch ? 'FOUND' : 'NOT FOUND');
+    console.log('TROUBLE match:', troubleMatch ? 'FOUND' : 'NOT FOUND');
+    console.log('SECTION5 match:', section5Match ? 'FOUND' : 'NOT FOUND');
+    
+    if (!successMatch && !section5Match) {
+      console.log('Split result: Failed (using plain markdown)');
       return null;
     }
-
-    // Extract full SUCCESS CRITERIA section (everything until TROUBLESHOOTING)
-    const successSection = markdown.substring(successStart, troubleshootingStart);
     
-    // Extract checkbox items only
-    const successItems = extractSuccessCriteriaItems(markdown);
+    // Track sections to extract
+    const sections: Array<{start: number, end: number, type: string}> = [];
     
-    // Extract full TROUBLESHOOTING section (everything until next ## heading)
-    let troubleshootingEnd = markdown.length;
-    const afterTroubleshootingMatch = markdown.substring(troubleshootingStart + 1).match(/\n## [^#]/);
-    if (afterTroubleshootingMatch && afterTroubleshootingMatch.index !== undefined) {
-      troubleshootingEnd = troubleshootingStart + 1 + afterTroubleshootingMatch.index;
+    // Find SUCCESS section boundaries
+    if (successMatch) {
+      const start = successMatch.index! + (successMatch[0].startsWith('\n') ? 1 : 0);
+      const nextSection = markdown.substring(start + 1).match(/\n## /);
+      const end = nextSection ? start + 1 + nextSection.index! : markdown.length;
+      sections.push({start, end, type: 'success'});
+      console.log('SUCCESS section:', start, 'to', end);
     }
-    const troubleshootingSection = markdown.substring(troubleshootingStart, troubleshootingEnd);
     
-    // Parse individual problems from troubleshooting
-    const problemMatches = troubleshootingSection.match(/### Problem: [^\n]+[\s\S]*?(?=\n### Problem:|$)/g);
-    const problems = problemMatches || [];
+    // Find TROUBLESHOOTING section boundaries
+    if (troubleMatch) {
+      const start = troubleMatch.index! + (troubleMatch[0].startsWith('\n') ? 1 : 0);
+      const nextSection = markdown.substring(start + 1).match(/\n## /);
+      const end = nextSection ? start + 1 + nextSection.index! : markdown.length;
+      sections.push({start, end, type: 'trouble'});
+      console.log('TROUBLE section:', start, 'to', end);
+    }
     
-    return {
-      beforeSuccess: markdown.substring(0, successStart),
-      successSection,
-      troubleshootingProblems: problems,
-      afterTroubleshooting: markdown.substring(troubleshootingEnd),
-      successItems
-    };
+    // Find SECTION 5 boundaries
+    if (section5Match) {
+      const start = section5Match.index! + (section5Match[0].startsWith('\n') ? 1 : 0);
+      const nextSection = markdown.substring(start + 1).match(/\n## /);
+      const end = nextSection ? start + 1 + nextSection.index! : markdown.length;
+      sections.push({start, end, type: 'section5'});
+      console.log('SECTION5 section:', start, 'to', end);
+    }
+    
+    // Sort sections by position
+    sections.sort((a, b) => a.start - b.start);
+    
+    // Build chunks
+    type Chunk = 
+      | { type: 'markdown'; content: string }
+      | { type: 'success'; items: string[]; restContent: string }
+      | { type: 'trouble'; problems: string[] }
+      | { type: 'section5'; items: string[]; restContent: string };
+    
+    const chunks: Chunk[] = [];
+    let lastPos = 0;
+    
+    for (const sec of sections) {
+      // Add markdown BEFORE this section
+      if (sec.start > lastPos) {
+        chunks.push({
+          type: 'markdown',
+          content: markdown.substring(lastPos, sec.start)
+        });
+      }
+      
+      // Extract section content
+      const sectionContent = markdown.substring(sec.start, sec.end);
+      
+      if (sec.type === 'success') {
+        const items = sectionContent.match(/- \[ \] (.+)/g);
+        const checkboxItems = items ? items.map(line => line.replace('- [ ] ', '').trim()) : [];
+        // Remove the entire checkbox section - everything before "### NOT READY" or "###" that's not "Ready to Mark"
+        let restContent = sectionContent;
+        const notReadyMatch = restContent.match(/### .*NOT READY/i);
+        if (notReadyMatch) {
+          // Keep only from "### NOT READY" onwards
+          restContent = restContent.substring(notReadyMatch.index);
+        } else {
+          // If no "### NOT READY", remove everything
+          restContent = '';
+        }
+        console.log('SUCCESS items:', checkboxItems.length);
+        chunks.push({ type: 'success', items: checkboxItems, restContent });
+      } else if (sec.type === 'trouble') {
+        const problemMatches = sectionContent.match(/### Problem: [^\n]+[\s\S]*?(?=\n### Problem:|$)/g);
+        console.log('TROUBLE problems:', problemMatches ? problemMatches.length : 0);
+        chunks.push({ type: 'trouble', problems: problemMatches || [] });
+      } else if (sec.type === 'section5') {
+        const items = sectionContent.match(/- \[ \] (.+)/g);
+        const checkboxItems = items ? items.map(line => line.replace('- [ ] ', '').trim()) : [];
+        // Remove the entire checkbox section - everything before "### Scoring"
+        let restContent = sectionContent;
+        const scoringMatch = restContent.match(/### Scoring/);
+        if (scoringMatch) {
+          // Keep only from "### Scoring" onwards
+          restContent = restContent.substring(scoringMatch.index);
+        } else {
+          // If no "### Scoring", remove everything
+          restContent = '';
+        }
+        console.log('SECTION5 items:', checkboxItems.length);
+        console.log('SECTION5 restContent length:', restContent.length);
+        chunks.push({ type: 'section5', items: checkboxItems, restContent });
+      }
+      
+      // Move past this section
+      lastPos = sec.end;
+    }
+    
+    // Add remaining markdown
+    if (lastPos < markdown.length) {
+      chunks.push({
+        type: 'markdown',
+        content: markdown.substring(lastPos)
+      });
+    }
+    
+    console.log('Split result: Success -', chunks.length, 'chunks');
+    return chunks;
   }
 
   if (!user) {
@@ -234,8 +309,7 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
     );
   }
 
-  // UPDATED: Apply to ALL lessons
-  const split = splitLessonContent(content, lessonNumber);
+  const chunks = splitLessonContent(content, lessonNumber);
 
   return (
     <div className="min-h-screen bg-slate-900">
@@ -268,65 +342,85 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
             <div>
               <div className="bg-white rounded-xl p-6 shadow-2xl mb-6">
                 <article className="lesson-content">
-                  {/* UPDATED: Check if split exists (not just lessonNumber === 1) */}
-                  {split ? (
+                  {chunks ? (
                     <>
-                      {/* Content BEFORE Success Criteria */}
-                      <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
-                        <ReactMarkdown remarkPlugins={[remarkGfm]}>{split.beforeSuccess}</ReactMarkdown>
-                      </div>
-                      
-                      {/* SUCCESS CRITERIA - With interactive checkboxes */}
-                      {split.successItems.length > 0 && (
-                        <div className="my-3">
-                          <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
-                            <span>✅</span><span>SUCCESS CRITERIA</span>
-                          </h2>
-                          
-                          <h3 className="text-lg font-semibold text-blue-900 mt-3 mb-2">Ready to Mark This Lesson Complete?</h3>
-                          <p className="text-sm mb-2">Check these off honestly. If you can do all of these, you're ready to move on:</p>
-                          
-                          {/* UPDATED: Use lessonNumber variable instead of hardcoded 1 */}
-                          <SuccessCriteriaCheckboxes lessonNumber={lessonNumber} items={split.successItems} />
-                          
-                          {/* Render the rest of SUCCESS CRITERIA section (NOT READY YET, REMEMBER) */}
-                          <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1 mt-4">
-                            <ReactMarkdown remarkPlugins={[remarkGfm]}>
-                              {split.successSection.replace(/## .*[Ss]uccess[\s\S]*?(?=### Ready to Mark|### .*NOT READY)/, '')}
-                            </ReactMarkdown>
-                          </div>
-                        </div>
-                      )}
-                      
-                      {/* TROUBLESHOOTING - With accordions */}
-                      {split.troubleshootingProblems && split.troubleshootingProblems.length > 0 && (
-                        <div className="my-3">
-                          <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
-                            <span>🔧</span><span>TROUBLESHOOTING</span>
-                          </h2>
-                          
-                          <div className="space-y-0">
-                            {split.troubleshootingProblems.map((problem, index) => {
-                              const titleMatch = problem.match(/### Problem: ([^\n]+)/);
-                              const title = titleMatch ? titleMatch[1] : `Problem ${index + 1}`;
-                              const content = problem.replace(/### Problem: [^\n]+\n/, '');
-                              
-                              return (
-                                <ProblemAccordion key={index} title={`Problem: ${title}`}>
-                                  <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
-                                    <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
-                                  </div>
-                                </ProblemAccordion>
-                              );
-                            })}
-                          </div>
-                        </div>
-                      )}
-                      
-                      {/* Content AFTER Troubleshooting */}
-                      <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
-                        <ReactMarkdown remarkPlugins={[remarkGfm]}>{split.afterTroubleshooting}</ReactMarkdown>
-                      </div>
+                      {chunks.map((chunk, idx) => {
+                        if (chunk.type === 'markdown') {
+                          return (
+                            <div key={`md-${idx}`} className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
+                              <ReactMarkdown remarkPlugins={[remarkGfm]}>{chunk.content}</ReactMarkdown>
+                            </div>
+                          );
+                        }
+                        
+                        if (chunk.type === 'success') {
+                          console.log('Rendering SUCCESS chunk with', chunk.items.length, 'items');
+                          return (
+                            <div key={`success-${idx}`} className="my-3">
+                              <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
+                                <span>✅</span><span>SUCCESS CRITERIA</span>
+                              </h2>
+                              <h3 className="text-lg font-semibold text-blue-900 mt-3 mb-2">Ready to Mark This Lesson Complete?</h3>
+                              <p className="text-sm mb-2">Check these off honestly. If you can do all of these, you're ready to move on:</p>
+                              <SuccessCriteriaCheckboxes 
+                                lessonNumber={lessonNumber} 
+                                items={chunk.items}
+                                storageKey={`lesson_${lessonNumber}_success`}
+                              />
+                              <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1 mt-4">
+                                <ReactMarkdown remarkPlugins={[remarkGfm]}>{chunk.restContent}</ReactMarkdown>
+                              </div>
+                            </div>
+                          );
+                        }
+                        
+                        if (chunk.type === 'trouble') {
+                          return (
+                            <div key={`trouble-${idx}`} className="my-3">
+                              <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
+                                <span>🔧</span><span>TROUBLESHOOTING</span>
+                              </h2>
+                              <div className="space-y-0">
+                                {chunk.problems.map((problem, pIdx) => {
+                                  const titleMatch = problem.match(/### Problem: ([^\n]+)/);
+                                  const title = titleMatch ? titleMatch[1] : `Problem ${pIdx + 1}`;
+                                  const problemContent = problem.replace(/### Problem: [^\n]+\n/, '');
+                                  return (
+                                    <ProblemAccordion key={pIdx} title={`Problem: ${title}`}>
+                                      <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
+                                        <ReactMarkdown remarkPlugins={[remarkGfm]}>{problemContent}</ReactMarkdown>
+                                      </div>
+                                    </ProblemAccordion>
+                                  );
+                                })}
+                              </div>
+                            </div>
+                          );
+                        }
+                        
+                        if (chunk.type === 'section5') {
+                          console.log('Rendering SECTION5 chunk with', chunk.items.length, 'items');
+                          return (
+                            <div key={`section5-${idx}`} className="my-3">
+                              <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
+                                <span>📖</span><span>SECTION 5: THE COMPLETE MASTERY ASSESSMENT</span>
+                              </h2>
+                              <h3 className="text-lg font-semibold text-blue-900 mt-3 mb-2">Self-Assessment Checklist</h3>
+                              <p className="text-sm mb-2">Mark each statement TRUE or FALSE. Be honest:</p>
+                              <SuccessCriteriaCheckboxes 
+                                lessonNumber={lessonNumber} 
+                                items={chunk.items} 
+                                storageKey={`lesson_${lessonNumber}_section5`}
+                              />
+                              <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1 mt-4">
+                                <ReactMarkdown remarkPlugins={[remarkGfm]}>{chunk.restContent}</ReactMarkdown>
+                              </div>
+                            </div>
+                          );
+                        }
+                        
+                        return null;
+                      })}
                     </>
                   ) : (
                     <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
