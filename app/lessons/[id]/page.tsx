@@ -251,7 +251,7 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
         // Remove the entire checkbox section - everything before "### NOT READY" or "###" that's not "Ready to Mark"
         let restContent = sectionContent;
         const notReadyMatch = restContent.match(/### .*NOT READY/i);
-        if (notReadyMatch) {
+        if (notReadyMatch && notReadyMatch.index !== undefined) {
           // Keep only from "### NOT READY" onwards
           restContent = restContent.substring(notReadyMatch.index);
         } else {
@@ -270,7 +270,7 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
         // Remove the entire checkbox section - everything before "### Scoring"
         let restContent = sectionContent;
         const scoringMatch = restContent.match(/### Scoring/);
-        if (scoringMatch) {
+        if (scoringMatch && scoringMatch.index !== undefined) {
           // Keep only from "### Scoring" onwards
           restContent = restContent.substring(scoringMatch.index);
         } else {
