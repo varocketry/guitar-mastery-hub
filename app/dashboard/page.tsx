@@ -108,7 +108,7 @@ export default function DashboardPage() {
               {/* Quick Stats Placeholder */}
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8">
                 <div className="bg-navy/5 border-2 border-navy/20 rounded-lg p-6 text-center">
-                  <div className="text-4xl font-bold text-gold mb-2">32</div>
+                  <div className="text-4xl font-bold text-gold mb-2">46</div>
                   <div className="text-navy/70 font-semibold">Lessons Available</div>
                 </div>
                 <div className="bg-navy/5 border-2 border-navy/20 rounded-lg p-6 text-center">
