@@ -4,24 +4,24 @@
 import Link from 'next/link';
 
 export default function LessonsPage() {
-  // All 32 deployed lessons
+  // All 46 lessons
   const lessons = [
     { id: 1, title: "Your First Two Chord Shapes", phase: "Foundation" },
     { id: 2, title: "Your Third Chord - D Major", phase: "Foundation" },
     { id: 3, title: "Fourth & Fifth Chords (G & C)", phase: "Foundation" },
     { id: 4, title: "Understanding Guitar Shapes", phase: "Foundation" },
-    { id: 5, title: "Strumming Patterns & Rhythm", phase: "Foundation" },
-    { id: 6, title: "E Major (E Shape)", phase: "Foundation" },
+    { id: 5, title: "Strumming Fundamentals", phase: "Foundation" },
+    { id: 6, title: "E Major & E Shape Introduction", phase: "Foundation" },
     { id: 7, title: "Foundation Review & Assessment", phase: "Foundation" },
     { id: 8, title: "Advanced Strumming Techniques", phase: "Foundation" },
-    { id: 9, title: "Music Reading", phase: "Foundation" },
+    { id: 9, title: "Music Reading Fundamentals", phase: "Foundation" },
     { id: 10, title: "Fingerstyle Basics", phase: "Foundation" },
     { id: 11, title: "Percussive & Palm Muting Techniques", phase: "Foundation" },
     { id: 12, title: "Travis Picking Mastery", phase: "Foundation" },
     { id: 13, title: "Walking Bass Lines", phase: "Foundation" },
     { id: 14, title: "First Complete Song - Stand By Me", phase: "Foundation" },
     { id: 15, title: "Power Chord Preparation", phase: "Foundation" },
-    { id: 16, title: "Understanding Fretboard", phase: "Foundation" },
+    { id: 16, title: "Understanding the Fretboard", phase: "Foundation" },
     { id: 17, title: "Power Chord Fundamentals", phase: "Foundation" },
     { id: 18, title: "5th String Roots", phase: "Foundation" },
     { id: 19, title: "Power Chord Riffs", phase: "Foundation" },
@@ -38,6 +38,20 @@ export default function LessonsPage() {
     { id: 30, title: "Celebration & Future Roadmap", phase: "Foundation" },
     { id: 31, title: "Music Theory Fundamentals", phase: "Major Theory" },
     { id: 32, title: "Chord Construction & Harmonic Function", phase: "Major Theory" },
+    { id: 33, title: "Major Scale Formula", phase: "Major Theory" },
+    { id: 34, title: "Key Signatures & Circle of Fifths", phase: "Major Theory" },
+    { id: 35, title: "Understanding Flats & Enharmonics", phase: "Major Theory" },
+    { id: 36, title: "Diatonic Harmony in Major Keys", phase: "Major Theory" },
+    { id: 37, title: "Chord Inversions & Voice Leading", phase: "Major Theory" },
+    { id: 38, title: "Major Key Integration Practice", phase: "Major Theory" },
+    { id: 39, title: "The Minor Scale", phase: "Minor Theory" },
+    { id: 40, title: "Minor Key Signatures", phase: "Minor Theory" },
+    { id: 41, title: "Relative vs Parallel Minor", phase: "Minor Theory" },
+    { id: 42, title: "Minor Key Diatonic Chords", phase: "Minor Theory" },
+    { id: 43, title: "Minor Key Progressions", phase: "Minor Theory" },
+    { id: 44, title: "Modal Interchange & Borrowing", phase: "Minor Theory" },
+    { id: 45, title: "Advanced Harmonic Concepts", phase: "Minor Theory" },
+    { id: 46, title: "Complete Theory Integration", phase: "Minor Theory" },
   ];
 
   return (
@@ -59,7 +73,7 @@ export default function LessonsPage() {
             </div>
           </div>
           <p className="text-white/70 text-lg">
-            32 lessons deployed • 14 more coming soon
+            46 lessons available
           </p>
         </div>
       </div>
@@ -104,12 +118,12 @@ export default function LessonsPage() {
           </div>
         </div>
 
-        {/* Major Theory Module */}
+        {/* Theory Module 1: Major Keys */}
         <div className="mb-12">
           <div className="flex items-center gap-3 mb-6">
             <h2 className="text-3xl font-bold text-white font-accent">Theory Module 1: Major Keys</h2>
             <span className="bg-gold text-navy px-4 py-1 rounded-full text-sm font-bold">
-              2/2 Complete
+              8/8 Complete
             </span>
           </div>
           
@@ -141,20 +155,40 @@ export default function LessonsPage() {
           </div>
         </div>
 
-        {/* Coming Soon */}
-        <div className="bg-navy/50 rounded-xl p-8 border-2 border-gold/30">
-          <h2 className="text-3xl font-bold text-white font-accent mb-6">Coming Soon</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-white">
-            <div className="bg-white/5 p-6 rounded-lg border border-gold/20">
-              <h3 className="font-bold text-gold mb-2 text-xl">Theory Module 2: Expanded Theory</h3>
-              <p className="text-white/70">Lessons 33-38 (6 lessons)</p>
-              <p className="text-sm text-white/60 mt-2">Deep dive into music theory applications</p>
-            </div>
-            <div className="bg-white/5 p-6 rounded-lg border border-gold/20">
-              <h3 className="font-bold text-gold mb-2 text-xl">Theory Module 3: Minor Keys</h3>
-              <p className="text-white/70">Lessons 39-46 (8 lessons)</p>
-              <p className="text-sm text-white/60 mt-2">Master minor scales and progressions</p>
-            </div>
+        {/* Theory Module 2: Minor Keys */}
+        <div className="mb-12">
+          <div className="flex items-center gap-3 mb-6">
+            <h2 className="text-3xl font-bold text-white font-accent">Theory Module 2: Minor Keys</h2>
+            <span className="bg-gold text-navy px-4 py-1 rounded-full text-sm font-bold">
+              8/8 Complete
+            </span>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {lessons.filter(l => l.phase === "Minor Theory").map((lesson) => (
+              <Link
+                key={lesson.id}
+                href={`/lessons/${lesson.id}`}
+                className="group bg-white rounded-lg p-6 hover:shadow-2xl transition-all duration-200 hover:scale-105 border-2 border-transparent hover:border-gold"
+              >
+                <div className="flex items-start justify-between mb-3">
+                  <span className="text-sm font-bold text-gold bg-gold/10 px-3 py-1 rounded-full">
+                    Lesson {lesson.id}
+                  </span>
+                  <svg 
+                    className="w-5 h-5 text-gray-400 group-hover:text-gold transition-colors" 
+                    fill="none" 
+                    stroke="currentColor" 
+                    viewBox="0 0 24 24"
+                  >
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </div>
+                <h3 className="text-lg font-semibold text-navy group-hover:text-gold transition-colors">
+                  {lesson.title}
+                </h3>
+              </Link>
+            ))}
           </div>
         </div>
 
