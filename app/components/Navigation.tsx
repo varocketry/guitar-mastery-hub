@@ -178,6 +178,15 @@ export default function Navigation() {
               Resources
             </Link>
 
+            <Link
+              href="/learning-guide"
+              className={`text-slate-300 hover:text-white transition px-3 py-2 ${
+                isActive('/learning-guide') ? 'text-gold border-b-2 border-gold' : ''
+              }`}
+            >
+              Learning Guide
+            </Link>
+
             {/* Profile Dropdown */}
             <div className="relative">
               <button
@@ -255,6 +264,12 @@ export default function Navigation() {
               className="block px-3 py-2 text-slate-300 hover:bg-slate-700 rounded transition"
             >
               Resources
+            </Link>
+            <Link
+              href="/learning-guide"
+              className="block px-3 py-2 text-slate-300 hover:bg-slate-700 rounded transition"
+            >
+              Learning Guide
             </Link>
             <Link
               href="/account"

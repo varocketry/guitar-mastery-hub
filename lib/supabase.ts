@@ -9,7 +9,7 @@ export const signIn = async (email: string) => {
   const { data, error } = await supabase.auth.signInWithOtp({
     email,
     options: {
-      emailRedirectTo: `${typeof window !== 'undefined' ? window.location.origin : ''}/learning-guide`
+      emailRedirectTo: `${typeof window !== 'undefined' ? window.location.origin : ''}/dashboard`
     }
   })
   return { data, error }
