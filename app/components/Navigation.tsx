@@ -41,32 +41,48 @@ export default function Navigation() {
     { number: 2, title: "Your Third Chord - D Major" },
     { number: 3, title: "Fourth & Fifth Chords (G & C)" },
     { number: 4, title: "Understanding Guitar Shapes" },
-    { number: 5, title: "Chord Transitions & Smooth Changes" },
-    { number: 6, title: "First Complete Song" },
-    { number: 7, title: "Strumming Patterns & Dynamics" },
-    { number: 8, title: "Advanced Strumming Rhythms" },
-    { number: 9, title: "Introduction to Music Reading" },
+    { number: 5, title: "Strumming Fundamentals" },
+    { number: 6, title: "E Major & E Shape Introduction" },
+    { number: 7, title: "Foundation Review & Assessment" },
+    { number: 8, title: "Advanced Strumming Techniques" },
+    { number: 9, title: "Music Reading Fundamentals" },
     { number: 10, title: "Fingerstyle Basics" },
-    { number: 11, title: "Complex Chord Progressions" },
-    { number: 12, title: "Performance Preparation" },
-    { number: 13, title: "Consolidation & Review" },
-    { number: 14, title: "Foundation Complete & Premium Preview" },
+    { number: 11, title: "Percussive & Palm Muting Techniques" },
+    { number: 12, title: "Travis Picking Mastery" },
+    { number: 13, title: "Walking Bass Lines" },
+    { number: 14, title: "First Complete Song - Stand By Me" },
     { number: 15, title: "Power Chord Preparation" },
     { number: 16, title: "Understanding the Fretboard" },
-    { number: 17, title: "Power Chord Fundamentals & Root Movement" },
-    { number: 18, title: "5th String Roots & Advanced Transitions" },
-    { number: 19, title: "Power Chord Riffs & Three-Note Voicings" },
-    { number: 20, title: "Advanced Power Chords & Week Integration" },
-    { number: 21, title: "Major Barre Chords - E Shape Foundation" },
-    { number: 22, title: "A-Shape Barre Chords & Minor Shapes" },
-    { number: 23, title: "Barre Chord Progressions & Fluency" },
-    { number: 24, title: "Complete Integration & Performance" },
-    { number: 25, title: "Single-Note Melodies & Scale Introduction" },
-    { number: 26, title: "Pentatonic Scale & Blues Fundamentals" },
-    { number: 27, title: "Advanced Lead Techniques" },
+    { number: 17, title: "Power Chord Fundamentals" },
+    { number: 18, title: "5th String Roots" },
+    { number: 19, title: "Power Chord Riffs" },
+    { number: 20, title: "Advanced Power Chords Integration" },
+    { number: 21, title: "Major Barre Chords - E Shape" },
+    { number: 22, title: "A-Shape & Minor Barre Chords" },
+    { number: 23, title: "Barre Chord Progressions" },
+    { number: 24, title: "Complete Integration" },
+    { number: 25, title: "Single-Note Melodies" },
+    { number: 26, title: "String Bending, Vibrato & Blues" },
+    { number: 27, title: "Advanced Lead & Solo Construction" },
     { number: 28, title: "Rhythm-Lead Integration" },
     { number: 29, title: "Complete Performance Preparation" },
-    { number: 30, title: "Celebration & Future Roadmap" },
+    { number: 30, title: "Celebration & Future" },
+    { number: 31, title: "Music Theory Fundamentals" },
+    { number: 32, title: "Chord Construction & Harmonic Function" },
+    { number: 33, title: "Major Scale Formula" },
+    { number: 34, title: "Key Signatures & Circle of Fifths" },
+    { number: 35, title: "Understanding Flats & Enharmonics" },
+    { number: 36, title: "Diatonic Harmony in Major Keys" },
+    { number: 37, title: "Chord Inversions & Voice Leading" },
+    { number: 38, title: "Major Key Integration Practice" },
+    { number: 39, title: "The Minor Scale" },
+    { number: 40, title: "Minor Key Signatures" },
+    { number: 41, title: "Relative vs Parallel Minor" },
+    { number: 42, title: "Minor Key Diatonic Chords" },
+    { number: 43, title: "Minor Key Progressions" },
+    { number: 44, title: "Modal Interchange & Borrowing" },
+    { number: 45, title: "Advanced Harmonic Concepts" },
+    { number: 46, title: "Complete Theory Integration" },
   ]
 
   return (
@@ -95,7 +111,7 @@ export default function Navigation() {
               {isLessonsOpen && (
                 <div className="absolute top-full left-0 mt-2 w-96 bg-slate-800 rounded-lg shadow-xl border border-slate-700 max-h-96 overflow-y-auto z-50">
                   <div className="p-4">
-                    <div className="text-xs font-semibold text-slate-400 mb-2">FREE TRIAL (1-10)</div>
+                    <div className="text-xs font-semibold text-slate-400 mb-2">FREE TRIAL (1-14)</div>
                     {lessons.slice(0, 14).map(lesson => (
                       <Link
                         key={lesson.number}
@@ -107,7 +123,7 @@ export default function Navigation() {
                       </Link>
                     ))}
                     
-                    <div className="text-xs font-semibold text-slate-400 mb-2 mt-4">ADVANCED FOUNDATION (15-30)</div>
+                    <div className="text-xs font-semibold text-slate-400 mb-2 mt-4">FOUNDATION PHASE (15-30)</div>
                     {lessons.slice(14, 30).map(lesson => (
                       <Link
                         key={lesson.number}
@@ -119,8 +135,17 @@ export default function Navigation() {
                       </Link>
                     ))}
                     
-                    <div className="text-xs font-semibold text-slate-400 mb-2 mt-4">PHASE 2 (Coming Soon)</div>
-                    <div className="text-sm text-slate-500 px-3 py-2">More lessons coming soon!</div>
+                    <div className="text-xs font-semibold text-slate-400 mb-2 mt-4">THEORY MODULE (31-46)</div>
+                    {lessons.slice(30, 46).map(lesson => (
+                      <Link
+                        key={lesson.number}
+                        href={`/lessons/${lesson.number}`}
+                        onClick={() => setIsLessonsOpen(false)}
+                        className="block px-3 py-2 text-sm text-slate-300 hover:bg-slate-700 rounded transition"
+                      >
+                        Lesson {lesson.number}: {lesson.title}
+                      </Link>
+                    ))}
                   </div>
                 </div>
               )}
@@ -153,105 +178,96 @@ export default function Navigation() {
               Resources
             </Link>
 
-            <Link
-              href="/practice"
-              className={`text-slate-300 hover:text-white transition px-3 py-2 ${
-                isActive('/practice') ? 'text-gold border-b-2 border-gold' : ''
-              }`}
-            >
-              Practice Log
-            </Link>
-
             {/* Profile Dropdown */}
             <div className="relative">
               <button
                 onClick={() => setIsProfileOpen(!isProfileOpen)}
-                className="flex items-center space-x-2 text-slate-300 hover:text-white transition"
+                className="flex items-center justify-center w-10 h-10 rounded-full bg-gold text-navy font-bold hover:bg-gold/80 transition"
               >
-      			 <div className="w-8 h-8 bg-gold rounded-full flex items-center justify-center text-navy font-semibold">
-                  {isSigningOut ? (
-                    <span className="text-xs">...</span>
-                  ) : (
-                    'U'
-                  )}
-                </div>
+                U
               </button>
               
               {isProfileOpen && (
                 <div className="absolute top-full right-0 mt-2 w-48 bg-slate-800 rounded-lg shadow-xl border border-slate-700 z-50">
-                  <Link
-                    href="/account"
-                    onClick={() => setIsProfileOpen(false)}
-                    className="block px-4 py-3 text-slate-300 hover:bg-slate-700 transition"
-                  >
-                    Account
-                  </Link>
-                  <Link
-                    href="/settings"
-                    onClick={() => setIsProfileOpen(false)}
-                    className="block px-4 py-3 text-slate-300 hover:bg-slate-700 transition"
-                  >
-                    Settings
-                  </Link>
-                  <button
-                    onClick={handleSignOut}
-                    disabled={isSigningOut}
-                    className="block w-full text-left px-4 py-3 text-slate-300 hover:bg-slate-700 transition border-t border-slate-700 disabled:opacity-50 disabled:cursor-not-allowed"
-                  >
-                    {isSigningOut ? 'Signing Out...' : 'Sign Out'}
-                  </button>
+                  <div className="p-2">
+                    <Link
+                      href="/account"
+                      onClick={() => setIsProfileOpen(false)}
+                      className="block px-3 py-2 text-sm text-slate-300 hover:bg-slate-700 rounded transition"
+                    >
+                      Account Settings
+                    </Link>
+                    <button
+                      onClick={handleSignOut}
+                      disabled={isSigningOut}
+                      className="w-full text-left px-3 py-2 text-sm text-slate-300 hover:bg-slate-700 rounded transition disabled:opacity-50"
+                    >
+                      {isSigningOut ? 'Signing out...' : 'Sign Out'}
+                    </button>
+                  </div>
                 </div>
               )}
             </div>
           </div>
 
           {/* Mobile menu button */}
-          <button
-            onClick={() => setIsOpen(!isOpen)}
-            className="md:hidden text-slate-300 hover:text-white"
-          >
-            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              {isOpen ? (
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-              ) : (
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
-              )}
-            </svg>
-          </button>
+          <div className="md:hidden">
+            <button
+              onClick={() => setIsOpen(!isOpen)}
+              className="text-slate-300 hover:text-white transition"
+            >
+              <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                {isOpen ? (
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                ) : (
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                )}
+              </svg>
+            </button>
+          </div>
         </div>
       </div>
 
       {/* Mobile menu */}
       {isOpen && (
         <div className="md:hidden bg-slate-800 border-t border-slate-700">
-          <div className="px-4 py-3 space-y-2">
-            <Link href="/dashboard" className="block text-slate-300 hover:text-white py-2">
+          <div className="px-2 pt-2 pb-3 space-y-1">
+            <Link
+              href="/dashboard"
+              className="block px-3 py-2 text-slate-300 hover:bg-slate-700 rounded transition"
+            >
               Dashboard
             </Link>
-            <Link href="/lessons" className="block text-slate-300 hover:text-white py-2">
-              Lessons
+            <Link
+              href="/lessons"
+              className="block px-3 py-2 text-slate-300 hover:bg-slate-700 rounded transition"
+            >
+              All Lessons
             </Link>
-            <Link href="/progress" className="block text-slate-300 hover:text-white py-2">
+            <Link
+              href="/progress"
+              className="block px-3 py-2 text-slate-300 hover:bg-slate-700 rounded transition"
+            >
               Progress
             </Link>
-            <Link href="/resources" className="block text-slate-300 hover:text-white py-2">
+            <Link
+              href="/resources"
+              className="block px-3 py-2 text-slate-300 hover:bg-slate-700 rounded transition"
+            >
               Resources
             </Link>
-            <Link href="/practice" className="block text-slate-300 hover:text-white py-2">
-              Practice Log
-            </Link>
-            <Link href="/account" className="block text-slate-300 hover:text-white py-2">
+            <Link
+              href="/account"
+              className="block px-3 py-2 text-slate-300 hover:bg-slate-700 rounded transition"
+            >
               Account
             </Link>
-            <Link href="/settings" className="block text-slate-300 hover:text-white py-2">
-              Settings
-            </Link>
-            <button 
+            <button
               onClick={handleSignOut}
               disabled={isSigningOut}
-              className="block text-slate-300 hover:text-white py-2 w-full text-left disabled:opacity-50"
+              className="w-full text-left px-3 py-2 text-slate-300 hover:bg-slate-700 rounded transition disabled:opacity-50"
             >
-              {isSigningOut ? 'Signing Out...' : 'Sign Out'}
+              {isSigningOut ? 'Signing out...' : 'Sign Out'}
             </button>
           </div>
         </div>
