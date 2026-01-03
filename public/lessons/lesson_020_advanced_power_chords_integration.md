@@ -2,7 +2,7 @@
 
 ## 🎸 THE COMPLETE ARSENAL: MASTERY THROUGH INTEGRATION
 
-**Week 3 ends here. This is where you become complete.**
+**This is where you become complete.**
 
 Not "competent." Not "pretty good." **COMPLETE.**
 

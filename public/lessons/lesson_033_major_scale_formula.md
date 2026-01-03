@@ -1,13 +1,5 @@
 # Lesson 33: The Major Scale Formula - Understanding the Pattern That Unlocks Everything
 
-## Lesson Overview
-
-**⏱️ TYPICAL COMPLETION TIME**: 4-5 days  
-**📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
-**🎯 PREREQUISITES**: Lessons 31-32 complete (music theory fundamentals, chord construction)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

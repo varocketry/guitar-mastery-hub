@@ -1,11 +1,5 @@
 # Lesson 7: Foundation Review & Skills Assessment
 
-**⏱️ TYPICAL COMPLETION TIME**: 3-5 days  
-**📅 PRACTICE SESSION LENGTH**: 45-60 minutes per session  
-**📍 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-6 complete (all seven foundation **chord shapes** mastered)
-
----
 
 ## 🎯 THE GRADUATION MOMENT
 

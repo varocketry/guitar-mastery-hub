@@ -20,7 +20,10 @@ Walk into any Nashville recording studio. Watch a session guitarist nail a song 
 **They're not showing off technique.**  
 **They're demonstrating strategic mastery.**
 
-**Mark Knopfler** (Dire Straits) explained: *"I see young players showing me all the chords they know. They play Am at the 5th fret, then F at the 1st, then Am again at the 5th. That's 8 frets of unnecessary movement. A professional would play Am at 5th, F at 1st, then immediately play Am at the 12th using an A-shape. Same chords, less movement, more flow. That's the difference."*
+**Mark Knopfler** (Dire Straits) explained: *"I see young players showing me all the chords they know. 
+They play Am at the 5th fret, then F at the 1st, then Am again at the 5th. That's 8 frets of 
+unnecessary movement. A professional would play Am at 5th, F at 1st, then immediately play Am 
+at the 12th using an A-shape. Same chords, less movement, more flow. That's the difference."*
 
 ---
 

@@ -1,13 +1,6 @@
 # Lesson 35: Understanding Flats & Enharmonics - Completing the Circle
 
-## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 3-4 days  
-**📅 PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
-**🎯 PREREQUISITES**: Lesson 34 complete (key signatures & Circle of Fifths)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

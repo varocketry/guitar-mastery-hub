@@ -1,13 +1,5 @@
 # Lesson 36: Diatonic Harmony in Major Keys - The Logic Behind Chord Progressions
 
-## Lesson Overview
-
-**⏱️ TYPICAL COMPLETION TIME**: 4-6 days  
-**📅 PRACTICE SESSION LENGTH**: 35-50 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
-**🎯 PREREQUISITES**: Lessons 33-35 complete (major scales, key signatures, Circle of Fifths)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

@@ -1,11 +1,5 @@
 # Lesson 12: Travis Picking Mastery
 
-**⏱️ TYPICAL COMPLETION TIME**: 2-3 weeks (minimum)  
-**📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**📍 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-11 complete (especially Lesson 10: Fingerstyle Basics)
-
----
 
 ## 🎯 THE HOLY GRAIL OF FINGERSTYLE
 

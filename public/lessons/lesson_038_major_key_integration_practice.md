@@ -1,13 +1,6 @@
 # Lesson 38: Major Key Integration & Practice - Mastering Major Key Theory
 
-## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
-**📅 PRACTICE SESSION LENGTH**: 40-60 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38) - CAPSTONE LESSON  
-**🎯 PREREQUISITES**: Lessons 31-37 complete (all major key theory)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

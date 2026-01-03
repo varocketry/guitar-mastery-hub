@@ -1,11 +1,5 @@
 # Lesson 11: Percussive Strumming & Palm Muting Techniques
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
-**📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**📍 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-10 complete (7 open chord shapes, 4 strumming patterns, fingerstyle basics)
-
----
 
 ## 🎯 ADDING TEXTURE: THE DRUMMER'S SECRET
 

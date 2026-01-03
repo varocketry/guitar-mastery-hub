@@ -1,13 +1,6 @@
 # Lesson 44: Modal Interchange & Borrowing - Adding Color Between Keys
 
-## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-6 days  
-**📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
-**🎯 PREREQUISITES**: Lesson 43 complete (minor key progressions)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

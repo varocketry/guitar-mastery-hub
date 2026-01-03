@@ -1,11 +1,5 @@
 # Lesson 8: Advanced Strumming Patterns
 
-**⏱️ TYPICAL COMPLETION TIME**: 4-6 days  
-**📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**📍 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-7 complete (7 **chord shapes** + 2 basic strumming patterns mastered)
-
----
 
 ## 🎯 UNLOCKING MUSICAL STYLES
 

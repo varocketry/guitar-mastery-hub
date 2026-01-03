@@ -1,22 +1,34 @@
 # Lesson 1: Your First Two Chords - E Minor & A Minor
 
-## Lesson Overview
+## 🎯 YOUR GUITAR JOURNEY BEGINS TODAY
 
-⏱️ **TYPICAL COMPLETION TIME**: 2-4 days  
-📅 **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-📂 **PHASE**: Foundation (Lessons 1-60)  
-🎯 **PREREQUISITES**: None - this is your starting point!
+**This is the moment everything changes.**
 
----
+Right now, your guitar might feel like a mystery - strings, frets, fingers that don't quite know where to go. You've probably tried strumming all six strings and heard... well, not music.
 
-## 🎓 LEARNING OBJECTIVES
+**In the next 30-40 minutes, that changes forever.**
 
-By the end of this lesson, you will be able to:
-- Form the E minor (Em) chord cleanly
-- Form the A minor (Am) chord cleanly
-- Understand basic chord anatomy (what makes a chord)
-- Switch between Em and Am smoothly
-- Begin developing finger calluses and hand strength
+By the end of today's practice session, you will:
+- Place your fingers on the fretboard with **purpose**
+- Strum **actual chord shapes** that sound like real music
+- Make **sounds you recognize** - the same sounds you hear in thousands of songs
+- Experience the moment when noise becomes **music**
+
+**This isn't theory. This isn't preparation. This is the real thing.**
+
+You're about to play your **first two chord shapes** - E minor and A minor - the exact same shapes that:
+- Bob Dylan used in "Knockin' on Heaven's Door"
+- The Eagles used in "Hotel California"  
+- Pearl Jam used in "Black"
+- Taylor Swift uses in dozens of songs
+
+**These two shapes unlock hundreds of songs.**
+
+**Today, you become a guitarist.** Not someone who "wants to play" or "is trying to learn" - someone who actually **plays guitar**.
+
+**This is Day 1. This is where legends start.** 
+
+**Let's begin.** 🎸
 
 ---
 

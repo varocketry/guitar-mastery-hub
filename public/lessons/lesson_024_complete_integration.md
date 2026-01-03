@@ -15,11 +15,15 @@ But here's what separates the guitarist from the **artist**:
 
 ### The Studio Producer's Question
 
-Walk into any major recording studio. Listen to a famous producer work with a guitarist. You'll hear this question repeated throughout the session:
+Walk into any major recording studio. Listen to a famous producer work with a guitarist. You'll 
+hear this question repeated throughout the session:
 
 **"That chord is correct. But is it the right voice for this moment?"**
 
-**Rick Rubin** (producer for Johnny Cash, Red Hot Chili Peppers, System of a Down): *"I worked with a guitarist who knew 300 chords. Impressive. But he didn't know WHEN to use them. He'd play barre chords in the verse where open chords would breathe. He'd play open chords in the chorus where power chords would drive. Technically perfect, musically wrong. I spent more time teaching him orchestration than I spent recording."*
+**Rick Rubin** (producer for Johnny Cash, Red Hot Chili Peppers, System of a Down): *"I worked with a 
+guitarist who knew 300 chords. Impressive. But he didn't know WHEN to use them. He'd play barre chords in 
+the verse where open chords would breathe. He'd play open chords in the chorus where power chords would drive. 
+Technically perfect, musically wrong. I spent more time teaching him orchestration than I spent recording."*
 
 ---
 

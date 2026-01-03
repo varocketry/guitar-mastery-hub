@@ -1,11 +1,5 @@
 # Lesson 3: Fourth & Fifth Chord Shapes - G Major & C Major
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
-**📅 PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-**📂 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-2 complete (can play Em, Am, D shapes cleanly at 60 BPM)
-
----
 
 ## 🎯 THE POWER MOMENT: CRITICAL MASS
 

@@ -1,11 +1,5 @@
 # Lesson 6: The E-Shape - Major Version (Your Sixth Chord Shape!)
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
-**📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**📍 **PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-5 complete (Em, Am, D, G, C **chord shapes** + strumming patterns mastered)
-
----
 
 ## 🎯 COMPLETING THE MOST IMPORTANT SHAPE FAMILY
 
@@ -2676,26 +2670,6 @@ Today:
 - Ready for Lesson 7 ✜
 
 **You're a GUITARIST now!**
-
----
-
-### The Next Phase: Expansion (Lessons 8-14)
-
-**After you complete Lesson 7, you enter Expansion Phase:**
-
-**What's coming:**
-- 7th chords (adding color to your shapes)
-- Suspended chords (emotional variations)
-- Advanced strumming (16th notes, syncopation)
-- Fingerstyle technique (classical guitar intro)
-- Music reading (tablature and notation)
-- Performance skills (playing for others)
-
-**But all of that builds on YOUR SEVEN FOUNDATION SHAPES.**
-
-**The foundation is nearly complete!**
-
-One more lesson (Lesson 7: Review & Assessment), then you're into the expansion phase!
 
 ---
 

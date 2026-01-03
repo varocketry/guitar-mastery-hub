@@ -1,13 +1,6 @@
 # Lesson 39: The Minor Scale - Understanding the "Other Half" of Music
 
-## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-6 days  
-**📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
-**🎯 PREREQUISITES**: Theory Module 1 complete (Lessons 31-38 - major key mastery)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

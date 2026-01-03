@@ -1,13 +1,6 @@
 # Lesson 34: Key Signatures & The Circle of Fifths - The Map of Musical Keys
 
-## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 3-4 days  
-**📅 PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
-**🎯 PREREQUISITES**: Lesson 33 complete (major scale formula mastery)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

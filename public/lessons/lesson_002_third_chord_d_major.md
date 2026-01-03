@@ -1,22 +1,45 @@
 # Lesson 2: Your Third Chord - D Major
 
-## Lesson Overview
-
-⏱️ **TYPICAL COMPLETION TIME**: 2-3 days  
-📅 **PRACTICE SESSION LENGTH**: 30-40 minutes per session  
-📂 **PHASE**: Foundation (Lessons 1-60)  
-🎯 **PREREQUISITES**: Lesson 1 complete (can play Em and Am chords cleanly)
-
 ---
 
-## 🎓 LEARNING OBJECTIVES
+## 🎯 DISCOVER YOUR POWER TO CREATE EMOTION
 
-By the end of this lesson, you will be able to:
-- Form the D major chord using three fingers
-- Understand why D major sounds "happy" (major vs. minor)
-- Switch smoothly between Em, Am, and D
-- Play your first three-chord progression
-- Play multiple songs using these three chords
+**Something magical is about to happen.**
+
+In Lesson 1, you learned two chord shapes. Both were **minor** - Em and Am. You probably noticed they sound somewhat... melancholic. A little sad. Introspective.
+
+**That was intentional.**
+
+**Because today, you're about to discover something profound:**
+
+**You can control the emotional quality of music with a simple finger pattern.**
+
+The D major shape you're learning today sounds completely different from Em and Am. It's **bright**. **Uplifting**. **Happy**. And when you switch from a minor shape to this major shape, you'll hear - and **feel** - the emotional transformation happen under your fingers.
+
+**This is the moment most guitarists remember forever:**
+
+The first time they realize they're not just making sounds - they're **creating feelings**. They're painting with emotion. They're making people feel something.
+
+**Today's revelation:**
+- **Minor shapes = sadness, introspection, melancholy**
+- **Major shapes = happiness, brightness, uplift**
+- **You control which emotion to create**
+
+**This isn't just guitar technique.** This is discovering you have the power to move people's hearts.
+
+By the end of today, you'll play a progression that goes from **sad to happy to sad again** - and you'll **hear** and **feel** that emotional journey. You'll understand, on a visceral level, why music moves us.
+
+**Thousands of songs use this exact emotional contrast:**
+- "Let It Be" - The Beatles
+- "Wonderwall" - Oasis
+- "Hey There Delilah" - Plain White T's
+- "Good Riddance (Time of Your Life)" - Green Day
+
+**They're all using the same principle you're learning today at 40 BPM.**
+
+**This is when guitar stops being a technical exercise and becomes an emotional language.**
+
+**Let's unlock that power.** 🎸
 
 ---
 

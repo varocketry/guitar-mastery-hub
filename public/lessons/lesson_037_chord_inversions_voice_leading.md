@@ -1,13 +1,5 @@
 # Lesson 37: Chord Inversions & Voice Leading - Making Progressions Sound Professional
 
-## Lesson Overview
-
-**⏱️ TYPICAL COMPLETION TIME**: 4-5 days  
-**📅 PRACTICE SESSION LENGTH**: 35-45 minutes per session  
-**📂 PHASE**: Theory Module 1 (Lessons 31-38)  
-**🎯 PREREQUISITES**: Lesson 36 complete (diatonic harmony, chord progressions)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

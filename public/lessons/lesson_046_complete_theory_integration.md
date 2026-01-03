@@ -1,13 +1,6 @@
 # Lesson 46: Complete Theory Integration - The Complete Musician
 
-## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 6-8 days  
-**📅 PRACTICE SESSION LENGTH**: 45-60 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46) - **FINAL CAPSTONE LESSON**  
-**🎯 PREREQUISITES**: Lesson 45 complete (advanced harmonic concepts)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

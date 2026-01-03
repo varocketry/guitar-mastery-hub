@@ -1,13 +1,6 @@
 # Lesson 45: Advanced Harmonic Concepts - Graduate-Level Theory Made Accessible
 
-## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
-**📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
-**🎯 PREREQUISITES**: Lesson 44 complete (modal interchange & borrowing)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

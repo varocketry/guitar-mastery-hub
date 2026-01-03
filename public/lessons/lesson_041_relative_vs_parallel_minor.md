@@ -1,13 +1,6 @@
 # Lesson 41: Relative vs. Parallel Minor - Two Different Relationships
 
-## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 4-5 days  
-**📅 PRACTICE SESSION LENGTH**: 35-45 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
-**🎯 PREREQUISITES**: Lesson 40 complete (minor key signatures)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 

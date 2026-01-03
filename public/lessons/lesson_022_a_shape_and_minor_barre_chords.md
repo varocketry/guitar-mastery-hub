@@ -618,23 +618,23 @@ Disadvantages: Requires careful strumming accuracy
 **Checklist**:
 
 ✜ **Thumb Position**:
-- [ ] Centered on back of neck (or slightly wrapped over top)
-- [ ] Providing counter-pressure for index barre
-- [ ] Tip touching 6th string lightly to mute
+- Centered on back of neck (or slightly wrapped over top)
+- Providing counter-pressure for index barre
+- Tip touching 6th string lightly to mute
 
 ✜ **Index Finger**:
-- [ ] Partial barre from A to B string (not all 6 strings!)
-- [ ] Positioned right behind 3rd fret wire
-- [ ] Using bony side
+- Partial barre from A to B string (not all 6 strings!)
+- Positioned right behind 3rd fret wire
+- Using bony side
 
 ✜ **Middle, Ring, Pinky**:
-- [ ] All on fingertips (not pads)
-- [ ] Arched perpendicular to fretboard
-- [ ] Stacked together in tight formation
+- All on fingertips (not pads)
+- Arched perpendicular to fretboard
+- Stacked together in tight formation
 
 ✜ **6th String**:
-- [ ] Muted (thumb, index tip, or palm)
-- [ ] When strumming, aim for strings 5-1 only
+- Muted (thumb, index tip, or palm)
+- When strumming, aim for strings 5-1 only
 
 ---
 
@@ -1493,10 +1493,10 @@ Ring finger isn't as strong as index finger. Barring with ring is a new skill re
 ### Advancement Guide
 
 **Ready for Lesson 23** if:
-- ✜ Can play C major (A-shape) with 3+ strings clear
-- ✜ Can play Fm and Cm with reasonable clarity
-- ✜ Can play Am → F → C → G progression slowly
-- ✜ Understand difference between major and minor
+- Can play C major (A-shape) with 3+ strings clear
+- Can play Fm and Cm with reasonable clarity
+- Can play Am → F → C → G progression slowly
+- Understand difference between major and minor
 
 **Need More Time** if:
 - Struggling to form A-shape chords at all

@@ -1,11 +1,5 @@
 # Lesson 9: Introduction to Music Reading for Guitarists
 
-**⏱️ TYPICAL COMPLETION TIME**: 4-6 days  
-**📅 PRACTICE SESSION LENGTH**: 35-50 minutes per session  
-**📍 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-8 complete (7 open chord shapes + 4 strumming patterns mastered)
-
----
 
 ## 🎯 BREAKING FREE FROM LIMITATIONS
 

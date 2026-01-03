@@ -1,11 +1,5 @@
 # Lesson 13: Walking Bass Lines - Walk-Ups & Walk-Downs
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
-**📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**📍 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-12 complete (Chords, strumming, fingerstyle, TAB reading)
-
----
 
 ## 🎯 CONNECTING THE DOTS
 

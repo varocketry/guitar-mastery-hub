@@ -1,11 +1,5 @@
 # Lesson 10: Fingerstyle Basics
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-7 days  
-**📅 PRACTICE SESSION LENGTH**: 30-45 minutes per session  
-**📍 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-9 complete (Chord shapes, strumming, basic technique, music reading)
-
----
 
 ## 🎯 DISCOVERING YOUR INNER CLASSICAL GUITARIST
 

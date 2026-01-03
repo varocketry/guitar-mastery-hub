@@ -1,13 +1,6 @@
 # Lesson 43: Minor Key Progressions - The Language of Emotion
 
-## Lesson Overview
 
-**⏱️ TYPICAL COMPLETION TIME**: 5-6 days  
-**📅 PRACTICE SESSION LENGTH**: 40-50 minutes per session  
-**📂 PHASE**: Theory Module 2 (Lessons 39-46)  
-**🎯 PREREQUISITES**: Lesson 42 complete (minor key diatonic chords)
-
----
 
 ## 🎯 LEARNING OBJECTIVES
 
