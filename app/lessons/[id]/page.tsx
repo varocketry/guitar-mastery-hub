@@ -9,7 +9,6 @@ import { getCurrentUser, markLessonComplete, getLessonProgress } from '@/lib/sup
 
 // SUCCESS CRITERIA CHECKBOXES
 function SuccessCriteriaCheckboxes({ lessonNumber, items, storageKey }: { lessonNumber: number; items: string[]; storageKey: string }) {
-  console.log('SuccessCriteriaCheckboxes rendering:', { lessonNumber, itemCount: items.length, storageKey });
   const [checkedItems, setCheckedItems] = useState<Set<number>>(new Set())
   const [isLoaded, setIsLoaded] = useState(false)
 
@@ -43,12 +42,7 @@ function SuccessCriteriaCheckboxes({ lessonNumber, items, storageKey }: { lesson
     })
   }
 
-  if (!isLoaded) {
-    console.log('SuccessCriteriaCheckboxes: Not loaded yet, returning null');
-    return null;
-  }
-
-  console.log('SuccessCriteriaCheckboxes: Rendering', items.length, 'checkboxes');
+  if (!isLoaded) return null;
   
   return (
     <ul className="list-disc pl-5 m-0">
@@ -67,12 +61,82 @@ function SuccessCriteriaCheckboxes({ lessonNumber, items, storageKey }: { lesson
           >
             <span className="font-mono select-none">{isChecked ? '[✅]' : '[ ]'}</span>
             {' '}
-            <span className="font-bold">{boldPart}</span>
-            {normalPart && <span> - {normalPart}</span>}
+            {boldPart && <span className="font-bold">{boldPart}</span>}
+            {normalPart && <span>{boldPart ? ' - ' : ''}{normalPart}</span>}
           </li>
         )
       })}
     </ul>
+  )
+}
+
+// GROUPED CHECKBOXES FOR PROGRESS CHECKPOINT
+function GroupedCheckboxes({ lessonNumber, groups, storageKey }: { 
+  lessonNumber: number; 
+  groups: Array<{ title: string; items: string[] }>; 
+  storageKey: string 
+}) {
+  const [checkedItems, setCheckedItems] = useState<Set<string>>(new Set())
+  const [isLoaded, setIsLoaded] = useState(false)
+
+  useEffect(() => {
+    try {
+      const saved = localStorage.getItem(storageKey)
+      if (saved) {
+        setCheckedItems(new Set(JSON.parse(saved)))
+      }
+    } catch (error) {
+      console.error('Load error:', error)
+    }
+    setIsLoaded(true)
+  }, [storageKey])
+
+  useEffect(() => {
+    if (isLoaded) {
+      try {
+        localStorage.setItem(storageKey, JSON.stringify(Array.from(checkedItems)))
+      } catch (error) {
+        console.error('Save error:', error)
+      }
+    }
+  }, [checkedItems, storageKey, isLoaded])
+
+  const toggleItem = (itemId: string) => {
+    setCheckedItems(prev => {
+      const newSet = new Set(prev)
+      newSet.has(itemId) ? newSet.delete(itemId) : newSet.add(itemId)
+      return newSet
+    })
+  }
+
+  if (!isLoaded) return null;
+  
+  return (
+    <div className="space-y-4">
+      {groups.map((group, groupIdx) => (
+        <div key={groupIdx}>
+          <h4 className="font-semibold text-blue-900 mb-2">{group.title}</h4>
+          <ul className="list-disc pl-5 m-0 space-y-1">
+            {group.items.map((item, itemIdx) => {
+              const itemId = `${groupIdx}-${itemIdx}`;
+              const isChecked = checkedItems.has(itemId);
+              
+              return (
+                <li 
+                  key={itemId}
+                  className="cursor-pointer hover:bg-gray-50 m-0 p-1"
+                  onClick={() => toggleItem(itemId)}
+                >
+                  <span className="font-mono select-none">{isChecked ? '[✅]' : '[ ]'}</span>
+                  {' '}
+                  <span>{item}</span>
+                </li>
+              )
+            })}
+          </ul>
+        </div>
+      ))}
+    </div>
   )
 }
 
@@ -173,68 +237,57 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
   };
 
   function splitLessonContent(markdown: string, lessonNum: number) {
-    console.log(`=== Lesson ${lessonNum} - Starting split ===`);
-    console.log('Markdown length:', markdown.length);
-    
-    // Find all interactive sections
-    const successMatch = markdown.match(/(?:^|\n)(## .*[Ss][Uu][Cc][Cc][Ee][Ss][Ss].*$)/im);
+    // Find all special sections (REMOVED section5Match - it was breaking real Section 5)
+    const successMatch = markdown.match(/(?:^|\n)(## .*[Ss][Uu][Cc][Cc][Ee][Ss][Ss].*(?:CHECKLIST|CRITERIA).*$)/im);
     const troubleMatch = markdown.match(/(?:^|\n)(## .*[Tt][Rr][Oo][Uu][Bb][Ll][Ee].*$)/im);
-    const section5Match = lessonNum === 46 ? markdown.match(/(?:^|\n)(## .*SECTION 5:.*$)/im) : null;
+    const progressMatch = markdown.match(/(?:^|\n)(## .*PROGRESS CHECKPOINT.*$)/im);
     
-    console.log('SUCCESS match:', successMatch ? 'FOUND' : 'NOT FOUND');
-    console.log('TROUBLE match:', troubleMatch ? 'FOUND' : 'NOT FOUND');
-    console.log('SECTION5 match:', section5Match ? 'FOUND' : 'NOT FOUND');
-    
-    if (!successMatch && !section5Match) {
-      console.log('Split result: Failed (using plain markdown)');
+    if (!successMatch && !troubleMatch && !progressMatch) {
       return null;
     }
     
-    // Track sections to extract
-    const sections: Array<{start: number, end: number, type: string}> = [];
+    const sections: Array<{ type: string; start: number; end: number }> = [];
     
-    // Find SUCCESS section boundaries
-    if (successMatch) {
-      const start = successMatch.index! + (successMatch[0].startsWith('\n') ? 1 : 0);
-      const nextSection = markdown.substring(start + 1).match(/\n## /);
-      const end = nextSection ? start + 1 + nextSection.index! : markdown.length;
-      sections.push({start, end, type: 'success'});
-      console.log('SUCCESS section:', start, 'to', end);
+    // Helper to find next section header
+    const findNextSection = (fromIndex: number) => {
+      const nextMatch = markdown.substring(fromIndex).match(/\n## /);
+      if (nextMatch && nextMatch.index !== undefined) {
+        return fromIndex + nextMatch.index;
+      }
+      return markdown.length;
+    };
+    
+    if (successMatch && successMatch.index !== undefined) {
+      sections.push({
+        type: 'success',
+        start: successMatch.index,
+        end: findNextSection(successMatch.index + 3)
+      });
     }
     
-    // Find TROUBLESHOOTING section boundaries
-    if (troubleMatch) {
-      const start = troubleMatch.index! + (troubleMatch[0].startsWith('\n') ? 1 : 0);
-      const nextSection = markdown.substring(start + 1).match(/\n## /);
-      const end = nextSection ? start + 1 + nextSection.index! : markdown.length;
-      sections.push({start, end, type: 'trouble'});
-      console.log('TROUBLE section:', start, 'to', end);
+    if (troubleMatch && troubleMatch.index !== undefined) {
+      sections.push({
+        type: 'trouble',
+        start: troubleMatch.index,
+        end: findNextSection(troubleMatch.index + 3)
+      });
     }
     
-    // Find SECTION 5 boundaries
-    if (section5Match) {
-      const start = section5Match.index! + (section5Match[0].startsWith('\n') ? 1 : 0);
-      const nextSection = markdown.substring(start + 1).match(/\n## /);
-      const end = nextSection ? start + 1 + nextSection.index! : markdown.length;
-      sections.push({start, end, type: 'section5'});
-      console.log('SECTION5 section:', start, 'to', end);
+    if (progressMatch && progressMatch.index !== undefined) {
+      sections.push({
+        type: 'progress',
+        start: progressMatch.index,
+        end: findNextSection(progressMatch.index + 3)
+      });
     }
     
-    // Sort sections by position
     sections.sort((a, b) => a.start - b.start);
     
-    // Build chunks
-    type Chunk = 
-      | { type: 'markdown'; content: string }
-      | { type: 'success'; items: string[]; restContent: string }
-      | { type: 'trouble'; problems: string[] }
-      | { type: 'section5'; items: string[]; restContent: string };
-    
-    const chunks: Chunk[] = [];
+    const chunks: Array<any> = [];
     let lastPos = 0;
     
     for (const sec of sections) {
-      // Add markdown BEFORE this section
+      // Add markdown before this section
       if (sec.start > lastPos) {
         chunks.push({
           type: 'markdown',
@@ -242,47 +295,111 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
         });
       }
       
-      // Extract section content
       const sectionContent = markdown.substring(sec.start, sec.end);
       
       if (sec.type === 'success') {
-        const items = sectionContent.match(/- \[ \] (.+)/g);
-        const checkboxItems = items ? items.map(line => line.replace('- [ ] ', '').trim()) : [];
-        // Remove the entire checkbox section - everything before "### NOT READY" or "###" that's not "Ready to Mark"
+        const lines = sectionContent.split('\n').filter(l => l.trim().startsWith('- [ ]'));
+        const checkboxItems = lines.map(l => l.replace('- [ ]', '').trim());
         let restContent = sectionContent;
-        const notReadyMatch = restContent.match(/### .*NOT READY/i);
-        if (notReadyMatch && notReadyMatch.index !== undefined) {
-          // Keep only from "### NOT READY" onwards
-          restContent = restContent.substring(notReadyMatch.index);
-        } else {
-          // If no "### NOT READY", remove everything
-          restContent = '';
-        }
-        console.log('SUCCESS items:', checkboxItems.length);
-        chunks.push({ type: 'success', items: checkboxItems, restContent });
-      } else if (sec.type === 'trouble') {
-        const problemMatches = sectionContent.match(/### Problem: [^\n]+[\s\S]*?(?=\n### Problem:|$)/g);
-        console.log('TROUBLE problems:', problemMatches ? problemMatches.length : 0);
-        chunks.push({ type: 'trouble', problems: problemMatches || [] });
-      } else if (sec.type === 'section5') {
-        const items = sectionContent.match(/- \[ \] (.+)/g);
-        const checkboxItems = items ? items.map(line => line.replace('- [ ] ', '').trim()) : [];
-        // Remove the entire checkbox section - everything before "### Scoring"
-        let restContent = sectionContent;
-        const scoringMatch = restContent.match(/### Scoring/);
+        const scoringMatch = restContent.match(/(?:^|\n)(### .*[Ss][Cc][Oo][Rr][Ii][Nn][Gg].*$)/im);
         if (scoringMatch && scoringMatch.index !== undefined) {
-          // Keep only from "### Scoring" onwards
           restContent = restContent.substring(scoringMatch.index);
         } else {
-          // If no "### Scoring", remove everything
           restContent = '';
         }
-        console.log('SECTION5 items:', checkboxItems.length);
-        console.log('SECTION5 restContent length:', restContent.length);
-        chunks.push({ type: 'section5', items: checkboxItems, restContent });
+        chunks.push({ type: 'success', items: checkboxItems, restContent });
       }
       
-      // Move past this section
+      if (sec.type === 'trouble') {
+        // DUAL-FORMAT SUPPORT: Handle both H3 headings (Lessons 1-4) and bold text (Lesson 5)
+        const problems: Array<{ title: string; content: string }> = [];
+        
+        // TRY FORMAT 1: Bold text with quotes - **Problem: "Title"**
+        let problemPattern = /\*\*Problem:\s*"([^"]+)"\*\*/g;
+        let matches: Array<{ title: string; index: number }> = [];
+        let match;
+        
+        while ((match = problemPattern.exec(sectionContent)) !== null) {
+          matches.push({
+            title: match[1],
+            index: match.index
+          });
+        }
+        
+        // TRY FORMAT 2: H3 headings - ### Problem: Title or ### Problem 1: Title
+        if (matches.length === 0) {
+          problemPattern = /### Problem(?:\s+\d+)?:\s+([^\n]+)/g;
+          while ((match = problemPattern.exec(sectionContent)) !== null) {
+            matches.push({
+              title: match[1],
+              index: match.index
+            });
+          }
+        }
+        
+        // Extract content for each problem
+        for (let i = 0; i < matches.length; i++) {
+          const start = matches[i].index;
+          const end = i < matches.length - 1 ? matches[i + 1].index : sectionContent.length;
+          const problemContent = sectionContent.substring(start, end);
+          
+          problems.push({
+            title: matches[i].title,
+            content: problemContent
+          });
+        }
+        
+        chunks.push({ type: 'trouble', problems });
+      }
+      
+      if (sec.type === 'progress') {
+        // Parse PROGRESS CHECKPOINT with grouped checkboxes
+        const groups: Array<{ title: string; items: string[] }> = [];
+        
+        // Find all subsection headers (bold text followed by colon)
+        const subsectionPattern = /\*\*([^*]+)\*\*:/g;
+        const subsections: Array<{ title: string; start: number; end: number }> = [];
+        
+        let subsecMatch;
+        while ((subsecMatch = subsectionPattern.exec(sectionContent)) !== null) {
+          const title = subsecMatch[1];
+          const start = subsecMatch.index;
+          subsections.push({ title, start, end: -1 });
+        }
+        
+        // Set end positions
+        for (let i = 0; i < subsections.length; i++) {
+          if (i < subsections.length - 1) {
+            subsections[i].end = subsections[i + 1].start;
+          } else {
+            // Find the "Advancement Guide" section or end of content
+            const advMatch = sectionContent.substring(subsections[i].start).match(/### Advancement Guide/);
+            subsections[i].end = advMatch && advMatch.index !== undefined 
+              ? subsections[i].start + advMatch.index 
+              : sectionContent.length;
+          }
+        }
+        
+        // Extract checkboxes for each subsection
+        for (const subsec of subsections) {
+          const subsecContent = sectionContent.substring(subsec.start, subsec.end);
+          const lines = subsecContent.split('\n').filter(l => l.trim().startsWith('- [ ]'));
+          const items = lines.map(l => l.replace('- [ ]', '').trim());
+          if (items.length > 0) {
+            groups.push({ title: subsec.title, items });
+          }
+        }
+        
+        // Extract rest content (Advancement Guide and Scoring)
+        let restContent = '';
+        const advMatch = sectionContent.match(/(?:^|\n)(### Advancement Guide[\s\S]*?)(?=\n## |$)/i);
+        if (advMatch) {
+          restContent = advMatch[1];
+        }
+        
+        chunks.push({ type: 'progress', groups, restContent });
+      }
+      
       lastPos = sec.end;
     }
     
@@ -294,7 +411,6 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
       });
     }
     
-    console.log('Split result: Success -', chunks.length, 'chunks');
     return chunks;
   }
 
@@ -354,7 +470,6 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
                         }
                         
                         if (chunk.type === 'success') {
-                          console.log('Rendering SUCCESS chunk with', chunk.items.length, 'items');
                           return (
                             <div key={`success-${idx}`} className="my-3">
                               <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
@@ -367,9 +482,11 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
                                 items={chunk.items}
                                 storageKey={`lesson_${lessonNumber}_success`}
                               />
-                              <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1 mt-4">
-                                <ReactMarkdown remarkPlugins={[remarkGfm]}>{chunk.restContent}</ReactMarkdown>
-                              </div>
+                              {chunk.restContent && (
+                                <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1 mt-4">
+                                  <ReactMarkdown remarkPlugins={[remarkGfm]}>{chunk.restContent}</ReactMarkdown>
+                                </div>
+                              )}
                             </div>
                           );
                         }
@@ -381,14 +498,11 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
                                 <span>🔧</span><span>TROUBLESHOOTING</span>
                               </h2>
                               <div className="space-y-0">
-                                {chunk.problems.map((problem, pIdx) => {
-                                  const titleMatch = problem.match(/### Problem: ([^\n]+)/);
-                                  const title = titleMatch ? titleMatch[1] : `Problem ${pIdx + 1}`;
-                                  const problemContent = problem.replace(/### Problem: [^\n]+\n/, '');
+                                {chunk.problems.map((problem: { title: string; content: string }, pIdx: number) => {
                                   return (
-                                    <ProblemAccordion key={pIdx} title={`Problem: ${title}`}>
+                                    <ProblemAccordion key={pIdx} title={`Problem: "${problem.title}"`}>
                                       <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1">
-                                        <ReactMarkdown remarkPlugins={[remarkGfm]}>{problemContent}</ReactMarkdown>
+                                        <ReactMarkdown remarkPlugins={[remarkGfm]}>{problem.content}</ReactMarkdown>
                                       </div>
                                     </ProblemAccordion>
                                   );
@@ -398,23 +512,24 @@ export default function LessonPage({ params }: { params: Promise<{ id: string }>
                           );
                         }
                         
-                        if (chunk.type === 'section5') {
-                          console.log('Rendering SECTION5 chunk with', chunk.items.length, 'items');
+                        if (chunk.type === 'progress') {
                           return (
-                            <div key={`section5-${idx}`} className="my-3">
+                            <div key={`progress-${idx}`} className="my-3">
                               <h2 className="text-xl font-bold text-blue-900 mb-2 flex items-center gap-2">
-                                <span>📖</span><span>SECTION 5: THE COMPLETE MASTERY ASSESSMENT</span>
+                                <span>🎸</span><span>PROGRESS CHECKPOINT</span>
                               </h2>
                               <h3 className="text-lg font-semibold text-blue-900 mt-3 mb-2">Self-Assessment Checklist</h3>
-                              <p className="text-sm mb-2">Mark each statement TRUE or FALSE. Be honest:</p>
-                              <SuccessCriteriaCheckboxes 
+                              <p className="text-sm mb-2">Check off each skill honestly as you develop it:</p>
+                              <GroupedCheckboxes 
                                 lessonNumber={lessonNumber} 
-                                items={chunk.items} 
-                                storageKey={`lesson_${lessonNumber}_section5`}
+                                groups={chunk.groups}
+                                storageKey={`lesson_${lessonNumber}_progress`}
                               />
-                              <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1 mt-4">
-                                <ReactMarkdown remarkPlugins={[remarkGfm]}>{chunk.restContent}</ReactMarkdown>
-                              </div>
+                              {chunk.restContent && (
+                                <div className="prose prose-sm max-w-none prose-li:my-0 prose-p:my-1 mt-4">
+                                  <ReactMarkdown remarkPlugins={[remarkGfm]}>{chunk.restContent}</ReactMarkdown>
+                                </div>
+                              )}
                             </div>
                           );
                         }

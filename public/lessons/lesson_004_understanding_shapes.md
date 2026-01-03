@@ -1,11 +1,5 @@
 # Lesson 4: Understanding Guitar Shapes - The Game-Changing Concept
 
-**⏱️ TYPICAL COMPLETION TIME**: 4-5 days  
-**📅 PRACTICE SESSION LENGTH**: 35-45 minutes per session  
-**📍 PHASE**: Foundation (Lessons 1-30)  
-**🎯 PREREQUISITES**: Lessons 1-3 complete (can play Em, Am, D, G, C shapes cleanly at 60 BPM)
-
----
 
 ## 🎯 WHY THIS LESSON CHANGES EVERYTHING
 
@@ -925,7 +919,7 @@ This lesson is primarily **conceptual** with **practical application**. The ment
 
 **The "aha moment" might not happen on Day 1.** It often clicks on Day 3 or 4 when you're playing "Let It Be" and suddenly think "Oh! I'm just moving through shapes!"
 
-**Don't rush.** This understanding will make the next 176 lessons easier.
+**Don't rush.** This understanding will make the next 42 lessons easier.
 
 **Quality beats speed every time.**
 
@@ -1238,7 +1232,7 @@ Den Lopez, who pioneered this teaching approach, says:
 
 **You're now thinking the way professionals think.**
 
-**The next 176 lessons just got easier** because you understand the underlying pattern AND you know how to build skills properly (slowly, with metronome, at correct tempos).
+**The next 42 lessons just got easier** because you understand the underlying pattern AND you know how to build skills properly (slowly, with metronome, at correct tempos).
 
 **This is the foundation.** Everything builds from here.
 
