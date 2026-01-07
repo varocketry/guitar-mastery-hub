@@ -1,469 +1,433 @@
 'use client';
 
-import { useEffect, useState } from 'react';
-import { useRouter } from 'next/navigation';
-import { getCurrentUser } from '@/lib/supabase';
-import { signIn } from '@/lib/supabase';
+import Link from 'next/link';
+import { useState, useEffect } from 'react';
 
 export default function LandingPage() {
-  const router = useRouter();
-  const [email, setEmail] = useState('');
-  const [loading, setLoading] = useState(false);
-  const [message, setMessage] = useState('');
-  const [isCheckingAuth, setIsCheckingAuth] = useState(true);
+  const [scrolled, setScrolled] = useState(false);
 
-  // Check if user is already logged in
   useEffect(() => {
-    async function checkUser() {
-      const { user } = await getCurrentUser();
-      if (user) {
-        router.push('/dashboard');
-      } else {
-        setIsCheckingAuth(false);
-      }
-    }
-    checkUser();
-  }, [router]);
-
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setLoading(true);
-    setMessage('');
-    
-    const { error } = await signIn(email);
-    setLoading(false);
-    
-    if (error) {
-      setMessage('Error sending magic link. Please try again.');
-    } else {
-      setMessage('Check your email for the magic link!');
-    }
-  };
-
-  if (isCheckingAuth) {
-    return (
-      <div className="min-h-screen bg-slate-900 flex items-center justify-center">
-        <div className="text-white">Loading...</div>
-      </div>
-    );
-  }
+    const handleScroll = () => {
+      setScrolled(window.scrollY > 50);
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   return (
-    <div className="min-h-screen bg-slate-900">
-      {/* Navigation Bar */}
-      <nav className="fixed top-0 left-0 right-0 bg-slate-900/95 backdrop-blur-sm z-50 border-b border-slate-700">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center h-16">
-            <div className="flex items-center">
-              <span className="text-2xl font-bold text-white">
-                Guitar Mastery Hub
-              </span>
+    <div className="min-h-screen bg-white text-gray-900">
+      {/* Navigation */}
+      <nav className={`fixed top-0 w-full z-50 transition-all duration-300 ${
+        scrolled ? 'bg-white/95 backdrop-blur-sm shadow-md' : 'bg-white'
+      }`}>
+        <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+          <div className="flex items-center space-x-3">
+            <div className="w-10 h-10 bg-[#1E3A8A] rounded-lg flex items-center justify-center">
+              <span className="text-2xl">🎸</span>
             </div>
-            <div className="flex items-center gap-4">
-              <a href="#features" className="text-gray-300 hover:text-white transition">
-                Features
-              </a>
-              <a href="#pricing" className="text-gray-300 hover:text-white transition">
-                Pricing
-              </a>
-              <button
-                onClick={() => {
-                  const loginSection = document.getElementById('login');
-                  loginSection?.scrollIntoView({ behavior: 'smooth' });
-                }}
-                className="text-gray-300 hover:text-white transition"
-              >
-                Login
-              </button>
-            </div>
+            <span className="text-xl font-bold text-[#1E3A8A]">Guitar Mastery Hub</span>
+          </div>
+          <div className="hidden md:flex space-x-8 items-center">
+            <a href="#features" className="text-gray-700 hover:text-[#1E3A8A] transition-colors font-medium">Features</a>
+            <a href="#curriculum" className="text-gray-700 hover:text-[#1E3A8A] transition-colors font-medium">Curriculum</a>
+            <a href="#pricing" className="text-gray-700 hover:text-[#1E3A8A] transition-colors font-medium">Pricing</a>
+            <Link 
+              href="/auth" 
+              className="px-6 py-2 bg-[#D4AF37] text-white rounded-lg font-semibold hover:bg-[#b8941f] transition-all shadow-md"
+            >
+              Get Started
+            </Link>
           </div>
         </div>
       </nav>
 
       {/* Hero Section */}
-      <section className="relative pt-32 pb-20 px-4 sm:px-6 lg:px-8">
-        {/* Background gradient */}
-        <div className="absolute inset-0 bg-gradient-to-b from-blue-900/20 to-slate-900" />
-        
-        <div className="relative max-w-7xl mx-auto">
-          <div className="text-center">
-            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-white mb-6">
-              Master Guitar at
-              <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-orange-400">
-                Your Own Pace
-              </span>
-            </h1>
-            <p className="text-xl sm:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
-              46 comprehensive lessons designed for adult learners. From complete beginner to confident player in weeks, not years.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-              <a
-                href="#login"
-                className="px-8 py-4 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white text-lg font-semibold rounded-lg shadow-lg transform transition hover:scale-105"
-              >
-                Start Free Trial (14 Lessons)
-              </a>
-              <a
-                href="#features"
-                className="px-8 py-4 bg-slate-800 hover:bg-slate-700 text-white text-lg font-semibold rounded-lg border border-slate-600 transition"
-              >
-                Learn More
-              </a>
+      <section className="pt-32 pb-20 px-6">
+        <div className="max-w-6xl mx-auto">
+          {/* Hero Image - Full Width on Top */}
+          <div className="mb-12">
+            <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-gray-200">
+              <img 
+                src="/hero-beach-musicians.png" 
+                alt="Group of people playing acoustic guitars together on the beach at sunset - the community and joy of making music"
+                className="w-full h-auto"
+              />
             </div>
-            <p className="mt-4 text-gray-400 text-sm">
-              No credit card required • 14 lessons free forever
-            </p>
           </div>
 
-          {/* Hero Image Placeholder */}
-          <div className="mt-16 relative">
-            <div className="aspect-video rounded-2xl bg-gradient-to-br from-slate-800 to-slate-900 border border-slate-700 flex items-center justify-center overflow-hidden">
-              {/* Image placeholder - replace with actual image */}
-              <div className="text-center">
-                <svg className="w-24 h-24 text-slate-600 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3" />
-                </svg>
-                <p className="text-gray-500">Hero Image: Person playing guitar</p>
-                <p className="text-gray-600 text-sm mt-2">(Add professional photo from Unsplash)</p>
-              </div>
+          {/* Text Content - Centered Below Image */}
+          <div className="text-center space-y-8 max-w-4xl mx-auto">
+            {/* Main Headline */}
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-[#1E3A8A]">
+              From Complete Beginner<br />
+              to <span className="text-[#D4AF37]">Complete Musician</span>
+            </h1>
+
+            {/* Subheadline */}
+            <p className="text-lg md:text-xl text-gray-700 leading-relaxed">
+              Master guitar technique and music theory through a systematic, 
+              user-controlled curriculum designed specifically for adult learners.
+            </p>
+
+            {/* CTA Buttons */}
+            <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
+              <Link 
+                href="/auth"
+                className="px-8 py-4 bg-[#D4AF37] text-white rounded-lg font-bold text-lg hover:bg-[#b8941f] transition-all shadow-lg"
+              >
+                Start Learning Today
+              </Link>
+              <a 
+                href="#curriculum"
+                className="px-8 py-4 border-2 border-[#1E3A8A] text-[#1E3A8A] rounded-lg font-semibold text-lg hover:bg-[#1E3A8A] hover:text-white transition-all"
+              >
+                Explore Curriculum
+              </a>
             </div>
+
+            {/* Social Proof */}
+            <p className="text-sm text-gray-600">
+              First 14 lessons free (forever!) • No credit card required
+            </p>
           </div>
         </div>
       </section>
 
       {/* Features Section */}
-      <section id="features" className="py-20 px-4 sm:px-6 lg:px-8 bg-slate-800/50">
-        <div className="max-w-7xl mx-auto">
-          <h2 className="text-4xl font-bold text-white text-center mb-4">
-            Why Guitar Mastery Hub?
-          </h2>
-          <p className="text-xl text-gray-300 text-center mb-16 max-w-3xl mx-auto">
-            Designed specifically for adult learners who want real progress, not false promises
-          </p>
+      <section id="features" className="py-20 px-6 bg-[#F0F0F0]">
+        <div className="max-w-6xl mx-auto">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-[#1E3A8A]">What Makes This Different</h2>
+            <p className="text-xl text-gray-700">A comprehensive system built for adult learners</p>
+          </div>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-3 gap-8">
             {/* Feature 1 */}
-            <div className="bg-slate-900 rounded-xl p-6 border border-slate-700">
-              <div className="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-4">
-                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
-                </svg>
+            <div className="bg-white border border-gray-200 rounded-xl p-8 hover:shadow-lg transition-all">
+              <div className="w-12 h-12 bg-[#1E3A8A] rounded-lg flex items-center justify-center mb-6">
+                <span className="text-2xl">🎯</span>
               </div>
-              <h3 className="text-xl font-semibold text-white mb-2">46 Comprehensive Lessons</h3>
-              <p className="text-gray-400">
-                Each lesson averages 7,000-9,000 words - 4x more detailed than competitors. No shortcuts, just complete mastery.
+              <h3 className="text-2xl font-bold mb-4 text-[#1E3A8A]">User-Controlled Progression</h3>
+              <p className="text-gray-700 leading-relaxed">
+                No arbitrary timelines. Progress at your own pace with "complete when ready" 
+                language that respects your schedule and learning speed.
               </p>
             </div>
 
             {/* Feature 2 */}
-            <div className="bg-slate-900 rounded-xl p-6 border border-slate-700">
-              <div className="w-12 h-12 bg-orange-600 rounded-lg flex items-center justify-center mb-4">
-                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
+            <div className="bg-white border border-gray-200 rounded-xl p-8 hover:shadow-lg transition-all">
+              <div className="w-12 h-12 bg-[#1E3A8A] rounded-lg flex items-center justify-center mb-6">
+                <span className="text-2xl">📚</span>
               </div>
-              <h3 className="text-xl font-semibold text-white mb-2">Learn at Your Pace</h3>
-              <p className="text-gray-400">
-                No rigid schedules. Progress when YOU'RE ready. User-controlled advancement based on actual mastery, not arbitrary timelines.
+              <h3 className="text-2xl font-bold mb-4 text-[#1E3A8A]">University-Level Depth</h3>
+              <p className="text-gray-700 leading-relaxed">
+                7,000-9,000 words per lesson (4x industry standard). Complete technical 
+                mastery plus comprehensive music theory education.
               </p>
             </div>
 
             {/* Feature 3 */}
-            <div className="bg-slate-900 rounded-xl p-6 border border-slate-700">
-              <div className="w-12 h-12 bg-green-600 rounded-lg flex items-center justify-center mb-4">
-                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
+            <div className="bg-white border border-gray-200 rounded-xl p-8 hover:shadow-lg transition-all">
+              <div className="w-12 h-12 bg-[#1E3A8A] rounded-lg flex items-center justify-center mb-6">
+                <span className="text-2xl">🎸</span>
               </div>
-              <h3 className="text-xl font-semibold text-white mb-2">Interactive Practice Tools</h3>
-              <p className="text-gray-400">
-                Success criteria checkboxes, troubleshooting guides, and practice tracking. Know exactly when you're ready to advance.
-              </p>
-            </div>
-
-            {/* Feature 4 */}
-            <div className="bg-slate-900 rounded-xl p-6 border border-slate-700">
-              <div className="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-4">
-                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-                </svg>
-              </div>
-              <h3 className="text-xl font-semibold text-white mb-2">Science-Based Methods</h3>
-              <p className="text-gray-400">
-                "Slow is smooth, smooth is fast." Shape-based learning that makes advanced techniques accessible from day one.
-              </p>
-            </div>
-
-            {/* Feature 5 */}
-            <div className="bg-slate-900 rounded-xl p-6 border border-slate-700">
-              <div className="w-12 h-12 bg-red-600 rounded-lg flex items-center justify-center mb-4">
-                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
-                </svg>
-              </div>
-              <h3 className="text-xl font-semibold text-white mb-2">Complete Music Theory</h3>
-              <p className="text-gray-400">
-                Foundation (30 lessons) + Major Keys (8 lessons) + Minor Keys (8 lessons). Understand music, don't just memorize.
-              </p>
-            </div>
-
-            {/* Feature 6 */}
-            <div className="bg-slate-900 rounded-xl p-6 border border-slate-700">
-              <div className="w-12 h-12 bg-yellow-600 rounded-lg flex items-center justify-center mb-4">
-                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
-                </svg>
-              </div>
-              <h3 className="text-xl font-semibold text-white mb-2">Built for Adults</h3>
-              <p className="text-gray-400">
-                No cartoons, no kids' songs. Serious instruction for serious students who want real musical ability.
+              <h3 className="text-2xl font-bold mb-4 text-[#1E3A8A]">Complete Musician</h3>
+              <p className="text-gray-700 leading-relaxed">
+                From open chords to advanced harmony. From strumming basics to lead guitar. 
+                From reading music to composing songs. Everything, systematically.
               </p>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Social Proof Section */}
-      <section className="py-20 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl font-bold text-white mb-8">
-            Join Hundreds of Students Mastering Guitar
-          </h2>
-          <div className="bg-slate-800 rounded-xl p-8 border border-slate-700">
-            <p className="text-lg text-gray-300 italic mb-4">
-              "I tried JustinGuitar and Fender Play but always felt rushed. Guitar Mastery Hub lets me master each technique before moving on. In 3 months, I've learned more than 2 years of scattered YouTube lessons."
-            </p>
-            <p className="text-gray-400">— Adult Learner</p>
+      {/* Curriculum Section */}
+      <section id="curriculum" className="py-20 px-6 bg-white">
+        <div className="max-w-6xl mx-auto">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-[#1E3A8A]">The Complete Journey</h2>
+            <p className="text-xl text-gray-700">46 lessons organized in three progressive phases</p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-8">
+            {/* Phase 1 */}
+            <div className="border-2 border-[#1E3A8A] rounded-xl p-8 bg-white">
+              <div className="flex items-center justify-between mb-6">
+                <h3 className="text-2xl font-bold text-[#1E3A8A]">Foundation Phase</h3>
+                <span className="text-sm px-3 py-1 bg-[#D4AF37] text-white rounded-full font-semibold">Lessons 1-30</span>
+              </div>
+              <ul className="space-y-3 text-gray-700">
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Open chords & strumming patterns</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Music reading & fingerstyle basics</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Power chords & barre chords</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Lead guitar & blues expression</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Performance preparation</span>
+                </li>
+              </ul>
+            </div>
+
+            {/* Phase 2 */}
+            <div className="border-2 border-[#1E3A8A] rounded-xl p-8 bg-white">
+              <div className="flex items-center justify-between mb-6">
+                <h3 className="text-2xl font-bold text-[#1E3A8A]">Theory Module 1</h3>
+                <span className="text-sm px-3 py-1 bg-[#D4AF37] text-white rounded-full font-semibold">Lessons 31-38</span>
+              </div>
+              <ul className="space-y-3 text-gray-700">
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Major scales & key signatures</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Circle of Fifths mastery</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Diatonic harmony & progressions</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Voice leading & inversions</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Major key integration</span>
+                </li>
+              </ul>
+            </div>
+
+            {/* Phase 3 */}
+            <div className="border-2 border-[#1E3A8A] rounded-xl p-8 bg-white">
+              <div className="flex items-center justify-between mb-6">
+                <h3 className="text-2xl font-bold text-[#1E3A8A]">Theory Module 2</h3>
+                <span className="text-sm px-3 py-1 bg-[#D4AF37] text-white rounded-full font-semibold">Lessons 39-46</span>
+              </div>
+              <ul className="space-y-3 text-gray-700">
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Minor scales & harmony</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Relative vs. parallel minor</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Modal interchange & borrowing</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Advanced harmonic concepts</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">•</span>
+                  <span>Complete theory mastery</span>
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </section>
 
       {/* Pricing Section */}
-      <section id="pricing" className="py-20 px-4 sm:px-6 lg:px-8 bg-slate-800/50">
-        <div className="max-w-7xl mx-auto">
-          <h2 className="text-4xl font-bold text-white text-center mb-4">
-            Simple, Honest Pricing
-          </h2>
-          <p className="text-xl text-gray-300 text-center mb-16">
-            Start with 14 free lessons. Unlock everything when you're ready.
-          </p>
+      <section id="pricing" className="py-20 px-6 bg-[#F0F0F0]">
+        <div className="max-w-4xl mx-auto">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-[#1E3A8A]">Simple, Transparent Pricing</h2>
+            <p className="text-xl text-gray-700">Start learning immediately with 14 free lessons</p>
+          </div>
 
-          <div className="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
-            {/* Free Tier */}
-            <div className="bg-slate-900 rounded-xl p-8 border border-slate-700">
-              <h3 className="text-2xl font-bold text-white mb-2">Free Trial</h3>
-              <p className="text-gray-400 mb-6">Perfect for getting started</p>
+          <div className="grid md:grid-cols-2 gap-8">
+            {/* Free Access */}
+            <div className="border-2 border-gray-300 rounded-xl p-8 bg-white">
+              <h3 className="text-2xl font-bold mb-2 text-[#1E3A8A]">Start Free</h3>
+              <p className="text-gray-700 mb-6">Begin your guitar journey</p>
               <div className="mb-6">
-                <span className="text-4xl font-bold text-white">$0</span>
-                <span className="text-gray-400">/forever</span>
+                <span className="text-5xl font-bold text-[#1E3A8A]">$0</span>
               </div>
-              <ul className="space-y-3 mb-8">
-                <li className="flex items-start gap-2 text-gray-300">
-                  <svg className="w-5 h-5 text-green-500 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>First 14 lessons</span>
+              <ul className="space-y-3 mb-8 text-gray-700">
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">✓</span>
+                  <span>Lessons 1-14 free forever</span>
                 </li>
-                <li className="flex items-start gap-2 text-gray-300">
-                  <svg className="w-5 h-5 text-green-500 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>Complete foundation basics</span>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">✓</span>
+                  <span>Open chords, strumming, basics</span>
                 </li>
-                <li className="flex items-start gap-2 text-gray-300">
-                  <svg className="w-5 h-5 text-green-500 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>Interactive features</span>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">✓</span>
+                  <span>Music reading fundamentals</span>
                 </li>
-                <li className="flex items-start gap-2 text-gray-300">
-                  <svg className="w-5 h-5 text-green-500 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>No credit card needed</span>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">✓</span>
+                  <span>No credit card required</span>
                 </li>
               </ul>
-              <a
-                href="#login"
-                className="block w-full py-3 bg-slate-700 hover:bg-slate-600 text-white font-semibold rounded-lg text-center transition"
+              <Link 
+                href="/auth"
+                className="block w-full py-3 border-2 border-[#1E3A8A] text-[#1E3A8A] text-center rounded-lg font-semibold hover:bg-[#1E3A8A] hover:text-white transition-all"
               >
-                Start Free
-              </a>
+                Start Learning Free
+              </Link>
             </div>
 
-            {/* One-Time Purchase */}
-            <div className="bg-gradient-to-br from-blue-900 to-blue-800 rounded-xl p-8 border-2 border-blue-500 relative">
-              <div className="absolute -top-4 left-1/2 transform -translate-x-1/2 bg-orange-500 text-white px-4 py-1 rounded-full text-sm font-semibold">
+            {/* Premium Access */}
+            <div className="border-2 border-[#D4AF37] rounded-xl p-8 relative bg-white shadow-lg">
+              <div className="absolute -top-3 right-8 px-3 py-1 bg-[#D4AF37] text-white text-sm font-bold rounded-full">
                 BEST VALUE
               </div>
-              <h3 className="text-2xl font-bold text-white mb-2">Lifetime Access</h3>
-              <p className="text-blue-200 mb-6">Pay once, learn forever</p>
+              <h3 className="text-2xl font-bold mb-2 text-[#1E3A8A]">Complete Access</h3>
+              <p className="text-gray-700 mb-6">Full curriculum + future updates</p>
               <div className="mb-6">
-                <span className="text-4xl font-bold text-white">$29.99</span>
-                <span className="text-blue-200">/one-time</span>
+                <span className="text-5xl font-bold text-[#1E3A8A]">$29.99</span>
+                <span className="text-gray-700 ml-2">one-time</span>
+                <p className="text-sm text-gray-600 mt-2">or $9.99/month</p>
               </div>
-              <ul className="space-y-3 mb-8">
-                <li className="flex items-start gap-2 text-white">
-                  <svg className="w-5 h-5 text-green-400 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>All 46 lessons</span>
+              <ul className="space-y-3 mb-8 text-gray-700">
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">✓</span>
+                  <span><strong>All 46 lessons</strong> (Foundation + Theory)</span>
                 </li>
-                <li className="flex items-start gap-2 text-white">
-                  <svg className="w-5 h-5 text-green-400 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>Complete theory modules</span>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">✓</span>
+                  <span>~446,000 words of instruction</span>
                 </li>
-                <li className="flex items-start gap-2 text-white">
-                  <svg className="w-5 h-5 text-green-400 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>Future updates included</span>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">✓</span>
+                  <span>Complete beginner → advanced musician</span>
                 </li>
-                <li className="flex items-start gap-2 text-white">
-                  <svg className="w-5 h-5 text-green-400 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>Download & keep forever</span>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">✓</span>
+                  <span>Lifetime access (one-time payment)</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-[#D4AF37] mr-2 font-bold">✓</span>
+                  <span>Future content updates included</span>
                 </li>
               </ul>
-              <a
-                href="#login"
-                className="block w-full py-3 bg-white hover:bg-gray-100 text-blue-900 font-semibold rounded-lg text-center transition"
+              <Link 
+                href="/auth"
+                className="block w-full py-3 bg-[#D4AF37] text-white text-center rounded-lg font-bold hover:bg-[#b8941f] transition-all shadow-md"
               >
-                Get Lifetime Access
-              </a>
-            </div>
-
-            {/* Monthly Subscription */}
-            <div className="bg-slate-900 rounded-xl p-8 border border-slate-700">
-              <h3 className="text-2xl font-bold text-white mb-2">Monthly</h3>
-              <p className="text-gray-400 mb-6">Flexible subscription</p>
-              <div className="mb-6">
-                <span className="text-4xl font-bold text-white">$9.99</span>
-                <span className="text-gray-400">/month</span>
-              </div>
-              <ul className="space-y-3 mb-8">
-                <li className="flex items-start gap-2 text-gray-300">
-                  <svg className="w-5 h-5 text-green-500 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>All 46 lessons</span>
-                </li>
-                <li className="flex items-start gap-2 text-gray-300">
-                  <svg className="w-5 h-5 text-green-500 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>Cancel anytime</span>
-                </li>
-                <li className="flex items-start gap-2 text-gray-300">
-                  <svg className="w-5 h-5 text-green-500 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>Access while subscribed</span>
-                </li>
-                <li className="flex items-start gap-2 text-gray-300">
-                  <svg className="w-5 h-5 text-green-500 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                  </svg>
-                  <span>Switch to lifetime anytime</span>
-                </li>
-              </ul>
-              <a
-                href="#login"
-                className="block w-full py-3 bg-slate-700 hover:bg-slate-600 text-white font-semibold rounded-lg text-center transition"
-              >
-                Start Monthly
-              </a>
+                Get Complete Access
+              </Link>
             </div>
           </div>
         </div>
       </section>
 
-      {/* Login Section */}
-      <section id="login" className="py-20 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-md mx-auto">
-          <div className="bg-slate-800 rounded-xl p-8 border border-slate-700">
-            <h2 className="text-3xl font-bold text-white text-center mb-2">
-              Start Your Journey
-            </h2>
-            <p className="text-gray-400 text-center mb-8">
-              Enter your email to get started
-            </p>
-            
-            <form onSubmit={handleSubmit} className="space-y-4">
-              <div>
-                <label htmlFor="email" className="block text-sm font-medium text-gray-300 mb-2">
-                  Email Address
-                </label>
-                <input
-                  id="email"
-                  type="email"
-                  value={email}
-                  onChange={(e) => setEmail(e.target.value)}
-                  required
-                  placeholder="your.email@example.com"
-                  className="w-full px-4 py-3 bg-slate-900 border border-slate-600 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                />
-              </div>
-              
-              <button
-                type="submit"
-                disabled={loading}
-                className="w-full py-3 bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 disabled:from-blue-800 disabled:to-blue-900 text-white font-semibold rounded-lg transition"
-              >
-                {loading ? 'Sending...' : 'Send Magic Link'}
-              </button>
-            </form>
-
-            {message && (
-              <div className={`mt-4 p-3 rounded-lg ${
-                message.includes('Check') 
-                  ? 'bg-green-900/30 border border-green-700 text-green-300' 
-                  : 'bg-red-900/30 border border-red-700 text-red-300'
-              }`}>
-                {message}
-              </div>
-            )}
-
-            <p className="mt-6 text-sm text-gray-400 text-center">
-              We'll send you a secure login link. No password needed!
-            </p>
+      {/* Philosophy Section */}
+      <section className="py-20 px-6 bg-white">
+        <div className="max-w-4xl mx-auto">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-[#1E3A8A]">Built for Adult Learners</h2>
+            <p className="text-xl text-gray-700">A different approach to guitar education</p>
           </div>
+
+          <div className="grid md:grid-cols-2 gap-8">
+            <div className="p-6 border-l-4 border-[#D4AF37]">
+              <h3 className="text-xl font-bold mb-3 text-[#1E3A8A]">User-Controlled Learning</h3>
+              <p className="text-gray-700 leading-relaxed">
+                No "Day 1, Day 2" pressure. Learn at your own pace with realistic completion 
+                times. Adult learners have varying schedules - we respect that.
+              </p>
+            </div>
+
+            <div className="p-6 border-l-4 border-[#D4AF37]">
+              <h3 className="text-xl font-bold mb-3 text-[#1E3A8A]">Comprehensive Depth</h3>
+              <p className="text-gray-700 leading-relaxed">
+                Each lesson contains 7,000-9,000 words of instruction - 4x the industry standard. 
+                No corners cut. Complete understanding, not surface-level tips.
+              </p>
+            </div>
+
+            <div className="p-6 border-l-4 border-[#D4AF37]">
+              <h3 className="text-xl font-bold mb-3 text-[#1E3A8A]">Engagement First</h3>
+              <p className="text-gray-700 leading-relaxed">
+                Every lesson starts with "Why This Matters" - compelling hooks that establish 
+                relevance before diving into instruction. Proven to increase completion rates.
+              </p>
+            </div>
+
+            <div className="p-6 border-l-4 border-[#D4AF37]">
+              <h3 className="text-xl font-bold mb-3 text-[#1E3A8A]">Complete Musician</h3>
+              <p className="text-gray-700 leading-relaxed">
+                Not just technique, not just theory - both, integrated. From strumming basics 
+                to advanced harmony. The complete musical education you deserve.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Final CTA */}
+      <section className="py-20 px-6 bg-gradient-to-b from-[#F0F0F0] to-white">
+        <div className="max-w-4xl mx-auto text-center">
+          <h2 className="text-3xl md:text-5xl font-bold mb-6 text-[#1E3A8A]">
+            Ready to Begin Your Journey?
+          </h2>
+          <p className="text-xl text-gray-700 mb-8">
+            Start with 14 free lessons. No credit card required.
+          </p>
+          <Link 
+            href="/auth"
+            className="inline-block px-12 py-4 bg-[#D4AF37] text-white rounded-lg font-bold text-lg hover:bg-[#b8941f] transition-all shadow-lg"
+          >
+            Start Learning Today
+          </Link>
         </div>
       </section>
 
       {/* Footer */}
-      <footer className="bg-slate-900 border-t border-slate-700 py-12 px-4 sm:px-6 lg:px-8">
-        <div className="max-w-7xl mx-auto">
-          <div className="grid md:grid-cols-3 gap-8 mb-8">
+      <footer className="border-t border-gray-200 py-12 px-6 bg-white">
+        <div className="max-w-6xl mx-auto">
+          <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
-              <h3 className="text-white font-semibold mb-4">Guitar Mastery Hub</h3>
-              <p className="text-gray-400 text-sm">
-                Professional guitar instruction designed for adult learners who want real mastery.
+              <h4 className="font-bold mb-4 text-[#1E3A8A]">Guitar Mastery Hub</h4>
+              <p className="text-sm text-gray-600">
+                Complete guitar education for adult learners.
               </p>
             </div>
             <div>
-              <h4 className="text-white font-semibold mb-4">Quick Links</h4>
-              <ul className="space-y-2">
-                <li><a href="#features" className="text-gray-400 hover:text-white text-sm">Features</a></li>
-                <li><a href="#pricing" className="text-gray-400 hover:text-white text-sm">Pricing</a></li>
-                <li><a href="#login" className="text-gray-400 hover:text-white text-sm">Get Started</a></li>
+              <h4 className="font-bold mb-4 text-[#1E3A8A]">Curriculum</h4>
+              <ul className="space-y-2 text-sm text-gray-600">
+                <li><a href="#curriculum" className="hover:text-[#4A90E2]">Foundation Phase</a></li>
+                <li><a href="#curriculum" className="hover:text-[#4A90E2]">Theory Module 1</a></li>
+                <li><a href="#curriculum" className="hover:text-[#4A90E2]">Theory Module 2</a></li>
               </ul>
             </div>
             <div>
-              <h4 className="text-white font-semibold mb-4">Legal</h4>
-              <ul className="space-y-2">
-                <li><a href="/privacy" className="text-gray-400 hover:text-white text-sm">Privacy Policy</a></li>
-                <li><a href="/terms" className="text-gray-400 hover:text-white text-sm">Terms of Service</a></li>
+              <h4 className="font-bold mb-4 text-[#1E3A8A]">Resources</h4>
+              <ul className="space-y-2 text-sm text-gray-600">
+                <li><Link href="/lessons" className="hover:text-[#4A90E2]">All Lessons</Link></li>
+                <li><Link href="/learning-guide" className="hover:text-[#4A90E2]">Learning Guide</Link></li>
+                <li><a href="#pricing" className="hover:text-[#4A90E2]">Pricing</a></li>
+              </ul>
+            </div>
+            <div>
+              <h4 className="font-bold mb-4 text-[#1E3A8A]">Legal</h4>
+              <ul className="space-y-2 text-sm text-gray-600">
+                <li><Link href="/privacy" className="hover:text-[#4A90E2]">Privacy Policy</Link></li>
+                <li><Link href="/terms" className="hover:text-[#4A90E2]">Terms of Service</Link></li>
               </ul>
             </div>
           </div>
-          <div className="border-t border-slate-700 pt-8 text-center">
-            <p className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} Guitar Mastery Hub. All rights reserved.
-            </p>
+          <div className="border-t border-gray-200 pt-8 text-center text-sm text-gray-600">
+            <p>© 2026 Guitar Mastery Hub. All rights reserved.</p>
           </div>
         </div>
       </footer>
