@@ -2,16 +2,25 @@
 
 
 
-## 🎯 LEARNING OBJECTIVES
+### Voice: John Mayer
 
-By the end of this lesson, you will be able to:
-- Play and recognize common minor key progressions
-- Understand the emotional qualities of different minor progressions
-- Use the i-iv-V-i progression (minor I-IV-V)
-- Play the Andalusian cadence (i-VI-III-VII)
-- Apply minor progressions to songwriting
-- Recognize minor progressions in famous songs
-- Choose progressions based on emotional intent
+**Why does minor harmony offer so much more variety than major?**
+
+John Mayer's blues-influenced playing reveals minor harmony's secret: **choices**. While major key progressions tend toward familiar patterns, minor gives you options at crucial moments. Listen to songs like "Gravity" - Mayer's using minor progressions that sound sophisticated without being complex. The magic is in understanding which choices create which emotions.
+
+Here's what Mayer understands intuitively (learned by imitating B.B. King and Stevie Ray Vaughan): In minor keys, that V chord is a decision point. Play it minor (from natural minor) and you get a dark, unresolved feel. Play it major (from harmonic minor) and you get dramatic tension that pulls toward resolution. Mayer switches between these options based on **feel**, not theory - but understanding the pattern gives you conscious control.
+
+The beauty of minor progressions is their emotional variety. "Stairway to Heaven," "Losing My Religion," "Smooth Criminal" - all use minor progressions, but each sounds completely different. Why? Because of the chord choices available in minor harmony. You're not locked into one sound; you're choosing from a palette of dramatic, mysterious, melancholic, or even hopeful colors.
+
+Mayer's approach emphasizes combining techniques in musical context. He's not thinking "natural vs. harmonic minor" while playing - he's thinking about the emotion he wants. But understanding these progressions means you can create those emotions intentionally rather than hoping to stumble onto them.
+
+**What you'll unlock after this lesson:**
+- The most common minor key chord progressions
+- Understanding of why certain progressions create specific emotions
+- Conscious control over major vs. minor V chord choices
+- Patterns that drive the most emotional songs in music
+
+Let's discover the progressions that create minor's emotional power...
 
 ---
 

@@ -1,19 +1,20 @@
 # Lesson 17: Power Chord Fundamentals & Root Movement
 
-## Overview
-**Focus**: Introduction to power chords, root note theory, and basic transitions  
-**Duration**: 45-60 minutes  
-**Goal**: Master the mechanics of power chords and understand their construction
 
----
+## 🎸 THE FOUNDATION OF ROCK
 
-## What You'll Learn Today
-- Power chord construction (root + fifth)
-- Proper finger placement and hand position
-- Root notes on 6th and 5th strings
-- Basic power chord transitions
-- Palm muting technique with power chords
+**Every famous rock riff you've ever heard:**
+- "Smoke on the Water" (Deep Purple)
+- "Iron Man" (Black Sabbath)
+- "Smells Like Teen Spirit" (Nirvana)
+- "Seven Nation Army" (The White Stripes)
 
+**ALL built on ONE technique: Power Chords.**
+
+The same two-note shape that changed music history in 1964 
+when The Kinks unleashed "You Really Got Me."
+
+**Today, you learn the technique that created rock music.**
 ---
 
 ## Theory Foundation (10 minutes)
@@ -34,7 +35,7 @@ Power chords are **two-note chords** consisting of:
 
 ### Power Chord Anatomy
 
-![E5 D5 A5 Power Chords](/chord_diagrams/e5-a5-d5_power_chords.png)
+![E5 D5 A5 Power Chords](/chord_diagrams/e5-a5-d5_chords.svg)
 
 ### Notation Explained
 - **E5** = E power chord
@@ -91,7 +92,7 @@ E|--0--2--0--2--0--2------
 
 **Step 1**: Shape Formation
 
-![E5 Power Chord](/chord_diagrams/e5_and_a5_powerchords.png)
+![E5 Power Chord](/chord_diagrams/e5-e5_alt_power.svg)
 
 **Finger placement:**
 - Ring finger (or pinky): D string, 2nd fret
@@ -114,7 +115,7 @@ E|--0--2--0--2--0--2------
 
 **Step 3**: First Position - E5 and A5
 
-![E5 Power Chord](/chord_diagrams/e5_and_a5_powerchords.png)
+![E5 Power Chord](/chord_diagrams/e5-A5_POWER.svg)
 
 **Practice Routine** (5 minutes):
 ```
@@ -148,14 +149,9 @@ https://www.youtube.com/watch?v=ZBYoI7e3v5Y
 ### Part 2: Moving Up the Fretboard (10 minutes)
 
 **F5 Power Chord** (1st fret)
-```
-e|---
-B|---
-G|---
-D|--3 <- Ring finger
-A|--3 <- Middle finger
-E|--1 <- Index finger (barring root)
-```
+
+![E5 Power Chord](/chord_diagrams/f5-f5_alt_power.svg)
+
 
 **The Barre Technique**:
 - Index finger presses firmly on 1st fret, 6th string

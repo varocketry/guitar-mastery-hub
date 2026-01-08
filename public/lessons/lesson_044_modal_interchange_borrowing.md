@@ -2,16 +2,25 @@
 
 
 
-## 🎯 LEARNING OBJECTIVES
+### Voice: Tommy Emmanuel (Return)
 
-By the end of this lesson, you will be able to:
-- Understand modal interchange (borrowing from parallel keys)
-- Borrow chords from parallel minor into major keys
-- Borrow chords from parallel major into minor keys
-- Use borrowed chords to add emotional depth
-- Recognize modal interchange in famous songs
-- Apply modal mixture to your songwriting
-- Create sophisticated, colorful progressions
+**What if you could "borrow" chords to create that "element of surprise"?**
+
+Remember Tommy Emmanuel being surprised when a Berklee student pointed out his use of mixolydian mode? Tommy uses modal interchange constantly - borrowing chords from parallel keys to create unexpected but beautiful moments - without necessarily knowing the theoretical name. He talks about looking for "the element of surprise" in his arrangements. Modal interchange is exactly that: surprising the listener with chords that shouldn't be there but sound perfect.
+
+Here's the musical insight: Tommy describes his arranging philosophy: "Instead of that chord, let's make it more interesting. Let's surprise the listener." That's modal interchange in action. You're in C major, but you borrow a chord from C minor (the parallel key). The borrowed chord creates a moment of beautiful surprise - it's unexpected but still feels connected to the key.
+
+The Beatles were masters of this. "Something," "While My Guitar Gently Weeps" - they constantly borrowed chords to create emotional depth. Tommy does it too, even if he learned it by ear rather than from theory books. The difference is, understanding the pattern means you can use it intentionally in your own playing and songwriting.
+
+Think about Tommy's approach: He trained his ear to recognize what sounds good, then uses those sounds confidently. Modal interchange sounds sophisticated, but it's simpler than the name suggests. You're just borrowing chords from a key's parallel minor (or major). C major can borrow the iv chord from C minor. A minor can borrow the IV chord from A major. Once you know the pattern, you can create these beautiful surprises anywhere.
+
+**What you'll unlock after this lesson:**
+- Understanding of how borrowed chords create harmonic interest
+- The most common borrowed chords (usable immediately)
+- How parallel major/minor relationships enable borrowing
+- Conscious control over that "element of surprise"
+
+Let's discover how to borrow chords and create beautiful unexpected moments...
 
 ---
 

@@ -1,17 +1,25 @@
 # Lesson 39: The Minor Scale - Understanding the "Other Half" of Music
 
 
+### Voice: John Mayer
 
-## 🎯 LEARNING OBJECTIVES
+**Why does "Gravity" sound so different from typical minor-key songs?**
 
-By the end of this lesson, you will be able to:
-- Understand the three types of minor scales (natural, harmonic, melodic)
-- Build any natural minor scale using the formula
-- Build harmonic and melodic minor scales from natural minor
-- Recognize the characteristic sounds of each minor scale type
-- Play all three minor scale types on guitar
-- Understand when each minor scale type is used
-- Hear the emotional differences between major and minor
+John Mayer's "Gravity" uses minor tonality but doesn't sound traditionally "sad." As he explores in his playing, minor isn't just one thing - it's a palette of three related scales, each creating different emotional colors. Mayer learned this not through formal theory (he dropped out of Berklee after two semesters) but by imitating B.B. King, Stevie Ray Vaughan, and other blues masters who understood minor's versatility intuitively.
+
+Here's what Mayer discovered by ear: Blues guitarists constantly blend major and minor sounds. They'll play a minor chord but use notes that "shouldn't" work - and it sounds amazing. Why? Because they're instinctively switching between natural, harmonic, and melodic minor scales, each offering different note choices that create different feels.
+
+The natural minor sounds dark and mysterious. The harmonic minor adds that exotic, Spanish flavor with its raised seventh - that's what gives "Gravity" its distinctive pull. The melodic minor sounds sophisticated and smooth, the sound of jazz and advanced pop. When you understand all three, you're not limited to one minor "mood" - you have three distinct emotional colors to choose from.
+
+Mayer's approach is always musical-first. He might not know he's using "harmonic minor" - he just knows it sounds right. But understanding the three forms gives you conscious control. You're not waiting to stumble onto cool sounds; you're intentionally choosing which minor scale creates the emotion you want.
+
+**What you'll unlock after this lesson:**
+- All three minor scale forms and their distinct sounds
+- Understanding of why minor creates different emotions
+- The raised seventh that adds drama and tension
+- Foundation for blues, rock, and sophisticated songwriting
+
+Let's discover the three emotional colors of minor...
 
 ---
 

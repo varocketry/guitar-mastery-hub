@@ -8,275 +8,262 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs27" />
-  <rect
-     width="350"
-     height="450"
-     fill="#ffffff"
-     id="rect1"
-     x="0"
-     y="0" />
   <text
-     x="177.09251"
-     y="39.374451"
+     x="171"
+     y="49"
      font-family="Arial, sans-serif"
      font-size="28px"
      font-weight="bold"
      text-anchor="middle"
      fill="#333333"
-     id="text1">A Major</text>
+     id="text1">A5 Power</text>
   <text
-     x="79.092514"
-     y="389.37445"
+     x="71"
+     y="393"
      font-family="Arial, sans-serif"
      font-size="20px"
      text-anchor="middle"
      fill="#666666"
      id="text2">E</text>
   <text
-     x="120.09251"
-     y="389.37445"
+     x="112"
+     y="393"
      font-family="Arial, sans-serif"
      font-size="20px"
      text-anchor="middle"
      fill="#666666"
      id="text3">A</text>
   <text
-     x="161.09251"
-     y="389.37445"
+     x="153"
+     y="393"
      font-family="Arial, sans-serif"
      font-size="20px"
      text-anchor="middle"
      fill="#666666"
      id="text4">D</text>
   <text
-     x="202.09251"
-     y="389.37445"
+     x="194"
+     y="393"
      font-family="Arial, sans-serif"
      font-size="20px"
      text-anchor="middle"
      fill="#666666"
      id="text5">G</text>
   <text
-     x="243.09251"
-     y="389.37445"
+     x="235"
+     y="393"
      font-family="Arial, sans-serif"
      font-size="20px"
      text-anchor="middle"
      fill="#666666"
      id="text6">B</text>
   <text
-     x="284.0925"
-     y="389.37445"
+     x="71.205078"
+     y="92.316406"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="272.89325"
+     y="93.088562"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-51"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="234.89325"
+     y="92.088562"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-5"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="192.89323"
+     y="93.08857"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-5-9"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="276"
+     y="393"
      font-family="Arial, sans-serif"
      font-size="20px"
      text-anchor="middle"
      fill="#666666"
      id="text7">e</text>
-  <text
-     x="77.092514"
-     y="77.374451"
-     font-family="Arial, sans-serif"
-     font-size="24px"
-     font-weight="bold"
-     text-anchor="middle"
-     fill="#333333"
-     id="text8">X</text>
   <circle
-     cx="118.09251"
-     cy="70.374451"
+     cx="111"
+     cy="82"
      r="12"
      fill="#ff8c00"
-     id="circle8" />
-  <circle
-     cx="282.0925"
-     cy="70.374451"
-     r="12"
-     fill="none"
-     stroke="#333333"
-     stroke-width="2.5"
-     id="circle9" />
+     id="circle7" />
   <rect
-     x="57.09251"
-     y="95.374451"
+     x="51"
+     y="99"
      width="245"
      height="6"
      fill="#333333"
      id="rect9" />
   <line
-     x1="77.092514"
-     y1="101.37445"
-     x2="77.092514"
-     y2="369.37445"
+     x1="71"
+     y1="105"
+     x2="71"
+     y2="373"
      stroke="#888888"
      stroke-width="2"
      id="line9" />
   <line
-     x1="118.09251"
-     y1="101.37445"
-     x2="118.09251"
-     y2="369.37445"
+     x1="112"
+     y1="105"
+     x2="112"
+     y2="373"
      stroke="#888888"
      stroke-width="2"
      id="line10" />
   <line
-     x1="159.09251"
-     y1="101.37445"
-     x2="159.09251"
-     y2="369.37445"
+     x1="153"
+     y1="105"
+     x2="153"
+     y2="373"
      stroke="#888888"
      stroke-width="2"
      id="line11" />
   <line
-     x1="200.09251"
-     y1="101.37445"
-     x2="200.09251"
-     y2="369.37445"
+     x1="194"
+     y1="105"
+     x2="194"
+     y2="373"
      stroke="#888888"
      stroke-width="2"
      id="line12" />
   <line
-     x1="241.09251"
-     y1="101.37445"
-     x2="241.09251"
-     y2="369.37445"
+     x1="235"
+     y1="105"
+     x2="235"
+     y2="373"
      stroke="#888888"
      stroke-width="2"
      id="line13" />
   <line
-     x1="282.0925"
-     y1="101.37445"
-     x2="282.0925"
-     y2="369.37445"
+     x1="276"
+     y1="105"
+     x2="276"
+     y2="373"
      stroke="#888888"
      stroke-width="2"
      id="line14" />
   <line
-     x1="57.09251"
-     y1="101.37445"
-     x2="302.0925"
-     y2="101.37445"
+     x1="51"
+     y1="105"
+     x2="296"
+     y2="105"
      stroke="#333333"
      stroke-width="2"
      id="line15" />
   <line
-     x1="57.09251"
-     y1="168.37445"
-     x2="302.0925"
-     y2="168.37445"
+     x1="51"
+     y1="172"
+     x2="296"
+     y2="172"
      stroke="#333333"
      stroke-width="2"
      id="line16" />
   <line
-     x1="57.09251"
-     y1="235.37445"
-     x2="302.0925"
-     y2="235.37445"
+     x1="51"
+     y1="239"
+     x2="296"
+     y2="239"
      stroke="#333333"
      stroke-width="2"
      id="line17" />
   <line
-     x1="57.09251"
-     y1="302.37445"
-     x2="302.0925"
-     y2="302.37445"
+     x1="51"
+     y1="306"
+     x2="296"
+     y2="306"
      stroke="#333333"
      stroke-width="2"
      id="line18" />
   <line
-     x1="57.09251"
-     y1="369.37445"
-     x2="302.0925"
-     y2="369.37445"
+     x1="51"
+     y1="373"
+     x2="296"
+     y2="373"
      stroke="#333333"
      stroke-width="2"
      id="line19" />
   <text
-     x="37.09251"
-     y="139.37445"
+     x="31"
+     y="143"
      font-family="Arial, sans-serif"
      font-size="18px"
      text-anchor="middle"
      fill="#999999"
      id="text19">1</text>
   <text
-     x="37.09251"
-     y="206.37445"
+     x="31"
+     y="210"
      font-family="Arial, sans-serif"
      font-size="18px"
      text-anchor="middle"
      fill="#999999"
      id="text20">2</text>
   <text
-     x="37.09251"
-     y="273.37445"
+     x="31"
+     y="277"
      font-family="Arial, sans-serif"
      font-size="18px"
      text-anchor="middle"
      fill="#999999"
      id="text21">3</text>
   <text
-     x="37.09251"
-     y="340.37445"
+     x="31"
+     y="344"
      font-family="Arial, sans-serif"
      font-size="18px"
      text-anchor="middle"
      fill="#999999"
      id="text22">4</text>
   <circle
-     cx="159.09251"
-     cy="201.87445"
+     cx="154"
+     cy="205.5"
      r="18"
      fill="#333333"
      id="circle22" />
   <text
-     x="159.09251"
-     y="209.87445"
+     x="154"
+     y="213.5"
      font-family="Arial, sans-serif"
      font-size="16"
      font-weight="bold"
      text-anchor="middle"
      fill="#ffffff"
      id="text23"
-     style="font-size:24px">1</text>
-  <circle
-     cx="200.09251"
-     cy="201.87445"
-     r="18"
-     fill="#333333"
-     id="circle23" />
-  <text
-     x="200.09251"
-     y="209.87445"
-     font-family="Arial, sans-serif"
-     font-size="16"
-     font-weight="bold"
-     text-anchor="middle"
-     fill="#ffffff"
-     id="text24"
      style="font-size:24px">2</text>
-  <circle
-     cx="241.09251"
-     cy="201.87445"
-     r="18"
-     fill="#333333"
-     id="circle24" />
   <text
-     x="241.09251"
-     y="209.87445"
-     font-family="Arial, sans-serif"
-     font-size="16"
-     font-weight="bold"
-     text-anchor="middle"
-     fill="#ffffff"
-     id="text25"
-     style="font-size:24px">3</text>
-  <text
-     x="177.09251"
-     y="415.37445"
+     x="171"
+     y="419"
      font-family="Arial, sans-serif"
      font-size="14px"
      text-anchor="middle"
      fill="#ff8c00"
      font-weight="bold"
      id="text26">● = Root Note</text>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2"
+     width="350"
+     height="450"
+     x="0"
+     y="0" />
 </svg>

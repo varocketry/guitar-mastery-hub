@@ -2,16 +2,25 @@
 
 
 
-## 🎯 LEARNING OBJECTIVES
+### Voice: Justin Sandercoe
 
-By the end of this lesson, you will be able to:
-- Integrate scales, keys, harmony, and voice leading seamlessly
-- Analyze any song in a major key completely
-- Write original progressions in any major key
-- Apply theory to practical guitar playing
-- Use the Circle of Fifths as your primary musical tool
-- Demonstrate complete major key mastery
-- Prepare for minor key theory (Theory Module 2)
+**Ready to let theory move from your head to your heart?**
+
+Justin Sandercoe's most profound teaching insight: "Music comes from the heart, theory from the head. Let the theory move from your head to your heart before you let it out." After learning the major scale formula, key signatures, the circle of fifths, diatonic harmony, inversions, and voice leading, this lesson is about **integration** - making all those concepts feel natural.
+
+You've been learning the individual pieces like a jigsaw puzzle. You know what major scales are. You understand how key signatures work. You can build diatonic chords and choose inversions. But Justin's teaching philosophy emphasizes that understanding isolated concepts isn't enough. Theory becomes powerful when concepts **connect** to each other and to actual music.
+
+This lesson follows Justin's "step-by-step methods that demystified complex techniques." We're going to take everything you've learned and show how it works together in real songs. You'll see how the major scale formula creates diatonic chords. How the circle of fifths explains why certain progressions feel natural. How inversions and voice leading make those progressions sound smooth and professional.
+
+Remember Justin's core principle: "If it sounds good, it is good." Theory should never override your ears. But when theory moves from your head to your heart, it empowers your ears. You'll hear progressions and understand **why** they work. You'll create voicings and know which inversions create the smoothest movement. Theory becomes a tool that serves your musicality.
+
+**What you'll unlock after this lesson:**
+- Complete integration of major key harmony
+- Ability to analyze any song in a major key
+- Confidence writing chord progressions that work
+- Theory that feels natural, not academic
+
+Let's integrate everything and make this knowledge musical...
 
 ---
 

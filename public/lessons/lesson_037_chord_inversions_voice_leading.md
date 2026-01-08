@@ -1,16 +1,25 @@
 # Lesson 37: Chord Inversions & Voice Leading - Making Progressions Sound Professional
 
 
-## 🎯 LEARNING OBJECTIVES
+### Voice: John Mayer
 
-By the end of this lesson, you will be able to:
-- Understand chord inversions (root position, 1st inversion, 2nd inversion)
-- Apply inversions to create smooth bass lines
-- Use voice leading to connect chords smoothly
-- Recognize when inversions improve progressions
-- Play common inversions on guitar
-- Understand slash chord notation (C/E, G/B, etc.)
-- Write progressions with better voice leading
+**How do great players make simple chords sound sophisticated?**
+
+John Mayer built his reputation blending blues, pop, and technical mastery. But here's his secret - it's not about knowing theory names. As one observer noted, "He doesn't 'know the scales' but understands them in his own way. He knows where his fingers should go." When Mayer plays chord progressions, he's constantly choosing **inversions** and voice leading that create smooth, professional-sounding movement.
+
+Listen to songs like "Gravity" or "Slow Dancing in a Burning Room." Mayer isn't just playing G-C-D chord shapes. He's moving the bass line melodically, choosing inversions that create the smoothest path from chord to chord. This is what separates amateur rhythm playing from professional arranging - and it's simpler than you think.
+
+Here's the musical truth: A G major chord doesn't always need G in the bass. It can start with B, or with D. These different voicings - called inversions - allow you to create bass lines that move stepwise rather than jumping around. When you change chords, you're not looking for the biggest chord shape; you're looking for the **smallest finger movement** that sounds best.
+
+Mayer's approach to technique is all about musical context. He learned by imitating B.B. King, Stevie Ray Vaughan, and Hendrix - but what he copied wasn't just the notes, it was how they moved between chords smoothly and intentionally. That's voice leading: choosing chord voicings where individual notes move by small intervals, creating melodic lines within the harmony.
+
+**What you'll unlock after this lesson:**
+- Three inversions of every chord and when to use each
+- Smooth voice leading that sounds professional
+- Bass lines that move melodically between chords
+- The foundation for fingerstyle arrangements
+
+Let's discover how inversions transform simple progressions into sophisticated arrangements...
 
 ---
 

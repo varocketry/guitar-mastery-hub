@@ -1,17 +1,25 @@
 # Lesson 41: Relative vs. Parallel Minor - Two Different Relationships
 
 
+### Voice: Justin Sandercoe
 
-## 🎯 LEARNING OBJECTIVES
+**What's the difference between a key's shadow and its twin?**
 
-By the end of this lesson, you will be able to:
-- Understand the difference between relative and parallel relationships
-- Find the relative minor/major for any key
-- Find the parallel minor/major for any key
-- Apply both relationships in songwriting and analysis
-- Recognize when songs modulate between relative keys
-- Recognize when songs borrow from parallel keys
-- Use both relationships creatively on guitar
+Justin Sandercoe's practical approach to theory asks: "Does this help you make music?" The distinction between relative and parallel minor definitely does. Understanding these two relationships gives you conscious control over emotional shifts in your playing. As Justin reminds us, theory should demystify, not complicate - and this concept is surprisingly simple once you see it clearly.
+
+Here's the bite-size breakdown: A minor is related to C major because they share notes - that's **relative minor**, like siblings in the same family. But C minor is related to C major because they share a root - that's **parallel minor**, like mirror-image twins. These create completely different musical effects.
+
+When you move from C major to A minor (relative), the shift feels smooth and natural. You're staying in the same tonal neighborhood, using the same notes. But when you move from C major to C minor (parallel), the emotional shift is dramatic and powerful. Listen to The Beatles' "Michelle" - Paul McCartney uses parallel major/minor movement to create that romantic, bittersweet feeling.
+
+Justin's teaching philosophy emphasizes understanding over memorization. You don't need to memorize which keys are relative vs. parallel to each other. You need to understand the **relationship**. Relative keys share notes; parallel keys share roots. Once you grasp that, you can figure out any relative or parallel relationship instantly.
+
+**What you'll unlock after this lesson:**
+- Clear distinction between two types of minor relationships
+- Ability to recognize relative and parallel shifts in songs
+- Power to create specific emotional effects intentionally
+- Understanding that makes songwriting choices deliberate
+
+Let's clarify these two relationships and unlock new creative possibilities...
 
 ---
 

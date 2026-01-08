@@ -1,16 +1,25 @@
 # Lesson 36: Diatonic Harmony in Major Keys - The Logic Behind Chord Progressions
 
 
-## 🎯 LEARNING OBJECTIVES
+### Voice: Den Lopez (Shapes Perspective)
 
-By the end of this lesson, you will be able to:
-- Understand diatonic harmony (chords built from a major scale)
-- Use Roman numeral analysis (I, ii, iii, IV, V, vi, viiÂ°)
-- Identify chord families (Tonic, Subdominant, Dominant)
-- Understand harmonic function and tension/resolution
-- Analyze common chord progressions (I-IV-V, I-V-vi-IV, etc.)
-- Apply chord substitution within a key
-- Write your own chord progressions that "work"
+**What if chord shapes revealed which chords "belong" together?**
+
+Den Lopez pioneered the "shapes not chords" methodology that transformed how guitarists understand the fretboard. Students report "a-ha moments" when they realize shapes show **relationships** between chords, not just finger positions. Diatonic harmony is exactly that: the pattern of shapes that naturally occur within each key.
+
+Here's the visual breakthrough: When you play in G major, seven chord shapes occur naturally on the fretboard - always the same seven, in the same pattern. These aren't random chords you memorize; they're shapes that **come from the major scale** itself. Once you see this pattern, you can find the diatonic chords in any key instantly.
+
+Traditional theory teaches this abstractly: "Stack thirds from scale degrees." But Lopez's shape-based approach makes it visual and immediate. You already know the E-minor shape, the G-major shape, the C-major shape. What you're about to discover is that these shapes have **specific relationships** to each other within a key. The E-minor shape is always a certain distance from the G-major shape, creating predictable progressions.
+
+This is why the same progressions appear in thousands of songs. It's not coincidence - it's diatonic harmony at work. The I-V-vi-IV progression that drives everything from "Let It Be" to contemporary hits uses the same four shapes in every key. Once you understand the pattern, you're not memorizing progressions - you're **seeing** how chords relate visually on the fretboard.
+
+**What you'll unlock after this lesson:**
+- The seven diatonic chord shapes in any major key
+- Visual understanding of chord relationships
+- Ability to recognize progressions by their patterns
+- Power to transpose any progression instantly using shapes
+
+Let's see how shapes reveal the harmony hiding in every key...
 
 ---
 

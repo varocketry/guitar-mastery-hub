@@ -2,16 +2,28 @@
 
 
 
-## 🎯 LEARNING OBJECTIVES
+### Voice: Paul McCartney
 
-By the end of this lesson, you will be able to:
-- Understand secondary dominants (V/V, V/vi, V/ii, etc.)
-- Use diminished seventh chords effectively
-- Recognize augmented sixth chords
-- Understand the Neapolitan sixth chord
-- Apply advanced voice leading techniques
-- Recognize these concepts in professional music
-- Use advanced harmony in your songwriting
+**What if learning ONE sophisticated chord could empower you to write five songs?**
+
+Paul McCartney was a teenager when he walked into Hessy's music shop in Liverpool with George Harrison. Behind the counter was Jim Gretty, a jazz guitarist who worked as a salesman. When Gretty played an F7#9 chord, Paul and George stopped cold. "Wow, what was that, man?" they asked. Gretty showed them: "It's just basically an F, but you barre the top two strings at the fourth fret with your little finger."
+
+That moment changed everything. Paul recalls: "You know, that F7#9 is a **beautiful chord**, and it was **outside our frame of reference** because nothing that we listened to contained that chord. We immediately learned that, and **for a while it was the only jazz chord we knew**." That single chord became the famous second chord in "Michelle" - what Paul later called "a very unlikely chord."
+
+But here's the profound insight Paul shares: "Me and John would come in with our acoustics and start with E, A and B chords, and then we'd throw in, like, a C# minor seventh. **It'd be very exciting – I still remember the palpable thrill of finding a chord that we hadn't used before. It can empower you to write five songs**, or help make the one you're writing better."
+
+Think about that. The most successful songwriting team in history got **excited** about learning new chords. They didn't feel intimidated by extended harmonies - they felt **empowered**. Each sophisticated chord they discovered opened new creative possibilities, unlocking melodies and progressions they couldn't have imagined with just basic major and minor chords.
+
+In the Hulu/Disney+ documentary series "McCartney 3,2,1," you can watch Paul sit at a piano with producer Rick Rubin and demonstrate this philosophy. He discusses how "for me, it's all about chords" - showing how C minor 7ths suggested "Penny Lane," how discovering new chord voicings led to Beatles innovations, how paying attention to harmonics hidden in chords created musical magic.
+
+**What you'll unlock after this lesson:**
+- Secondary dominants that strengthen any chord progression
+- Diminished passing chords for smooth bass lines (the "Michelle" technique)
+- Extended harmonies (9ths, 11ths, 13ths) that add professional color
+- Tritone substitutions for sophisticated jazz-influenced sounds
+- The confidence to explore "unlikely chords" that empower your songwriting
+
+Let's discover how advanced harmony transforms good playing into great arranging...
 
 ---
 

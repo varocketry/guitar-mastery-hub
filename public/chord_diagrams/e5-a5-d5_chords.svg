@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1050"
+   height="450"
+   version="1.1"
+   id="svg27"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs27" />
+  <rect
+     width="350"
+     height="450"
+     fill="#ffffff"
+     id="rect1"
+     x="0"
+     y="1"
+     clip-path="none" />
+  <text
+     x="172"
+     y="50"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     id="text1">E5 Power</text>
+  <text
+     x="72"
+     y="394"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text2">E</text>
+  <text
+     x="113"
+     y="394"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text3">A</text>
+  <text
+     x="154"
+     y="394"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text4">D</text>
+  <text
+     x="195"
+     y="394"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text5">G</text>
+  <text
+     x="236"
+     y="394"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6">B</text>
+  <text
+     x="194.20508"
+     y="93.316406"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="154.89323"
+     y="93.08857"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-6"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="273.89325"
+     y="94.088562"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-51"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="235.89325"
+     y="93.088562"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-5"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="277"
+     y="394"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text7">e</text>
+  <circle
+     cx="72"
+     cy="83"
+     r="12"
+     fill="#ff8c00"
+     id="circle7" />
+  <rect
+     x="52"
+     y="100"
+     width="245"
+     height="6"
+     fill="#333333"
+     id="rect9" />
+  <line
+     x1="72"
+     y1="106"
+     x2="72"
+     y2="374"
+     stroke="#888888"
+     stroke-width="2"
+     id="line9" />
+  <line
+     x1="113"
+     y1="106"
+     x2="113"
+     y2="374"
+     stroke="#888888"
+     stroke-width="2"
+     id="line10" />
+  <line
+     x1="154"
+     y1="106"
+     x2="154"
+     y2="374"
+     stroke="#888888"
+     stroke-width="2"
+     id="line11" />
+  <line
+     x1="195"
+     y1="106"
+     x2="195"
+     y2="374"
+     stroke="#888888"
+     stroke-width="2"
+     id="line12" />
+  <line
+     x1="236"
+     y1="106"
+     x2="236"
+     y2="374"
+     stroke="#888888"
+     stroke-width="2"
+     id="line13" />
+  <line
+     x1="277"
+     y1="106"
+     x2="277"
+     y2="374"
+     stroke="#888888"
+     stroke-width="2"
+     id="line14" />
+  <line
+     x1="52"
+     y1="106"
+     x2="297"
+     y2="106"
+     stroke="#333333"
+     stroke-width="2"
+     id="line15" />
+  <line
+     x1="52"
+     y1="173"
+     x2="297"
+     y2="173"
+     stroke="#333333"
+     stroke-width="2"
+     id="line16" />
+  <line
+     x1="52"
+     y1="240"
+     x2="297"
+     y2="240"
+     stroke="#333333"
+     stroke-width="2"
+     id="line17" />
+  <line
+     x1="52"
+     y1="307"
+     x2="297"
+     y2="307"
+     stroke="#333333"
+     stroke-width="2"
+     id="line18" />
+  <line
+     x1="52"
+     y1="374"
+     x2="297"
+     y2="374"
+     stroke="#333333"
+     stroke-width="2"
+     id="line19" />
+  <text
+     x="32"
+     y="144"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text19">1</text>
+  <text
+     x="32"
+     y="211"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text20">2</text>
+  <text
+     x="32"
+     y="278"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text21">3</text>
+  <text
+     x="32"
+     y="345"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text22">4</text>
+  <circle
+     cx="113"
+     cy="206.5"
+     r="18"
+     fill="#333333"
+     id="circle22" />
+  <text
+     x="113"
+     y="214.5"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#ffffff"
+     id="text23"
+     style="font-size:24px">1</text>
+  <rect
+     width="350"
+     height="450"
+     fill="#ffffff"
+     id="rect1-4"
+     x="350"
+     y="0"
+     clip-path="none" />
+  <text
+     x="520"
+     y="51"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     id="text1-5">A5 Power</text>
+  <text
+     x="420"
+     y="395"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text2-9">E</text>
+  <text
+     x="461"
+     y="395"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text3-7">A</text>
+  <text
+     x="502"
+     y="395"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text4-5">D</text>
+  <text
+     x="543"
+     y="395"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text5-3">G</text>
+  <text
+     x="584"
+     y="395"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-9">B</text>
+  <text
+     x="418.20508"
+     y="94.316406"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-0"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="621.89325"
+     y="95.088562"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-51-5"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="583.89325"
+     y="94.088562"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-5-5"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="543.89325"
+     y="94.088562"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-5-5-7"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="625"
+     y="395"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text7-6">e</text>
+  <circle
+     cx="462"
+     cy="84"
+     r="12"
+     fill="#ff8c00"
+     id="circle7-3" />
+  <rect
+     x="402"
+     y="101"
+     width="245"
+     height="6"
+     fill="#333333"
+     id="rect9-2" />
+  <line
+     x1="420"
+     y1="107"
+     x2="420"
+     y2="375"
+     stroke="#888888"
+     stroke-width="2"
+     id="line9-6" />
+  <line
+     x1="461"
+     y1="107"
+     x2="461"
+     y2="375"
+     stroke="#888888"
+     stroke-width="2"
+     id="line10-8" />
+  <line
+     x1="502"
+     y1="107"
+     x2="502"
+     y2="375"
+     stroke="#888888"
+     stroke-width="2"
+     id="line11-9" />
+  <line
+     x1="543"
+     y1="107"
+     x2="543"
+     y2="375"
+     stroke="#888888"
+     stroke-width="2"
+     id="line12-1" />
+  <line
+     x1="584"
+     y1="107"
+     x2="584"
+     y2="375"
+     stroke="#888888"
+     stroke-width="2"
+     id="line13-4" />
+  <line
+     x1="625"
+     y1="107"
+     x2="625"
+     y2="375"
+     stroke="#888888"
+     stroke-width="2"
+     id="line14-8" />
+  <line
+     x1="400"
+     y1="107"
+     x2="645"
+     y2="107"
+     stroke="#333333"
+     stroke-width="2"
+     id="line15-8" />
+  <line
+     x1="400"
+     y1="174"
+     x2="645"
+     y2="174"
+     stroke="#333333"
+     stroke-width="2"
+     id="line16-7" />
+  <line
+     x1="400"
+     y1="241"
+     x2="645"
+     y2="241"
+     stroke="#333333"
+     stroke-width="2"
+     id="line17-1" />
+  <line
+     x1="400"
+     y1="308"
+     x2="645"
+     y2="308"
+     stroke="#333333"
+     stroke-width="2"
+     id="line18-9" />
+  <line
+     x1="400"
+     y1="375"
+     x2="645"
+     y2="375"
+     stroke="#333333"
+     stroke-width="2"
+     id="line19-3" />
+  <text
+     x="380"
+     y="145"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text19-1">1</text>
+  <text
+     x="380"
+     y="212"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text20-1">2</text>
+  <text
+     x="380"
+     y="279"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text21-4">3</text>
+  <text
+     x="380"
+     y="346"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text22-9">4</text>
+  <circle
+     cx="503"
+     cy="207.5"
+     r="18"
+     fill="#333333"
+     id="circle22-5" />
+  <text
+     x="503"
+     y="215.5"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#ffffff"
+     id="text23-9"
+     style="font-size:24px">1</text>
+  <text
+     x="520"
+     y="421"
+     font-family="Arial, sans-serif"
+     font-size="14px"
+     text-anchor="middle"
+     fill="#ff8c00"
+     font-weight="bold"
+     id="text26-3">● = Root Note</text>
+  <text
+     x="857.46185"
+     y="51.042969"
+     font-family="Arial, sans-serif"
+     font-size="28px"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#333333"
+     id="text1-5-5">D5 Power</text>
+  <text
+     x="757.46185"
+     y="395.04297"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text2-9-2">E</text>
+  <text
+     x="798.46185"
+     y="395.04297"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text3-7-2">A</text>
+  <text
+     x="839.46185"
+     y="395.04297"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text4-5-6">D</text>
+  <text
+     x="880.46185"
+     y="395.04297"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text5-3-6">G</text>
+  <text
+     x="921.46185"
+     y="395.04297"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-9-7">B</text>
+  <text
+     x="755.66693"
+     y="94.359375"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-0-8"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="959.3551"
+     y="95.131531"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-51-5-4"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="799.3551"
+     y="94.131531"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text6-5-5-5-1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif Bold'">X</text>
+  <text
+     x="962.46185"
+     y="395.04297"
+     font-family="Arial, sans-serif"
+     font-size="20px"
+     text-anchor="middle"
+     fill="#666666"
+     id="text7-6-7">e</text>
+  <circle
+     cx="839.46185"
+     cy="84.042969"
+     r="12"
+     fill="#ff8c00"
+     id="circle7-3-1" />
+  <rect
+     x="739.46185"
+     y="101.04297"
+     width="245"
+     height="6"
+     fill="#333333"
+     id="rect9-2-8" />
+  <line
+     x1="757.46185"
+     y1="107.04297"
+     x2="757.46185"
+     y2="375.04297"
+     stroke="#888888"
+     stroke-width="2"
+     id="line9-6-7" />
+  <line
+     x1="798.46185"
+     y1="107.04297"
+     x2="798.46185"
+     y2="375.04297"
+     stroke="#888888"
+     stroke-width="2"
+     id="line10-8-8" />
+  <line
+     x1="839.46185"
+     y1="107.04297"
+     x2="839.46185"
+     y2="375.04297"
+     stroke="#888888"
+     stroke-width="2"
+     id="line11-9-7" />
+  <line
+     x1="880.46185"
+     y1="107.04297"
+     x2="880.46185"
+     y2="375.04297"
+     stroke="#888888"
+     stroke-width="2"
+     id="line12-1-7" />
+  <line
+     x1="921.46185"
+     y1="107.04297"
+     x2="921.46185"
+     y2="375.04297"
+     stroke="#888888"
+     stroke-width="2"
+     id="line13-4-4" />
+  <line
+     x1="962.46185"
+     y1="107.04297"
+     x2="962.46185"
+     y2="375.04297"
+     stroke="#888888"
+     stroke-width="2"
+     id="line14-8-4" />
+  <line
+     x1="737.46185"
+     y1="107.04297"
+     x2="982.46185"
+     y2="107.04297"
+     stroke="#333333"
+     stroke-width="2"
+     id="line15-8-9" />
+  <line
+     x1="737.46185"
+     y1="174.04297"
+     x2="982.46185"
+     y2="174.04297"
+     stroke="#333333"
+     stroke-width="2"
+     id="line16-7-1" />
+  <line
+     x1="737.46185"
+     y1="241.04297"
+     x2="982.46185"
+     y2="241.04297"
+     stroke="#333333"
+     stroke-width="2"
+     id="line17-1-5" />
+  <line
+     x1="737.46185"
+     y1="308.04297"
+     x2="982.46185"
+     y2="308.04297"
+     stroke="#333333"
+     stroke-width="2"
+     id="line18-9-5" />
+  <line
+     x1="737.46185"
+     y1="375.04297"
+     x2="982.46185"
+     y2="375.04297"
+     stroke="#333333"
+     stroke-width="2"
+     id="line19-3-5" />
+  <text
+     x="717.46185"
+     y="145.04297"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text19-1-8">1</text>
+  <text
+     x="717.46185"
+     y="212.04297"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text20-1-2">2</text>
+  <text
+     x="717.46185"
+     y="279.04297"
+     font-family="Arial, sans-serif"
+     font-size="18px"
+     text-anchor="middle"
+     fill="#999999"
+     id="text21-4-9">3</text>
+  <circle
+     cx="920.46185"
+     cy="279.54297"
+     r="18"
+     fill="#333333"
+     id="circle22-5-8" />
+  <text
+     x="920.46185"
+     y="287.54297"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#ffffff"
+     id="text23-9-2"
+     style="font-size:24px">2</text>
+  <circle
+     cx="881.46185"
+     cy="207.54297"
+     r="18"
+     fill="#333333"
+     id="circle23-0-0" />
+  <text
+     x="881.46185"
+     y="215.54297"
+     font-family="Arial, sans-serif"
+     font-size="16"
+     font-weight="bold"
+     text-anchor="middle"
+     fill="#ffffff"
+     id="text24-9-7"
+     style="font-size:24px">1</text>
+</svg>

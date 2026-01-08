@@ -1,16 +1,25 @@
 # Lesson 35: Understanding Flats & Enharmonics - Completing the Circle
 
 
+### Voice: Tony Polecastro
 
-## 🎯 LEARNING OBJECTIVES
+**Why do some notes have two names? Let's break it into bite-size bits.**
 
-By the end of this lesson, you will be able to:
-- Master all flat key signatures (F, Bb, Eb, Ab, Db, Gb, Cb)
-- Understand enharmonic equivalents (C# = Db, F# = Gb, etc.)
-- Navigate the complete Circle of Fifths (both sharp and flat sides)
-- Recognize when to use sharps vs. flats in different contexts
-- Apply flat keys to guitar playing confidently
-- Understand why some keys are "theoretical" vs. "practical"
+Tony Polecastro built his teaching philosophy on a simple observation: "Traditional ways to learn guitar are overcomplicated." After teaching 36,000+ adult students, he discovered that breaking complex concepts into "bite-size bits" transforms confusion into clarity. Flats and enharmonics seem mysterious - but Tony's "less is more" approach reveals they're actually beautifully simple.
+
+Here's the bite-size truth: The same physical fret on your guitar can have different **meanings** depending on musical context. G# and Ab are the same sound, but they tell you different information about which key you're in. This isn't theoretical nitpicking - it's about understanding the language of music so you can communicate and create more effectively.
+
+Tony emphasizes that you don't need to master everything at once. His daily 10-minute practice philosophy applies here too: understand one concept fully before moving to the next. So let's focus on what matters most. When you see flats in music, they're signaling something specific about the key. When you understand enharmonic equivalents (two names for the same note), you can read music in any key and understand why composers choose specific note names.
+
+Think of it like this: "Their," "there," and "they're" all sound the same when spoken, but mean different things in writing. Flats and sharps work the same way. G# points you toward keys with sharps; Ab points toward keys with flats. Once you see the pattern, it's not complicated - it's actually quite logical.
+
+**What you'll unlock after this lesson:**
+- Clear understanding of flat key signatures
+- Recognition of enharmonic relationships (same sound, different context)
+- The logic behind why notes have multiple names
+- Foundation for reading music in any key
+
+Let's demystify this one bite-size concept at a time...
 
 ---
 
