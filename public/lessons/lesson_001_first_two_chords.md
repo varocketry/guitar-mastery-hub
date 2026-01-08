@@ -32,21 +32,42 @@ You're about to play your **first two chord shapes** - E minor and A minor - the
 
 ---
 
-## 📖 THEORY: What is a Chord?
+### Understanding Shapes vs. Chords
 
-### Understanding Your First Chords
+**Here's something important to understand from Day 1:**
 
-**What is a chord?**
-A chord is three or more notes played together that create harmony. Think of it like this:
-- **One note** = A single voice singing
-- **A chord** = Multiple voices singing in harmony
+**You're not just learning "chords" - you're learning CHORD SHAPES.**
 
-**Why start with Em and Am?**
-These two chords are the easiest on guitar because:
-- ✅ They use only 2 fingers each
-- ✅ They include open strings (strings you don't press)
-- ✅ They sound great together
-- ✅ They're used in thousands of popular songs
+**What's the difference?**
+- A **chord** is the sound of multiple notes played together
+- A **chord shape** is the physical finger pattern you use to create that chord
+
+**Why does this matter?**
+
+Because the same finger pattern (shape) can be moved around the fretboard to create DIFFERENT chords! This is the secret that makes guitar much easier to learn.
+
+**Example:** The "E minor shape" you're learning today can eventually be moved up the neck to create F minor, G minor, A minor, and dozens of other chords - all using the SAME finger pattern!
+
+---
+
+### The Den Lopez "Shapes Not Chords" Philosophy
+
+**This approach comes from master guitar instructor Den Lopez**, who teaches that understanding shapes (not just memorizing individual chords) is the key to guitar mastery.
+
+**Den Lopez teaches:**
+> "Learn shapes, not chords. A chord is just a physical fingering pattern you can move around the fretboard."
+
+**What this means for you:**
+- You're building a library of **moveable patterns** (shapes)
+- Later lessons will teach you how to **move these shapes** (creating barre chords)
+- This approach makes learning guitar **much faster** and **less overwhelming**
+
+**For more on this philosophy:**
+- **Den Lopez YouTube:** https://www.youtube.com/@LearningGuitarSecrets
+- **Den Lopez Website:** https://go.learningguitarsecrets.com/
+
+*We'll reference this "shapes not chords" concept throughout the curriculum!*
+
 
 ### Chord Anatomy: Reading Chord Diagrams
 
@@ -54,7 +75,21 @@ Here's how to read the diagrams you'll see:
 
 ![Hand Diagram](/chord_diagrams/hand_diagram.png)
 
-**Fun Fact**: The guitar has been teaching people these exact two chords first for over 100 years. You're part of a long tradition!
+I made this diagram to illustrate several things. First of all, the finger numbering for your fret hand. Index finger is 1, middle finger is 2, ring finger 3, and pinky is numbered 4. 
+
+The fretboard diagram in the middle shows how the strings are numbered and what the standard tuning is. In other words, the thickest string, the E string, is number 6. The thinnest string on the right side of the fretboard is an E, string number 1. So the strings go from thinnest to thickest, 1, 2, 3, 4, 5, 6. 
+
+![String Names](/chord_diagrams/guitar_string_names.png)
+
+The diagram on the right hand side shows the fretboard numbering. Beginning just below the nut on the head of the guitar, they are numbered sequentially 1, 2, 3, 4, etc. Most guitars have 20-24 frets.
+
+It's probably also useful to mention that there are a number of simple mnemonics that can help you remember the names of the strings. I like to use **E**ddy **A**te **D**ynamite **G**ood **B**ye **E**ddy. 
+
+But there are others, such as:  **E**lephants **A**nd **D**onkeys **G**row **B**ig **E**ars. 
+
+Another would be **E**very **A**pe **D**eserves **G**ood **B**ananas **E**veryday. 
+Your choice, one of them will stick with you.
+
 
 ---
 
